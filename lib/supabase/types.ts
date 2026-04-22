@@ -385,6 +385,23 @@ export type FactureStatus =
 
 export type InvoiceType = "facture" | "avoir";
 
+export type PaiementMethodRow = "stripe" | "virement" | "cheque" | "especes";
+
+export type PaiementRow = {
+  id: string;
+  organization_id: string;
+  facture_id: string;
+  created_at: string;
+  method: PaiementMethodRow;
+  amount: number;
+  paid_at: string;
+  stripe_session_id: string | null;
+  stripe_payment_intent_id: string | null;
+  stripe_charge_id: string | null;
+  reference_manual: string | null;
+  notes: string | null;
+};
+
 export type MajorationRuleType =
   | "TRAVEL_FEE"
   | "AREA_ABOVE_HAB"
@@ -863,6 +880,19 @@ export type Database = {
           created_at?: string;
         };
         Update: Partial<Omit<RegleMajorationRow, "id">>;
+        Relationships: [];
+      };
+      paiements: {
+        Row: PaiementRow;
+        Insert: Partial<Omit<PaiementRow, "id" | "created_at">> & {
+          organization_id: string;
+          facture_id: string;
+          method: PaiementMethodRow;
+          amount: number;
+          id?: string;
+          created_at?: string;
+        };
+        Update: Partial<Omit<PaiementRow, "id" | "created_at" | "organization_id">>;
         Relationships: [];
       };
     };

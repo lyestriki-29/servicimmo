@@ -129,7 +129,21 @@ export async function sendDevis(id: string, email: string): Promise<ActionResult
     const base = process.env.NEXT_PUBLIC_APP_URL ?? "";
     const url = `${base}/portail/${token}/devis/${id}`;
 
-    // TODO Sprint 5 : envoyer email via Resend
+    // Envoi email via Resend (Sprint 5). Fail-soft : si Resend absent, on
+    // renvoie quand même l'URL pour transmission manuelle.
+    const { sendDevisEmail } = await import("@/lib/features/emails/send");
+    const { data: devisData } = await supabase
+      .from("devis")
+      .select("reference, total_ttc")
+      .eq("id", id)
+      .single();
+    if (devisData) {
+      await sendDevisEmail(email, {
+        reference: devisData.reference ?? id.slice(0, 8),
+        totalTtc: Number(devisData.total_ttc),
+        portalUrl: url,
+      });
+    }
     void user;
 
     revalidatePath("/app/facturation");
