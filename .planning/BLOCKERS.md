@@ -11,6 +11,13 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 
 ## Liste (remplie au fil des sprints)
 
+### Sprint 6 — Demandes de documents
+
+- 🔴 **Appliquer migration 0009** (modeles_demande, demandes_documents, demande_items + seed 3 modèles Servicimmo).
+- 🔴 **Créer bucket Supabase Storage `demande-uploads`** (privé, policies par access_token via signed URLs). Le portail actuel bloque l'upload en attendant.
+- 🟠 **Upload portail côté client** : le flow actuel demande au client d'envoyer par email. Implémentation signed-upload (POST `/api/portail/upload`) à livrer Sprint 6.1.
+- 🟡 **UI signature électronique** : stub actuel (clic → completed avec texte placeholder). Implémenter signature canvas en Sprint 6.1 ou via un service tiers (DocuSign, Yousign).
+
 ### Sprint 5 — Stripe + relances + FEC
 
 - 🔴 **Compte Stripe Servicimmo** : finaliser KYC, récupérer `STRIPE_SECRET_KEY` (test + live), `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY`, `STRIPE_WEBHOOK_SECRET` (depuis dashboard.stripe.com/webhooks — cibler `/api/stripe/webhook`).
