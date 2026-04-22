@@ -320,6 +320,51 @@ export type DossierRow = {
   source_quote_request_id: string | null;
 };
 
+export type RendezVousStatus =
+  | "planifie"
+  | "confirme"
+  | "en_cours"
+  | "realise"
+  | "annule"
+  | "reporte";
+
+export type RendezVousRow = {
+  id: string;
+  organization_id: string;
+  dossier_id: string | null;
+  technicien_id: string | null;
+  created_at: string;
+  updated_at: string;
+  title: string;
+  description: string | null;
+  starts_at: string;
+  ends_at: string;
+  location: string | null;
+  address: string | null;
+  city: string | null;
+  postal_code: string | null;
+  status: RendezVousStatus;
+  reminder_sent_at: string | null;
+  notes: string | null;
+};
+
+export type DocumentCategory = "annexe" | "ddt" | "consentement" | "rapport" | "autre";
+export type DocumentSource = "admin" | "portail" | "public";
+
+export type DocumentDossierRow = {
+  id: string;
+  dossier_id: string;
+  uploaded_by: string | null;
+  created_at: string;
+  category: DocumentCategory;
+  name: string;
+  storage_path: string;
+  mime_type: string | null;
+  size_bytes: number | null;
+  source: DocumentSource;
+  notes: string | null;
+};
+
 export type DossierDiagnosticRow = {
   id: string;
   dossier_id: string;
@@ -594,6 +639,33 @@ export type Database = {
           updated_at?: string;
         };
         Update: Partial<Omit<DossierDiagnosticRow, "id" | "created_at">>;
+        Relationships: [];
+      };
+      rendez_vous: {
+        Row: RendezVousRow;
+        Insert: Partial<Omit<RendezVousRow, "id" | "created_at" | "updated_at">> & {
+          organization_id: string;
+          title: string;
+          starts_at: string;
+          ends_at: string;
+          id?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: Partial<Omit<RendezVousRow, "id" | "created_at" | "organization_id">>;
+        Relationships: [];
+      };
+      documents_dossier: {
+        Row: DocumentDossierRow;
+        Insert: Partial<Omit<DocumentDossierRow, "id" | "created_at">> & {
+          dossier_id: string;
+          category: DocumentCategory;
+          name: string;
+          storage_path: string;
+          id?: string;
+          created_at?: string;
+        };
+        Update: Partial<Omit<DocumentDossierRow, "id" | "created_at" | "dossier_id">>;
         Relationships: [];
       };
     };
