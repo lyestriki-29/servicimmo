@@ -1,318 +1,229 @@
-# CLAUDE.md — Brief technique pour Claude Code
+# CLAUDE.md — Brief technique
 
-Ce fichier est la **source de vérité technique** du projet. Lis-le en entier avant de coder. Tu peux t'y référer à tout moment pour les conventions, patterns et décisions d'architecture.
+> **Source de vérité technique** du projet `servicimmo-v2`. Lis ce fichier en entier avant toute session de dev. Remplace l'ancienne version.
 
 ---
 
 ## Projet
 
-**Nom :** `servicimmo-v2`
-**Client final :** SERVICIMMO (cabinet de diagnostic immobilier, Tours — Indre-et-Loire)
-**Prestataire :** Propul'seo
-**Repo :** `propulseo/servicimmo-v2` (privé)
-**Déploiement :** Vercel (prod + preview) + Supabase (db)
-**Langue du site :** français uniquement
-
-## Contexte produit
-
-Refonte complète du site servicimmo.fr avec pour cœur un **questionnaire intelligent multi-étapes** qui remplace le formulaire de devis actuel. Le questionnaire calcule automatiquement les diagnostics obligatoires et donne une estimation de prix en temps réel.
-
-**Lis OBLIGATOIREMENT avant de commencer :**
-1. `PRD.md` — spec produit
-2. `QUESTIONNAIRE_FLOW.md` — flow détaillé + règles métier (cœur du projet)
-3. `AUDIT.md` — contexte de l'existant
+- **Nom** : `servicimmo-v2`
+- **Client final** : SERVICIMMO (cabinet de diagnostic immobilier, Tours — Indre-et-Loire)
+- **Prestataire** : Propul'seo (Lyes Triki + Etienne Guimbard)
+- **Repo** : `lyestriki-29/servicimmo`
+- **Déploiement** : Vercel (prod + preview) + Supabase Cloud
+- **Langue UI** : français uniquement
 
 ---
 
-## Stack technique imposée
+## Deux applications dans un seul repo
+
+Ce projet contient **deux applications** greffées sur le même codebase :
+
+### 1. Site vitrine public (Phase 2 — en cours)
+
+Refonte du site `servicimmo.fr` actuel avec un **questionnaire intelligent 6 étapes** qui remplace le formulaire de devis classique. Pages : accueil, services, zones SEO par ville, actualités, contact, questionnaire.
+
+Route group : `app/(marketing)/`.
+
+### 2. App Pilote interne (Phase 1 — PRIORITAIRE)
+
+ERP métier interne pour Servicimmo (équivalent de Diag Pilote / Liciel). Gère : dossiers, contacts, devis, factures, paiements Stripe, agenda, demande de documents, statistiques, portail clients/prescripteurs.
+
+Route group : `app/(app)/` + `app/(portail)/` + `app/(auth)/`.
+
+**Ordre d'exécution validé** : on livre l'app Pilote complète avant de finaliser le site vitrine. Le site actuel `servicimmo.fr` reste en prod pendant ce temps.
+
+---
+
+## Lectures obligatoires avant toute session
+
+1. `MASTER-PLAN.md` — roadmap complète, décisions architecturales, risques
+2. `PRD-APP.md` — 27 features détaillées de l'app Pilote (Phase 1)
+3. `PRD.md` — spec du site vitrine (Phase 2)
+4. `QUESTIONNAIRE_FLOW.md` — cœur métier : règles diagnostics + grille tarifaire
+5. `AUDIT.md` — contexte du site actuel
+6. `CLAUDE.md` — ce fichier (conventions + architecture)
+
+---
+
+## Stack technique (vérité = `package.json`)
 
 | Couche | Techno | Version |
-|---|---|---|
-| Framework | Next.js | 14+ (App Router, **pas** Pages Router) |
-| Langage | TypeScript | strict mode |
-| Styling | Tailwind CSS | v3 |
-| UI components | shadcn/ui | dernière version |
-| Icons | Lucide React | — |
-| Forms | React Hook Form + Zod | — |
-| Database | Supabase (Postgres) | — |
-| Auth admin | Supabase Auth (magic link) | — |
+|--------|--------|---------|
+| Framework | Next.js | **16.2.4** (App Router) |
+| Runtime | React | **19.2.4** |
+| Langage | TypeScript | 5.x strict + `noUncheckedIndexedAccess` |
+| Styling | Tailwind CSS | **v4** (syntaxe sans config JS) |
+| UI components | shadcn/ui (New York neutral) via Radix primitives | dernière |
+| Icons | Lucide React | 0.468 |
+| Forms | React Hook Form + Zod | 7.54 + 3.24 |
+| State questionnaire | Zustand + persist localStorage | 5.0 |
+| Animations | Framer Motion | 11.15 (usage modéré) |
+| Database | Supabase Postgres | — |
+| Auth | Supabase Auth (email+password, magic link) | — |
 | Storage | Supabase Storage | — |
-| Email | Resend + React Email | — |
+| Email | Resend + React Email | 4.0 |
+| Paiements | **Stripe Checkout + Webhooks** | à ajouter |
+| PDF | **@react-pdf/renderer** ou pdf-lib | à ajouter |
+| Agenda UI | **react-big-calendar** ou fullcalendar | à ajouter |
+| Kanban DnD | **@dnd-kit/core** | à ajouter |
+| Charts | **recharts** | à ajouter |
+| Adresse autocomplete | API BAN (adresse.data.gouv.fr — gratuite) | — |
+| SIRET enrichment | API Pappers | — |
+| Maps | Leaflet + OpenStreetMap | si besoin |
 | Analytics | Plausible | — |
-| Maps | Leaflet + OpenStreetMap | — |
-| Address autocomplete | API BAN (adresse.data.gouv.fr) | gratuite |
-| Animations | Framer Motion | usage modéré |
-| State questionnaire | Zustand ou useReducer + localStorage | — |
+| Tests | Vitest + Testing Library + jsdom | 2.1 |
+| E2E | Playwright | à ajouter en fin de Phase 1 |
+| Package manager | pnpm | 10.33 |
+| Node | >= 20 | — |
 
-**Interdits :**
-- ❌ Bootstrap, MUI, Chakra, autre UI lib
-- ❌ Redux, Recoil (overkill)
-- ❌ jQuery ou librairies jQuery-like
-- ❌ CSS-in-JS (styled-components, emotion) — Tailwind uniquement
-- ❌ tRPC (pas nécessaire, Server Actions suffisent)
-- ❌ Prisma (Supabase client direct)
+### Interdits stricts
+
+- ❌ Autres UI lib : Bootstrap, MUI, Chakra, Mantine
+- ❌ Autres state managers : Redux, Recoil, Jotai (Zustand suffit)
+- ❌ CSS-in-JS : styled-components, emotion (Tailwind uniquement)
+- ❌ tRPC (Server Actions Next.js 16 suffisent)
+- ❌ Prisma (client Supabase direct, types générés)
+- ❌ jQuery ou dérivés
 
 ---
 
-## Structure du projet
+## Architecture : `core` / `features` / `clients`
+
+Cette architecture permet de **réutiliser la logique métier** pour d'autres cabinets de diagnostic immobilier à l'avenir, sans dupliquer le code entier.
+
+### Trois couches avec règles d'import strictes
 
 ```
-servicimmo-v2/
-├── app/
-│   ├── (public)/                  # pages publiques grand public
-│   │   ├── page.tsx               # accueil
-│   │   ├── devis/
-│   │   │   └── page.tsx           # questionnaire (CŒUR)
-│   │   ├── services/
-│   │   │   ├── [slug]/page.tsx    # pages services dynamiques
-│   │   │   └── page.tsx           # index services
-│   │   ├── actualites/
-│   │   │   ├── page.tsx           # liste articles
-│   │   │   └── [slug]/page.tsx    # article individuel
-│   │   ├── zones/
-│   │   │   └── [city]/page.tsx    # pages SEO locales
-│   │   ├── contact/page.tsx
-│   │   ├── mentions-legales/page.tsx
-│   │   └── cgv/page.tsx
-│   ├── (admin)/                   # back-office protégé
-│   │   ├── layout.tsx             # layout auth-gated
-│   │   ├── dashboard/page.tsx     # accueil admin
-│   │   ├── demandes/
-│   │   │   ├── page.tsx
-│   │   │   └── [id]/page.tsx
-│   │   └── login/page.tsx
-│   ├── api/
-│   │   ├── calculate/route.ts     # POST : moteur de règles + estimation
-│   │   ├── quote-request/route.ts # POST : création/update demandes
-│   │   ├── upload/route.ts        # POST : upload documents
-│   │   └── webhook/resend/route.ts
-│   ├── layout.tsx
-│   └── globals.css
-├── components/
-│   ├── ui/                        # shadcn components
-│   ├── questionnaire/             # tous composants form
-│   │   ├── Step1Project.tsx
-│   │   ├── Step2Property.tsx
-│   │   ├── Step3Email.tsx
-│   │   ├── Step4Details.tsx
-│   │   ├── Step5Timeline.tsx
-│   │   ├── Step6Recap.tsx
-│   │   ├── ProgressBar.tsx
-│   │   ├── QuestionnaireLayout.tsx
-│   │   └── index.ts
-│   ├── layout/
-│   │   ├── Header.tsx
-│   │   ├── Footer.tsx
-│   │   └── Nav.tsx
-│   ├── marketing/                 # composants pages marketing
-│   │   ├── Hero.tsx
-│   │   ├── Certifications.tsx
-│   │   ├── Testimonials.tsx
-│   │   ├── FAQ.tsx
-│   │   └── ...
-│   └── shared/
-├── lib/
-│   ├── supabase/
-│   │   ├── client.ts
-│   │   ├── server.ts
-│   │   └── types.ts               # types générés depuis DB
-│   ├── diagnostics/
-│   │   ├── rules.ts               # moteur de règles métier
-│   │   ├── pricing.ts             # estimation tarifaire
-│   │   └── types.ts
-│   ├── email/
-│   │   ├── templates/
-│   │   │   ├── QuoteConfirmation.tsx
-│   │   │   ├── InternalNotification.tsx
-│   │   │   └── AbandonRelance.tsx
-│   │   └── send.ts
-│   ├── validation/
-│   │   └── schemas.ts             # schémas Zod
-│   ├── ban-api.ts                 # autocomplete adresse
-│   └── utils.ts
-├── content/
-│   ├── articles/                  # migration articles en MDX (optionnel)
-│   └── services/
-├── public/
-│   ├── images/
-│   └── logos/
-├── scripts/
-│   ├── migrate-articles.ts        # import des 100 articles
-│   ├── migrate-cities.ts          # import pages villes
-│   └── generate-sitemap.ts
-├── styles/
-├── middleware.ts                  # redirects 301 + auth admin
-├── next.config.js
-├── tailwind.config.ts
-├── tsconfig.json
-├── .env.example
-├── README.md
-├── PRD.md
-├── QUESTIONNAIRE_FLOW.md
-├── AUDIT.md
-├── CLAUDE.md                      # ce fichier
-└── redirects.json                 # mapping 301 anciennes URLs → nouvelles
+┌────────────────────────────────────────────────────────┐
+│  lib/clients/servicimmo/                               │
+│  SPÉCIFIQUE — peut importer core + features            │
+│                                                        │
+│  - config.ts, branding.ts                              │
+│  - pricing-grid.ts, business-rules.ts (overrides)      │
+│  - email-templates/, legal/, content/                  │
+└────────────────────────────────────────────────────────┘
+              ↓ importe
+┌────────────────────────────────────────────────────────┐
+│  lib/features/                                         │
+│  DOMAINE — peut importer core UNIQUEMENT               │
+│  NE DOIT PAS importer clients/                         │
+│                                                        │
+│  - dossiers/, devis/, factures/, paiements/            │
+│  - agenda/, demande-documents/, contacts/              │
+│  - tarification/, statistiques/                        │
+└────────────────────────────────────────────────────────┘
+              ↓ importe
+┌────────────────────────────────────────────────────────┐
+│  lib/core/                                             │
+│  PUR — n'importe RIEN du projet                        │
+│  Pas d'appels Supabase / Resend / Stripe ici           │
+│                                                        │
+│  - diagnostics/rules.ts, pricing.ts                    │
+│  - types/ (Dossier, Devis, Facture, Contact...)        │
+│  - fec/ (format FEC), signature/ (JWT magic link)      │
+│  - utils/                                              │
+└────────────────────────────────────────────────────────┘
+```
+
+### Règles d'imports enforce via ESLint
+
+Configuration `eslint.config.mjs` avec `import/no-restricted-paths` :
+
+```js
+{
+  "import/no-restricted-paths": ["error", {
+    "zones": [
+      // core ne peut rien importer du projet
+      { "from": "./lib/features", "target": "./lib/core" },
+      { "from": "./lib/clients", "target": "./lib/core" },
+      { "from": "./app",         "target": "./lib/core" },
+      // features ne peut pas importer clients
+      { "from": "./lib/clients", "target": "./lib/features" },
+    ]
+  }]
+}
+```
+
+### Comment injecter le spécifique Servicimmo
+
+Les fonctions `core/` prennent les config/overrides en paramètre, pas en import direct :
+
+```ts
+// lib/core/diagnostics/rules.ts
+export function calculateRequiredDiagnostics(
+  data: QuoteFormData,
+  overrides?: BusinessRuleOverrides
+): RequiredDiagnostic[] { ... }
+
+// lib/clients/servicimmo/business-rules.ts
+export const servicimmoOverrides: BusinessRuleOverrides = {
+  termitesZones: ['37'],
+  extraMandatoryRules: [...],
+};
+
+// app/(app)/dossiers/new/page.tsx
+import { calculateRequiredDiagnostics } from '@/lib/core/diagnostics/rules';
+import { servicimmoOverrides } from '@/lib/clients/servicimmo/business-rules';
+
+const diagnostics = calculateRequiredDiagnostics(data, servicimmoOverrides);
+```
+
+---
+
+## Structure du repo (cible)
+
+Voir `MASTER-PLAN.md` §2 pour l'arbre complet. Résumé :
+
+```
+app/
+├── (marketing)/           # site vitrine (Phase 2)
+├── (app)/                 # app Pilote (Phase 1 PRIORITAIRE)
+├── (portail)/[token]/     # portail clients/prescripteurs
+├── (auth)/                # login
+└── api/                   # webhooks Stripe/Resend, proxies BAN/Pappers
+
+components/
+├── ui/                    # shadcn primitives
+├── marketing/             # Hero, FAQ, etc.
+├── questionnaire/         # 6 étapes public
+├── wizard/                # 10 étapes interne app
+├── agenda/, facturation/, demande-docs/, layout/
+
+lib/
+├── core/                  # métier pur, réutilisable
+├── features/              # logique applicative, réutilisable
+├── clients/servicimmo/    # spécifique Servicimmo
+├── supabase/              # clients DB
+├── stripe/, resend/, pappers/, ban/
+└── validation/            # schémas Zod partagés
+
+supabase/migrations/
 ```
 
 ---
 
 ## Schéma Supabase
 
-### Tables principales
+Voir `PRD-APP.md` §5 pour le détail. Tables principales :
 
-```sql
--- Demandes de devis (cœur)
-create table quote_requests (
-  id uuid primary key default gen_random_uuid(),
-  created_at timestamptz default now(),
-  updated_at timestamptz default now(),
+- `organizations` (prêt pour multi-tenant, 1 seule "Servicimmo" pour l'instant)
+- `users` (Supabase Auth + profile étendu, rôle admin/diagnostiqueur)
+- `contacts` (clients + prescripteurs unifiés par `type`)
+- `dossiers` (entité pivot, 10 étapes wizard)
+- `diagnostic_types`, `dossier_diagnostics`
+- `rendez_vous`
+- `devis`, `devis_lignes` + `factures`, `facture_lignes` (immuables)
+- `paiements` (Stripe + manuels)
+- `documents_dossier` (Supabase Storage)
+- `demandes_documents`, `demande_items`, `modeles_demande`
+- `grille_tarifaire`, `regles_majoration`
+- `journal_communications` (audit log)
+- `quote_requests` (funnel public — **existant, à connecter avec les dossiers**)
+- `services`, `articles`, `cities` (site vitrine — existants)
+- `catalogue_prestations`, `parametres_cabinet`
 
-  -- Statut du parcours
-  status text not null default 'draft' check (status in (
-    'draft', 'email_captured', 'submitted', 'quoted', 'accepted', 'rejected', 'archived'
-  )),
-
-  -- Étape 1
-  project_type text check (project_type in ('sale', 'rental', 'works', 'coownership', 'other')),
-
-  -- Étape 2
-  property_type text,
-  address text,
-  postal_code text,
-  city text,
-  surface numeric,
-  rooms_count integer,
-  is_coownership boolean,
-
-  -- Étape 3
-  email text,
-  email_captured_at timestamptz,
-
-  -- Étape 4
-  permit_date_range text check (permit_date_range in (
-    'before_1949', '1949_to_1997', 'after_1997', 'unknown'
-  )),
-  heating_type text,
-  gas_installation text,
-  gas_over_15_years boolean,
-  electric_over_15_years boolean,
-
-  -- Étape 5
-  urgency text,
-  notes text,
-  attachments jsonb default '[]'::jsonb,  -- array d'URLs
-
-  -- Étape 6
-  civility text,
-  last_name text,
-  first_name text,
-  phone text,
-
-  -- Calculs
-  required_diagnostics jsonb,  -- array d'IDs diagnostics
-  price_min numeric,
-  price_max numeric,
-
-  -- Consentement
-  consent_rgpd boolean default false,
-  consent_at timestamptz,
-
-  -- Tracking
-  source text,  -- utm_source
-  medium text,  -- utm_medium
-  campaign text,
-  referer text,
-  user_agent text
-);
-
--- Services proposés
-create table services (
-  id serial primary key,
-  slug text unique not null,
-  name text not null,
-  category text not null,  -- 'particulier', 'pro', 'amiante'
-  short_description text,
-  content text,  -- markdown
-  price_min numeric,
-  price_max numeric,
-  duration_minutes integer,
-  validity_months integer,  -- validité du diag
-  is_active boolean default true,
-  order_index integer default 0,
-  seo_title text,
-  seo_description text
-);
-
--- Articles de veille (migration depuis ancien site)
-create table articles (
-  id serial primary key,
-  legacy_id integer unique,  -- a1, a2, etc. de l'ancien site
-  slug text unique not null,
-  title text not null,
-  content text not null,  -- markdown
-  excerpt text,
-  cover_image_url text,
-  category text,  -- 'dpe', 'amiante', 'reglementation', etc.
-  published_at timestamptz,
-  updated_at timestamptz,
-  seo_title text,
-  seo_description text,
-  is_published boolean default true
-);
-
--- Villes / zones d'intervention
-create table cities (
-  id serial primary key,
-  slug text unique not null,  -- 'tours', 'amboise', etc.
-  name text not null,
-  postal_code text,
-  department text default '37',
-  latitude numeric,
-  longitude numeric,
-  is_primary_zone boolean default true,
-  seo_content text,  -- markdown spécifique par ville
-  is_active boolean default true
-);
-
--- Admin users (managé par Supabase Auth, ce sont les emails autorisés)
--- on utilise la table auth.users native
-
--- Notes internes sur demandes
-create table quote_notes (
-  id serial primary key,
-  quote_request_id uuid references quote_requests(id) on delete cascade,
-  author_id uuid references auth.users(id),
-  content text not null,
-  created_at timestamptz default now()
-);
-
--- Logs d'actions (audit trail simple)
-create table action_logs (
-  id serial primary key,
-  entity_type text,
-  entity_id text,
-  action text,
-  author_id uuid references auth.users(id),
-  metadata jsonb,
-  created_at timestamptz default now()
-);
-```
-
-### Indexes importants
-
-```sql
-create index idx_quote_requests_status on quote_requests(status);
-create index idx_quote_requests_email on quote_requests(email);
-create index idx_quote_requests_created_at on quote_requests(created_at desc);
-create index idx_articles_published on articles(is_published, published_at desc);
-create index idx_articles_legacy on articles(legacy_id);
-```
-
-### Row Level Security (RLS)
-
-- `quote_requests` : insert autorisé publiquement (via anon key), lecture/update uniquement via service role (API routes backend)
-- `services` et `articles` : lecture publique, écriture admin seulement
-- `quote_notes` et `action_logs` : admin only
+**RLS activé partout** dès le début. Aucune table publique sans policy explicite.
 
 ---
 
@@ -320,368 +231,272 @@ create index idx_articles_legacy on articles(legacy_id);
 
 ### Général
 
-- **Commentaires en français** pour la logique métier, **anglais** pour la technique
-- Noms de variables en anglais, libellés UI en français
+- Commentaires en **français** pour la logique métier, **anglais** pour la technique
+- Noms de variables/fonctions en anglais, libellés UI en français
 - Pas de `any` TypeScript, jamais
-- Server Components par défaut, Client Components (`"use client"`) uniquement si interactivité nécessaire
-- Server Actions pour les mutations simples, API routes pour flux complexes ou publics
+- **Server Components par défaut**, `"use client"` uniquement si interactivité (hooks, événements)
+- **Server Actions** pour mutations simples, **API routes** pour flux publics (webhooks, portail)
+- Fichiers < 300 lignes, sauf exception justifiée
 
 ### Nommage
 
-- Composants React : PascalCase, un composant par fichier
-- Hooks : `useCamelCase` dans `/hooks`
+- Composants React : PascalCase (`DossierCard.tsx`)
+- Hooks : `useCamelCase` dans `hooks/`
 - Utilitaires : camelCase
 - Constantes : SCREAMING_SNAKE_CASE
-- Types/Interfaces : PascalCase, préférer `type` à `interface` sauf héritage
+- Types/Interfaces : PascalCase, `type` préféré à `interface` sauf héritage
+- Tables Supabase : `snake_case` pluriel (`dossiers`, `rendez_vous`)
+- Columns : `snake_case`
 
-### Gestion d'état du questionnaire
-
-Utiliser Zustand pour l'état global du questionnaire + persist middleware pour localStorage.
+### Mutations
 
 ```ts
-// lib/stores/questionnaire.ts
-import { create } from 'zustand';
-import { persist } from 'zustand/middleware';
+// Server Action avec validation Zod
+'use server';
+import { z } from 'zod';
 
-type QuestionnaireState = {
-  currentStep: number;
-  data: Partial<QuoteFormData>;
-  setStep: (step: number) => void;
-  updateData: (data: Partial<QuoteFormData>) => void;
-  reset: () => void;
-};
+const CreateDossierSchema = z.object({ ... });
 
-export const useQuestionnaireStore = create<QuestionnaireState>()(
-  persist(
-    (set) => ({
-      currentStep: 1,
-      data: {},
-      setStep: (step) => set({ currentStep: step }),
-      updateData: (data) => set((state) => ({ data: { ...state.data, ...data } })),
-      reset: () => set({ currentStep: 1, data: {} }),
-    }),
-    { name: 'servicimmo-quote' }
-  )
-);
+export async function createDossier(input: z.infer<typeof CreateDossierSchema>) {
+  const validated = CreateDossierSchema.parse(input);
+  const supabase = await createServerClient();
+  // ...
+}
 ```
+
+### Fetching (Server Components)
+
+```ts
+// app/(app)/dossiers/page.tsx (Server Component)
+import { createServerClient } from '@/lib/supabase/server';
+
+export default async function DossiersPage() {
+  const supabase = await createServerClient();
+  const { data: dossiers } = await supabase
+    .from('dossiers')
+    .select('*, contacts!proprietaire_id(nom), users!technicien_id(prenom, nom)')
+    .order('created_at', { ascending: false });
+  // ...
+}
+```
+
+### State management (Client Components)
+
+- Questionnaire public + wizard dossier : Zustand + persist
+- Pas de state global pour le reste. Re-fetch via `revalidatePath` / `revalidateTag` après mutations.
 
 ### Validation
 
-Tous les schémas Zod dans `lib/validation/schemas.ts`. Partagés entre client (React Hook Form) et serveur (API routes).
+Tous les schémas Zod dans `lib/validation/schemas.ts`, partagés client + serveur.
 
 ### Accessibilité
 
-- Tous les inputs ont un `<label>` associé
-- Focus visible partout
+- Labels associés à tous les inputs
+- Focus visible (`:focus-visible`)
 - Navigation clavier complète
-- Attributs ARIA sur composants custom
-- Contraste AAA sur les textes importants
+- ARIA sur composants custom
+- Contraste AA minimum, AAA pour textes importants
 
 ### Performance
 
-- Images via `next/image` systématiquement
-- `priority` sur hero uniquement
-- Pages articles et services : ISR avec `revalidate: 3600`
+- Images via `next/image` systématiquement, `priority` uniquement sur hero
+- ISR sur articles/services (`revalidate: 3600`)
 - Pages villes : statique au build
-- Questionnaire : 100% client après hydration
+- Questionnaire + wizard : 100% client après hydration
+- Stats : SSR avec cache 5 min
 
 ---
 
-## Moteur de règles — implémentation
+## Moteur de règles diagnostic
 
-Voir `QUESTIONNAIRE_FLOW.md` section 4 pour les règles complètes.
-
-Implémenter dans `lib/diagnostics/rules.ts` une fonction pure :
+Implémentation dans `lib/core/diagnostics/rules.ts`. **Fonction pure** (pas d'I/O) :
 
 ```ts
-export type QuoteFormData = {
-  project_type: 'sale' | 'rental' | 'works' | 'coownership' | 'other';
-  property_type: string;
-  surface: number;
-  rooms_count: number;
-  is_coownership: boolean;
-  permit_date_range: 'before_1949' | '1949_to_1997' | 'after_1997' | 'unknown';
-  heating_type: string;
-  gas_installation: string;
-  gas_over_15_years: boolean;
-  electric_over_15_years: boolean;
-  postal_code: string;
-  // ...
-};
-
-export type RequiredDiagnostic = {
-  id: string;
-  name: string;
-  reason: string;  // pourquoi obligatoire (pédagogie)
-  validityMonths: number;
-};
-
-export function calculateRequiredDiagnostics(data: QuoteFormData): RequiredDiagnostic[] {
-  const diagnostics: RequiredDiagnostic[] = [];
-
-  // DPE
-  if ((data.project_type === 'sale' || data.project_type === 'rental')
-      && isLogement(data.property_type)) {
-    diagnostics.push({
-      id: 'dpe',
-      name: 'DPE — Diagnostic de Performance Énergétique',
-      reason: 'Obligatoire pour toute vente ou location de logement',
-      validityMonths: 120,
-    });
-  }
-
-  // Plomb
-  if (data.permit_date_range === 'before_1949'
-      && (data.project_type === 'sale' || data.project_type === 'rental')
-      && isLogement(data.property_type)) {
-    diagnostics.push({
-      id: 'lead',
-      name: 'CREP — Constat de Risque d\'Exposition au Plomb',
-      reason: 'Permis de construire antérieur au 1er janvier 1949',
-      validityMonths: data.project_type === 'sale' ? 12 : 72,
-    });
-  }
-
-  // Amiante
-  if ((data.permit_date_range === 'before_1949' || data.permit_date_range === '1949_to_1997')
-      && data.project_type === 'sale') {
-    diagnostics.push({
-      id: 'asbestos',
-      name: 'Amiante',
-      reason: 'Permis de construire antérieur au 1er juillet 1997',
-      validityMonths: -1,  // illimité si négatif, sinon 3 ans
-    });
-  }
-
-  // Termites
-  if (data.project_type === 'sale' && data.postal_code.startsWith('37')) {
-    diagnostics.push({
-      id: 'termites',
-      name: 'Termites',
-      reason: 'L\'Indre-et-Loire est déclarée zone à risque termites par arrêté préfectoral',
-      validityMonths: 6,
-    });
-  }
-
-  // Gaz
-  if (data.gas_over_15_years
-      && (data.project_type === 'sale' || data.project_type === 'rental')) {
-    diagnostics.push({
-      id: 'gas',
-      name: 'État de l\'installation Gaz',
-      reason: 'Installation gaz de plus de 15 ans',
-      validityMonths: data.project_type === 'sale' ? 36 : 72,
-    });
-  }
-
-  // Électricité
-  if (data.electric_over_15_years
-      && (data.project_type === 'sale' || data.project_type === 'rental')) {
-    diagnostics.push({
-      id: 'electric',
-      name: 'État de l\'installation Électrique',
-      reason: 'Installation électrique de plus de 15 ans',
-      validityMonths: data.project_type === 'sale' ? 36 : 72,
-    });
-  }
-
-  // Loi Carrez
-  if (data.project_type === 'sale' && data.is_coownership) {
-    diagnostics.push({
-      id: 'carrez',
-      name: 'Loi Carrez',
-      reason: 'Vente d\'un lot en copropriété',
-      validityMonths: -1,
-    });
-  }
-
-  // Loi Boutin
-  if (data.project_type === 'rental' && isLogement(data.property_type)) {
-    diagnostics.push({
-      id: 'boutin',
-      name: 'Loi Boutin',
-      reason: 'Location de logement vide à usage de résidence principale',
-      validityMonths: -1,
-    });
-  }
-
-  // ERP — toujours obligatoire
-  if (data.project_type === 'sale' || data.project_type === 'rental') {
-    diagnostics.push({
-      id: 'erp',
-      name: 'ERP — État des Risques et Pollutions',
-      reason: 'Obligatoire pour toute vente ou location',
-      validityMonths: 6,
-    });
-  }
-
-  // TODO: travaux, démolition, cas tertiaire, audit énergétique, DPE collectif...
-
-  return diagnostics;
-}
-
-function isLogement(type: string): boolean {
-  return ['house', 'apartment', 'building'].includes(type);
-}
+export function calculateRequiredDiagnostics(
+  data: QuoteFormData,
+  overrides?: BusinessRuleOverrides
+): RequiredDiagnostic[]
 ```
 
-**Tests unitaires requis** sur ce fichier : minimum 15 cas représentatifs (voir section tests).
+Voir `QUESTIONNAIRE_FLOW.md` §4 pour les règles complètes.
+
+**Tests obligatoires** : minimum 15 cas représentatifs (Vitest) dans `__tests__/rules.test.ts`. Cas à couvrir :
+- Vente appartement construit avant 1949 (plomb obligatoire)
+- Vente maison 1949-1997 (amiante obligatoire, pas de plomb)
+- Location logement après 1997 (pas d'amiante ni plomb)
+- Vente en copropriété (Carrez)
+- Location (Boutin)
+- Indre-et-Loire 37 (termites obligatoire via `servicimmoOverrides`)
+- Gaz > 15 ans, élec > 15 ans
+- ERP toujours pour vente/location
+- Travaux / démolition (cas spécifiques amiante)
+- Cas tertiaire (DPE mention tertiaire)
+- etc.
 
 ---
 
-## Pricing — implémentation
+## Pricing
 
-Dans `lib/diagnostics/pricing.ts`, fonction pure qui prend la liste des diagnostics obligatoires + context (surface, zone, urgence) et retourne `{ min, max }`.
-
-Voir `QUESTIONNAIRE_FLOW.md` section 5 pour grille tarifaire et modulateurs.
-
----
-
-## Emails
-
-Utiliser React Email pour les templates, Resend pour l'envoi.
-
-Templates à créer :
-
-1. **`QuoteConfirmation.tsx`** — envoyé au client après soumission finale
-   - Récap des diagnostics calculés
-   - Estimation de prix
-   - Prochaine étape : "notre équipe vous contacte sous 2h"
-
-2. **`InternalNotification.tsx`** — envoyé à l'équipe Servicimmo
-   - Toutes les infos du formulaire
-   - Lien vers la fiche admin
-   - Précisions ajoutées par le client
-
-3. **`AbandonRelance.tsx`** — envoyé J+1 après capture email sans complétion
-   - "Il vous reste 2 étapes pour obtenir votre devis"
-   - Lien magique pour reprendre où l'utilisateur en était
-
----
-
-## SEO et migration
-
-### Mapping des redirections 301
-
-`redirects.json` à la racine du projet, consommé dans `middleware.ts` :
+Implémentation dans `lib/core/diagnostics/pricing.ts`. **Fonction pure** :
 
 ```ts
-// middleware.ts (simplifié)
-import redirects from './redirects.json';
-
-export function middleware(request: NextRequest) {
-  const { pathname } = request.nextUrl;
-  const redirect = redirects[pathname];
-  if (redirect) {
-    return NextResponse.redirect(new URL(redirect, request.url), 301);
-  }
-  return NextResponse.next();
-}
+export function computeQuote(
+  diagnostics: RequiredDiagnostic[],
+  context: PricingContext,
+  grille: PricingGrid,
+  rules: MajorationRule[]
+): QuoteResult
 ```
 
-Mapping à construire à partir du fichier `servicimmo_urls.txt` :
+Voir `QUESTIONNAIRE_FLOW.md` §5 pour grille et modulateurs.
 
-- `/performance-energetique-...-i7.html` → `/services/dpe`
-- `/expertises-immobilieres-...-a123.html` → `/actualites/[nouveau-slug]`
-- `/dpe-tours-37000.html` → `/zones/tours/dpe`
-- ...
-
-**Tous les 193 liens doivent avoir une destination.** Fichier `redirects.json` sera généré par un script de migration.
-
-### Sitemap
-
-Généré dynamiquement dans `app/sitemap.ts` à partir de :
-- pages statiques
-- articles publiés
-- services actifs
-- villes actives
-
-### Meta tags
-
-Chaque page a un title + description soit :
-- Hérités de l'existant (quand corrects)
-- Re-générés par script migration via Claude API (quand trop génériques)
+Tests : minimum 10 cas dans `__tests__/pricing.test.ts`.
 
 ---
 
-## Tests
+## Supabase clients
 
-**Obligatoire :**
-- Tests unitaires sur `lib/diagnostics/rules.ts` (Vitest) — ≥15 cas
-- Tests unitaires sur `lib/diagnostics/pricing.ts` (Vitest) — ≥10 cas
-- Test E2E du questionnaire complet (Playwright) — au moins le happy path
+```ts
+// lib/supabase/server.ts — usage côté serveur (RSC, Server Actions, API routes)
+import { createServerClient } from '@supabase/ssr';
 
-**Optionnel mais recommandé :**
-- Tests des composants critiques du questionnaire (Vitest + Testing Library)
-- Tests des API routes (Vitest)
+export async function createClient() {
+  const cookieStore = await cookies();
+  return createServerClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+    { cookies: { getAll: () => cookieStore.getAll(), setAll: (c) => c.forEach(...) } }
+  );
+}
+
+// lib/supabase/client.ts — usage côté client ("use client")
+import { createBrowserClient } from '@supabase/ssr';
+
+export function createClient() {
+  return createBrowserClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  );
+}
+
+// lib/supabase/admin.ts — service role (API routes privées uniquement, jamais côté client)
+```
+
+**Types générés** : `pnpm supabase gen types typescript --project-id XXX > lib/supabase/types.ts` après chaque migration.
+
+---
+
+## Emails (Resend + React Email)
+
+Templates dans `lib/clients/servicimmo/email-templates/` (specific à Servicimmo pour le branding) :
+
+- `QuoteConfirmation.tsx` — client après soumission questionnaire public
+- `InternalNotification.tsx` — équipe Servicimmo (copie interne)
+- `AbandonRelance.tsx` — J+1 après capture email
+- `DossierCreated.tsx` — notification interne + prescripteur
+- `DevisEnvoye.tsx` — devis client avec lien acceptation
+- `FactureEmise.tsx` — facture + lien Stripe
+- `PaiementRecu.tsx` — reçu client
+- `RelancePaiement.tsx` — J+7, J+15, J+30
+- `DemandeDocuments.tsx` — magic link portail demande docs
+- `MagicLinkPortail.tsx` — accès portail client/prescripteur
+- `RapportPublie.tsx` — notification rapport disponible
+
+---
+
+## Sécurité / RGPD
+
+- **RLS Supabase activé partout** : aucune table accessible sans policy explicite
+- **Hébergement EU** (Supabase région `eu-west-1`)
+- **Chiffrement au repos** (natif Supabase)
+- **Pas de données sensibles dans les logs**
+- **Pas de Google Analytics** (Plausible : self-hosted ou EU)
+- **Cookies** : minimal, pas de tracking tiers (Plausible est cookieless)
+- **Magic links JWT** : expiration 30j, signature HS256, secret env var
+- **Export RGPD** : à minima CSV par client depuis fiche contact (Phase 1)
+
+---
+
+## Tests obligatoires
+
+| Type | Cible | Outil | Obligation |
+|------|-------|-------|------------|
+| Unit | `lib/core/diagnostics/rules.ts` | Vitest | ≥ 15 cas, PR bloquante |
+| Unit | `lib/core/diagnostics/pricing.ts` | Vitest | ≥ 10 cas, PR bloquante |
+| Unit | `lib/core/fec/*.ts` | Vitest | couverture des 18 colonnes FEC |
+| Integration | Server Actions critiques (createDossier, emitFacture, registerPaiement) | Vitest + test DB | Sprint 4+ |
+| E2E | 3 parcours critiques | Playwright | Sprint 8 |
+
+Parcours E2E obligatoires :
+1. Wizard dossier → devis → acceptation portail → facture → paiement Stripe
+2. Demande documentaire → remplissage portail client → retour et notification
+3. Export FEC fin d'exercice
 
 ---
 
 ## Variables d'environnement
 
-`.env.local` :
+`.env.local.example` (à compléter) :
 
-```bash
+```
 # Supabase
 NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
 SUPABASE_SERVICE_ROLE_KEY=
 
-# Email
+# Stripe
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+
+# Resend
 RESEND_API_KEY=
 EMAIL_FROM=devis@servicimmo.fr
-EMAIL_INTERNAL_NOTIFICATION=contact@servicimmo.fr
+EMAIL_INTERNAL=contact@servicimmo.fr
+
+# Pappers
+PAPPERS_API_KEY=
 
 # Analytics
 NEXT_PUBLIC_PLAUSIBLE_DOMAIN=servicimmo.fr
 
 # App
 NEXT_PUBLIC_APP_URL=https://servicimmo.fr
+JWT_PORTAL_SECRET=   # pour signer les magic links du portail
+
+# Client config
+NEXT_PUBLIC_CLIENT=servicimmo
 ```
 
 ---
 
-## Workflow de développement
+## Workflow de dev avec Claude Code
 
-1. **Lis PRD.md, QUESTIONNAIRE_FLOW.md, AUDIT.md en entier**
-2. Initialise Next.js + TS + Tailwind + shadcn/ui
-3. Setup Supabase local (docker) + applique les migrations
-4. Implémente d'abord le **moteur de règles** (rules.ts + tests) — c'est le cœur
-5. Implémente le **pricing** (pricing.ts + tests)
-6. Implémente le **questionnaire** étape par étape (de 1 à 6)
-7. Implémente les **emails** (templates + envoi)
-8. Implémente les **pages marketing** (accueil, services, actualités)
-9. Implémente le **back-office admin**
-10. Migration du contenu (script `migrate-articles.ts`)
-11. Mapping 301 et middleware
-12. Tests E2E + QA
-13. Déploiement preview Vercel
-14. Validation Propul'seo + Servicimmo
-15. Mise en prod avec monitoring
+1. **Lire** `MASTER-PLAN.md` + `PRD-APP.md` + `CLAUDE.md` (ce fichier) avant toute session
+2. **Une feature = une branche** : `feat/f-05-wizard-dossier`
+3. **Commits Conventional** : `feat:`, `fix:`, `refactor:`, `chore:`, `docs:`, `test:`
+4. **Migrations Supabase** : `pnpm supabase migration new feat_xxx`, nommer explicitement
+5. **Types DB** : régénérer après chaque migration (`pnpm supabase gen types ...`)
+6. **Tests** : écrire les tests unitaires avant de commit sur `lib/core/`
+7. **PR** avant merge sur `dev`, review rapide même solo
+8. **Merge sur `main`** = deploy Vercel prod (uniquement fin de sprint validé)
 
 ---
 
-## Questions à me poser avant de commencer
-
-Si quelque chose est ambigu dans les docs, **demande à Lyes** plutôt que de supposer. Notamment :
-
-- Tarifs de base exacts (section 5 de QUESTIONNAIRE_FLOW)
-- Cas limites des règles métier (section 8 de QUESTIONNAIRE_FLOW)
-- Charte graphique définitive (couleurs précises)
-- Integration Calendar V1 ou V2 ?
-- Format de l'export dashboard admin (CSV, Excel, autre ?)
-
----
-
-## Ressources utiles
+## Ressources
 
 - Réglementation diagnostic immobilier : https://www.service-public.fr/particuliers/vosdroits/F16096
 - API BAN adresse : https://adresse.data.gouv.fr/api-doc/adresse
+- API Pappers (SIRET) : https://www.pappers.fr/api
 - Supabase docs : https://supabase.com/docs
+- Next.js 16 : https://nextjs.org/docs
+- React 19 : https://react.dev
+- Tailwind CSS v4 : https://tailwindcss.com/docs
 - shadcn/ui : https://ui.shadcn.com
 - React Email : https://react.email
-- Règles diagnostics (source officielle) : https://www.ecologie.gouv.fr/diagnostic-performance-energetique-dpe
+- Stripe Checkout : https://stripe.com/docs/payments/checkout
+- Format FEC : https://www.impots.gouv.fr/portail/node/12404
 
 ---
 
-**Bon dev Claude Code. Le cœur du projet c'est le questionnaire — soigne-le, c'est ce qui va différencier Servicimmo pendant 5 ans.**
+**Principe directeur** : le cœur du projet c'est le **moteur de règles** + le **wizard de création dossier** + le **moteur de tarification**. Tout le reste est greffé autour. Soigne ces trois zones plus que le reste.
