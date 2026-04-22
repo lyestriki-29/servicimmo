@@ -11,6 +11,17 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 
 ## Liste (remplie au fil des sprints)
 
+### Sprint 5 — Stripe + relances + FEC
+
+- 🔴 **Compte Stripe Servicimmo** : finaliser KYC, récupérer `STRIPE_SECRET_KEY` (test + live), `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY`, `STRIPE_WEBHOOK_SECRET` (depuis dashboard.stripe.com/webhooks — cibler `/api/stripe/webhook`).
+- 🔴 **Appliquer migration 0008** (paiements + trigger refresh).
+- 🔴 **Domaine Resend** `servicimmo.fr` à valider (DKIM + SPF) et `RESEND_API_KEY` à renseigner. Sans ça les emails restent stub.
+- 🟠 **Déployer Edge Function `relances`** : `supabase functions deploy relances` puis `supabase functions schedule ...`. Fichier prêt dans supabase/functions/relances/.
+- 🟠 **UI enregistrement paiement manuel** : Server Action `recordManualPayment` prête, UI formulaire à construire (Sprint 8 polish).
+- 🟠 **Portail paiement `/portail/pay/[factureId]`** : le webhook attend le retour depuis `success_url`. Cette page UI n'est pas encore créée (redirection Stripe → page de confirmation Servicimmo). Sprint 6 ou 8.
+- 🟡 **Bouton "Exporter FEC" dans l'UI admin** : route `/api/fec/export` OK, lien UI à ajouter (paramètres cabinet, Sprint 8).
+- 🟡 **Plan comptable FEC** : schéma simplifié (411/706/445710/512/531). Si le comptable de Servicimmo utilise un plan différent, adapter `lib/features/fec/export.ts`.
+
 ### Sprint 4 — Devis + factures + tarification
 
 - 🔴 **Appliquer migration 0007** (devis, factures, grille_tarifaire, regles_majoration + fonctions plpgsql).
