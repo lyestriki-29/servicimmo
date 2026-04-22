@@ -6,7 +6,7 @@ import { useState, useSyncExternalStore } from "react";
 
 import { LogoMark } from "@/components/marketing/Logo";
 import type { ApiResponse } from "@/lib/api/responses";
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 import { useQuestionnaireStore } from "@/lib/stores/questionnaire";
 
 import { EntryScreen } from "./screens/EntryScreen";

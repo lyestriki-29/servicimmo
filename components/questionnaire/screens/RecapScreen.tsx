@@ -8,7 +8,7 @@ import type {
   PriceEstimate,
   ProjectType,
   RequiredDiagnostic,
-} from "@/lib/diagnostics/types";
+} from "@/lib/core/diagnostics/types";
 import {
   useQuestionnaireStore,
   type QuestionnaireData,

@@ -2,7 +2,7 @@
 
 import { ArrowRightIcon } from "lucide-react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 import { getBranchVars } from "../lib/branch-colors";
 import { BRANCHES } from "../lib/branches";

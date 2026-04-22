@@ -3,7 +3,7 @@
 import { ArrowLeftIcon, ArrowRightIcon } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 import { useQuestionnaireStore } from "@/lib/stores/questionnaire";
 

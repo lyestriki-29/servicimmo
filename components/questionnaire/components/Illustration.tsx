@@ -1,4 +1,4 @@
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 import { BRANCHES } from "../lib/branches";
 

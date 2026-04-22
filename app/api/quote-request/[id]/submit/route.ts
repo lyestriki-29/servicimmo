@@ -21,9 +21,9 @@ import {
   ok,
   serverError,
 } from "@/lib/api/responses";
-import { calculateRequiredDiagnostics } from "@/lib/diagnostics/rules";
-import { estimatePriceWithGrid, loadPricingGrid } from "@/lib/diagnostics/pricing";
-import type { QuoteFormData } from "@/lib/diagnostics/types";
+import { calculateRequiredDiagnostics } from "@/lib/core/diagnostics/rules";
+import { estimatePriceWithGrid, loadPricingGrid } from "@/lib/core/diagnostics/pricing";
+import type { QuoteFormData } from "@/lib/core/diagnostics/types";
 import { distanceFromToursKm } from "@/lib/geo/distance";
 import { getSupabaseServiceClient } from "@/lib/supabase/server";
 import { fullQuoteSchema } from "@/lib/validation/schemas";

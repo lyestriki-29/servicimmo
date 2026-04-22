@@ -14,7 +14,7 @@ import {
   type LucideIcon,
 } from "lucide-react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 export type BranchConfig = {
   key: ProjectType;

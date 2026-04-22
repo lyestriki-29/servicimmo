@@ -13,7 +13,7 @@
  * la couche rules/pricing/API.
  */
 
-import type { PermitDateRange } from "@/lib/diagnostics/types";
+import type { PermitDateRange } from "@/lib/core/diagnostics/types";
 
 // ---------------------------------------------------------------------------
 // Tri-state ↔ boolean nullable

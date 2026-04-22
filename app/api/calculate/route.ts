@@ -14,9 +14,9 @@
 import { NextResponse } from "next/server";
 
 import { badRequest, fromZodError, ok, serverError } from "@/lib/api/responses";
-import { calculateRequiredDiagnostics } from "@/lib/diagnostics/rules";
-import { estimatePriceWithGrid, loadPricingGrid } from "@/lib/diagnostics/pricing";
-import type { DiagnosticsResult, PriceEstimate, QuoteFormData } from "@/lib/diagnostics/types";
+import { calculateRequiredDiagnostics } from "@/lib/core/diagnostics/rules";
+import { estimatePriceWithGrid, loadPricingGrid } from "@/lib/core/diagnostics/pricing";
+import type { DiagnosticsResult, PriceEstimate, QuoteFormData } from "@/lib/core/diagnostics/types";
 import { distanceFromToursKm } from "@/lib/geo/distance";
 import { calculatePayloadSchema, type CalculatePayload } from "@/lib/validation/schemas";
 

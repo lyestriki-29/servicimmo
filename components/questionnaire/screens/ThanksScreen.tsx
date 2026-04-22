@@ -2,7 +2,7 @@
 
 import { CheckIcon, MailIcon, PhoneIcon } from "lucide-react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 import { NextSteps } from "../components/NextSteps";
 import { getBranchVars } from "../lib/branch-colors";

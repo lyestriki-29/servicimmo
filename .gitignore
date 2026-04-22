@@ -63,3 +63,6 @@ files/
 
 # config locale Claude Code (specific à la machine)
 .claude/
+
+# Client PDFs (données sensibles, à garder locaux)
+*.pdf

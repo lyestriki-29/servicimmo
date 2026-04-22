@@ -2,7 +2,7 @@
 
 import { ClockIcon, PhoneIcon, ShieldCheckIcon, StarIcon } from "lucide-react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 import { BranchCard } from "../components/BranchCard";
 import { BRANCH_ORDER } from "../lib/branches";

@@ -14,7 +14,7 @@
 
 import type { CSSProperties } from "react";
 
-import type { ProjectType } from "@/lib/diagnostics/types";
+import type { ProjectType } from "@/lib/core/diagnostics/types";
 
 const BRANCH_HEX: Record<ProjectType, { bg: string; fg: string; dark: string }> = {
   sale: { bg: "#eaf5c7", fg: "#7a9b1c", dark: "#546b10" },

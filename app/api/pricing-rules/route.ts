@@ -9,7 +9,7 @@
 import { NextResponse } from "next/server";
 
 import { ok } from "@/lib/api/responses";
-import { loadPricingGrid } from "@/lib/diagnostics/pricing";
+import { loadPricingGrid } from "@/lib/core/diagnostics/pricing";
 
 export async function GET(): Promise<NextResponse> {
   const grid = await loadPricingGrid();
