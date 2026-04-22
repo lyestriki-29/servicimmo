@@ -11,6 +11,11 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 
 ## Liste (remplie au fil des sprints)
 
+### Sprint 7 — Dashboard + statistiques
+
+- 🟡 **Export CSV récap mensuel** mentionné F-26 : route à ajouter Sprint 8.
+- 🟡 **Filtres période** sur la page statistiques (actuellement 12 mois fixes).
+
 ### Sprint 6 — Demandes de documents
 
 - 🔴 **Appliquer migration 0009** (modeles_demande, demandes_documents, demande_items + seed 3 modèles Servicimmo).
