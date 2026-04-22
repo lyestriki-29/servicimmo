@@ -11,6 +11,15 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 
 ## Liste (remplie au fil des sprints)
 
+### Sprint 4 — Devis + factures + tarification
+
+- 🔴 **Appliquer migration 0007** (devis, factures, grille_tarifaire, regles_majoration + fonctions plpgsql).
+- 🔴 **Grille tarifaire réelle** à saisir dans `grille_tarifaire` via SQL Editor Supabase (panneau admin livré Sprint 8). Source : questions 1-10 du plan pricing (cf. plan V2).
+- 🔴 **Envoi email devis Resend** : Server Action `sendDevis` génère le lien mais ne poste pas encore l'email. Sera livré Sprint 5 en même temps que les relances.
+- 🟠 **PDF devis / facture** : tables prêtes (`pdf_storage_path`) et `@react-pdf/renderer` installé, mais la génération réelle est reportée à Sprint 5 (en même temps que Stripe Checkout qui consomme le PDF).
+- 🟠 **Catalog prestations dans `devis_lignes`** : pour l'instant, les lignes sont créées depuis `required_diagnostics` du dossier. L'édition manuelle (ajouter/retirer lignes dans l'UI devis) est prévue Sprint 8.
+- 🟡 **Éditeur lignes devis** : l'UI montre les lignes mais ne permet pas de les modifier. Sprint 8 polish.
+
 ### Sprint 3 — Agenda + RDV + documents
 
 - 🔴 **Appliquer migration 0006** (rendez_vous + documents_dossier).
