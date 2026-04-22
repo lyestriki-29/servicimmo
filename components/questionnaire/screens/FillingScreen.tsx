@@ -775,7 +775,7 @@ export function FillingScreen({
                   {hasGasAge ? (
                     <div className="devis-reveal">
                       <Label help="Si différente du permis de construire — optionnel.">
-                        Date d'achat (optionnel)
+                        Date d&apos;achat (optionnel)
                       </Label>
                       <Field
                         type="date"
@@ -813,7 +813,7 @@ export function FillingScreen({
                   />
                   {existingDiags.includes("asbestos") || existingDiags.includes("lead") ? (
                     <div className="rounded-[10px] border border-dashed border-[var(--color-devis-line)] bg-white/60 p-3 text-[12px] text-[var(--color-devis-muted)]">
-                      Amiante et plomb : merci d'envoyer le diagnostic existant par email après
+                      Amiante et plomb : merci d&apos;envoyer le diagnostic existant par email après
                       soumission ; sinon le technicien le refait sur place.
                     </div>
                   ) : null}
