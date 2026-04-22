@@ -11,6 +11,14 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 
 ## Liste (remplie au fil des sprints)
 
+### Sprint 3 — Agenda + RDV + documents
+
+- 🔴 **Appliquer migration 0006** (rendez_vous + documents_dossier).
+- 🔴 **Créer bucket Supabase Storage `dossier-documents`** : privé, policies admin only. L'upload client se fait via service_role dans les Server Actions.
+- 🟠 **Vue agenda semaine/jour** : seule la vue mois est livrée. Vues semaine + jour à ajouter Sprint 3.1 si Servicimmo les demande.
+- 🟠 **Rappels email J-1 RDV** : la colonne `reminder_sent_at` est prête, mais le cron Edge Function n'est pas écrit. Sera livré Sprint 5 (avec les relances factures).
+- 🟡 **Prévisualisation PDF/image inline** : upload OK, visualisation = download pour l'instant.
+
 ### Sprint 2 — Dossiers + wizard + Kanban
 
 - 🔴 **Appliquer migration 0005** (dossiers + dossier_diagnostics + fonction `generate_dossier_reference`).
