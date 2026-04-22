@@ -1,7 +1,8 @@
-# Blockers — livraison finale
+# Blockers — livraison finale (fin de Sprint 8)
 
-Fichier de tracking interne des dépendances externes à lever par Lyes/Servicimmo
-avant mise en prod. À lire à la toute fin, après le Sprint 8.
+Liste consolidée des **dépendances externes** à lever par Lyes / Servicimmo
+avant mise en prod. Le code est prêt — ces blockers sont des actions humaines
+ou des accès à provisionner.
 
 ## Catégorisation
 
@@ -9,60 +10,90 @@ avant mise en prod. À lire à la toute fin, après le Sprint 8.
 - 🟠 **Important** — bloque une feature mais pas le déploiement
 - 🟡 **Nice-to-have** — dégrade l'UX si non résolu
 
-## Liste (remplie au fil des sprints)
+---
 
-### Sprint 7 — Dashboard + statistiques
+## 🔴 Provisionnement et accès externes (ORDRE DE DÉMARRAGE)
 
-- 🟡 **Export CSV récap mensuel** mentionné F-26 : route à ajouter Sprint 8.
-- 🟡 **Filtres période** sur la page statistiques (actuellement 12 mois fixes).
+1. **Créer les projets Supabase** `servicimmo-dev` + `servicimmo-prod` (supabase.com, région `eu-west-1`). Récupérer `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`.
+2. **Appliquer les 9 migrations** dans l'ordre (0001 → 0009) via SQL Editor Supabase ou CLI `supabase db push`. Elles sont dans `supabase/migrations/` et s'appliquent séquentiellement sans intervention.
+3. **Créer 3 buckets Supabase Storage** (privés) :
+   - `quote-attachments` (uploads questionnaire public, existant)
+   - `dossier-documents` (uploads admin côté cabinet, Sprint 3)
+   - `demande-uploads` (portail client, Sprint 6)
+4. **Créer le premier utilisateur admin** dans Supabase Auth (Lyes + Etienne). Insérer la ligne `users_profiles` avec `role='admin'` et `organization_id` = id de l'organisation Servicimmo (seedée par 0004).
+5. **Compléter les infos cabinet** dans la table `organizations` : SIRET, IBAN, TVA intracommunautaire, adresse postale complète. Le seed 0004 contient des stubs.
+6. **Compte Stripe Servicimmo** : finaliser KYC, récupérer `STRIPE_SECRET_KEY` + `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` + `STRIPE_WEBHOOK_SECRET` (créer un webhook ciblant `/api/stripe/webhook`, sélectionner event `checkout.session.completed`).
+7. **Domaine email Resend** : valider `servicimmo.fr` avec DKIM + SPF, créer `RESEND_API_KEY`.
+8. **Grille tarifaire réelle** à saisir dans la table `grille_tarifaire` via SQL Editor. Questions à poser à Servicimmo listées dans le plan pricing V2 (10 questions — tarifs DPE maison/appart, DPE collectif forfait/devis, amiante par type, pack, urgence, distance…).
+9. **Déployer l'Edge Function cron relances** : `supabase functions deploy relances` puis `supabase functions schedule relances --schedule "0 8 * * *"` pour 8h UTC chaque jour.
+10. **Plan comptable FEC** : vérifier avec le comptable de Servicimmo que le schéma simplifié (411/706/445710/512/531) lui convient. Sinon adapter `lib/features/fec/export.ts`.
 
-### Sprint 6 — Demandes de documents
+---
 
-- 🔴 **Appliquer migration 0009** (modeles_demande, demandes_documents, demande_items + seed 3 modèles Servicimmo).
-- 🔴 **Créer bucket Supabase Storage `demande-uploads`** (privé, policies par access_token via signed URLs). Le portail actuel bloque l'upload en attendant.
-- 🟠 **Upload portail côté client** : le flow actuel demande au client d'envoyer par email. Implémentation signed-upload (POST `/api/portail/upload`) à livrer Sprint 6.1.
-- 🟡 **UI signature électronique** : stub actuel (clic → completed avec texte placeholder). Implémenter signature canvas en Sprint 6.1 ou via un service tiers (DocuSign, Yousign).
+## 🟠 Features câblées DB/API mais UI admin à construire
 
-### Sprint 5 — Stripe + relances + FEC
+- **Panneau grille tarifaire** (`/app/parametres/grille`) — édition des prix par diagnostic/contexte. Table `grille_tarifaire` prête, RLS OK. Pour l'instant : édition via SQL Editor.
+- **Panneau règles de majoration** (`/app/parametres/regles`) — édition TRAVEL_FEE / URGENT_DELAY / COLLECTIVE_HEATING / etc. Table `regles_majoration` prête.
+- **Panneau modèles de demande** (`/app/parametres/modeles`) — CRUD des presets `modeles_demande` (3 seedés).
+- **Invitations utilisateurs** (`/app/parametres/utilisateurs`) — admin-only, création comptes diagnostiqueur/assistant.
+- **Enregistrement paiement manuel** (UI) — Server Action `recordManualPayment` prête, formulaire à construire sur la page facture détail.
+- **Portail de paiement `/portail/pay/[factureId]`** — page de redirection Stripe success/cancel à styler.
+- **Upload portail client** (`/api/portail/upload`) — signed-upload Supabase Storage depuis le portail magic link. Remplacera le message "envoyer par email" actuel.
+- **Vue agenda semaine/jour** — seule la vue mois est livrée. À arbitrer avec Servicimmo.
+- **DnD Kanban interactif** — version actuelle statique. Backend `updateDossierStatus` prêt, manque l'intégration `@dnd-kit` (Client Component).
+- **Éditeur de lignes de devis** — UI affichage OK, ajout/suppression/modification à livrer.
+- **Génération PDF devis/facture** — `@react-pdf/renderer` installé, colonnes `pdf_storage_path` prêtes. Template PDF à écrire.
+- **Email devis avec PDF joint** — une fois le PDF généré, attacher au mail Resend.
+- **Step-by-step linéaire wizard dossier** — actuellement accordéons. À arbitrer avec Servicimmo selon feedback power-users.
+- **Autocompletion adresse BAN dans le wizard dossier** — existe sur le questionnaire public, à porter côté wizard admin.
 
-- 🔴 **Compte Stripe Servicimmo** : finaliser KYC, récupérer `STRIPE_SECRET_KEY` (test + live), `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY`, `STRIPE_WEBHOOK_SECRET` (depuis dashboard.stripe.com/webhooks — cibler `/api/stripe/webhook`).
-- 🔴 **Appliquer migration 0008** (paiements + trigger refresh).
-- 🔴 **Domaine Resend** `servicimmo.fr` à valider (DKIM + SPF) et `RESEND_API_KEY` à renseigner. Sans ça les emails restent stub.
-- 🟠 **Déployer Edge Function `relances`** : `supabase functions deploy relances` puis `supabase functions schedule ...`. Fichier prêt dans supabase/functions/relances/.
-- 🟠 **UI enregistrement paiement manuel** : Server Action `recordManualPayment` prête, UI formulaire à construire (Sprint 8 polish).
-- 🟠 **Portail paiement `/portail/pay/[factureId]`** : le webhook attend le retour depuis `success_url`. Cette page UI n'est pas encore créée (redirection Stripe → page de confirmation Servicimmo). Sprint 6 ou 8.
-- 🟡 **Bouton "Exporter FEC" dans l'UI admin** : route `/api/fec/export` OK, lien UI à ajouter (paramètres cabinet, Sprint 8).
-- 🟡 **Plan comptable FEC** : schéma simplifié (411/706/445710/512/531). Si le comptable de Servicimmo utilise un plan différent, adapter `lib/features/fec/export.ts`.
+---
 
-### Sprint 4 — Devis + factures + tarification
+## 🟠 Tests E2E à étendre
 
-- 🔴 **Appliquer migration 0007** (devis, factures, grille_tarifaire, regles_majoration + fonctions plpgsql).
-- 🔴 **Grille tarifaire réelle** à saisir dans `grille_tarifaire` via SQL Editor Supabase (panneau admin livré Sprint 8). Source : questions 1-10 du plan pricing (cf. plan V2).
-- 🔴 **Envoi email devis Resend** : Server Action `sendDevis` génère le lien mais ne poste pas encore l'email. Sera livré Sprint 5 en même temps que les relances.
-- 🟠 **PDF devis / facture** : tables prêtes (`pdf_storage_path`) et `@react-pdf/renderer` installé, mais la génération réelle est reportée à Sprint 5 (en même temps que Stripe Checkout qui consomme le PDF).
-- 🟠 **Catalog prestations dans `devis_lignes`** : pour l'instant, les lignes sont créées depuis `required_diagnostics` du dossier. L'édition manuelle (ajouter/retirer lignes dans l'UI devis) est prévue Sprint 8.
-- 🟡 **Éditeur lignes devis** : l'UI montre les lignes mais ne permet pas de les modifier. Sprint 8 polish.
+Les smoke tests Playwright (5 cas) sont là. Les **3 parcours critiques** du MASTER-PLAN §8 nécessitent un Supabase dev + seed de test :
 
-### Sprint 3 — Agenda + RDV + documents
+1. Wizard dossier complet → devis → acceptation portail → facture → paiement Stripe (test mode)
+2. Demande documentaire → remplissage portail client → retour cabinet
+3. Export FEC fin d'exercice
 
-- 🔴 **Appliquer migration 0006** (rendez_vous + documents_dossier).
-- 🔴 **Créer bucket Supabase Storage `dossier-documents`** : privé, policies admin only. L'upload client se fait via service_role dans les Server Actions.
-- 🟠 **Vue agenda semaine/jour** : seule la vue mois est livrée. Vues semaine + jour à ajouter Sprint 3.1 si Servicimmo les demande.
-- 🟠 **Rappels email J-1 RDV** : la colonne `reminder_sent_at` est prête, mais le cron Edge Function n'est pas écrit. Sera livré Sprint 5 (avec les relances factures).
-- 🟡 **Prévisualisation PDF/image inline** : upload OK, visualisation = download pour l'instant.
+À écrire dans `e2e/parcours-*.spec.ts` après provisionnement.
 
-### Sprint 2 — Dossiers + wizard + Kanban
+---
 
-- 🔴 **Appliquer migration 0005** (dossiers + dossier_diagnostics + fonction `generate_dossier_reference`).
-- 🟠 **DnD Kanban interactif** : version Sprint 2 est statique (colonnes SSR). Réintégrer `@dnd-kit` en Client Component pour drag & drop des cartes (Sprint 2.1 ou fin Sprint 2 en polish). Backend `updateDossierStatus` déjà prêt.
-- 🟡 **Autocompletion adresse BAN** dans le wizard : non câblée (existe sur le questionnaire public, à porter).
-- 🟡 **Step-by-step linéaire** (10 étapes PRD) : pour l'instant un formulaire à sections. À arbitrer avec Servicimmo en Sprint 8 selon feedback power-users.
+## 🟡 Nice-to-have
 
-### Sprint 1 — DB + auth + contacts
+- **Pappers API** (`PAPPERS_API_KEY`) : enrichissement SIRET automatique des contacts prescripteurs.
+- **UI signature électronique** dans le portail demandes (stub actuel → canvas ou service tiers type Yousign).
+- **Prévisualisation PDF/image inline** des documents dossier (actuellement téléchargement).
+- **Filtres de période** sur `/app/statistiques` (actuellement 12 mois fixes).
+- **Export CSV récap mensuel** (F-26).
+- **Bouton "Exporter FEC"** visible dans le menu paramètres (déjà sur la page Paramètres, à évidenter si besoin).
+- **Logo + charte définitifs** : `lib/clients/servicimmo/branding.ts` contient des valeurs provisoires. Remplacer avec les assets finaux Servicimmo.
+- **Audit accessibilité WCAG AA** (outil : axe DevTools).
+- **Audit perf** (Lighthouse, bundle analyzer).
+- **Doc utilisateur** : Loom de parcours-clé avec Servicimmo (à enregistrer pendant la phase de recette).
+- **Monitoring** : brancher Sentry ou Vercel Analytics sur les erreurs prod.
 
-- 🔴 **Provisionner projets Supabase** `servicimmo-dev` + `servicimmo-prod` sur supabase.com, remplir `.env.local` avec URL + anon_key + service_role.
-- 🔴 **Appliquer migrations 0001→0004** sur Supabase (SQL Editor ou CLI).
-- 🟠 **Infos cabinet Servicimmo à remplir dans `organizations`** : SIRET, IBAN, TVA intracommunautaire, adresse complète. Stub pour l'instant (cf. seed migration 0004).
-- 🟠 **Créer le premier utilisateur admin** dans Supabase Auth (Lyes et/ou Etienne) puis insérer la ligne `users_profiles` avec `role='admin'` et `organization_id` = id de Servicimmo.
-- 🟡 **`PAPPERS_API_KEY`** — nécessaire pour l'enrichissement SIRET automatique des prescripteurs (UX nice-to-have, fallback saisie manuelle).
+---
 
+## 🟡 Dette technique consciente
+
+- **Cast `supabase.rpc(...) as unknown as ...`** dans `lib/features/devis/actions.ts` : les fonctions plpgsql (generate_devis_reference etc.) ne sont pas déclarées dans `Database.Functions`. À ajouter quand on aura `supabase gen types` branché.
+- **Client pricing.ts** fait un import dynamique de `@/lib/supabase/server` : rompt techniquement le principe "core pur" mais fallback garantit aucune dépendance runtime si Supabase absent. À corriger en déplaçant `loadPricingGrid` vers `lib/features/tarification/`.
+
+---
+
+## Récapitulatif par sprint
+
+| Sprint | Livré (code) | Bloquant prod |
+|---|---|---|
+| 0 | Architecture | — |
+| 1 | DB + auth + contacts | Supabase provisioning |
+| 2 | Dossiers + wizard + Kanban | Migration 0005 |
+| 3 | Agenda + documents | Bucket Storage |
+| 4 | Devis + factures + tarification | Grille tarifaire réelle |
+| 5 | Stripe + relances + FEC + Resend | Stripe + Resend + Edge Function |
+| 6 | Demandes de documents | Bucket `demande-uploads` |
+| 7 | Dashboard + stats | — |
+| 8 | Paramètres + E2E smoke | UI admin éditables |
