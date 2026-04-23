@@ -2,7 +2,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeftIcon } from "lucide-react";
 
+import { listContacts } from "@/lib/features/contacts/queries";
 import { getDossier } from "@/lib/features/dossiers/queries";
+import { listTechniciens } from "@/lib/features/users/queries";
 
 import { DossierWizard } from "./DossierWizard";
 
@@ -26,6 +28,11 @@ export default async function DossierDetailPage({ params, searchParams }: PagePr
   const [{ id }, { tab }] = await Promise.all([params, searchParams]);
   const dossier = await getDossier(id);
   if (!dossier) notFound();
+
+  const [{ contacts }, techniciens] = await Promise.all([
+    listContacts(),
+    listTechniciens(),
+  ]);
 
   const activeTab = tab && TABS.some((t) => t.id === tab) ? tab : "dossier";
 
@@ -67,7 +74,11 @@ export default async function DossierDetailPage({ params, searchParams }: PagePr
 
       {/* Content */}
       {activeTab === "dossier" ? (
-        <DossierWizard dossier={dossier} />
+        <DossierWizard
+          dossier={dossier}
+          contacts={contacts}
+          techniciens={techniciens}
+        />
       ) : (
         <StubTab label={TABS.find((t) => t.id === activeTab)?.label ?? activeTab} />
       )}
