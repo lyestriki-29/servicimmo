@@ -1,12 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { useActionState } from "react";
+import { useActionState, useRef } from "react";
 
 import { sendMagicLink, signInWithPassword } from "@/lib/features/auth/actions";
 import type { AuthActionState } from "@/lib/features/auth/types";
 
 const INITIAL: AuthActionState = { status: "idle" };
+
+const DEMO_EMAIL = process.env.NEXT_PUBLIC_DEMO_EMAIL ?? "";
+const DEMO_PASSWORD = process.env.NEXT_PUBLIC_DEMO_PASSWORD ?? "";
+const DEMO_ENABLED = !!(DEMO_EMAIL && DEMO_PASSWORD);
 
 export function LoginForm() {
   const [passwordState, passwordAction, passwordPending] = useActionState(
@@ -14,6 +18,17 @@ export function LoginForm() {
     INITIAL
   );
   const [magicState, magicAction, magicPending] = useActionState(sendMagicLink, INITIAL);
+  const passwordFormRef = useRef<HTMLFormElement>(null);
+
+  const fillDemo = () => {
+    const form = passwordFormRef.current;
+    if (!form) return;
+    const email = form.elements.namedItem("email") as HTMLInputElement | null;
+    const password = form.elements.namedItem("password") as HTMLInputElement | null;
+    if (email) email.value = DEMO_EMAIL;
+    if (password) password.value = DEMO_PASSWORD;
+    form.requestSubmit();
+  };
 
   return (
     <div className="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm">
@@ -22,7 +37,7 @@ export function LoginForm() {
         Accès admin / diagnostiqueur à l&apos;app Pilote.
       </p>
 
-      <form action={passwordAction} className="mt-5 flex flex-col gap-3">
+      <form ref={passwordFormRef} action={passwordAction} className="mt-5 flex flex-col gap-3">
         <Field
           label="Email"
           name="email"
@@ -49,6 +64,16 @@ export function LoginForm() {
         >
           {passwordPending ? "Connexion…" : "Se connecter"}
         </button>
+        {DEMO_ENABLED ? (
+          <button
+            type="button"
+            onClick={fillDemo}
+            disabled={passwordPending}
+            className="inline-flex items-center justify-center rounded-lg border border-dashed border-neutral-300 bg-neutral-50 px-4 py-2 text-[13px] text-neutral-600 hover:border-neutral-500 hover:text-neutral-900 disabled:opacity-60"
+          >
+            Connexion démo (admin de test)
+          </button>
+        ) : null}
       </form>
 
       <div className="my-5 flex items-center gap-3 text-[11px] uppercase tracking-widest text-neutral-400">
