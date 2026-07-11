@@ -32,6 +32,12 @@ describe("classifyUrl", () => {
     expect(r.slugPropose).toBe("amiante-avant-travaux");
   });
 
+  it("limite connue : ville multi-segment dans une URL service → slug partiel (corrigé au mapping)", () => {
+    const r = classifyUrl("https://www.servicimmo.fr/amiante-avant-travaux-joue-les-tours-37300.html");
+    expect(r.type).toBe("service");
+    expect(r.slugPropose).toBe("amiante-avant-travaux-joue-les");
+  });
+
   it("classe la racine en structurelle", () => {
     expect(classifyUrl("https://www.servicimmo.fr/").type).toBe("structurelle");
   });

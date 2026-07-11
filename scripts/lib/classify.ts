@@ -38,7 +38,9 @@ export function classifyUrl(url: string): UrlClassee {
   const service = chemin.match(/^\/([a-z0-9-]+)\.html$/);
   if (service?.[1]) {
     // retire un éventuel suffixe « -<ville>-<cp> » (ex: amiante-avant-travaux-tours-37000)
-    // Force un seul segment pour la ville (ex: -tours-37000) pour éviter le greedy matching
+    // Limite connue : seul un nom de ville MONO-segment est retiré ; une ville multi-segment
+    // (ex: -joue-les-tours-37300) laisse un slugPropose partiel (…-joue-les), corrigé à la main
+    // dans scripts/out/mapping-services.json au palier humain.
     const slugPropose = service[1].replace(/-[a-z]+-\d{5}$/, "");
     return { chemin, type: "service", slugPropose };
   }
