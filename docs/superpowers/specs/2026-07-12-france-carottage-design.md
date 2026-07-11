@@ -66,9 +66,14 @@ Toutes les anciennes URLs `.html` → 301 (host-based). Le lien « ESPACE CLIENT
 
 ## 8. Design FC
 
-- Tokens dédiés dans `app/globals.css` : `--fc-rouge` (rouge FC ≈ #B32024, à pipeter sur le logo réel), `--fc-noir`, `--fc-blanc-casse`, `--fc-gris`. Interdiction d'utiliser les tokens `--color-si-*` dans `components/carottage/`.
-- Composants dédiés `components/carottage/` : HeaderFC (bandeau utilitaire noir + barre blanche, bouton Servicimmo animé), FooterFC, HeroFC, sections home, gabarits. Réutilisation des primitives neutres (`Reveal`, `JsonLd`, carte Leaflet paramétrée France entière).
-- Qualité cible = home Servicimmo validée : espacements généreux, hiérarchie typo stricte, imagerie chantier réelle (photos du site actuel récupérées au scraping, si qualité suffisante).
+**Directive Etienne (2026-07-12) : UI/UX professionnelle, inspirée du nouveau site Servicimmo, SANS copier-coller.** Concrètement :
+
+- **On reprend les standards de qualité** (invisibles à l'œil nu) : grille 1280 px, rythme vertical, hiérarchie typo stricte, niveaux d'ombre doux, micro-interactions 250 ms, reveals au scroll, accessibilité AA.
+- **On ne reprend PAS le langage visuel** : interdiction de transposer une section Servicimmo telle quelle (hero à panneau, cartes à liseré crème, bandeau 2 niveaux pétrole…). FC a sa propre composition : hero structurellement différent (pleine largeur image chantier + typographie massive plutôt que panneau), sections à dominante noir/blanc avec le rouge en accent chirurgical (boutons, soulignés, chiffres), imagerie terrain (chantiers, machines, carottes d'enrobés) là où Servicimmo est résidentiel.
+- Tokens dédiés dans `app/globals.css` : `--fc-rouge` (à pipeter sur le logo réel, ≈ #B32024), `--fc-noir`, `--fc-blanc-casse`, `--fc-gris`. Interdiction d'utiliser les tokens `--color-si-*` dans `components/carottage/`.
+- Composants dédiés `components/carottage/` : HeaderFC (bandeau utilitaire noir + barre blanche, bouton Servicimmo animé), FooterFC, HeroFC, sections home, gabarits. Réutilisation des primitives neutres uniquement (`Reveal`, `JsonLd`, carte Leaflet paramétrée France entière).
+- Qualité cible = niveau de la home Servicimmo validée ; imagerie chantier réelle (photos du site actuel récupérées au scraping, si qualité suffisante).
+- La tranche FC2 (design system + home) passe par la méthodologie de peaufinage Propulseo avant validation visuelle.
 
 ## 9. Cross-linking animé Servicimmo ↔ FC
 
