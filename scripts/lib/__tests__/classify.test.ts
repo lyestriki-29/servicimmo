@@ -26,6 +26,12 @@ describe("classifyUrl", () => {
     expect(r.slugPropose).toBe("amiante-enrobes-bitumineux-protegez-convenablement-chantiers");
   });
 
+  it("détecte un article de la série -aN.html", () => {
+    const r = classifyUrl("https://www.servicimmo.fr/le-dpe-va-t-il-etre-opposable-a13.html");
+    expect(r.type).toBe("article");
+    expect(r.slugPropose).toBe("le-dpe-va-t-il-etre-opposable");
+  });
+
   it("détecte un service et retire le suffixe ville-cp", () => {
     const r = classifyUrl("https://www.servicimmo.fr/amiante-avant-travaux-tours-37000.html");
     expect(r.type).toBe("service");

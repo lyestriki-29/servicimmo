@@ -30,7 +30,8 @@ export function classifyUrl(url: string): UrlClassee {
     return { chemin, type: "ville", slugPropose: ville[1] };
   }
 
-  const article = chemin.match(/^\/([a-z0-9-]+)-i\d+\.html$/);
+  // Deux séries d'articles sur l'ancien site : « -iN » (série historique du blog) et « -aN » (série principale).
+  const article = chemin.match(/^\/([a-z0-9-]+)-[ia]\d+\.html$/);
   if (article?.[1]) {
     return { chemin, type: "article", slugPropose: article[1] };
   }
