@@ -17,6 +17,7 @@
 | SEO technique | **Inclus** : 301 des ~193 anciennes URLs, sitemap, robots, metadata, JSON-LD |
 | Page « à propos » | **Non** — la section home `/#apropos` (validée) fait le travail |
 | Formulaire contact | **Non** — le questionnaire reste l'unique tunnel ; tél + adresse + mailto suffisent |
+| Home | Validée client, **pas de refonte** — mais une **passe de polish** en fin de chantier (méthodo peaufinage Propulseo) : micro-améliorations (transitions, reveals, rythme, détails), **aucun changement de structure ni de contenu** sans validation |
 
 ## 2. Hors périmètre
 
@@ -109,7 +110,8 @@ Continuité **stricte** de la home validée : palette pétrole/crème, typo Sora
 | 4 | Actualités : gabarit + pagination + 100 articles reformulés | Échantillon 10 articles relu ; règle « archive » appliquée |
 | 5 | Contact enrichi + mentions légales + CGV réelles | Rendu vérifié ; contenu légal flaggé « à valider Servicimmo » |
 | 6 | SEO : 301, sitemap, robots, JSON-LD, metadata | Test automatisé : chaque ancienne URL → 301 → 200 ; sitemap valide |
-| 7 | QA finale | `typecheck` + `lint` + `test` + e2e verts ; Lighthouse ≥ 90 mobile sur 1 page de chaque type ; parcours réel vérifié en local |
+| 7 | Polish transversal : passe de peaufinage sur la home (validée → micro-améliorations seulement) + cohérence inter-pages (transitions, reveals, rythme vertical, liserés/cartes) | Screenshots avant/après ; zéro changement de structure/contenu sur la home |
+| 8 | QA finale | `typecheck` + `lint` + `test` + e2e verts ; Lighthouse ≥ 90 mobile sur 1 page de chaque type ; parcours réel vérifié en local |
 
 Travail sur une branche dédiée `feat/vitrine-pages-completes` (depuis `feat/vitrine-home-portage`), commits par tranche, déploiement Coolify en fin de chantier pour validation client.
 
