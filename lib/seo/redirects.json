@@ -1,0 +1,678 @@
+[
+  {
+    "source": "/amiante-avant-travaux-tours-37000.html",
+    "destination": "/services/amiante-avant-travaux"
+  },
+  {
+    "source": "/amiante-enrobes-bitumineux-protegez-convenablement-chantiers-i18.html",
+    "destination": "/actualites/amiante-enrobes-bitumineux-protegez-convenablement-chantiers"
+  },
+  {
+    "source": "/construction-attestation-rt-2012-obligatoire-i16.html",
+    "destination": "/actualites/construction-attestation-rt-2012-obligatoire"
+  },
+  {
+    "source": "/diagnostic-avant-demolition-tours-37000.html",
+    "destination": "/services/diagnostic-avant-demolition"
+  },
+  {
+    "source": "/diagnostic-immobilier-amboise-37400.html",
+    "destination": "/zones/amboise"
+  },
+  {
+    "source": "/diagnostic-immobilier-azay-le-rideau-37190.html",
+    "destination": "/zones/azay-le-rideau"
+  },
+  {
+    "source": "/diagnostic-immobilier-blere-37150.html",
+    "destination": "/zones/blere"
+  },
+  {
+    "source": "/diagnostic-immobilier-chambray-les-tours-37170.html",
+    "destination": "/zones/chambray-les-tours"
+  },
+  {
+    "source": "/diagnostic-immobilier-chateau-renault-37110.html",
+    "destination": "/zones/chateau-renault"
+  },
+  {
+    "source": "/diagnostic-immobilier-chinon-37500.html",
+    "destination": "/zones/chinon"
+  },
+  {
+    "source": "/diagnostic-immobilier-fondettes-37230.html",
+    "destination": "/zones/fondettes"
+  },
+  {
+    "source": "/diagnostic-immobilier-joue-les-tours-37300.html",
+    "destination": "/zones/joue-les-tours"
+  },
+  {
+    "source": "/diagnostic-immobilier-la-membrolle-sur-choisille-37390.html",
+    "destination": "/zones/la-membrolle-sur-choisille"
+  },
+  {
+    "source": "/diagnostic-immobilier-langeais-37130.html",
+    "destination": "/zones/langeais"
+  },
+  {
+    "source": "/diagnostic-immobilier-ligueil-37240.html",
+    "destination": "/zones/ligueil"
+  },
+  {
+    "source": "/diagnostic-immobilier-loches-37600.html",
+    "destination": "/zones/loches"
+  },
+  {
+    "source": "/diagnostic-immobilier-luynes-37230.html",
+    "destination": "/zones/luynes"
+  },
+  {
+    "source": "/diagnostic-immobilier-montbazon-37250.html",
+    "destination": "/zones/montbazon"
+  },
+  {
+    "source": "/diagnostic-immobilier-montlouis-sur-loire-37270.html",
+    "destination": "/zones/montlouis-sur-loire"
+  },
+  {
+    "source": "/diagnostic-immobilier-saint-cyr-sur-loire-37540.html",
+    "destination": "/zones/saint-cyr-sur-loire"
+  },
+  {
+    "source": "/diagnostic-immobilier-saint-pierre-des-corps-37700.html",
+    "destination": "/zones/saint-pierre-des-corps"
+  },
+  {
+    "source": "/diagnostic-immobilier-sainte-maure-de-touraine-37800.html",
+    "destination": "/zones/sainte-maure-de-touraine"
+  },
+  {
+    "source": "/diagnostic-indispensable-tous-logements-anterieurs-au-1er-juillet-1997-i2.html",
+    "destination": "/actualites/diagnostic-indispensable-tous-logements-anterieurs-au-1er-juillet-1997"
+  },
+  {
+    "source": "/dpe-amboise-37400.html",
+    "destination": "/zones/amboise"
+  },
+  {
+    "source": "/dpe-azay-le-rideau-37190.html",
+    "destination": "/zones/azay-le-rideau"
+  },
+  {
+    "source": "/dpe-blere-37150.html",
+    "destination": "/zones/blere"
+  },
+  {
+    "source": "/dpe-chambray-les-tours-37170.html",
+    "destination": "/zones/chambray-les-tours"
+  },
+  {
+    "source": "/dpe-chateau-renault-37110.html",
+    "destination": "/zones/chateau-renault"
+  },
+  {
+    "source": "/dpe-chinon-37500.html",
+    "destination": "/zones/chinon"
+  },
+  {
+    "source": "/dpe-commerce-tours-37000.html",
+    "destination": "/services/dpe-tertiaire"
+  },
+  {
+    "source": "/dpe-fondettes-37230.html",
+    "destination": "/zones/fondettes"
+  },
+  {
+    "source": "/dpe-joue-les-tours-37300.html",
+    "destination": "/zones/joue-les-tours"
+  },
+  {
+    "source": "/dpe-la-membrolle-sur-choisille-37390.html",
+    "destination": "/zones/la-membrolle-sur-choisille"
+  },
+  {
+    "source": "/dpe-langeais-37130.html",
+    "destination": "/zones/langeais"
+  },
+  {
+    "source": "/dpe-ligueil-37240.html",
+    "destination": "/zones/ligueil"
+  },
+  {
+    "source": "/dpe-loches-37600.html",
+    "destination": "/zones/loches"
+  },
+  {
+    "source": "/dpe-luynes-37230.html",
+    "destination": "/zones/luynes"
+  },
+  {
+    "source": "/dpe-montbazon-37250.html",
+    "destination": "/zones/montbazon"
+  },
+  {
+    "source": "/dpe-montlouis-sur-loire-37270.html",
+    "destination": "/zones/montlouis-sur-loire"
+  },
+  {
+    "source": "/dpe-saint-cyr-sur-loire-37540.html",
+    "destination": "/zones/saint-cyr-sur-loire"
+  },
+  {
+    "source": "/dpe-sainte-maure-de-touraine-37800.html",
+    "destination": "/zones/sainte-maure-de-touraine"
+  },
+  {
+    "source": "/dpe-tours-37000.html",
+    "destination": "/services/dpe"
+  },
+  {
+    "source": "/etat-lieux-document-indispensable-gerer-sereinement-location-i22.html",
+    "destination": "/actualites/etat-lieux-document-indispensable-gerer-sereinement-location"
+  },
+  {
+    "source": "/expertise-peintures-anciennes-obligatoire-tous-logements-anterieurs-1949-i3.html",
+    "destination": "/actualites/expertise-peintures-anciennes-obligatoire-tous-logements-anterieurs-1949"
+  },
+  {
+    "source": "/fin-chantier-desamiantage-pensez-au-constat-visuel-apres-travaux-i20.html",
+    "destination": "/actualites/fin-chantier-desamiantage-pensez-au-constat-visuel-apres-travaux"
+  },
+  {
+    "source": "/formulaire-information-futurs-proprietaires-ou-locataires-i9.html",
+    "destination": "/actualites/formulaire-information-futurs-proprietaires-ou-locataires"
+  },
+  {
+    "source": "/installation-electricite-ancienne-pensez-diagnostiquer-logement-avant-toute-transaction-i8.html",
+    "destination": "/actualites/installation-electricite-ancienne-pensez-diagnostiquer-logement-avant-toute-transaction"
+  },
+  {
+    "source": "/location-logements-vides-assurez-connaitre-surface-habitable-i6.html",
+    "destination": "/actualites/location-logements-vides-assurez-connaitre-surface-habitable"
+  },
+  {
+    "source": "/logements-equipes-installation-gaz-ancienne-pensez-diagnostic-avant-transaction-i5.html",
+    "destination": "/actualites/logements-equipes-installation-gaz-ancienne-pensez-diagnostic-avant-transaction"
+  },
+  {
+    "source": "/logements-situes-territoire-risque-infestation-oubliez-pas-diagnostic-termites-avant-mise-vente-i4.html",
+    "destination": "/actualites/logements-situes-territoire-risque-infestation-oubliez-pas-diagnostic-termites-avant-mise-vente"
+  },
+  {
+    "source": "/mesures-empoussierement-controle-qualite-air-indispensable-presence-amiante-i21.html",
+    "destination": "/actualites/mesures-empoussierement-controle-qualite-air-indispensable-presence-amiante"
+  },
+  {
+    "source": "/performance-energetique-diagnostic-desormais-obligatoire-coproprietes-i17.html",
+    "destination": "/actualites/performance-energetique-diagnostic-desormais-obligatoire-coproprietes"
+  },
+  {
+    "source": "/performance-energetique-dpe-aussi-obligatoire-locaux-tertiaires-i19.html",
+    "destination": "/actualites/performance-energetique-dpe-aussi-obligatoire-locaux-tertiaires"
+  },
+  {
+    "source": "/performance-energetique-information-obligatoire-vendre-ou-louer-bien-immobilier-i7.html",
+    "destination": "/actualites/performance-energetique-information-obligatoire-vendre-ou-louer-bien-immobilier"
+  },
+  {
+    "source": "/references-clients-i24.html",
+    "destination": "/actualites/references-clients"
+  },
+  {
+    "source": "/risque-amiante-coproprietes-servicimmo-occupe-dta-i13.html",
+    "destination": "/actualites/risque-amiante-coproprietes-servicimmo-occupe-dta"
+  },
+  {
+    "source": "/termites-amiante-ou-plomb-preparez-sereinement-securisation-chantiers-i14.html",
+    "destination": "/actualites/termites-amiante-ou-plomb-preparez-sereinement-securisation-chantiers"
+  },
+  {
+    "source": "/touche-finale-conformite-rt-2012-i15.html",
+    "destination": "/actualites/touche-finale-conformite-rt-2012"
+  },
+  {
+    "source": "/toutes-obligations-bailleurs-servicimmo-i10.html",
+    "destination": "/actualites/toutes-obligations-bailleurs-servicimmo"
+  },
+  {
+    "source": "/toutes-obligations-vendeurs-servicimmo-i11.html",
+    "destination": "/actualites/toutes-obligations-vendeurs-servicimmo"
+  },
+  {
+    "source": "/vente-lots-copropriete-assurez-detenir-certificat-metrage-surface-privative-i12.html",
+    "destination": "/actualites/vente-lots-copropriete-assurez-detenir-certificat-metrage-surface-privative"
+  },
+  {
+    "source": "/mise-en-place-d-une-obligation-d-amelioration-de-la-performance-energetique-dans-les-batiments-existants-a-usage-tertiaire-a4.html",
+    "destination": "/actualites/mise-en-place-d-une-obligation-d-amelioration-de-la-performance-energetique-dans-les-batiments-existants-a-usage-tertiaire"
+  },
+  {
+    "source": "/attention-les-dpe-qui-ont-10-ans-sont-a-refaire-a5.html",
+    "destination": "/actualites/attention-les-dpe-qui-ont-10-ans-sont-a-refaire"
+  },
+  {
+    "source": "/location-le-gaz-et-l-electricite-a6.html",
+    "destination": "/actualites/location-le-gaz-et-l-electricite"
+  },
+  {
+    "source": "/lresris-ex-ernmt-obligatoire-depuis-janvier-2018-a7.html",
+    "destination": "/actualites/lresris-ex-ernmt-obligatoire-depuis-janvier-2018"
+  },
+  {
+    "source": "/pourquoi-faut-il-faire-realiser-un-diagnostic-termites-en-indre-et-loire-a8.html",
+    "destination": "/actualites/pourquoi-faut-il-faire-realiser-un-diagnostic-termites-en-indre-et-loire"
+  },
+  {
+    "source": "/faut-il-toujours-faire-appel-a-un-diagnostiqueur-certifie-a9.html",
+    "destination": "/actualites/faut-il-toujours-faire-appel-a-un-diagnostiqueur-certifie"
+  },
+  {
+    "source": "/loi-elan-et-bail-mobilite-faudra-t-il-fournir-des-diagnostics-immobiliers-a10.html",
+    "destination": "/actualites/loi-elan-et-bail-mobilite-faudra-t-il-fournir-des-diagnostics-immobiliers"
+  },
+  {
+    "source": "/lrintegration-du-potentiel-radon-dans-lresris-a11.html",
+    "destination": "/actualites/lrintegration-du-potentiel-radon-dans-lresris"
+  },
+  {
+    "source": "/lresris-devient-lrerp-etat-des-risques-et-pollutions-a12.html",
+    "destination": "/actualites/lresris-devient-lrerp-etat-des-risques-et-pollutions"
+  },
+  {
+    "source": "/le-dpe-va-t-il-etre-opposable-a13.html",
+    "destination": "/actualites/le-dpe-va-t-il-etre-opposable"
+  },
+  {
+    "source": "/la-volonte-politique-drencourager-la-renovation-energetique-a14.html",
+    "destination": "/actualites/la-volonte-politique-drencourager-la-renovation-energetique"
+  },
+  {
+    "source": "/la-loi-elan-et-diagnostics-location-a15.html",
+    "destination": "/actualites/la-loi-elan-et-diagnostics-location"
+  },
+  {
+    "source": "/le-dpe-opposable-a-compter-de-janvier-2021-a16.html",
+    "destination": "/actualites/le-dpe-opposable-a-compter-de-janvier-2021"
+  },
+  {
+    "source": "/projets-urbains-en-2019-a-tours-renovation-de-8-sites-a17.html",
+    "destination": "/actualites/projets-urbains-en-2019-a-tours-renovation-de-8-sites"
+  },
+  {
+    "source": "/quelles-sont-les-aides-a-la-renovation-energetique-en-indre-et-loire-en-2019-a18.html",
+    "destination": "/actualites/quelles-sont-les-aides-a-la-renovation-energetique-en-indre-et-loire-en-2019"
+  },
+  {
+    "source": "/faut-il-mettre-en-place-une-interdiction-de-louer-un-logement-energivore-a19.html",
+    "destination": "/actualites/faut-il-mettre-en-place-une-interdiction-de-louer-un-logement-energivore"
+  },
+  {
+    "source": "/le-carnet-numerique-du-logement-obligatoire-a-compter-de-2020-a20.html",
+    "destination": "/actualites/le-carnet-numerique-du-logement-obligatoire-a-compter-de-2020"
+  },
+  {
+    "source": "/exposition-a-lramiante-et-indemnisation-du-prejudice-dranxiete-a21.html",
+    "destination": "/actualites/exposition-a-lramiante-et-indemnisation-du-prejudice-dranxiete"
+  },
+  {
+    "source": "/quelques-conseils-pour-obtenir-un-bon-etat-des-lieux-a22.html",
+    "destination": "/actualites/quelques-conseils-pour-obtenir-un-bon-etat-des-lieux"
+  },
+  {
+    "source": "/projet-de-loi-energie-climat-et-performance-energetique-des-logements-a23.html",
+    "destination": "/actualites/projet-de-loi-energie-climat-et-performance-energetique-des-logements"
+  },
+  {
+    "source": "/particuliersn-pensez-au-reperage-amiante-avant-travauxn-a24.html",
+    "destination": "/actualites/particuliersn-pensez-au-reperage-amiante-avant-travauxn"
+  },
+  {
+    "source": "/dpe-des-logements-et-renovation-energetique-en-indre-et-loire-a25.html",
+    "destination": "/actualites/dpe-des-logements-et-renovation-energetique-en-indre-et-loire"
+  },
+  {
+    "source": "/faut-il-creer-un-diagnostic-habitabilite-du-logement-a26.html",
+    "destination": "/actualites/faut-il-creer-un-diagnostic-habitabilite-du-logement"
+  },
+  {
+    "source": "/que-sait-on-de-la-nouvelle-reglementation-re2020-a27.html",
+    "destination": "/actualites/que-sait-on-de-la-nouvelle-reglementation-re2020"
+  },
+  {
+    "source": "/le-point-sur-la-reforme-du-dpe-bientot-opposable-a28.html",
+    "destination": "/actualites/le-point-sur-la-reforme-du-dpe-bientot-opposable"
+  },
+  {
+    "source": "/lancement-de-lraide-a-la-renovation-energetique-maprimerenov-a29.html",
+    "destination": "/actualites/lancement-de-lraide-a-la-renovation-energetique-maprimerenov"
+  },
+  {
+    "source": "/lramiante-dans-les-ecoles-et-etablissements-scolaires-a30.html",
+    "destination": "/actualites/lramiante-dans-les-ecoles-et-etablissements-scolaires"
+  },
+  {
+    "source": "/calendrier-re-2020-et-polemique-autour-de-la-consommation-energetique-a31.html",
+    "destination": "/actualites/calendrier-re-2020-et-polemique-autour-de-la-consommation-energetique"
+  },
+  {
+    "source": "/comment-allier-covid-19-diagnostics-immobiliers-et-reperages-amianten-a32.html",
+    "destination": "/actualites/comment-allier-covid-19-diagnostics-immobiliers-et-reperages-amianten"
+  },
+  {
+    "source": "/report-de-lrentree-en-vigueur-de-la-re-2020-et-de-la-reforme-du-dpe-a33.html",
+    "destination": "/actualites/report-de-lrentree-en-vigueur-de-la-re-2020-et-de-la-reforme-du-dpe"
+  },
+  {
+    "source": "/juin-2020-information-sur-le-plan-drexposition-au-bruit-dans-le-ddt-a34.html",
+    "destination": "/actualites/juin-2020-information-sur-le-plan-drexposition-au-bruit-dans-le-ddt"
+  },
+  {
+    "source": "/nouveau-decret-de-decence-energetique-des-logements-en-location-a35.html",
+    "destination": "/actualites/nouveau-decret-de-decence-energetique-des-logements-en-location"
+  },
+  {
+    "source": "/mettez-a-jour-le-dossier-technique-amiante-dta-avant-fevrier-2021-a36.html",
+    "destination": "/actualites/mettez-a-jour-le-dossier-technique-amiante-dta-avant-fevrier-2021"
+  },
+  {
+    "source": "/acces-aux-donnees-dpe-des-logements-et-batiments-publics-a37.html",
+    "destination": "/actualites/acces-aux-donnees-dpe-des-logements-et-batiments-publics"
+  },
+  {
+    "source": "/chantiers-en-presence-dramianten-nouvelles-publications-a38.html",
+    "destination": "/actualites/chantiers-en-presence-dramianten-nouvelles-publications"
+  },
+  {
+    "source": "/peut-on-faire-realiser-les-diagnostics-immobiliers-en-confinementn-a39.html",
+    "destination": "/actualites/peut-on-faire-realiser-les-diagnostics-immobiliers-en-confinementn"
+  },
+  {
+    "source": "/publication-de-la-norme-du-reperage-amiante-sur-enrobes-routiers-a40.html",
+    "destination": "/actualites/publication-de-la-norme-du-reperage-amiante-sur-enrobes-routiers"
+  },
+  {
+    "source": "/reforme-du-diagnostic-de-performance-energetiquen-nouveau-dpe-2021-a41.html",
+    "destination": "/actualites/reforme-du-diagnostic-de-performance-energetiquen-nouveau-dpe-2021"
+  },
+  {
+    "source": "/seuil-de-performance-energetique-minimal-avant-locationseuil-de-performance-energetique-minimal-avant-location-immobiliere-immobiliere-a42.html",
+    "destination": "/actualites/seuil-de-performance-energetique-minimal-avant-locationseuil-de-performance-energetique-minimal-avant-location-immobiliere-immobiliere"
+  },
+  {
+    "source": "/le-nouveau-diagnostic-de-performance-energetique-dpe-a43.html",
+    "destination": "/actualites/le-nouveau-diagnostic-de-performance-energetique-dpe"
+  },
+  {
+    "source": "/nouveau-diagnostic-decence-synthese-des-diagnostics-immobiliers-a44.html",
+    "destination": "/actualites/nouveau-diagnostic-decence-synthese-des-diagnostics-immobiliers"
+  },
+  {
+    "source": "/loi-climat-et-resiliencen-quels-changements-pour-les-proprietairesn-a45.html",
+    "destination": "/actualites/loi-climat-et-resiliencen-quels-changements-pour-les-proprietairesn"
+  },
+  {
+    "source": "/le-dpe-des-logements-prend-de-lrimportance-pour-les-acquereurs-a46.html",
+    "destination": "/actualites/le-dpe-des-logements-prend-de-lrimportance-pour-les-acquereurs"
+  },
+  {
+    "source": "/nouvel-arrete-relatif-a-lretat-des-risques-avant-location-ou-vente-a47.html",
+    "destination": "/actualites/nouvel-arrete-relatif-a-lretat-des-risques-avant-location-ou-vente"
+  },
+  {
+    "source": "/loi-climatn-calendrier-des-obligations-des-proprietaires-de-logements-a48.html",
+    "destination": "/actualites/loi-climatn-calendrier-des-obligations-des-proprietaires-de-logements"
+  },
+  {
+    "source": "/nouvel-arrete-reperage-amiante-avant-travaux-en-milieu-industriel-a49.html",
+    "destination": "/actualites/nouvel-arrete-reperage-amiante-avant-travaux-en-milieu-industriel"
+  },
+  {
+    "source": "/fiabilisation-de-la-methode-de-calcul-du-nouveau-dpe-a50.html",
+    "destination": "/actualites/fiabilisation-de-la-methode-de-calcul-du-nouveau-dpe"
+  },
+  {
+    "source": "/creation-du-service-public-de-la-renovation-de-lrhabitat-france-renovr-a51.html",
+    "destination": "/actualites/creation-du-service-public-de-la-renovation-de-lrhabitat-france-renovr"
+  },
+  {
+    "source": "/nouvelle-reglementation-thermique-attestations-re2020-a54.html",
+    "destination": "/actualites/nouvelle-reglementation-thermique-attestations-re2020"
+  },
+  {
+    "source": "/nouvelles-informations-du-dpe-a-afficher-dans-les-annonces-immobilieres-a55.html",
+    "destination": "/actualites/nouvelles-informations-du-dpe-a-afficher-dans-les-annonces-immobilieres"
+  },
+  {
+    "source": "/parution-de-la-norme-pour-le-ratn-reperage-amiante-environnemental-a53.html",
+    "destination": "/actualites/parution-de-la-norme-pour-le-ratn-reperage-amiante-environnemental"
+  },
+  {
+    "source": "/mesure-drempoussierement-amianten-une-methode-qui-fait-appel-a-lrintelligence-artificielle-a56.html",
+    "destination": "/actualites/mesure-drempoussierement-amianten-une-methode-qui-fait-appel-a-lrintelligence-artificielle"
+  },
+  {
+    "source": "/que-reserve-la-future-adoption-de-la-dpeb-au-diagnostic-de-performance-energetique-a57.html",
+    "destination": "/actualites/que-reserve-la-future-adoption-de-la-dpeb-au-diagnostic-de-performance-energetique"
+  },
+  {
+    "source": "/location-immobilieren-les-regles-de-decence-srappliquent-pendant-toute-la-duree-du-bail-a60.html",
+    "destination": "/actualites/location-immobilieren-les-regles-de-decence-srappliquent-pendant-toute-la-duree-du-bail"
+  },
+  {
+    "source": "/rat-dans-un-document-de-prevention-au-risque-amiante-lrinrs-rappelle-cette-expertise-a59.html",
+    "destination": "/actualites/rat-dans-un-document-de-prevention-au-risque-amiante-lrinrs-rappelle-cette-expertise"
+  },
+  {
+    "source": "/proprietaires-vendeurs-bailleurs-des-mesures-qui-vous-concernent-depuis-le-1er-juillet-2022n-a61.html",
+    "destination": "/actualites/proprietaires-vendeurs-bailleurs-des-mesures-qui-vous-concernent-depuis-le-1er-juillet-2022n"
+  },
+  {
+    "source": "/audit-energetique-gel-des-loyers-bouclier-loyer-le-point-sur-vos-actualites-draout-2022-a62.html",
+    "destination": "/actualites/audit-energetique-gel-des-loyers-bouclier-loyer-le-point-sur-vos-actualites-draout-2022"
+  },
+  {
+    "source": "/amiante-des-guides-toujours-plus-nombreux-pour-alerter-sur-les-risques-lies-a-ce-polluant-a63.html",
+    "destination": "/actualites/amiante-des-guides-toujours-plus-nombreux-pour-alerter-sur-les-risques-lies-a-ce-polluant"
+  },
+  {
+    "source": "/etat-des-risques-et-pollutions-un-nouveau-regard-sur-ce-formulaire-a-compter-de-janvier-2023-a64.html",
+    "destination": "/actualites/etat-des-risques-et-pollutions-un-nouveau-regard-sur-ce-formulaire-a-compter-de-janvier-2023"
+  },
+  {
+    "source": "/dpe-et-decence-lrenergie-finale-consommee-par-metre-carre-par-an-bientot-sur-le-rapportn-a65.html",
+    "destination": "/actualites/dpe-et-decence-lrenergie-finale-consommee-par-metre-carre-par-an-bientot-sur-le-rapportn"
+  },
+  {
+    "source": "/amiante-au-travail-amiante-dans-les-batimentsn-un-fleau-que-lreurope-veut-eradiquer-a66.html",
+    "destination": "/actualites/amiante-au-travail-amiante-dans-les-batimentsn-un-fleau-que-lreurope-veut-eradiquer"
+  },
+  {
+    "source": "/dpe-individuel-immeuble-appartementn-son-niveau-de-fiabilite-monte-drun-cran-en-2023-a67.html",
+    "destination": "/actualites/dpe-individuel-immeuble-appartementn-son-niveau-de-fiabilite-monte-drun-cran-en-2023"
+  },
+  {
+    "source": "/logements-vacantsna-tours-et-partout-en-france-la-cible-des-pouvoirs-publics-en-2023-a68.html",
+    "destination": "/actualites/logements-vacantsna-tours-et-partout-en-france-la-cible-des-pouvoirs-publics-en-2023"
+  },
+  {
+    "source": "/amiante-sa-presence-dans-votre-bien-peut-constituer-un-risque-sanitaire-pour-votre-voisinage-a69.html",
+    "destination": "/actualites/amiante-sa-presence-dans-votre-bien-peut-constituer-un-risque-sanitaire-pour-votre-voisinage"
+  },
+  {
+    "source": "/dpe-location-logement-dpe-vente-tertiaire-bailleurs-vendeurs-que-retenir-en-avril-2023n-a70.html",
+    "destination": "/actualites/dpe-location-logement-dpe-vente-tertiaire-bailleurs-vendeurs-que-retenir-en-avril-2023n"
+  },
+  {
+    "source": "/vente-immobilieren-vendeurs-etes-vous-concernes-par-le-carnet-drinformation-du-logementn-a71.html",
+    "destination": "/actualites/vente-immobilieren-vendeurs-etes-vous-concernes-par-le-carnet-drinformation-du-logementn"
+  },
+  {
+    "source": "/presence-dramiante-dans-une-location-elle-nrempeche-pas-des-travaux-de-renovation-a72.html",
+    "destination": "/actualites/presence-dramiante-dans-une-location-elle-nrempeche-pas-des-travaux-de-renovation"
+  },
+  {
+    "source": "/bientot-moins-de-passoires-thermiques-dans-lrancien-et-les-logements-de-petite-surface-a73.html",
+    "destination": "/actualites/bientot-moins-de-passoires-thermiques-dans-lrancien-et-les-logements-de-petite-surface"
+  },
+  {
+    "source": "/reperage-amiante-mesures-amiante-parution-et-mise-a-jour-de-guides-drapplication-a74.html",
+    "destination": "/actualites/reperage-amiante-mesures-amiante-parution-et-mise-a-jour-de-guides-drapplication"
+  },
+  {
+    "source": "/dpe-vente-location-neuf-collectif-tertiaire-un-diagnostic-qui-continue-de-srameliorer-a75.html",
+    "destination": "/actualites/dpe-vente-location-neuf-collectif-tertiaire-un-diagnostic-qui-continue-de-srameliorer"
+  },
+  {
+    "source": "/diagnostic-termitesn-un-diagnostiqueur-consciencieux-et-des-acheteurs-negligents-a76.html",
+    "destination": "/actualites/diagnostic-termitesn-un-diagnostiqueur-consciencieux-et-des-acheteurs-negligents"
+  },
+  {
+    "source": "/etat-des-risques-de-venten-la-jurisprudence-alerte-sur-lrinformation-relative-aux-sinistres-a77.html",
+    "destination": "/actualites/etat-des-risques-de-venten-la-jurisprudence-alerte-sur-lrinformation-relative-aux-sinistres"
+  },
+  {
+    "source": "/dpen-des-propositions-emergent-pour-eviter-lrinterdiction-de-louer-a-lrhorizon-2025-a78.html",
+    "destination": "/actualites/dpen-des-propositions-emergent-pour-eviter-lrinterdiction-de-louer-a-lrhorizon-2025"
+  },
+  {
+    "source": "/risque-amianten-les-caracteristiques-des-nanofibres-seules-responsables-des-pathologiesn-a79.html",
+    "destination": "/actualites/risque-amianten-les-caracteristiques-des-nanofibres-seules-responsables-des-pathologiesn"
+  },
+  {
+    "source": "/dpe-des-logements-de-moins-de-40-m2-une-mesure-pour-les-rendre-plus-equitables-a80.html",
+    "destination": "/actualites/dpe-des-logements-de-moins-de-40-m2-une-mesure-pour-les-rendre-plus-equitables"
+  },
+  {
+    "source": "/amianten-un-danger-persistant-dans-les-batiments-publics-et-un-appel-a-lraction-a81.html",
+    "destination": "/actualites/amianten-un-danger-persistant-dans-les-batiments-publics-et-un-appel-a-lraction"
+  },
+  {
+    "source": "/un-nouvel-arrete-qui-modifiera-la-classe-dpe-de-certains-logements-des-le-1er-juillet-2024-a82.html",
+    "destination": "/actualites/un-nouvel-arrete-qui-modifiera-la-classe-dpe-de-certains-logements-des-le-1er-juillet-2024"
+  },
+  {
+    "source": "/les-francais-et-lrachat-immobilier-en-2024n-une-reprise-moderee-mais-prometteuse-a83.html",
+    "destination": "/actualites/les-francais-et-lrachat-immobilier-en-2024n-une-reprise-moderee-mais-prometteuse"
+  },
+  {
+    "source": "/locations-immobilieres-la-loi-pour-renover-lrhabitat-degrade-introduit-des-sanctions-a84.html",
+    "destination": "/actualites/locations-immobilieres-la-loi-pour-renover-lrhabitat-degrade-introduit-des-sanctions"
+  },
+  {
+    "source": "/reperage-amiante-avant-travaux-lrarrete-relatif-au-rat-sur-enrobes-routiers-est-paru-a85.html",
+    "destination": "/actualites/reperage-amiante-avant-travaux-lrarrete-relatif-au-rat-sur-enrobes-routiers-est-paru"
+  },
+  {
+    "source": "/dpe-et-confort-drete-des-logements-neufs-non-adaptes-aux-fortes-chaleurs-a86.html",
+    "destination": "/actualites/dpe-et-confort-drete-des-logements-neufs-non-adaptes-aux-fortes-chaleurs"
+  },
+  {
+    "source": "/surface-de-reference-dpe-un-nouveau-calcul-pour-une-evaluation-encore-plus-juste-a87.html",
+    "destination": "/actualites/surface-de-reference-dpe-un-nouveau-calcul-pour-une-evaluation-encore-plus-juste"
+  },
+  {
+    "source": "/locations-energivores-en-copropriete-un-sursis-pour-leurs-proprietaires-a88.html",
+    "destination": "/actualites/locations-energivores-en-copropriete-un-sursis-pour-leurs-proprietaires"
+  },
+  {
+    "source": "/diagnostics-plomb-dans-les-ecoles-electricite-des-parties-communes-ou-en-est-on-a89.html",
+    "destination": "/actualites/diagnostics-plomb-dans-les-ecoles-electricite-des-parties-communes-ou-en-est-on"
+  },
+  {
+    "source": "/dpe-tertiaire-une-etude-comparative-pour-rendre-ce-diagnostic-immobilier-plus-fiable-a90.html",
+    "destination": "/actualites/dpe-tertiaire-une-etude-comparative-pour-rendre-ce-diagnostic-immobilier-plus-fiable"
+  },
+  {
+    "source": "/amiante-sur-enrobes-routiers-un-fascicule-de-la-dgt-pour-rappeler-les-obligations-a91.html",
+    "destination": "/actualites/amiante-sur-enrobes-routiers-un-fascicule-de-la-dgt-pour-rappeler-les-obligations"
+  },
+  {
+    "source": "/rapport-dgs-prelevement-air-amiante-2023-un-appel-evident-a-renforcer-la-vigilance-a92.html",
+    "destination": "/actualites/rapport-dgs-prelevement-air-amiante-2023-un-appel-evident-a-renforcer-la-vigilance"
+  },
+  {
+    "source": "/dpe-du-bati-ancien-une-proposition-de-loi-qui-adapterait-le-diagnostic-actuel-a93.html",
+    "destination": "/actualites/dpe-du-bati-ancien-une-proposition-de-loi-qui-adapterait-le-diagnostic-actuel"
+  },
+  {
+    "source": "/location-de-logements-g-le-dpe-collectif-pourrait-prevaloir-sur-le-dpe-individuel-a94.html",
+    "destination": "/actualites/location-de-logements-g-le-dpe-collectif-pourrait-prevaloir-sur-le-dpe-individuel"
+  },
+  {
+    "source": "/amiante-publication-par-lrinrs-de-la-revision-de-la-fiche-toxicologique-amiante-a95.html",
+    "destination": "/actualites/amiante-publication-par-lrinrs-de-la-revision-de-la-fiche-toxicologique-amiante"
+  },
+  {
+    "source": "/dpen-une-nouvelle-reforme-pour-mieux-proteger-les-proprietaires-et-les-rapports-a96.html",
+    "destination": "/actualites/dpen-une-nouvelle-reforme-pour-mieux-proteger-les-proprietaires-et-les-rapports"
+  },
+  {
+    "source": "/le-dpe-renouvelle-sa-methode-de-calcul-avec-un-changement-du-cep-electrique-en-2026-a97.html",
+    "destination": "/actualites/le-dpe-renouvelle-sa-methode-de-calcul-avec-un-changement-du-cep-electrique-en-2026"
+  },
+  {
+    "source": "/qualite-des-dpen-un-arrete-paru-le-1er-aout-2025-instaure-un-controle-preventif-inedit-a98.html",
+    "destination": "/actualites/qualite-des-dpen-un-arrete-paru-le-1er-aout-2025-instaure-un-controle-preventif-inedit"
+  },
+  {
+    "source": "/simulateur-dpe-2026-gratuitn-verifiez-des-maintenant-si-la-classe-de-votre-bien-evolue-a101.html",
+    "destination": "/actualites/simulateur-dpe-2026-gratuitn-verifiez-des-maintenant-si-la-classe-de-votre-bien-evolue"
+  },
+  {
+    "source": "/carto-amiante-2025n-des-avancees-majeures-dans-la-caracterisation-des-expositions-a100.html",
+    "destination": "/actualites/carto-amiante-2025n-des-avancees-majeures-dans-la-caracterisation-des-expositions"
+  },
+  {
+    "source": "/des-millions-de-passoires-energetiquesn-ou-en-sommes-nous-reellement-aujourdrhuin-a102.html",
+    "destination": "/actualites/des-millions-de-passoires-energetiquesn-ou-en-sommes-nous-reellement-aujourdrhuin"
+  },
+  {
+    "source": "/risque-rgan-sa-carte-actualisee-etoffera-le-contenu-des-etats-des-risques-des-juillet-2026-a103.html",
+    "destination": "/actualites/risque-rgan-sa-carte-actualisee-etoffera-le-contenu-des-etats-des-risques-des-juillet-2026"
+  },
+  {
+    "source": "/amiante-et-renovation-energetiquen-attention-aux-risques-dans-les-batiments-anciens-a104.html",
+    "destination": "/actualites/amiante-et-renovation-energetiquen-attention-aux-risques-dans-les-batiments-anciens"
+  },
+  {
+    "source": "/plomb-avant-travauxn-le-risque-plomb-au-coeur-de-onze-affiches-de-prevention-a105.html",
+    "destination": "/actualites/plomb-avant-travauxn-le-risque-plomb-au-coeur-de-onze-affiches-de-prevention"
+  },
+  {
+    "source": "/dpe-reconduction-du-bail-dpe-apres-travauxn-bientot-de-nouvelles-obligationsn-a106.html",
+    "destination": "/actualites/dpe-reconduction-du-bail-dpe-apres-travauxn-bientot-de-nouvelles-obligationsn"
+  },
+  {
+    "source": "/amiante-avant-travaux-sur-voirie-ou-reseaux-parution-de-deux-guides-complementaires-a107.html",
+    "destination": "/actualites/amiante-avant-travaux-sur-voirie-ou-reseaux-parution-de-deux-guides-complementaires"
+  },
+  {
+    "source": "/reperage-amiante-avant-travaux-ce-que-la-polemique-sur-lrindependance-change-pour-les-proprietaires-et-coproprietaires-a108.html",
+    "destination": "/actualites/reperage-amiante-avant-travaux-ce-que-la-polemique-sur-lrindependance-change-pour-les-proprietaires-et-coproprietaires"
+  },
+  {
+    "source": "/diagnostic-immobilier-vers-des-changements-importants-pour-les-particuliers-apres-les-assises-du-secteur-a109.html",
+    "destination": "/actualites/diagnostic-immobilier-vers-des-changements-importants-pour-les-particuliers-apres-les-assises-du-secteur"
+  },
+  {
+    "source": "/index.html",
+    "destination": "/"
+  },
+  {
+    "source": "/contact.html",
+    "destination": "/contact"
+  },
+  {
+    "source": "/mentions-legales.html",
+    "destination": "/mentions-legales"
+  },
+  {
+    "source": "/cgv.html",
+    "destination": "/cgv"
+  },
+  {
+    "source": "/demande-devis.php",
+    "destination": "/devis"
+  }
+]
