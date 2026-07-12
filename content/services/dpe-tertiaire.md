@@ -1,24 +1,39 @@
 ---
 slug: dpe-tertiaire
-titre: DPE commerce Tours - 37000
-metaTitle: DPE commerce Tours 37000 | SERVICIMMO
-metaDescription: DPE commerce Tours 37000
+titre: DPE tertiaire / commerce
+metaTitle: DPE tertiaire commerce Tours (37) | Servicimmo
+metaDescription: Vente ou location d'un local commercial ou de bureaux à Tours ? Le DPE tertiaire est obligatoire. Servicimmo réalise ce diagnostic adapté aux locaux pro.
 anciennesUrls:
   - /dpe-commerce-tours-37000.html
-ordre: 99
-icone: file-text
-extrait: DPE commerce Tours 37000
-obligatoirePour: []
-brut: true
+ordre: 13
+icone: gauge
+extrait: Le diagnostic énergie adapté aux commerces, bureaux et locaux professionnels.
+obligatoirePour:
+  - vente
+  - location
+dureeValidite: 10 ans
 ---
-# DPE commerce Tours - 37000
 
-Tours est la ville la plus peuplée de la région Centre-Val de Loire.
+## Qu'est-ce que le DPE tertiaire ?
 
-Son activité économique repose en grande partie sur le secteur tertiaire.
+Le DPE tertiaire évalue la performance énergétique des locaux à usage professionnel : commerces, bureaux, entrepôts, locaux d'activité. Il repose sur une méthode de calcul spécifique, différente de celle des logements, car les usages y sont très variables — horaires d'ouverture, équipements spécifiques, process professionnels. Comme pour un logement, il aboutit à deux étiquettes, énergie et climat, obligatoires sur toutes les annonces de vente ou de location.
 
-Outre de grandes enseignes, le commerce occupe une place prépondérante dans l’économie de Tours.
+Tours, ville la plus peuplée de la région Centre-Val de Loire, concentre une activité tertiaire dense : le commerce y occupe une place importante, aux côtés des grandes enseignes et des bureaux professionnels.
 
-Besoin d’un DPE avec mention pour la vente ou la location de votre commerce à Tours.
+## Qui est concerné ?
 
-Adressez-vous au bureau certifié SERVICIMMO !
+Ce diagnostic est obligatoire pour toute vente ou location d'un local commercial ou professionnel, quelle que soit sa surface, dès lors qu'il dispose d'un système de chauffage ou de climatisation. Il concerne aussi bien un commerce de centre-ville qu'un plateau de bureaux ou un local d'activité en zone périphérique.
+
+Les propriétaires bailleurs de locaux professionnels sont par ailleurs soumis, pour les plus grandes surfaces, à des obligations complémentaires de réduction de consommation énergétique dans le cadre du dispositif Éco Énergie Tertiaire, distinct du DPE mais souvent évoqué en parallèle lors d'une transaction.
+
+## Comment se déroule l'intervention ?
+
+Un diagnostiqueur certifié Servicimmo, formé spécifiquement à la méthode de calcul tertiaire, se déplace pour relever les caractéristiques du local : enveloppe du bâtiment, système de chauffage et de climatisation, ventilation, éclairage, et le cas échéant les équipements spécifiques à l'activité exercée. La méthode de calcul diffère de celle utilisée pour un logement, avec une prise en compte fine des usages professionnels du bâtiment.
+
+Le rapport final présente les étiquettes énergie et climat du local, accompagnées de recommandations d'amélioration adaptées à un usage commercial ou tertiaire, avec un ordre de priorité selon le gain énergétique attendu.
+
+## Validité et obligations
+
+Le DPE tertiaire est valable 10 ans, comme le DPE des logements, sauf travaux modifiant significativement la performance énergétique du local avant ce terme. Il doit être annexé au dossier remis à l'acquéreur ou au futur locataire dès la mise en vente ou en location du bien.
+
+Besoin d'un DPE avec mention pour la vente ou la location de votre commerce à Tours ? Adressez-vous au bureau certifié Servicimmo : notre équipe maîtrise les spécificités des locaux tertiaires, des petites boutiques de centre-ville aux plateaux de bureaux plus vastes.
