@@ -1,44 +1,32 @@
 ---
 slug: lresris-ex-ernmt-obligatoire-depuis-janvier-2018
-titre: L’ESRIS (ex-ERNMT) obligatoire depuis janvier 2018
+titre: L'ESRIS (ex-ERNMT), obligatoire depuis janvier 2018
 date: '2018-03-16'
-metaTitle: L’ESRIS (ex-ERNMT) obligatoire depuis janvier 2018 | SERVICIMMO
-metaDescription: L’ESRIS (ex-ERNMT) obligatoire depuis janvier 2018
+metaTitle: L'ESRIS (ex-ERNMT), obligatoire depuis janvier 2018
+metaDescription: Depuis janvier 2018, l'ERNMT a laissé place à l'ESRIS. Découvrez ce que ce nouveau document change pour les ventes et locations immobilières.
 anciennesUrls:
   - /lresris-ex-ernmt-obligatoire-depuis-janvier-2018-a7.html
-extrait: L’ESRIS (ex-ERNMT) obligatoire depuis janvier 2018
-archive: false
-brut: true
+extrait: L'ERNMT a été remplacé par l'ESRIS en janvier 2018, avec la prise en compte des secteurs d'information sur les sols (SIS).
+archive: true
+archiveNote: Ce document s'appelle désormais l'ERP (État des Risques et Pollutions) depuis août 2018, et le radon y a été intégré dès juillet 2018 : vérifiez la version en vigueur avant toute utilisation.
 ---
-# L’ESRIS (ex-ERNMT) obligatoire depuis janvier 2018 - 16/03/2018
 
-![](/userfiles/image/ernt.jpg)Suite à la création des SIS (secteurs d’information sur les sols), l’**ERNMT** (**État des risques naturels miniers et technologiques**) a été modifié.
+Suite à la création des secteurs d'information sur les sols (SIS), l'ERNMT (État des risques naturels, miniers et technologiques) a été modifié en profondeur. Depuis janvier 2018, les bailleurs et les vendeurs d'un bien immobilier doivent transmettre un ESRIS (État des Servitudes, Risques et d'Information sur les Sols) lors de toute transaction immobilière, qu'il s'agisse d'une location ou d'une vente.
 
-Les bailleurs et les vendeurs d’un bien immobilier doivent, depuis janvier 2018, transmettre un ESRIS (**État des Servitudes risques et d’information sur les sols**) lors de la transaction immobilière (location ou bien vente).
+## Prise en compte des SIS dans l'ESRIS : quelles conséquences ?
 
-## **Prise en compte des SIS dans l’ESRIS : quelles conséquences ?**
+Les SIS marquent la reconnaissance officielle du risque de pollution des sols et le devoir d'information qui en découle. Ainsi, un futur acquéreur peut désormais s'attendre à ce qu'un diagnostic des sols pollués soit exigé en cas de projet de construction ou d'agrandissement sur le terrain concerné par la transaction. Les contrôles devraient logiquement se multiplier.
 
-Les SIS marquent la reconnaissance du risque de pollution des sols et le devoir d’information à cet égard.
+## D'autres changements notables par rapport à l'ERNMT ?
 
-Ainsi, le futur acquéreur pourra s’attendre à un diagnostic des sols pollués s’il y a projet de construction ou d’agrandissement d’un bien immobilier sur le terrain concerné par la transaction immobilière. Les contrôles seront sans doute plus nombreux.
+Une prise en compte des risques liés au gaz radon avait été annoncée. Si son intégration au formulaire d'état des risques est attendue dans un avenir proche, elle n'est pas encore effective à ce jour.
 
-## **D’autres changements notables dans l’ESRIS par rapport à l’ERNMT ?**
+En revanche, la rubrique consacrée au plan de prévention des risques technologiques (PPRT) a évolué : l'intégration du secteur de délaissement ou d'expropriation en est le changement le plus notable, tout comme l'obligation de préciser si le bien constitue ou non un logement.
 
-Une prise en compte des risques liés au gaz radon avait été annoncée. Si le danger radon sera certainement intégré au formulaire d’état des risques dans un avenir proche, ce n’est pas encore le cas à ce jour.
+## Que signifie la distinction entre secteur d'expropriation et secteur de délaissement ?
 
-En revanche, la rubrique associée au plan de prévention des risques technologiques (**PPRT**) a évolué.
+La question posée est celle de l'acquisition du bien immobilier en présence d'un risque technologique. Dans un périmètre d'expropriation, le propriétaire doit céder son bien à la commune ou à une autre collectivité compétente, en échange d'une indemnité. Dans un périmètre de délaissement, le bien peut être racheté par une collectivité compétente, à un prix qui ne tient pas compte de la dévalorisation liée au risque technologique.
 
-L’intégration du secteur de délaissement ou d’expropriation est le plus notable. Préciser si le bien est ou non un logement constitue aussi une nouveauté.
+## Durée de validité de l'ESRIS
 
-## **Que signifie la distinction entre secteur d’expropriation ou de délaissement ?**
-
-La question qui se pose est celle de l’acquisition du bien immobilier lors d’un risque technologique. Dans un périmètre d’expropriation, son propriétaire doit le céder à la commune ou à une autre collectivité compétente en échange d’indemnités.
-
-Dans un périmètre de délaissement, le bien pourra être racheté par une collectivité compétente à un prix ne tenant pas compte de la dévalorisation liée au **risque technologique**.
-
-## **Durée de validité de l’ESRIS et valeur de l’ERNMT**
-
-L’ERNMT reste utilisable tant que sa constitution date de moins de 6 mois. Le durée de validité est la même pour l’ESRIS, diagnostic qui pourra être confié à nos experts.
-
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+L'ERNMT restait utilisable tant que sa constitution datait de moins de 6 mois. La durée de validité est identique pour l'ESRIS, un diagnostic que nos experts peuvent établir pour vous.

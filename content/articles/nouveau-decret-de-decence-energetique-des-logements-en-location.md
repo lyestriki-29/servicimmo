@@ -2,27 +2,37 @@
 slug: nouveau-decret-de-decence-energetique-des-logements-en-location
 titre: Nouveau décret de décence énergétique des logements en location
 date: '2020-07-21'
-metaTitle: Nouveau décret de décence énergétique des logements en location | SERVICIMMO
-metaDescription: Nouveau décret de décence énergétique des logements en location
+metaTitle: Décence énergétique : ce qui attend les logements en location
+metaDescription: >-
+  Dès 2023, les logements en location devaient respecter un seuil de
+  performance énergétique. Découvrez le projet de décret et ses implications.
 anciennesUrls:
   - /nouveau-decret-de-decence-energetique-des-logements-en-location-a35.html
-extrait: Nouveau décret de décence énergétique des logements en location
-archive: false
-brut: true
+extrait: >-
+  Un projet de décret fixait un seuil de consommation énergétique pour
+  qu'un logement en location soit considéré comme décent dès 2023.
+archive: true
+archiveNote: >-
+  Cet article présente un projet de décret datant de 2020 : les seuils de
+  décence énergétique et le calendrier d'interdiction de location des
+  passoires thermiques ont depuis été précisés et durcis, vérifiez la
+  réglementation DPE actuellement en vigueur.
 ---
-# Nouveau décret de décence énergétique des logements en location - 21/07/2020
 
-![](/userfiles/image/actu_dpe.png)
+## Nouveau décret de décence énergétique des logements en location
 
-Dès le 1er janvier 2023, les bailleurs devront tenir compte d’un critère de **performance énergétique**. Les critères de décence des logements, en location, vont donc évoluer. Le projet de décret, en consultation publique, est directement lié à la loi relative à l’**énergie et au climat**.
+Dès le 1er janvier 2023, les bailleurs devaient tenir compte d'un critère de **performance énergétique** pour que leur logement soit considéré comme décent. Les critères de décence des logements en location allaient donc évoluer, dans le cadre d'un projet de décret directement lié à la loi relative à l'**énergie et au climat**.
 
-## Logements indécents classés G au DPE
+## Des logements classés G au DPE jugés indécents
 
-La loi **Énergie-Climat** imposait une meilleure prise en compte de la performance énergétique parmi les critères de décence du logement loué. Depuis la loi **transition énergétique** et croissance verte, suivie du décret du 9 mars 2017, la performance énergétique était prise en compte dans la qualification d’un logement décent. Mais le bailleur avait surtout des obligations relatives à l’aération du logement et aux protections contre les infiltrations d’air parasites. Le gouvernement vient de fixer, plus précisément, un seuil d’**indécence énergétique**. Les logements principaux mis en location devront avoir une consommation en énergie finale inférieure à 500 kWh/m².an, et ce à partir du 1er janvier 2023. Cela correspond à des passoires thermiques particulièrement énergivores, c’est-à-dire celles qui ont une étiquette énergie de G.
+La loi **Énergie-Climat** imposait une meilleure prise en compte de la performance énergétique parmi les critères de décence du logement loué. Depuis la loi de transition énergétique pour la croissance verte, suivie du décret du 9 mars 2017, la performance énergétique était déjà prise en compte dans la qualification d'un logement décent. Mais les obligations du bailleur portaient surtout sur l'aération du logement et la protection contre les infiltrations d'air parasites.
 
-## Rénovation énergétique des logements énergivores en location
+Le gouvernement a alors souhaité fixer un seuil précis d'**indécence énergétique** : les logements mis en location devaient présenter une consommation en énergie finale inférieure à 500 kWh/m².an à partir du 1er janvier 2023, ce qui correspond aux passoires thermiques les plus énergivores, classées G au DPE.
 
-Il avait été question d’interdire simplement la location de passoires thermiques pour obliger le bailleur à faire des **travaux de rénovation énergétique**. La mesure a été jugée trop brutale et difficile à mettre en œuvre compte tenu du coût potentiel des travaux. L’État a donc opté pour une gradation en termes d’exigence de **performance énergétique.** Un deuxième décret paraîtra pour adapter ce seuil de **décence énergétique** entre l’année 2023 et l’année 2028. La loi relative à l’énergie et au climat a en effet imposé une obligation de rénovation des passoires thermique d’ici l’année 2028. Nous réalisons des **DPE** à Tours et dans le département, pour les particuliers et les professionnels, dans tous les types de bâtiments à vendre, à louer, etc. 
+## Une rénovation énergétique progressive des logements les plus énergivores
 
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Il avait un temps été envisagé d'interdire purement et simplement la location des passoires thermiques, afin d'obliger les bailleurs à engager des **travaux de rénovation énergétique**. Cette mesure a finalement été jugée trop brutale, compte tenu du coût potentiel des travaux pour les propriétaires. L'État a donc préféré une montée en exigence progressive de la **performance énergétique** exigée.
+
+Un second décret devait ensuite faire évoluer ce seuil de **décence énergétique** entre 2023 et 2028, la loi relative à l'énergie et au climat imposant par ailleurs une obligation de rénovation des passoires thermiques d'ici 2028.
+
+Servicimmo réalise vos **diagnostics de performance énergétique (DPE)** à Tours et dans le département, pour les particuliers comme pour les professionnels, dans tous les types de biens à vendre ou à louer.

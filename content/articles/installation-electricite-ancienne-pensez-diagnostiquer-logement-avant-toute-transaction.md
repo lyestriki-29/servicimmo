@@ -5,30 +5,32 @@ titre: >-
   Installation d’électricité ancienne : pensez à diagnostiquer votre logement
   avant toute transaction
 date: '2017-01-01'
-metaTitle: >-
-  Installation d’électricité ancienne : pensez à diagnostiquer votre logement
-  avant toute transaction | SERVICIMMO
+metaTitle: 'Installation électrique ancienne : le diagnostic obligatoire'
 metaDescription: >-
-  Installation d’électricité ancienne : pensez à diagnostiquer votre logement
-  avant toute transaction
+  Logement de plus de 15 ans : découvrez pourquoi le diagnostic électrique est
+  obligatoire avant une vente ou une location, et ses délais de validité.
 anciennesUrls:
   - >-
     /installation-electricite-ancienne-pensez-diagnostiquer-logement-avant-toute-transaction-i8.html
 extrait: >-
-  Installation d’électricité ancienne : pensez à diagnostiquer votre logement
-  avant toute transaction
-archive: false
-brut: true
+  Vente ou location d’un logement à l’installation électrique ancienne : un
+  diagnostic obligatoire pour informer sur les risques.
+archive: true
+archiveNote: 'Cet article annonçait l’entrée en vigueur, au 1er juillet 2017 et au 1er janvier 2018, de l’obligation du diagnostic électricité selon le type de logement : ces échéances sont désormais passées, vérifiez que l’obligation s’applique bien à l’ensemble des logements concernés.'
 ---
-# Installation d’électricité ancienne : pensez à diagnostiquer votre logement avant toute transaction
 
-![](/userfiles/image/diagnostic-electricite.jpg)Les bailleurs ou les vendeurs d’un logement possédant une **installation d’électricité** de plus de 15 ans ont l’obligation de transmettre à leurs locataires ou à leurs acquéreurs un diagnostic particulier destiné à les informer sur l’état et la sûreté de cette installation.
+## Une obligation pour les logements à l’installation électrique ancienne
 
-L’**État de l'installation intérieure d’électricité** vise à les alerter de tous les risques potentiels liés à l’usage de l’électricité dans le logement et à pointer les lacunes dans les dispositifs de sécurité (protection contre les surintensités, disjoncteurs, dégradation des conducteurs, risques d’électrocution et de contact avec l’eau, etc.).
+Les bailleurs et les vendeurs d’un logement dont l’installation d’électricité a plus de 15 ans ont l’obligation de transmettre à leurs locataires ou à leurs acquéreurs un diagnostic spécifique. Celui-ci vise à les informer précisément sur l’état et la sûreté de cette installation avant toute transaction.
 
-Ce diagnostic doit être effectué par un professionnel possédant la certification requise par la réglementation.
+## Ce que révèle le diagnostic
 
-Dans le cadre d’une vente, l’**État de l'installation intérieure d'électricité** devra dater de moins de trois ans, tandis que pour une location, elle est portée à six ans.
+L’**État de l'installation intérieure d'électricité** a pour objectif d’alerter sur tous les risques potentiels liés à l’usage de l’électricité dans le logement. Il pointe notamment les lacunes éventuelles dans les dispositifs de sécurité : protection contre les surintensités, état des disjoncteurs, dégradation des conducteurs, ou encore risques d’électrocution et de contact avec l’eau. Ce diagnostic doit obligatoirement être réalisé par un professionnel possédant la certification requise par la réglementation en vigueur.
 
-_NB : L’obligation d’annexer un **État de l'installation intérieure d'électricité** à votre bail ne prendra effet qu’à compter du 1er juillet 2017 pour les logements appartenant à un immeuble collectif dont le permis de construire a été délivré avant le 1er janvier 1975.  
-Pour tous les autres logements, l’obligation sera effective à compter du 1er janvier 2018._
+## Des durées de validité différentes selon la transaction
+
+La durée de validité de ce diagnostic dépend du type de transaction envisagée. Dans le cadre d’une vente, l’**État de l'installation intérieure d'électricité** doit dater de moins de trois ans. Pour une location, ce délai est porté à six ans, une différence qui tient compte de la fréquence de renouvellement propre à chaque type de contrat.
+
+## Une entrée en vigueur progressive selon les logements
+
+L’obligation d’annexer un **État de l'installation intérieure d'électricité** au bail ne prend effet qu’à compter du 1er juillet 2017 pour les logements appartenant à un immeuble collectif dont le permis de construire a été délivré avant le 1er janvier 1975. Pour tous les autres logements, l’obligation devient effective à compter du 1er janvier 2018. Cette mise en application par étapes visait à laisser aux propriétaires le temps nécessaire pour se mettre en conformité avec cette nouvelle exigence réglementaire.

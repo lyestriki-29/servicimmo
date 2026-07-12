@@ -5,33 +5,43 @@ titre: >-
   tertiaires
 date: '2017-01-01'
 metaTitle: >-
-  Performance énergétique : le DPE est aussi obligatoire pour les locaux
-  tertiaires | SERVICIMMO
+  DPE des locaux tertiaires : une obligation à connaître
 metaDescription: >-
-  Performance énergétique : le DPE est aussi obligatoire pour les locaux
-  tertiaires
+  Vente ou location d'un local tertiaire à Tours ? Découvrez pourquoi le DPE
+  avec mention est obligatoire et ce qu'il doit contenir.
 anciennesUrls:
   - /performance-energetique-dpe-aussi-obligatoire-locaux-tertiaires-i19.html
 extrait: >-
-  Performance énergétique : le DPE est aussi obligatoire pour les locaux
-  tertiaires
+  Le DPE avec mention est obligatoire pour vendre ou louer un local tertiaire.
+  Contenu du rapport et durée de validité expliqués.
 archive: false
-brut: true
 ---
-# Performance énergétique : le DPE est aussi obligatoire pour les locaux tertiaires
+## Le DPE, une obligation qui concerne aussi les locaux professionnels
 
-![](/userfiles/image/dpe-mention-tertiaire.jpg)Lors de la vente ou de la location d’un local d’activité tertiaire (cabinet, commerce, magasin, bureaux, etc.), il est obligatoire de transmettre un **Diagnostic de performance énergétique** (**DPE**) de moins de 10 ans à ses acquéreurs ou à ses locataires.
+Lors de la vente ou de la location d'un local à usage tertiaire (cabinet, commerce, magasin, bureaux, etc.), la transmission d'un **diagnostic de performance énergétique (DPE)** de moins de 10 ans est obligatoire, au même titre que pour un logement.
 
-Cependant, pour ce type de locaux, le diagnostiqueur dans être en possession d’une certification avec mention.
+Pour ce type de biens, la mission ne peut cependant pas être confiée à n'importe quel diagnostiqueur : le professionnel doit être titulaire d'une **certification avec mention**, spécifiquement adaptée à l'évaluation énergétique des locaux professionnels.
 
-Le **[DPE](diagnostic-immobilier-chateau-renault-37110.html) avec mention** se compose d’une présentation du local et de ses caractéristiques (situation géographique, technique de construction, matériaux, installations et équipements, etc.).
+## Ce que contient le DPE avec mention
 
-En se basant sur les factures, le diagnostiqueur devra estimer ensuite la consommation d’énergie annuelle (étiquette Énergie) et les émissions de [gaz](diagnostic-immobilier-chateau-renault-37110.html) à effet de serre qui en résultent (étiquette Climat).
+Le **[DPE](diagnostic-immobilier-chateau-renault-37110.html) avec mention** repose sur une analyse détaillée du local et de ses caractéristiques : situation géographique, technique de construction, matériaux utilisés, installations et équipements présents.
 
-Ces paramètres seront ensuite notés au moyen d’une grille d’évaluation de leur performance.
+En s'appuyant sur les factures d'énergie, le diagnostiqueur estime ensuite :
 
-Enfin, le rapport de **DPE avec mention** devra identifier les actions permettant de diminuer la consommation d’énergie.
+- la **consommation d'énergie annuelle** du local (étiquette Énergie) ;
+- les **émissions de [gaz](diagnostic-immobilier-chateau-renault-37110.html) à effet de serre** qui en résultent (étiquette Climat).
 
-Il peut d’agir d’une utilisation plus rationnelle des appareils et des équipements existant ou bien de la mise en œuvre de travaux de rénovation énergétique tels que l’amélioration de l’isolation ou la modernisation des installations de chauffage, de production d’eau chaude sanitaire ou de refroidissement, etc.
+Ces deux paramètres sont ensuite positionnés sur une grille d'évaluation, qui permet de situer la performance du local par rapport aux autres biens du même type.
 
-La durée de validité d’un **DPE avec mention** est limitée à 10 ans.
+## Des préconisations pour réduire la consommation d'énergie
+
+Le rapport ne se limite pas à un constat : il identifie également des actions concrètes permettant de diminuer la consommation d'énergie du local. Il peut s'agir :
+
+- d'une utilisation plus rationnelle des appareils et équipements déjà en place ;
+- ou de travaux de rénovation énergétique plus structurants, comme l'amélioration de l'isolation ou la modernisation des installations de chauffage, de production d'eau chaude sanitaire ou de refroidissement.
+
+## Une validité de 10 ans
+
+Comme pour un logement, la durée de validité d'un **DPE avec mention** est limitée à 10 ans. Passé ce délai, un nouveau diagnostic doit être réalisé avant toute nouvelle vente ou location du local.
+
+Faire appel à un diagnostiqueur certifié avec mention garantit un document fiable et opposable, indispensable pour sécuriser votre transaction immobilière professionnelle.

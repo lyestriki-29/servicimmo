@@ -1,29 +1,27 @@
 ---
 slug: risque-amiante-coproprietes-servicimmo-occupe-dta
-titre: 'Risque amiante dans les copropriétés : SERVICIMMO s’occupe de votre DTA'
+titre: "Risque amiante dans les copropriétés : SERVICIMMO s'occupe de votre DTA"
 date: '2017-01-01'
 metaTitle: >-
-  Risque amiante dans les copropriétés : SERVICIMMO s’occupe de votre DTA |
-  SERVICIMMO
-metaDescription: 'Risque amiante dans les copropriétés : SERVICIMMO s’occupe de votre DTA'
+  Risque amiante en copropriété : SERVICIMMO gère votre DTA
+metaDescription: >-
+  Copropriété construite avant juillet 1997 ? Le Dossier technique amiante
+  (DTA) est obligatoire. SERVICIMMO vous accompagne pour le constituer et le
+  tenir à jour.
 anciennesUrls:
   - /risque-amiante-coproprietes-servicimmo-occupe-dta-i13.html
-extrait: 'Risque amiante dans les copropriétés : SERVICIMMO s’occupe de votre DTA'
+extrait: >-
+  Copropriété bâtie avant juillet 1997 : le Dossier technique amiante (DTA)
+  est obligatoire. SERVICIMMO vous aide à le constituer et le mettre à jour.
 archive: false
-brut: true
 ---
-# Risque amiante dans les copropriétés : SERVICIMMO s’occupe de votre DTA
 
-![](/userfiles/image/dta.jpg)Vous gérez une copropriété dont les bâtiments ont été édifiés suivant un permis de construire antérieur au 1er juillet 1997 ?
+Vous gérez une copropriété dont les bâtiments ont été édifiés suivant un permis de construire antérieur au 1er juillet 1997 ? Vous devez impérativement constituer et tenir à jour un **Dossier technique amiante (DTA)**.
 
-Vous devez impérativement constituer et tenir à jour un **Dossier technique [amiante](diagnostic-immobilier-joue-les-tours-37300.html)** (**DTA**).
+## Le DTA, un outil pour gérer le risque amiante en parties communes
 
-Celui-ci vous aidera à mieux gérer le risque amiante au sein des parties communes.
+Ce dossier vous aide à mieux gérer le risque amiante au sein des parties communes de l'immeuble. Le **DTA** comprend notamment la réalisation de l'**état d'amiante des parties communes**. Il doit également regrouper les documents techniques relatifs aux interventions déjà réalisées sur les matériaux et produits contenant de l'amiante (MPCA), ainsi que les dispositions particulières à prendre pour prévenir tout risque de détérioration de ces matériaux.
 
-Le **[DTA](diagnostic-immobilier-joue-les-tours-37300.html)** comprend notamment la réalisation d’**État d'amiante des parties communes**.
+## Une obligation à tenir à jour et à disposition
 
-Il doit aussi regrouper les documents techniques relatifs aux interventions sur les matériaux et produits contenant de l’amiante (MPCA).
-
-Enfin, il doit indiquer les dispositions particulières à prendre afin de prévenir tout risque de détérioration de ces MPCA.
-
-Le **DTA** doit être notamment mis à la disposition des copropriétaires et des personnels en charge de la maintenance et de l’entretien des bâtiments.
+Le **DTA** doit être tenu à la disposition des copropriétaires ainsi que des personnels en charge de la maintenance et de l'entretien des bâtiments. SERVICIMMO, cabinet de diagnostic immobilier basé à Tours, en Indre-et-Loire, vous accompagne dans la constitution et la mise à jour de ce dossier pour votre copropriété.

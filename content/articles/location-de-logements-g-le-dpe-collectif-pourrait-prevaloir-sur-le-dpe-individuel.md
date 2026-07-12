@@ -1,44 +1,33 @@
 ---
-slug: >-
-  location-de-logements-g-le-dpe-collectif-pourrait-prevaloir-sur-le-dpe-individuel
+slug: location-de-logements-g-le-dpe-collectif-pourrait-prevaloir-sur-le-dpe-individuel
 titre: >-
   Location de logements G : le DPE collectif pourrait prévaloir sur le DPE
   individuel
 date: '2025-04-30'
-metaTitle: >-
-  Location de logements G : le DPE collectif pourrait prévaloir sur le DPE
-  individuel | SERVICIMMO
-metaDescription: >-
-  Location de logements G : le DPE collectif pourrait prévaloir sur le DPE
-  individuel
+metaTitle: "DPE collectif vs DPE individuel : quelles règles ?"
+metaDescription: "Une proposition de loi envisage de faire prévaloir le DPE collectif sur le DPE individuel pour la location. Décryptage des mesures à l'étude en 2025."
 anciennesUrls:
   - >-
     /location-de-logements-g-le-dpe-collectif-pourrait-prevaloir-sur-le-dpe-individuel-a94.html
-extrait: >-
-  Location de logements G : le DPE collectif pourrait prévaloir sur le DPE
-  individuel
-archive: false
-brut: true
+extrait: "Le DPE collectif pourrait bientôt primer sur le DPE individuel pour la location : décryptage de la proposition de loi à l'étude."
+archive: true
+archiveNote: Cet article décrit une proposition de loi adoptée en commission au Sénat le 1er avril 2025 et alors en cours d'examen à l'Assemblée nationale ; vérifiez si le texte a depuis été définitivement adopté et son contenu final.
 ---
-# Location de logements G : le DPE collectif pourrait prévaloir sur le DPE individuel - 30/04/2025
 
-![](/userfiles/image/DPEGG.jpg)Dans un futur proche, une éventuelle évolution législative ouvrirait la voie à une nouvelle règle en matière de location d’un appartement : le DPE collectif déterminerait sa **décence énergétique en lieu et place du DPE individuel**, dès lors que son résultat est plus favorable. Ce changement bouleverserait les obligations actuelles en termes de performance énergétique pour toute location de logement situé dans un immeuble. D’autres mesures, introduites au sein de la même proposition de loi qui renforce le rôle du DPE collectif, en feraient de même.
+Dans un futur proche, une éventuelle évolution législative ouvrirait la voie à une nouvelle règle en matière de location d'un appartement : le DPE collectif déterminerait la **décence énergétique en lieu et place du DPE individuel**, dès lors que son résultat est plus favorable. Ce changement bouleverserait les obligations actuelles en matière de performance énergétique pour toute location de logement situé dans un immeuble. D'autres mesures, introduites au sein de la même proposition de loi qui renforce le rôle du DPE collectif, iraient dans le même sens.
 
-## DPE collectif à la place du DPE individuel : une solution aux blocages dans les copropriétés
+## Le DPE collectif à la place du DPE individuel : une solution aux blocages en copropriété
 
-La Commission des affaires économiques du Sénat a adopté le 1er avril 2025 une modification importante au travers de la proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété. Un bailleur dont le logement ne répond pas individuellement au critère de décence énergétique minimal pourrait néanmoins être loué, ou continuer à l’être, si le **DPE collectif** de l’immeuble satisfait à ce même critère.
+La Commission des affaires économiques du Sénat a adopté, le 1er avril 2025, une modification importante au sein de la proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété. Un bailleur dont le logement ne répond pas individuellement au critère de décence énergétique minimal pourrait néanmoins le louer, ou continuer à le louer, si le **DPE collectif** de l'immeuble satisfait à ce même critère.
 
-Cette disposition, qui est à l’étude actuellement au sein de l’Assemblée nationale, répond à une problématique récurrente dans les copropriétés : comment faire, lorsqu’on est propriétaire, pour rénover une passoire thermique destinée à la location, alors que l’amélioration de la performance énergétique dudit logement dépend en grande partie de travaux collectifs que la copropriété ne souhaite pas entreprendre ?
+Cette disposition, alors à l'étude au sein de l'Assemblée nationale, répond à une problématique récurrente en copropriété : comment, pour un propriétaire, rénover une passoire thermique destinée à la location, quand l'amélioration de la performance énergétique du logement dépend en grande partie de travaux collectifs que la copropriété ne souhaite pas entreprendre ?
 
-La proposition de loi ambitionne donc de mieux encadrer la prise en compte du refus du syndicat de copropriétaires de réaliser des travaux. Elle a prévu aussi que tout refus intervenu moins de trois ans avant la mise en location autorise à louer un logement trop énergivore. Notons que cette mesure incite tout de même les propriétaires à soumettre périodiquement la question d’une rénovation énergétique globale à l’assemblée générale des copropriétaires.
+La proposition de loi ambitionne donc de mieux encadrer la prise en compte du refus du syndicat de copropriétaires de réaliser des travaux. Elle prévoit également que tout refus intervenu moins de trois ans avant la mise en location autorise à louer un logement trop énergivore. Cette mesure incite néanmoins les propriétaires à soumettre périodiquement la question d'une rénovation énergétique globale à l'assemblée générale des copropriétaires.
 
-## Une proposition de loi privilégiant des mesures pour limiter l’interdiction de louer
+## Des mesures pour limiter l'interdiction de louer
 
-Pour les propriétaires bailleurs, cette proposition de loi offre diverses solutions leur permettant d’échapper aux contraintes de la décence énergétique, du moins provisoirement.
+Pour les propriétaires bailleurs, cette proposition de loi offre diverses solutions permettant d'échapper, au moins provisoirement, aux contraintes de la décence énergétique.
 
-En plus de promouvoir une vision plus **globale de la performance énergétique** d’un immeuble et de ne pas pénaliser le propriétaire qui ne peut entreprendre une rénovation en raison du refus de la copropriété, le texte prévoit aussi d’autres assouplissements.
+Outre la promotion d'une vision plus **globale de la performance énergétique** d'un immeuble et la volonté de ne pas pénaliser le propriétaire empêché de rénover par le refus de la copropriété, le texte prévoit d'autres assouplissements.
 
-Parmi eux, on peut citer l’autorisation de louer un logement énergétiquement indécent en présence d’un contrat de travaux de rénovation énergétique, et ce, durant cinq ans tout au plus en copropriété et trois ans en monopropriété. La location serait également permise lorsque le coût des travaux s’avérerait trop élevé au regard de la valeur du bien ou lorsque lesdits travaux ne pourraient être entrepris pour des motifs architecturaux, patrimoniaux ou techniques. Le texte de la proposition de loi a par ailleurs atténué certaines exigences, notamment en n’imposant pas le recours à un maître d’œuvre pour les travaux à réaliser dans les petites copropriétés et les maisons individuelles.
-
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Parmi eux figure l'autorisation de louer un logement énergétiquement indécent en présence d'un contrat de travaux de rénovation énergétique, durant cinq ans au plus en copropriété et trois ans en monopropriété. La location serait également permise lorsque le coût des travaux s'avérerait trop élevé au regard de la valeur du bien, ou lorsque ces travaux ne pourraient être entrepris pour des motifs architecturaux, patrimoniaux ou techniques. Le texte atténue par ailleurs certaines exigences, notamment en n'imposant pas le recours à un maître d'œuvre pour les travaux réalisés dans les petites copropriétés et les maisons individuelles.

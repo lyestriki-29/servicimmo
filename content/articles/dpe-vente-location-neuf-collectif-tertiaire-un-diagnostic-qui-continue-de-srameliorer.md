@@ -3,38 +3,33 @@ slug: >-
   dpe-vente-location-neuf-collectif-tertiaire-un-diagnostic-qui-continue-de-srameliorer
 titre: >-
   DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue
-  de s’améliorer
+  de s'améliorer
 date: '2023-09-28'
-metaTitle: >-
-  DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue
-  de s’améliorer | SERVICIMMO
+metaTitle: DPE vente, location, tertiaire : un diagnostic renforcé
 metaDescription: >-
-  DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue
-  de s’améliorer
+  Un nouvel arrêté 2023 muscle la formation et le contrôle des diagnostiqueurs
+  DPE. Découvrez comment ces évolutions renforcent la fiabilité de vos
+  rapports DPE.
 anciennesUrls:
   - >-
     /dpe-vente-location-neuf-collectif-tertiaire-un-diagnostic-qui-continue-de-srameliorer-a75.html
 extrait: >-
-  DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue
-  de s’améliorer
+  Un arrêté 2023 muscle la certification des diagnostiqueurs DPE : formation
+  renforcée, contrôles accrus, et de nouvelles pistes d'amélioration à
+  l'étude.
 archive: false
-brut: true
 ---
-# DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue de s’améliorer - 28/09/2023
 
-![](/userfiles/image/DPE-9.jpg)Le **diagnostic de performance énergétique** est une mission de diagnostic qui doit être réalisée dans de nombreux contextes tels une vente, une location, l’achèvement d’une construction neuve, dans une copropriété, dans un immeuble tertiaire, etc. Sa réalisation doit être conduite par un diagnostiqueur immobilier **certifié DPE**. Un arrêté publié en août 2023 a modifié le référentiel de compétences pour devenir **opérateur DPE** quel que soit le niveau de certification visé, soit sans mention ou avec mention. Pourquoi ce nouveau texte va permettre d’accroître la qualité de vos **rapports DPE** transmis par votre cabinet de diagnostics immobiliers, tel le nôtre situé en Indre-et-Loire ? Quelles autres pistes ont été abordées récemment pour améliorer encore vos **DPE** ?
+Le diagnostic de performance énergétique (DPE) est une mission de diagnostic obligatoire dans de nombreux contextes : vente, location, achèvement d'une construction neuve, copropriété, immeuble tertiaire, etc. Sa réalisation doit être confiée à un diagnostiqueur immobilier certifié DPE. Un arrêté publié en août 2023 a modifié le référentiel de compétences pour devenir **opérateur DPE**, quel que soit le niveau de certification visé (avec ou sans mention). Pourquoi ce nouveau texte va-t-il permettre d'accroître la qualité des **rapports DPE** transmis par votre cabinet de diagnostics immobiliers, comme le nôtre en Indre-et-Loire ? Quelles autres pistes ont récemment été évoquées pour continuer à améliorer le DPE ?
 
-## DPE : un nouvel arrêté consolide les parcours de formation, de certification et de contrôle DPE
+## Un nouvel arrêté consolide la formation, la certification et le contrôle des opérateurs DPE
 
-Avec le nouvel arrêté de **compétences DPE**, vos **rapports DPE** vont encore gagner en précision, cohérence et fiabilité. En effet, ce nouveau texte réglementaire relatif à la certification DPE approfondit l’acquisition des compétences nécessaires pour réaliser le **DPE sans mention et avec mention** et permet de maintenir les **opérateurs DPE certifiés** à un niveau de compétences exemplaire durant tout leur cycle de certification. Allongement du temps des formations initiale et continue, renforcement de la pratique sur le terrain, examens de certification initiale plus exigeants et contrôles documentaires et sur ouvrage plus nombreux, l’ambition est d’améliorer considérablement les **compétences DPE pour des rapports DPE de qualité**, qu’il s’agisse de **DPE** vente, location, neuf, collectif ou tertiaire. Qui plus est, les sanctions s’harmonisent et se durcissent pour fermer durablement l’accès au **DPE** aux opérateurs low-cost et peu scrupuleux qui ternissent l’image de la profession.
+Avec ce nouvel arrêté relatif aux **compétences DPE**, vos rapports DPE gagnent encore en précision, en cohérence et en fiabilité. Ce texte approfondit l'acquisition des compétences nécessaires pour réaliser le DPE, avec ou sans mention, et vise à maintenir les opérateurs certifiés à un niveau d'exigence élevé tout au long de leur cycle de certification. Allongement du temps de formation initiale et continue, renforcement de la pratique sur le terrain, examens de certification plus exigeants, contrôles documentaires et sur ouvrage plus nombreux : l'objectif est d'améliorer sensiblement les compétences des opérateurs, pour des rapports DPE de qualité, qu'il s'agisse d'un DPE vente, location, neuf, collectif ou tertiaire. Les sanctions s'harmonisent également et se durcissent, afin de fermer durablement l'accès à la profession aux opérateurs peu scrupuleux qui en ternissent l'image.
 
-## Des rapports DPE mieux réalisés et qui bientôt s’enrichiront de nouveaux indicateurs ?
+## Vers de nouveaux indicateurs dans les rapports DPE
 
-En plus de bénéficier d’une meilleure réalisation grâce à l’accroissement des compétences des **opérateurs DPE**, les **rapports DPE** sont au cœur de nombreux projets actuellement à l’étude, parmi lesquels le renforcement d’un de leurs indicateurs ainsi que l’ajout éventuel d’une nouvelle donnée d’entrée dans le moteur de **calcul du DPE**.
+Au-delà de l'amélioration des compétences des opérateurs, plusieurs évolutions sont à l'étude pour enrichir le contenu des rapports DPE.
 
-En effet, l’indicateur de confort d’été, existant déjà au sein du **rapport DPE**, figure au sein de nombreuses recommandations visant à l’intégrer au sein de **l’étiquette DPE** ainsi que dans la partie consacrée aux parcours de travaux. Il s’agirait aussi de développer des aides pour améliorer la qualité du confort d’été dans les logements afin d’éviter une utilisation massive de climatiseurs, ce qui augmente l’impact carbone des logements et donc le dérèglement climatique.
+L'indicateur de confort d'été, déjà présent dans le rapport, fait l'objet de nombreuses recommandations visant à l'intégrer à l'étiquette DPE ainsi qu'au volet consacré aux parcours de travaux. L'idée serait aussi de développer des aides pour améliorer le confort d'été des logements, afin d'éviter le recours massif à la climatisation, dont l'usage alourdit l'impact carbone des logements et contribue au dérèglement climatique.
 
-D’autre part, comme le préconise le syndicat Ignes (Alliance des Industriels des solutions électriques et numériques du bâtiment), il faudrait prendre en compte dans le **calcul du DPE** une autre donnée qui promeut la sobriété énergétique, à savoir l’évaluation de la qualité du thermostat éventuellement présent, étant donné que ce dispositif deviendra obligatoire dans tous les logements à compter du 1er janvier 2027. En effet, la présence d’un thermostat programmable et qui plus est, connecté, permet de piloter de manière vertueuse les consommations d’énergie et donc d’éviter tout excès.
-
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Par ailleurs, comme le préconise le syndicat Ignes (Alliance des industriels des solutions électriques et numériques du bâtiment), il serait pertinent d'intégrer au calcul du DPE une donnée supplémentaire favorisant la sobriété énergétique : la qualité du thermostat éventuellement installé, sachant que ce dispositif deviendra obligatoire dans tous les logements à compter du 1er janvier 2027. Un thermostat programmable, et a fortiori connecté, permet en effet de piloter plus finement les consommations d'énergie et donc d'éviter les excès.

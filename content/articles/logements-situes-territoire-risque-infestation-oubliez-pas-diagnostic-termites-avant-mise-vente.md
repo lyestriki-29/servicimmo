@@ -6,32 +6,34 @@ titre: >-
   diagnostic termites avant sa mise en vente
 date: '2017-01-01'
 metaTitle: >-
-  Logements situés dans un territoire à risque d’infestation : n’oubliez pas le
-  diagnostic termites avant sa mise en vente | SERVICIMMO
+  Diagnostic termites : obligatoire en zone à risque avant vente
 metaDescription: >-
-  Logements situés dans un territoire à risque d’infestation : n’oubliez pas le
-  diagnostic termites avant sa mise en vente
+  Vendre un bien en zone à risque de termites ? L'état parasitaire est
+  obligatoire. Découvrez le déroulement, la validité et les risques en cas
+  d'absence.
 anciennesUrls:
   - >-
     /logements-situes-territoire-risque-infestation-oubliez-pas-diagnostic-termites-avant-mise-vente-i4.html
 extrait: >-
-  Logements situés dans un territoire à risque d’infestation : n’oubliez pas le
-  diagnostic termites avant sa mise en vente
+  En zone à risque, l'état parasitaire termites est indispensable avant la
+  vente, sous peine de mise en cause pour vice caché.
 archive: false
-brut: true
 ---
-# Logements situés dans un territoire à risque d’infestation : n’oubliez pas le diagnostic termites avant sa mise en vente
 
-![](/userfiles/image/diagnostic-termites.jpg)Rechercher la présence active ou passive de **[termites](dpe-commerce-tours-37000.html)** est obligatoire avant de mettre en vente un bien immobilier implanté dans une commune ou un département ayant été signalé à risque.
+La recherche de la présence, active ou passive, de termites est obligatoire avant la mise en vente d'un bien immobilier situé dans une commune ou un département classé à risque.
 
-En effet, les préfets ont le pouvoir de prendre des arrêtés qui indiquent l’existence d’une infestation potentielle ou réelle de termites.
+## Un risque déterminé par arrêté préfectoral
 
-Dès lors, l’annexion aux actes de vente d’un **État parasitaire relatif aux termites** est obligatoire.
+Les préfets ont le pouvoir de prendre des arrêtés délimitant les zones où une infestation de termites est avérée ou potentielle. Dès qu'un bien est situé dans l'une de ces zones, l'annexion aux actes de vente d'un état parasitaire relatif aux termites devient obligatoire.
 
-Cette investigation doit être menée par un diagnostiqueur certifié.
+## Une investigation menée par un diagnostiqueur certifié
 
-Muni d’un poinçon, il sonde tous les bois de construction accessibles en vue de détecter la présence de galeries internes creusées par des colonies de cet insecte xylophage.
+Cette investigation doit être réalisée par un diagnostiqueur certifié. Muni d'un poinçon, celui-ci sonde l'ensemble des bois de construction accessibles afin de détecter d'éventuelles galeries creusées par les colonies de cet insecte xylophage. Son rapport précise les zones examinées, les éléments visités et, le cas échéant, les indices révélant une infestation.
 
-L’absence de **diagnostic termites** en cours de validité lors de la signature de la transaction peut entrainer la mise en cause du vendeur pour vices-cachés.
+## Un diagnostic à ne pas négliger
 
-L’**État parasitaire** relatif aux termites est valable pour une durée restreinte à six mois.
+L'absence d'un diagnostic termites en cours de validité au moment de la signature de la transaction peut entraîner la mise en cause du vendeur pour vice caché. Ce constat est en effet un élément déterminant de l'information due à l'acquéreur, en particulier dans les zones reconnues à risque.
+
+L'état parasitaire relatif aux termites a une durée de validité restreinte : six mois. Il est donc recommandé de le faire réaliser au moment le plus opportun de la procédure de vente, afin qu'il reste valable jusqu'à la signature de l'acte authentique.
+
+Notre cabinet de diagnostics immobiliers réalise cet état parasitaire dans tout le département d'Indre-et-Loire.

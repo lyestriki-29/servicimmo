@@ -2,22 +2,31 @@
 slug: touche-finale-conformite-rt-2012
 titre: La touche finale pour votre conformité avec la RT 2012
 date: '2017-01-01'
-metaTitle: La touche finale pour votre conformité avec la RT 2012 | SERVICIMMO
-metaDescription: La touche finale pour votre conformité avec la RT 2012
+metaTitle: DPE dans le neuf et conformité RT 2012
+metaDescription: >-
+  Le DPE dans le neuf s'appuie sur l'audit RT 2012 pour modéliser la
+  consommation énergétique d'un logement, faute de factures disponibles.
 anciennesUrls:
   - /touche-finale-conformite-rt-2012-i15.html
-extrait: La touche finale pour votre conformité avec la RT 2012
-archive: false
-brut: true
+extrait: >-
+  Sans factures disponibles, le DPE dans le neuf s'appuie sur une
+  modélisation issue de l'audit RT 2012 réalisé pendant la construction.
+archive: true
+archiveNote: >-
+  La réglementation thermique RT 2012 a été remplacée par la RE2020 pour les
+  constructions neuves depuis 2022 : vérifier que le cadre réglementaire
+  applicable à la conformité énergétique du neuf est toujours celui décrit
+  ici.
 ---
-# La touche finale pour votre conformité avec la RT 2012
 
-![](/userfiles/image/dpe-neuf.jpg)La construction d’un logement doit être conforme aux exigences de la **règlementation thermique** actuelle (**RT 2012**).
+## Une construction neuve soumise à la réglementation thermique
 
-Celle-ci impose également la réalisation d’un **[DPE](diagnostic-immobilier-chambray-les-tours-37170.html)** à l’issue des travaux.
+La construction d'un logement doit être conforme aux exigences de la réglementation thermique en vigueur, la RT 2012. Celle-ci impose également la réalisation d'un diagnostic de performance énergétique (DPE) à l'issue des travaux.
 
-En l’absence de factures pouvant aider à estimer la consommation d’énergie réelle, le **[DPE dans le neuf](diagnostic-immobilier-chambray-les-tours-37170.html)** est constitué à partir d’une modélisation.
+## Un DPE établi par modélisation, faute de factures
 
-Elle utilise les données contenues dans l’audit préalable servant à valider l’attestation de prise en compte de la **RT 2012** dans le projet.
+En l'absence de factures permettant d'estimer la consommation d'énergie réelle du logement neuf, le DPE dans le neuf est constitué à partir d'une modélisation. Cette modélisation utilise les données contenues dans l'audit préalable qui a servi à valider l'attestation de prise en compte de la RT 2012 dans le projet de construction.
 
-À l’aide d’un logiciel, le diagnostiqueur certifié peut ainsi faire une simulation des dépenses énergétiques nécessaires pour une occupation normale du logement.
+## Le rôle du diagnostiqueur certifié
+
+À l'aide d'un logiciel dédié, le diagnostiqueur certifié réalise une simulation des dépenses énergétiques nécessaires pour une occupation normale du logement. Cette étape constitue la touche finale de votre dossier de conformité énergétique, avant la mise en location ou la vente de votre bien neuf. Notre équipe, basée près de Tours, en Indre-et-Loire, réalise ce DPE dans le neuf en s'appuyant sur les données de votre audit RT 2012.

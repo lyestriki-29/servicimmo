@@ -5,37 +5,37 @@ titre: >-
   Surface de référence DPE : un nouveau calcul pour une évaluation encore plus
   juste
 date: '2024-09-20'
-metaTitle: >-
-  Surface de référence DPE : un nouveau calcul pour une évaluation encore plus
-  juste | SERVICIMMO
+metaTitle: Surface de référence DPE : le nouveau calcul
 metaDescription: >-
-  Surface de référence DPE : un nouveau calcul pour une évaluation encore plus
-  juste
+  Depuis juillet 2024, le DPE utilise la surface de référence, plus fidèle que
+  la surface habitable. Découvrez ce que ce changement modifie pour vous.
 anciennesUrls:
   - >-
     /surface-de-reference-dpe-un-nouveau-calcul-pour-une-evaluation-encore-plus-juste-a87.html
 extrait: >-
-  Surface de référence DPE : un nouveau calcul pour une évaluation encore plus
-  juste
+  Depuis juillet 2024, le DPE s'appuie sur la surface de référence, plus
+  fidèle que la surface habitable pour évaluer la performance énergétique.
 archive: false
-brut: true
 ---
-# Surface de référence DPE : un nouveau calcul pour une évaluation encore plus juste - 20/09/2024
 
-![](/userfiles/image/surfacehabitable.jpg)Depuis juillet 2024, le **diagnostic de performance énergétique (DPE)** a connu une évolution importante qui affine encore davantage le classement de l’efficacité énergétique et environnementale d’un bien. Ce changement concerne la méthode de calcul de la surface de référence servant à établir le résultat du DPE. Cette surface, désignée tout simplement par **« surface de référence »** au lieu de surface habitable, offre désormais une estimation encore plus fidèle de la surface réelle d’un bien impliquée dans sa consommation énergétique globale annuelle. Le point sur cette nouvelle notion de **surface dédiée au DPE** qui apporte davantage d’objectivité au sein de ce diagnostic, emblème de la rénovation énergétique.  
- 
+## Un changement dans la méthode de calcul du DPE
 
-## Nouvelle surface au DPE : un changement qui s’explique de la façon la plus logique qui soit
+Depuis juillet 2024, le diagnostic de performance énergétique (DPE) a connu une évolution notable qui affine le classement de l'efficacité énergétique et environnementale d'un bien. Ce changement concerne la méthode de calcul de la surface servant à établir le résultat du DPE. Cette surface, désignée désormais par le terme **« surface de référence »** et non plus « surface habitable », offre une estimation plus fidèle de la surface réellement impliquée dans la consommation énergétique annuelle d'un logement.
 
-Jusqu’au 30 juin 2024, la surface utilisée pour le **calcul du résultat DPE** se confondait avec la **surface habitable du logement,** soit la SHAB. Elle ne prenait donc en compte que les pièces habitables et conformes aux règles de décence dédiées à la vie quotidienne, comme le salon, la cuisine, les chambres, les salles de bain, les couloirs, etc., d’une hauteur sous plafond d’au moins 1,80 m. Depuis le 1er juillet 2024, la s**urface utilisée par le DPE** a changé et cette évolution s’explique de façon logique. En effet, la surface dite habitable pouvait-elle être suffisante pour refléter la totalité des consommations annuelles d’énergie d’un logement ? Des locaux chauffés comme les vérandas, utilisés aussi pour la vie quotidienne ainsi que d’autres, d’une hauteur de plafond suffisante, mais exclus également de la surface habitable, n’influent-ils pas aussi sur les consommations d’énergie ? La surface habitable s’avérait donc de toute évidence limitative dans l’évaluation de la performance énergétique globale d’un bien.
+## Pourquoi ce changement était nécessaire
 
-## La surface de référence, une donnée plus cohérente de la surface chauffée d’un logement
+Jusqu'au 30 juin 2024, la surface utilisée pour le calcul du résultat du DPE se confondait avec la surface habitable du logement, la fameuse SHAB. Elle ne prenait en compte que les pièces habitables et conformes aux règles de décence dédiées à la vie quotidienne — salon, cuisine, chambres, salles de bain, couloirs — d'une hauteur sous plafond d'au moins 1,80 m.
 
-Grâce à l’arrêté du 25 mars 2024, la « surface de référence » a remplacé la **surface habitable au sein du DPE** depuis le 1er juillet 2024. La surface de référence englobe désormais l’ensemble des espaces chauffés, vérandas comprises, aménagés « pour l’usage principal d’occupation humaine », d’une hauteur sous plafond de 1,80 m, mais sans considérer si ceux-ci sont habitables ou décents. Ces locaux doivent avoir été aménagés de façon à être adaptés à une « présence humaine régulière et prolongée » et utilisés pour des « activités quotidiennes ». Cette nouvelle approche de la surface d’un logement s’annonce plus pragmatique, puisque tous les espaces consommant de l’énergie sont enfin pris en compte dans le **calcul du DPE**, parmi lesquels les locaux disposant d’un chauffage fixe et dédiés au travail, au repos et au divertissement, même en sous-sol et sans ouverture vers l’extérieur. Notons que les locaux dédiés au stockage sont exclus de la surface de référence du DPE.
+Or, cette surface habitable s'avérait limitative pour refléter l'ensemble des consommations d'énergie d'un logement. Des locaux chauffés comme les vérandas, utilisés au quotidien, ou d'autres espaces d'une hauteur de plafond suffisante mais exclus de la surface habitable, influent eux aussi sur la consommation énergétique. Depuis le 1er juillet 2024, la surface utilisée par le DPE a donc changé pour corriger cette limite.
 
-## Pour vous, propriétaires, acheteurs, locataires, quels avantages vous procure la Sref du DPE ?
+## La surface de référence, un reflet plus cohérent des espaces chauffés
 
-Cette évolution de la surface prise en compte pour le calcul du DPE est un atout pour les propriétaires qui souhaitent vendre, louer ou rénover leur bien. En effet, avec l’estimation encore plus précise de la performance énergétique qu’engendre la nouvelle surface de référence du DPE, ils disposent depuis le 1er juillet 2024 d’un **rapport DPE** transmettant une information encore plus fiable, qui augmente la transparence des transactions immobilières ainsi que des besoins en termes d’amélioration de l’efficacité énergétique. De plus, dans certains cas, l’ancien résultat DPE d’un logement pourrait être revalorisé grâce à cette révision. Quant aux candidats acheteurs ou locataires, un rapport DPE encore plus fiable, c’est la garantie de visualiser encore plus de justesse au sein des **annonces immobilières de vente et de location**, tant au niveau du **classement DPE** du logement que de l’évaluation du montant annuel de ses coûts énergétiques. Ainsi, ils pourront opérer avec encore plus d’assurance leur sélection.
+Grâce à l'arrêté du 25 mars 2024, la surface de référence a remplacé la surface habitable au sein du DPE depuis le 1er juillet 2024. Elle englobe désormais l'ensemble des espaces chauffés, vérandas comprises, aménagés « pour l'usage principal d'occupation humaine », d'une hauteur sous plafond de 1,80 m, sans tenir compte de leur caractère habitable ou décent. Ces locaux doivent être adaptés à une « présence humaine régulière et prolongée » et utilisés pour des « activités quotidiennes ».
 
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Cette approche est plus pragmatique, puisque tous les espaces qui consomment de l'énergie sont désormais pris en compte dans le calcul du DPE, y compris les locaux disposant d'un chauffage fixe et dédiés au travail, au repos ou aux loisirs, même en sous-sol et sans ouverture vers l'extérieur. Les locaux dédiés au stockage restent en revanche exclus de la surface de référence.
+
+## Quels avantages pour propriétaires, acheteurs et locataires ?
+
+Cette évolution profite aux propriétaires qui souhaitent vendre, louer ou rénover leur bien : depuis le 1er juillet 2024, ils disposent d'un rapport DPE plus fiable, ce qui renforce la transparence des transactions immobilières et la pertinence des travaux d'amélioration énergétique à envisager. Dans certains cas, l'ancien résultat DPE d'un logement peut même être revalorisé grâce à cette révision du calcul.
+
+Pour les candidats acheteurs ou locataires, un DPE plus fiable garantit une meilleure lisibilité des annonces immobilières, tant au niveau du classement énergétique du logement que de l'estimation du montant annuel des coûts énergétiques. De quoi opérer leur sélection avec davantage d'assurance.

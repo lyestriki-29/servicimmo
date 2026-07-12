@@ -2,30 +2,28 @@
 slug: location-logements-vides-assurez-connaitre-surface-habitable
 titre: 'Location de logements vides : assurez-vous de connaitre sa surface habitable !'
 date: '2017-01-01'
-metaTitle: >-
-  Location de logements vides : assurez-vous de connaitre sa surface habitable !
-  | SERVICIMMO
-metaDescription: 'Location de logements vides : assurez-vous de connaitre sa surface habitable !'
+metaTitle: 'Location vide : connaître sa surface habitable'
+metaDescription: 'Loi Boutin, calcul de la surface habitable, écart de 5% : ce qu''un bailleur doit savoir avant de louer un logement non meublé.'
 anciennesUrls:
   - /location-logements-vides-assurez-connaitre-surface-habitable-i6.html
-extrait: 'Location de logements vides : assurez-vous de connaitre sa surface habitable !'
+extrait: 'Avant de louer un logement vide, la surface habitable doit être connue avec précision : elle figure obligatoirement au bail.'
 archive: false
-brut: true
 ---
-# Location de logements vides : assurez-vous de connaitre sa surface habitable !
 
-![](/userfiles/image/loi-boutin.jpg)Avant de mettre en location un logement non meublé et destiné à un usage de résidence principale, vous devez absolument connaitre sa **surface habitable**.
+## Location de logements vides : assurez-vous de connaître la surface habitable
 
-Aux termes de la **loi Boutin**, celle-ci doit en effet apparaitre dans le bail.
+Avant de mettre en location un logement non meublé destiné à une résidence principale, vous devez impérativement connaître sa **surface habitable**.
 
-Il s’agit d’un métrage spécifique qui ne tient compte que de certaines parties du bien.
+En vertu de la **loi Boutin**, cette surface doit obligatoirement figurer dans le bail.
 
-La surface habitable ne comprend pas les emplacements des murs, des cloisons, des embrasures, des marches et des escaliers.
+Il s'agit d'un métrage spécifique qui ne tient compte que de certaines parties du bien.
 
-Elle exclue également toutes les parties dont la hauteur est inférieure à 1,80 m.
+La surface habitable exclut les emplacements occupés par les murs, cloisons, embrasures, marches et escaliers.
 
-Enfin, elle ne tient pas compte des greniers et des combles non aménagés, des sous-sols, caves et parkings ainsi que des remises et des dépendances du logement.
+Elle exclut également toutes les parties dont la hauteur est inférieure à 1,80 mètre.
 
-La précision de ce mesurage est essentielle car votre locataire pourrait demander une diminution du montant du loyer s’il s’avérait que la surface habitable indiquée au bail était erronée de plus de 5%.
+Enfin, elle ne prend pas en compte les greniers et combles non aménagés, les sous-sols, caves et parkings, ainsi que les remises et dépendances du logement.
 
-Adressez-vous donc à un professionnel pour effectuer le calcul de la **surface habitable** de votre logement.
+La précision de ce mesurage est essentielle : si la surface habitable indiquée au bail s'avère erronée de plus de 5 %, votre locataire est en droit de demander une diminution du montant du loyer.
+
+Faites donc appel à un professionnel pour effectuer le calcul de la **surface habitable** de votre logement, et sécurisez ainsi votre mise en location.

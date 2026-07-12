@@ -1,36 +1,40 @@
 ---
 slug: >-
   dpen-des-propositions-emergent-pour-eviter-lrinterdiction-de-louer-a-lrhorizon-2025
-titre: "DPE\_: des propositions émergent pour éviter l’interdiction de louer à l’horizon 2025"
+titre: "DPE\_: des propositions émergent pour éviter l'interdiction de louer à l'horizon 2025"
 date: '2023-12-30'
-metaTitle: "DPE\_: des propositions émergent pour éviter l’interdiction de louer à l’horizon 2025 | SERVICIMMO"
-metaDescription: "DPE\_: des propositions émergent pour éviter l’interdiction de louer à l’horizon 2025"
+metaTitle: "DPE\_: des pistes pour éviter l'interdiction de louer 2025"
+metaDescription: >-
+  En 2023, plusieurs pistes émergeaient pour assouplir le DPE avant
+  l'interdiction de louer les classes G en 2025 : CEP électrique, petites
+  surfaces, DPE patrimonial, DPE collectif.
 anciennesUrls:
   - >-
     /dpen-des-propositions-emergent-pour-eviter-lrinterdiction-de-louer-a-lrhorizon-2025-a78.html
-extrait: "DPE\_: des propositions émergent pour éviter l’interdiction de louer à l’horizon 2025"
-archive: false
-brut: true
+extrait: >-
+  Fin 2023, plusieurs pistes de réforme du DPE émergeaient pour limiter les
+  effets de l'interdiction de louer les classes G prévue au 1er janvier 2025.
+archive: true
+archiveNote: >-
+  Cet article recense des propositions à l'étude fin 2023 : vérifier
+  lesquelles ont effectivement été adoptées depuis l'échéance du 1er janvier
+  2025 sur les logements de classe G.
 ---
-# DPE : des propositions émergent pour éviter l’interdiction de louer à l’horizon 2025 - 30/12/2023
 
-![](/userfiles/image/dpe2.jpeg)Le diagnostic de performance énergétique est toujours, comme à son habitude en toutes saisons, au cœur de nombreux débats. Et si on s’intéressait, en ce mois de décembre 2023, aux mesures d’optimisation le concernant ? En effet, elles pourraient permettre à certains propriétaires bailleurs de ne pas être pénalisés par l’échéance d’interdiction de louer qui s’appliquera à compter du 1er janvier 2025 pour les logements de **classe G** au DPE. À l’heure actuelle, le DPE fait l’objet de propositions qui le rendraient plus équitable, qui permettraient de le regarder sous un autre angle ou tout simplement qui l’adapteraient aux diverses réalités du parc immobilier français. Explorons-les de plus près.
+Le diagnostic de performance énergétique est, comme à son habitude, au cœur de nombreux débats. Et si l'on s'intéressait, en cette fin d'année 2023, aux mesures d'optimisation qui l'entourent ? Plusieurs pistes pourraient en effet permettre à certains propriétaires bailleurs de ne pas être pénalisés par l'échéance d'interdiction de louer qui s'applique à compter du 1er janvier 2025 pour les logements de **classe G** au DPE. À cette date, le DPE fait l'objet de propositions destinées à le rendre plus équitable, à l'envisager sous un autre angle, ou tout simplement à l'adapter aux diverses réalités du parc immobilier français. Tour d'horizon de ces pistes.
 
-## DPE : le CEP relatif à l’électricité au cœur d’une future réforme du calcul du DPE ?
+## Le CEP relatif à l'électricité, au cœur d'une future réforme du calcul du DPE ?
 
-Une proposition de loi enregistrée au Sénat en octobre 2023 instaure de réduire à **1** le **CEP** **relatif à l’électricité**, soit le coefficient de conversion de l’énergie primaire en énergie finale applicable aux consommations électriques. Cette mesure neutraliserait l’impact du calcul de conversion visant à quantifier la consommation annuelle d’énergie finale d’un logement en matière d’électricité, d’autant plus lorsque le logement dispose d’un chauffage tout électrique. Ainsi, le CEP relatif à l’électricité s’alignerait sur la valeur du **CEP relatif au gaz** ou **au bois** qui sont déjà de 1. De plus, cette mesure redorerait légitimement le blason d’une énergie qui, rappelons-le, est propre, puisque décarbonée à hauteur de **92 %**, contrairement au gaz.
+Une proposition de loi enregistrée au Sénat en octobre 2023 propose de réduire à **1** le **CEP relatif à l'électricité**, c'est-à-dire le coefficient de conversion de l'énergie primaire en énergie finale applicable aux consommations électriques. Cette mesure neutraliserait l'impact de ce calcul de conversion sur la consommation annuelle d'énergie finale d'un logement, en particulier lorsqu'il dispose d'un chauffage tout électrique. Le CEP relatif à l'électricité s'alignerait ainsi sur la valeur du **CEP relatif au gaz** ou **au bois**, déjà fixée à 1. Cette mesure valoriserait aussi une énergie décarbonée à hauteur de **92 %**, contrairement au gaz.
 
-## DPE et petites surfaces : un correctif très attendu que rappelle à nouveau le CNH
+## Petites surfaces : un correctif attendu, rappelé par le CNH
 
-Courant janvier 2024 sera remis au ministre du **Logement Patrice Vergriete** un rapport du **Conseil national de l’habitat (CNH)**, au sein duquel figurera le projet de révision de la méthode de calcul **DPE** applicable aux logements de petite surface (moins de 30 mètres carrés). Le but est d’apporter à la méthode de calcul du DPE un correctif pour l’adapter aux spécificités des petits logements. En effet, même bien isolés, ces logements sont pénalisés par le calcul du DPE lorsqu’ils sont équipés d’un ballon d’eau chaude de grande capacité. Il s’agirait donc d’appliquer des coefficients de pondération, de telle sorte que l’évaluation de la performance énergétique de ces logements soit plus juste et cohérente, permettant ainsi à certains d’entre eux de sortir du statut de passoire énergétique.
+Courant janvier 2024, un rapport du **Conseil national de l'habitat (CNH)** doit être remis au ministre du Logement, **Patrice Vergriete**. Il contiendra un projet de révision de la méthode de calcul du DPE applicable aux logements de petite surface (moins de 30 mètres carrés). L'objectif est d'adapter ce calcul aux spécificités des petits logements : même bien isolés, ceux-ci sont pénalisés lorsqu'ils sont équipés d'un ballon d'eau chaude de grande capacité. Il s'agirait donc d'appliquer des coefficients de pondération afin de rendre l'évaluation plus juste et cohérente, et de permettre à certains logements de sortir du statut de passoire énergétique.
 
-## DPE dans l’ancien : bientôt la création d’un DPE patrimonial pour certains immeubles bâtis ?
+## Vers un DPE patrimonial pour certains immeubles bâtis ?
 
-Un avis déposé le 23 novembre 2023 dans le cadre du projet de loi de finances 2024 suggère la création d’un DPE adapté aux bâtiments à intérêt patrimonial. Il ne s’agirait donc pas de réformer le DPE pour mieux évaluer le bâti ancien, mais plutôt de générer un autre diagnostic énergie adapté aux spécificités de certains immeubles remarquables et répertoriés comme tels dans les documents d’urbanisme. Ce DPE particulier serait adapté au caractère unique des bâtiments patrimoniaux par l’introduction dans sa feuille de calcul de l’ensemble des matériaux anciens qui composent ce type de constructions.
+Un avis déposé le 23 novembre 2023 dans le cadre du projet de loi de finances 2024 suggère la création d'un DPE adapté aux bâtiments à intérêt patrimonial. Il ne s'agirait pas de réformer le DPE existant, mais de créer un diagnostic distinct, adapté aux spécificités des immeubles remarquables répertoriés comme tels dans les documents d'urbanisme, en intégrant dans sa méthode de calcul l'ensemble des matériaux anciens qui composent ce type de constructions.
 
-## DPE collectif vs DPE individuel : faire passer le DPE de la copropriété avant celui du logement
+## DPE collectif contre DPE individuel : faire primer la copropriété
 
-Enfin, le rapport du CNH recommande aussi la production d’un DPE collectif lors de la location d’un logement de copropriété. Cette proposition permettrait de maintenir dans le marché de la location les passoires énergétiques situées dans les copropriétés dotées d’une bonne performance énergétique **(classes A, B, C ou D au DPE)**. Il s’agirait en quelque sorte d’une solution collective pour lutter contre la crise du logement qui risque de s’aggraver en 2025, et ce, en attendant que les logements puissent faire l’objet d’une rénovation énergétique adaptée.
-
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Enfin, le rapport du CNH recommande la production d'un DPE collectif lors de la location d'un logement en copropriété. Cette proposition permettrait de maintenir sur le marché locatif des logements individuellement classés passoire énergétique, mais situés dans des copropriétés dotées d'une bonne performance collective (**classes A, B, C ou D au DPE**). Une forme de solution collective pour limiter les effets de la crise du logement, en attendant que ces logements bénéficient d'une rénovation énergétique adaptée.

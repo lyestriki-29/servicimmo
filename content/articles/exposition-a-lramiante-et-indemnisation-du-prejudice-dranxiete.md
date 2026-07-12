@@ -1,26 +1,30 @@
 ---
 slug: exposition-a-lramiante-et-indemnisation-du-prejudice-dranxiete
-titre: Exposition à l’amiante et indemnisation du préjudice d’anxiété
+titre: Exposition à l'amiante et indemnisation du préjudice d'anxiété
 date: '2019-05-15'
-metaTitle: Exposition à l’amiante et indemnisation du préjudice d’anxiété | SERVICIMMO
-metaDescription: Exposition à l’amiante et indemnisation du préjudice d’anxiété
+metaTitle: >-
+  Amiante : indemnisation du préjudice d'anxiété
+metaDescription: >-
+  Un revirement de jurisprudence permet désormais à tout travailleur exposé à
+  l'amiante de demander réparation pour préjudice d'anxiété. Explications.
 anciennesUrls:
   - /exposition-a-lramiante-et-indemnisation-du-prejudice-dranxiete-a21.html
-extrait: Exposition à l’amiante et indemnisation du préjudice d’anxiété
+extrait: >-
+  La Cour de cassation étend le droit à indemnisation du préjudice d'anxiété à
+  tous les travailleurs exposés à l'amiante, et non plus seulement à certains.
 archive: false
-brut: true
 ---
-# Exposition à l’amiante et indemnisation du préjudice d’anxiété - 15/05/2019
 
-Suite la décision récente de la Cour de cassation, tous les travailleurs ayant subi une exposition à l’amiante pourront obtenir une indemnisation. Auparavant, seuls certains employés (la loi du 23 décembre 1998) bénéficiaient de cette réparation. Il s’agit de **l’anxiété** provoquée par le fait d’avoir été exposé à l’amiante, cancérogène, en milieu professionnel.
+## Un revirement de jurisprudence favorable aux travailleurs
 
-## Quel va être l’impact de ce revirement de jurisprudence ?![](/userfiles/image/AdobeStock_48739554.jpeg)
+À la suite d'une décision récente de la Cour de cassation, tous les travailleurs ayant subi une exposition à l'amiante peuvent désormais obtenir une indemnisation. Auparavant, seuls certains employés, visés par la loi du 23 décembre 1998, bénéficiaient de cette réparation. Il s'agit ici de **l'anxiété** provoquée par le fait d'avoir été exposé à l'amiante, substance cancérogène, en milieu professionnel.
 
-Désormais, dès qu’un ouvrier ou un employé a travaillé dans un bâtiment construit avant juillet 1997, il lui sera éventuellement possible de demander réparation pour l’anxiété liée au risque élevé d’avoir une maladie professionnelle. Rappelons que l’amiante provoque des cancers du poumon et d’autres maladies respiratoires dramatiques. Cependant, les premiers symptômes des salariés exposés à **l’amiante** surviennent parfois après plusieurs décennies. La difficulté sera de prouver le lien de cause à effet. Néanmoins, cette décision devrait pousser les maîtres d’ouvrages, donneurs d’ordre et employeurs à être vigilants en termes de sécurité.
+## Quel est l'impact de ce revirement de jurisprudence ?
 
-## S’exonérer de sa responsabilité en respectant ses obligations de sécurité
+Désormais, dès qu'un ouvrier ou un employé a travaillé dans un bâtiment construit avant juillet 1997, il lui est possible de demander réparation pour l'anxiété liée au risque élevé de développer une maladie professionnelle. Rappelons que l'amiante provoque des cancers du poumon et d'autres maladies respiratoires graves. Les premiers symptômes chez les salariés exposés à **l'amiante** surviennent cependant parfois plusieurs décennies après l'exposition, ce qui rend la preuve du lien de cause à effet difficile à établir. Cette décision devrait néanmoins inciter les maîtres d'ouvrage, donneurs d'ordre et employeurs à renforcer leur vigilance en matière de sécurité.
 
-Si l’employeur peut démontrer avoir mis en œuvre les mesures du Code du travail pour protéger les employés du **risque professionnel amiante**, sa responsabilité ne sera pas engagée. Autour de la ville de Tours, avant travaux ou démolition d’un bâtiment, ou chantier sur des voiries, demandez-nous un repérage amiante. En Indre-et-Loire, vous pourrez ainsi protéger vos travailleurs, salariés et autres employés des risques d’exposition à l’amiante. D’après un rapport du Haut conseil de la santé publique, il pourrait y avoir entre 68 000 et 100 000 décès, d’ici 2050, parmi les victimes de l’amiante. Beaucoup d’entre elles seront des travailleurs.
+## S'exonérer de sa responsabilité en respectant ses obligations de sécurité
 
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Si l'employeur peut démontrer avoir mis en œuvre les mesures prévues par le Code du travail pour protéger ses employés du **risque professionnel amiante**, sa responsabilité ne sera pas engagée.
+
+Autour de Tours, avant tous travaux, démolition d'un bâtiment ou chantier sur voirie, demandez-nous un repérage amiante. En Indre-et-Loire, vous protégerez ainsi vos travailleurs, salariés et autres employés des risques liés à l'exposition à l'amiante. D'après un rapport du Haut conseil de la santé publique, entre 68 000 et 100 000 décès pourraient survenir d'ici 2050 parmi les victimes de l'amiante, dont une large part de travailleurs.

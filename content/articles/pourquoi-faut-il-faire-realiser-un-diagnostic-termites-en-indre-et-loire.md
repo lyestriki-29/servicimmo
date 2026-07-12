@@ -3,43 +3,44 @@ slug: pourquoi-faut-il-faire-realiser-un-diagnostic-termites-en-indre-et-loire
 titre: Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ?
 date: '2018-04-17'
 metaTitle: >-
-  Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ? |
-  SERVICIMMO
-metaDescription: Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ?
+  Diagnostic termites en Indre-et-Loire : est-il obligatoire ?
+metaDescription: >-
+  Un arrêté préfectoral impose le diagnostic termites en Indre-et-Loire avant toute vente,
+  location ou construction. Contenu du rapport et durée de validité expliqués.
 anciennesUrls:
   - >-
     /pourquoi-faut-il-faire-realiser-un-diagnostic-termites-en-indre-et-loire-a8.html
-extrait: Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ?
+extrait: >-
+  L'Indre-et-Loire est classée zone à termites : un diagnostic est obligatoire avant
+  vente, location ou construction. Contenu du rapport et validité à connaître.
 archive: false
-brut: true
 ---
-# Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ? - 17/04/2018
+## Un département classé à risque termites
 
-L’état relatif à la présence de **termite** est obligatoire et important dans certains territoires dont l’Indre-et-Loire. L’arrêté préfectoral du 27 février 2018 signale que le département de l’**Indre-et-Loire** est concerné par l’infestation de **termites**. Avant de vendre, louer ou construire un bien immobilier, vous devez donc nécessairement faire contrôler la présence de termites.
+L'état relatif à la présence de termites est un diagnostic obligatoire dans certains territoires, dont l'Indre-et-Loire. L'arrêté préfectoral du 27 février 2018 classe en effet l'ensemble du département comme concerné par le risque d'infestation de termites. Avant de vendre, de louer ou de construire un bien immobilier situé en Indre-et-Loire, il est donc nécessaire de faire contrôler la présence de ces insectes xylophages.
 
 ![](/userfiles/image/diagnostic-termite.jpg)
 
-## Pourquoi compter sur un diagnostiqueur immobilier pour repérer les termites ?
+## Pourquoi confier ce contrôle à un diagnostiqueur immobilier certifié ?
 
-Un expert certifié sait réaliser des sondages dans le bois et identifier les signes d’infestation. Sinon les dégâts peuvent être visibles trop tard, lorsqu’il y a risque d’effondrement.  
-Le **diagnostiqueur certifié** pourra aussi distinguer les dégradations commises par les termites de celles créées par les insectes nidificateurs ou par les champignons (lignicoles ou lignivores).
+Un diagnostiqueur certifié sait réaliser des sondages dans le bois et identifier les signes d'infestation, souvent invisibles à l'œil non averti. Sans cette expertise, les dégâts ne sont parfois constatés que trop tard, lorsqu'un risque d'effondrement apparaît déjà.
 
-## Que contient le rapport du diagnostic termites remis au vendeur du bien ?
+Le professionnel certifié est également en mesure de distinguer les dégradations causées par les termites de celles provoquées par d'autres insectes xylophages ou par des champignons lignivores. Cette distinction conditionne directement la nature des travaux à engager.
 
-Les informations contenues dans le rapport officiel pourront être les suivantes :
+## Que contient le rapport de diagnostic termites remis au vendeur ?
 
-*   Date et lieu exacte de l’expertise termites en Indre-et-Loire
-*   Parties du bien immobilier visitées (intérieur et extérieur)
-*   Éléments repérés comme infestées (ou l’ayant été) par les termites
-*   Moyens d’investigation utilisés par le professionnel
-*   Préconisations ou obligations du propriétaire s’il y en a.
+Le rapport officiel doit notamment préciser :
 
-## Que faire en cas de **diagnostic termites** positif en **Indre-et-Loire** ?
+*   la date et le lieu exacts de l'expertise réalisée en Indre-et-Loire ;
+*   les parties du bien visitées, à l'intérieur comme à l'extérieur ;
+*   les éléments repérés comme infestés, ou l'ayant été, par les termites ;
+*   les moyens d'investigation utilisés par le diagnostiqueur ;
+*   les préconisations ou obligations à la charge du propriétaire, le cas échéant.
 
-Le propriétaire vendeur aura l’obligation de signaler la **présence de termites** via une déclaration auprès de la mairie. Des travaux et un traitement seront à prévoir pour stopper l’infestation et les risques dans la construction.
+## Que faire en cas de diagnostic positif en Indre-et-Loire ?
 
-La validité du rapport est de 6 mois.  
-En cas d’absence de **diagnostic**, le vendeur pourrait être jugé responsable d’un vice caché. Discutez-en avec nos professionnels avant la mise en vente de votre bien dans la région.
+Lorsque le diagnostic révèle une infestation, le propriétaire vendeur a l'obligation de la signaler par une déclaration auprès de la mairie. Des travaux et un traitement adapté devront ensuite être engagés pour stopper la progression des termites et limiter les risques pour la construction.
 
-  
+Le rapport de diagnostic termites a une durée de validité de 6 mois. En l'absence de diagnostic valide au moment de la vente, le vendeur s'expose à voir sa responsabilité engagée pour vice caché. N'hésitez pas à échanger avec nos diagnostiqueurs avant toute mise en vente d'un bien situé en Indre-et-Loire.
+
 [« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")

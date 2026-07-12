@@ -2,34 +2,33 @@
 slug: juin-2020-information-sur-le-plan-drexposition-au-bruit-dans-le-ddt
 titre: 'Juin 2020 : information sur le plan d’exposition au bruit dans le DDT'
 date: '2020-06-05'
-metaTitle: >-
-  Juin 2020 : information sur le plan d’exposition au bruit dans le DDT |
-  SERVICIMMO
-metaDescription: 'Juin 2020 : information sur le plan d’exposition au bruit dans le DDT'
+metaTitle: 'Plan d’exposition au bruit : nouveauté dans le DDT'
+metaDescription: 'Depuis juin 2020, le plan d’exposition au bruit intègre le DDT. Découvrez les biens concernés et ce que cela change pour vendeurs et bailleurs.'
 anciennesUrls:
   - >-
     /juin-2020-information-sur-le-plan-drexposition-au-bruit-dans-le-ddt-a34.html
-extrait: 'Juin 2020 : information sur le plan d’exposition au bruit dans le DDT'
+extrait: 'Depuis le 1er juin 2020, le plan d’exposition au bruit doit figurer dans le dossier de diagnostic technique.'
 archive: false
-brut: true
 ---
-# Juin 2020 : information sur le plan d’exposition au bruit dans le DDT - 05/06/2020
 
-Depuis le 1er juin 2020, les futurs occupant d’un bien doivent avoir une information supplémentaire dans le **DDT**. Le plan d’**exposition au bruit** (PEB) est désormais pris en compte, conformément à l’article 94 de la loi d’orientation des mobilités (24 décembre 2019).
+## Une nouvelle information obligatoire dans le DDT
+
+Depuis le 1er juin 2020, les futurs occupants d’un bien doivent disposer d’une information supplémentaire dans le **dossier de diagnostic technique** (**DDT**). Le plan d’**exposition au bruit** (PEB) est désormais pris en compte, conformément à l’article 94 de la loi d’orientation des mobilités du 24 décembre 2019.
 
 ## Biens immobiliers concernés par la loi Mobilités au 1er juin 2020
 
-![](/userfiles/image/bruit.jpeg)Cette nouvelle obligation, commune aux propriétaires vendeurs et bailleurs, concerne :
+Cette nouvelle obligation, commune aux propriétaires vendeurs et aux bailleurs, concerne :
 
-*   Les immeubles à usage d’habitation (maison individuelle, studio, appartement, etc.),
-*   Les immeubles à usage mixte professionnels et d’habitations (avec locaux de travail),
-*   Et les immeubles non bâtis constructibles, situés dans une zone de **bruit**, définie par un document : le plan d’exposition au fruit (PEB)
+* les immeubles à usage d’habitation (maison individuelle, studio, appartement, etc.) ;
+* les immeubles à usage mixte, professionnel et d’habitation, comportant des locaux de travail ;
+* les immeubles non bâtis mais constructibles, situés dans une zone de **bruit** définie par le plan d’exposition au bruit (PEB).
 
-Le PEB permet de définir des zones de **bruit** selon leur niveau de nuisance sonore (faible, fort, modéré). Cependant, seules les nuisances sonores dues aux aérodromes et aéroports sont prises en compte. Il s’agit donc toujours de biens immobiliers proches d’un aérodrome.
+Le PEB permet de classer les zones selon leur niveau de nuisance sonore (faible, modéré ou fort). Seules les nuisances liées aux aérodromes et aéroports sont toutefois prises en compte : cette obligation concerne donc avant tout les biens immobiliers situés à proximité d’un aérodrome.
 
-## Dossier de diagnostic technique / DDT et état des risques et pollutions / ERP
+## Dossier de diagnostic technique et état des risques et pollutions
 
-Avant le 1er juin 2020, les contrats de location comportaient déjà une clause pour mentionner la zone de **bruit** et informer les futurs locataires si nécessaire. Cette obligation figure dans le Code de l’urbanisme. Dans un contexte de vente immobilière, l’acquéreur devait être informé des servitudes d’urbanisme, or un bien situé dans un PEB y est exposé. La nouveauté réside vraiment dans le fait d’insérer l’information dans le **dossier de diagnostic technique** (**DDT**). Le PEB devrait être intégré à l’état des risques et pollutions (ERP) puisque cela fait partie des données conservées par les mairies, préfectures et services de l’État accessibles en ligne.
+Avant le 1er juin 2020, les contrats de location comportaient déjà une clause mentionnant la zone de **bruit**, afin d’informer les futurs locataires si nécessaire. Cette obligation figure dans le Code de l’urbanisme. Dans le cadre d’une vente immobilière, l’acquéreur devait également être informé des servitudes d’urbanisme, catégorie dans laquelle s’inscrit un bien situé en zone PEB.
 
-  
+La véritable nouveauté réside dans l’intégration de cette information directement au sein du **dossier de diagnostic technique** (**DDT**). Le PEB a ainsi vocation à rejoindre l’état des risques et pollutions (ERP), puisqu’il s’agit d’une donnée conservée par les mairies, préfectures et services de l’État, accessible en ligne.
+
 [« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")

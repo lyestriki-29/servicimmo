@@ -1,38 +1,30 @@
 ---
 slug: vente-lots-copropriete-assurez-detenir-certificat-metrage-surface-privative
 titre: >-
-  Vente de lots de copropriété : assurez-vous de de détenir un certificat de
-  métrage de la surface privative !
+  Vente de lots de copropriété : assurez-vous de détenir un certificat de
+  métrage de la surface privative
 date: '2017-01-01'
-metaTitle: >-
-  Vente de lots de copropriété : assurez-vous de de détenir un certificat de
-  métrage de la surface privative ! | SERVICIMMO
+metaTitle: Vente en copropriété : le certificat de métrage Carrez
 metaDescription: >-
-  Vente de lots de copropriété : assurez-vous de de détenir un certificat de
-  métrage de la surface privative !
+  Vente d'un lot de copropriété : découvrez pourquoi le certificat de métrage
+  de la surface privative (loi Carrez) est indispensable avant la signature.
 anciennesUrls:
   - >-
     /vente-lots-copropriete-assurez-detenir-certificat-metrage-surface-privative-i12.html
 extrait: >-
-  Vente de lots de copropriété : assurez-vous de de détenir un certificat de
-  métrage de la surface privative !
+  Avant de vendre un lot de copropriété, assurez-vous de détenir un certificat
+  de métrage de la surface privative conforme à la loi Carrez.
 archive: false
-brut: true
 ---
-# Vente de lots de copropriété : assurez-vous de de détenir un certificat de métrage de la surface privative !
 
-![](/userfiles/image/loi-carrez.jpg)Avant de mettre en vente un lot de copropriété de plus de 8 m² (habitation, local professionnel, etc.), vous devez absolument faire estimer sa **surface privative**.
+Avant de mettre en vente un lot de copropriété de plus de 8 m² (habitation, local professionnel, etc.), vous devez impérativement faire estimer sa **surface privative**. Aux termes de la **loi Carrez**, celle-ci doit en effet être mentionnée dans l'acte authentique scellant la transaction, au même titre que les autres diagnostics obligatoires du bien.
 
-Aux termes de la **loi Carrez**, celle-ci doit en effet être mentionnée dans les actes authentiques scellant la transaction.
+## Un métrage spécifique, encadré par la loi
 
-Il s’agit d’un métrage spécifique qui ne tient compte que de certaines parties du bien.
+Il s'agit d'un métrage précis, qui ne tient compte que de certaines parties du bien et obéit à des règles de calcul strictement définies. La surface privative n'intègre pas l'emplacement des cloisons, des murs, des embrasures, des marches ni des escaliers. Elle ne prend pas non plus en compte les zones dont la hauteur sous plafond est inférieure à 1,80 mètre. Enfin, en sont exclus les greniers, les caves, les parkings ainsi que les dépendances du logement.
 
-La **surface privative** n’intègre pas les emplacements des cloisons, des murs, des embrasures, des marches et des escaliers.
+## Une précision essentielle pour sécuriser la vente
 
-Elle ne prend pas en compte non plus toutes les zones d’une hauteur inférieure à 1,80 m.
+La rigueur de ce mesurage est essentielle : si la surface privative communiquée à l'acheteur au moment de la signature s'avère erronée de plus de 5 %, celui-ci peut obtenir une baisse du prix d'acquisition, voire l'annulation de la transaction.
 
-Enfin, en sont exclus les greniers, les caves et les parkings ainsi que les dépendances du logement.
-
-La précision de ce mesurage est essentielle car votre acheteur pourrait obtenir une baisse de son prix d’acquisition, voire une annulation de la transaction, s’il s’avérait que la **surface privative** qui lui a été communiquée au moment de la signature est erronée de plus de 5%.
-
-Nous vous conseillons donc de vous adresser à un professionnel pour effectuer le calcul de la surface privative de votre logement.
+Pour éviter tout litige, il est donc recommandé de faire réaliser ce certificat par un professionnel qualifié. Ce dernier utilisera des instruments de mesure adaptés et connaît précisément les règles de calcul propres à la loi Carrez, garantissant ainsi la fiabilité du métrage et la conformité du document remis à l'acquéreur. Une vente en copropriété sereine passe donc, avant tout, par un certificat de métrage rigoureux et à jour.

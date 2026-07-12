@@ -1,16 +1,32 @@
 ---
 slug: references-clients
-titre: Nos références
+titre: Nos références clients
 date: '2017-01-01'
-metaTitle: Nos références | SERVICIMMO
-metaDescription: Nos références
+metaTitle: Nos références clients en diagnostic immobilier
+metaDescription: >-
+  Collectivités, bailleurs, promoteurs, notaires, entreprises : découvrez les
+  acteurs qui font confiance à Servicimmo pour leurs diagnostics
+  immobiliers.
 anciennesUrls:
   - /references-clients-i24.html
-extrait: Nos références
+extrait: >-
+  Collectivités, bailleurs sociaux, promoteurs, notaires et entreprises font
+  confiance à Servicimmo pour leurs diagnostics immobiliers.
 archive: false
-brut: true
 ---
-# Nos références
+# Nos références clients
+
+Depuis plusieurs années, notre cabinet de diagnostics et contrôles immobiliers accompagne en Indre-et-Loire un large éventail d'acteurs publics et privés : collectivités territoriales, bailleurs sociaux, promoteurs et agences immobilières, notaires, entreprises du BTP et grands groupes industriels. Cette diversité de clientèle témoigne de la polyvalence de nos équipes, capables d'intervenir aussi bien sur un logement individuel que sur un parc immobilier complexe ou un site industriel.
+
+## Des partenaires de tous horizons
+
+Parmi les organisations qui nous font confiance figurent des bailleurs et promoteurs (Bouygues Immobilier, ICADE, Vallogis, Square Habitat, IAD), des collectivités et institutions locales (Ville de Tours, Tours Plus, plusieurs communes d'Indre-et-Loire, le diocèse de Tours, la chambre des notaires), ainsi que des entreprises et groupes industriels intervenant dans l'énergie, les infrastructures ou la distribution (Auchan, Casino, Groupama, Colas, SNCF, SPIE, Cegelec). Cette liste, non exhaustive, illustre la confiance que nous accordent aussi bien de grands comptes que des acteurs de proximité.
+
+## Pourquoi ces professionnels nous choisissent
+
+Nos clients apprécient la rigueur de nos rapports, le respect des délais et notre capacité à nous adapter à des contextes très variés : diagnostics avant vente ou location, expertises amiante et plomb avant travaux, accompagnement de programmes de rénovation ou de démolition, suivi de parcs immobiliers entiers pour le compte de bailleurs sociaux ou de collectivités. Cette expérience acquise auprès d'interlocuteurs exigeants nous permet de garantir la même qualité de service à chaque particulier qui nous confie son bien.
+
+Vous êtes une entreprise, une collectivité ou un professionnel de l'immobilier et souhaitez, vous aussi, bénéficier de notre expertise ? N'hésitez pas à nous contacter pour évoquer votre projet de diagnostics immobiliers en Indre-et-Loire.
 
 ![](/userfiles/image/references/advenis.jpg)![](/userfiles/image/references/ambillou.jpg)![](/userfiles/image/references/Arthur-Loyd.jpg)![](/userfiles/image/references/auchan.jpg)![](/userfiles/image/references/bouygues-etde.jpg)
 

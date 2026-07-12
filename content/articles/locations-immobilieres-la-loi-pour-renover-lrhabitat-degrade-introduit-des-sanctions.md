@@ -5,34 +5,30 @@ titre: >-
   Locations immobilières : la loi pour rénover l’habitat dégradé introduit des
   sanctions
 date: '2024-06-29'
-metaTitle: >-
-  Locations immobilières : la loi pour rénover l’habitat dégradé introduit des
-  sanctions | SERVICIMMO
+metaTitle: Habitat dégradé : les nouvelles sanctions pour les bailleurs
 metaDescription: >-
-  Locations immobilières : la loi pour rénover l’habitat dégradé introduit des
-  sanctions
+  La loi du 9 avril 2024 sur l'habitat dégradé renforce les sanctions contre
+  les bailleurs négligents. Découvrez les obligations et les risques encourus.
 anciennesUrls:
   - >-
     /locations-immobilieres-la-loi-pour-renover-lrhabitat-degrade-introduit-des-sanctions-a84.html
 extrait: >-
-  Locations immobilières : la loi pour rénover l’habitat dégradé introduit des
-  sanctions
+  Depuis avril 2024, les bailleurs négligents s'exposent à des sanctions
+  renforcées : amendes, peines de prison et obligations contractuelles
+  accrues.
 archive: false
-brut: true
 ---
-# Locations immobilières : la loi pour rénover l’habitat dégradé introduit des sanctions - 29/06/2024
 
-![](/userfiles/image/locationtrr.jpg)La loi pour la rénovation de l’habitat dégradé, en date du 9 avril 2024, s’immisce dans le domaine des locations de logement pour y instaurer des sanctions plus strictes à l’encontre des bailleurs négligents. L’objectif premier est d’éradiquer les pratiques abusives des marchands de sommeil, bien que tous les bailleurs soient concernés. Quelles sont ces sanctions qui visent à protéger les locataires des abus et à promouvoir des pratiques locatives plus saines ? Et quels manquements sanctionnent-elles ?
+La loi du 9 avril 2024 pour la rénovation de l'habitat dégradé étend son champ d'action aux locations immobilières, avec des sanctions renforcées contre les bailleurs négligents. Son objectif premier : mettre fin aux pratiques abusives des marchands de sommeil, même si l'ensemble des bailleurs est concerné par ces nouvelles règles. Quelles sanctions protègent désormais les locataires, et quels manquements visent-elles ?
 
-## Absence de contrat ou de quittances : de lourdes sanctions pour dissuader les bailleurs fautifs
+## Absence de contrat ou de quittances : des sanctions dissuasives
 
-L’article 31 de la loi du 9 avril 2024 introduit des sanctions pour les bailleurs qui ne répondent pas aux obligations qui leur incombent en termes de remise au locataire d’un contrat écrit et conforme, ainsi que de **délivrance de reçus ou de quittances de loyer**. Par conséquent, un nouvel article 3-4 est ajouté à la loi n°89-462 du 6 juillet 1989, pour signifier la mesure suivante : tout bailleur ou intermédiaire qui refuse d’établir un contrat conforme ou de délivrer un reçu ou une quittance de loyer encourt le risque d’être sanctionné par un an d’emprisonnement et une amende de 20 000 euros. Les personnes morales risquent également des amendes très sévères en cas de non-respect de ces exigences.
+L'article 31 de la loi du 9 avril 2024 instaure des sanctions pour les bailleurs qui manquent à leurs obligations : remise d'un contrat écrit et conforme, délivrance de reçus ou de quittances de loyer. Un nouvel article 3-4 est ainsi ajouté à la loi n°89-462 du 6 juillet 1989 : tout bailleur ou intermédiaire qui refuse d'établir un contrat conforme, ou de délivrer un reçu ou une quittance de loyer, encourt un an d'emprisonnement et une amende de 20 000 euros. Les personnes morales s'exposent elles aussi à de lourdes amendes en cas de manquement.
 
-Ces sanctions visent à dissuader les bailleurs de toute non-conformité, négligence ou fraude et à garantir aux locataires un cadre contractuel transparent et sécurisé, ce qui renforce leur **protection juridique et financière** et les préserve de la précarité. En cas de litige, les locataires disposent donc désormais d’un recours efficace pour contraindre les bailleurs à respecter leurs obligations. Ces nouvelles directives contribuent aussi à assurer une relation de confiance entre les parties et plus globalement, et à retrouver un marché immobilier locatif plus transparent et plus sain.
+Ces sanctions visent à dissuader toute non-conformité, négligence ou fraude, et à garantir aux locataires un cadre contractuel transparent et sécurisé. Cette protection juridique et financière renforcée leur évite de se retrouver en situation de précarité. En cas de litige, ils disposent désormais d'un recours efficace pour contraindre leur bailleur à respecter ses obligations. Ces nouvelles règles favorisent une relation de confiance entre les parties et, plus largement, un marché locatif plus sain et plus transparent.
 
-## Location immobilière : contrat écrit et conforme, reçus ou quittances et aussi états des lieux
+## Contrat écrit, quittances et états des lieux : les obligations du bailleur
 
-Depuis la loi n°89-462 du 6 juillet 1989, les relations entre bailleurs et locataires sont régies par des dispositions qui visent à améliorer l’équité et la transparence dans les locations immobilières. Selon l’article 3 de cette loi, le contrat de location doit être rédigé par écrit et suivre un modèle type défini par décret en Conseil d’État. Ce contrat type doit inclure des informations obligatoires telles que les noms des deux parties, la date de début du bail et sa durée, le descriptif du bien loué, le **montant du loyer et ses modalités de paiement**, ainsi que le montant du dépôt de garantie. Chaque règlement doit aussi donner lieu à la remise d’une quittance ou d’un reçu au locataire. De plus, des états des lieux (EDL) doivent être établis, lors de l’entrée dans le logement et lors de la sortie. Notre **cabinet de diagnostics immobiliers** est compétent pour tous vos besoins en EDL entrants ou sortants dans le département d’Indre-et-Loire.
+Depuis la loi n°89-462 du 6 juillet 1989, les relations entre bailleurs et locataires reposent sur des règles destinées à garantir équité et transparence. Selon l'article 3 de cette loi, le contrat de location doit être rédigé par écrit, selon un modèle type défini par décret en Conseil d'État. Il doit comporter des informations obligatoires : identité des deux parties, date de début et durée du bail, descriptif du bien loué, montant du loyer et modalités de paiement, montant du dépôt de garantie. Chaque paiement de loyer doit donner lieu à la remise d'une quittance ou d'un reçu au locataire. Un état des lieux (EDL) doit également être établi, à l'entrée dans le logement comme à la sortie.
 
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+Notre cabinet de diagnostics immobiliers réalise vos états des lieux entrants et sortants dans tout le département d'Indre-et-Loire.
