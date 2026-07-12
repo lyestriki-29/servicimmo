@@ -50,11 +50,21 @@ function extraireHtmlPrincipal($: cheerio.CheerioAPI): string {
 
 async function geocoder(ville: string, cp: string): Promise<{ lat: number; lng: number }> {
   const url = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(ville)}&postcode=${cp}&type=municipality&limit=1`;
-  const json = (await (await fetch(url)).json()) as {
-    features?: { geometry: { coordinates: [number, number] } }[];
-  };
-  const c = json.features?.[0]?.geometry.coordinates;
-  return c ? { lat: c[1], lng: c[0] } : { lat: 47.394, lng: 0.687 }; // fallback : Tours
+  try {
+    const res = await fetch(url);
+    if (!res.ok) {
+      // Panne API BAN : fallback sans avorter le scrape
+      return { lat: 47.394, lng: 0.687 };
+    }
+    const json = (await res.json()) as {
+      features?: { geometry: { coordinates: [number, number] } }[];
+    };
+    const c = json.features?.[0]?.geometry.coordinates;
+    return c ? { lat: c[1], lng: c[0] } : { lat: 47.394, lng: 0.687 }; // fallback : Tours
+  } catch {
+    // Erreur réseau ou parsing : retour fallback
+    return { lat: 47.394, lng: 0.687 };
+  }
 }
 
 // Sur l'ancien site, la date d'un article (série "-aN") est accolée en fin de <h1>
@@ -145,7 +155,7 @@ export async function extraction(): Promise<void> {
       const fm = {
         slug: u.slugPropose, titre: titreArticle, date,
         metaTitle, metaDescription: metaDescription || titreArticle,
-        anciennesUrls: [u.chemin], extrait: metaDescription || titreArticle, archive: false, brut: true,
+        anciennesUrls: [u.chemin], extrait: (metaDescription || titreArticle).slice(0, 200), archive: false, brut: true,
       };
       await writeFile(path.join(CONTENT, "articles", `${u.slugPropose}.md`), matter.stringify(corpsMd, fm), "utf8");
       redirections.push({ source: u.chemin, destination: `/actualites/${u.slugPropose}` });
@@ -181,9 +191,19 @@ export async function extraction(): Promise<void> {
   const overrides = JSON.parse(
     await readFile(path.join(OUT, "redirects-overrides.json"), "utf8"),
   ) as Record<string, string>;
+  const sourcesAppliquees = new Set<string>();
   for (const r of redirections) {
     const destinationOverride = overrides[r.source];
-    if (destinationOverride) r.destination = destinationOverride;
+    if (destinationOverride) {
+      r.destination = destinationOverride;
+      sourcesAppliquees.add(r.source);
+    }
+  }
+  // Signaler les overrides dont la source ne correspond à aucune redirection générée
+  for (const source of Object.keys(overrides)) {
+    if (!sourcesAppliquees.has(source)) {
+      anomalies.push(`Override sans correspondance — ${source}`);
+    }
   }
 
   // Redirections structurelles : décidées au palier humain 1, aucune URL "inconnue" à traiter.
