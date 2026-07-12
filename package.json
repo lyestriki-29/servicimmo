@@ -17,7 +17,8 @@
     "format:check": "prettier --check .",
     "test:e2e": "playwright test",
     "test:e2e:install": "playwright install --with-deps chromium",
-    "scrape": "tsx scripts/scrape-ancien-site.ts"
+    "scrape": "tsx scripts/scrape-ancien-site.ts",
+    "build:departements": "tsx scripts/build-departements-carottage.ts"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
