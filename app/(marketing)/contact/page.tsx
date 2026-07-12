@@ -8,7 +8,7 @@ import { PageHero } from "@/components/marketing/pages/PageHero";
 import { loadVilles } from "@/lib/content/load";
 
 export const metadata: Metadata = {
-  title: "Contact — Servicimmo, diagnostic immobilier à Tours | Servicimmo",
+  title: "Contact — diagnostic immobilier à Tours",
   description:
     "Contactez Servicimmo : 02 47 47 01 23, 58 rue de la Chevalerie à Tours. Devis de diagnostic immobilier en ligne, réponse sous 2 h ouvrées.",
   alternates: { canonical: "/contact" },
@@ -20,8 +20,8 @@ const COORDONNEES = [
     detail: "Lun–Ven 9h–12h / 14h–19h", href: "tel:+33247470123",
   },
   {
-    icone: MailIcon, titre: "contact@servicimmo.fr",
-    detail: "Réponse sous 2 h ouvrées", href: "mailto:contact@servicimmo.fr",
+    icone: MailIcon, titre: "info@servicimmo.fr",
+    detail: "Réponse sous 2 h ouvrées", href: "mailto:info@servicimmo.fr",
   },
   {
     icone: MapPinIcon, titre: "58 rue de la Chevalerie, 37100 Tours",
