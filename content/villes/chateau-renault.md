@@ -2,20 +2,22 @@
 slug: chateau-renault
 ville: Château-Renault
 codePostal: '37110'
-metaTitle: Diagnostic immobilier Château-Renault 37110 | SERVICIMMO
-metaDescription: Diagnostic immobilier Château-Renault 37110
+metaTitle: Diagnostic immobilier Château-Renault (37110) | Servicimmo
+metaDescription: Servicimmo intervient à Château-Renault (37110) pour vos diagnostics DPE, amiante, plomb, électricité, gaz et termites. Diagnostiqueur certifié.
 anciennesUrls:
   - /diagnostic-immobilier-chateau-renault-37110.html
 lat: 47.59467
 lng: 0.909328
-brut: true
 ---
-# Diagnostic immobilier Château-Renault - 37110
 
-Situé dans l’arrondissement de Loches en Indre-et-Loire, Château-Renault est le siège de la Communauté de communes du Castelrenaudais.
+## Château-Renault, siège du Castelrenaudais
 
-Cette intercommunalité se compose de seize communes au nord-est du département.
+Située dans l'arrondissement de Loches, au nord-est de l'Indre-et-Loire, Château-Renault donne son nom à la Communauté de communes du Castelrenaudais, qui rassemble seize communes de ce secteur. Elle en constitue la ville la plus peuplée, devant Auzouer-en-Touraine, et joue à ce titre un rôle de pôle de services pour les communes environnantes. Son parc de logements associe un centre ancien resserré et des extensions pavillonnaires plus récentes.
 
-Château-Renault en est la plus peuplée devant Auzouer-en-Touraine.
+## Ce que la loi impose avant une vente ou une location
 
-Êtes-vous sûr de posséder tous les diagnostics immobiliers imposés par la réglementation pour la vente ou la location de votre logement ? En cas de besoin, le bureau SERVICIMMO est à votre disposition pour effectuer votre diagnostic immobilier à Château-Renault.
+Un propriétaire qui prépare une transaction à Château-Renault doit produire un dossier de diagnostics techniques comprenant le DPE, la recherche d'amiante et de plomb selon l'âge du bâti, le contrôle des installations électriques et gaz vieillissantes, la détection de termites, et le mesurage loi Carrez pour les lots en copropriété. Ce dossier protège autant l'acquéreur ou le locataire que le vendeur ou le bailleur en cas de litige ultérieur.
+
+## Le bureau Servicimmo se déplace à Château-Renault
+
+Nos diagnostiqueurs certifiés couvrent l'ensemble du Castelrenaudais et interviennent directement sur votre bien pour réaliser les contrôles nécessaires, dans des délais compatibles avec vos échéances notariales. Que votre logement se situe dans le centre historique ou dans l'un des quartiers plus récents de la commune, notre équipe adapte sa méthode de contrôle à l'année de construction et à la configuration des lieux. Avez-vous déjà réuni tous les documents exigés par la réglementation pour vendre ou louer sereinement votre logement ? Si ce n'est pas le cas, le cabinet Servicimmo se tient prêt à organiser votre diagnostic immobilier à Château-Renault dans les meilleurs délais.
