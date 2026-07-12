@@ -9,7 +9,6 @@ icone: shield-alert
 extrait: Le repérage obligatoire de l'amiante avant toute vente ou location d'un bien ancien.
 obligatoirePour:
   - vente
-  - location
 dureeValidite: illimitée si absence, 3 ans si présence
 ---
 
