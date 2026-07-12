@@ -7,7 +7,7 @@ metaDescription: Depuis 2022, les annonces immobilières doivent afficher classe
 anciennesUrls:
   - >-
     /nouvelles-informations-du-dpe-a-afficher-dans-les-annonces-immobilieres-a55.html
-extrait: DPE et annonces immobilières : les nouvelles mentions obligatoires depuis le 1er janvier 2022, et les sanctions encourues en cas d'oubli.
+extrait: "DPE et annonces immobilières : les nouvelles mentions obligatoires depuis le 1er janvier 2022, et les sanctions encourues en cas d'oubli."
 archive: false
 ---
 

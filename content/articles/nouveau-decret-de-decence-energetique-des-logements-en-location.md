@@ -2,7 +2,7 @@
 slug: nouveau-decret-de-decence-energetique-des-logements-en-location
 titre: Nouveau décret de décence énergétique des logements en location
 date: '2020-07-21'
-metaTitle: Décence énergétique : ce qui attend les logements en location
+metaTitle: "Décence énergétique : ce qui attend les logements en location"
 metaDescription: >-
   Dès 2023, les logements en location devaient respecter un seuil de
   performance énergétique. Découvrez le projet de décret et ses implications.

@@ -6,7 +6,7 @@ metaTitle: Faut-il créer un diagnostic habitabilité du logement ?
 metaDescription: Un rapport parlementaire propose un diagnostic unique d'habitabilité pour lutter contre le logement indigne. Décryptage de cette piste de réforme.
 anciennesUrls:
   - /faut-il-creer-un-diagnostic-habitabilite-du-logement-a26.html
-extrait: Un diagnostic unique d'habitabilité pour lutter contre l'insalubrité : la piste étudiée par un rapport parlementaire.
+extrait: "Un diagnostic unique d'habitabilité pour lutter contre l'insalubrité : la piste étudiée par un rapport parlementaire."
 archive: true
 archiveNote: Vérifier si la proposition de diagnostic habitabilité unique a depuis été adoptée, modifiée ou abandonnée par le législateur.
 ---

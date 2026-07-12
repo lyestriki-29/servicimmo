@@ -5,7 +5,7 @@ titre: >-
   Un nouvel arrêté qui modifiera la classe DPE de certains logements dès le 1er
   juillet 2024
 date: '2024-04-26'
-metaTitle: Nouvel arrêté DPE : ce qui change pour les petits logements
+metaTitle: "Nouvel arrêté DPE : ce qui change pour les petits logements"
 metaDescription: >-
   Découvrez l'arrêté du 25 mars 2024 qui corrige le classement DPE des petits
   logements et revoit la méthode de calcul de la performance énergétique.

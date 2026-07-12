@@ -3,7 +3,7 @@ slug: >-
   vente-immobilieren-vendeurs-etes-vous-concernes-par-le-carnet-drinformation-du-logementn
 titre: "Vente immobilière : vendeurs, êtes-vous concernés par le carnet d'information du logement ?"
 date: '2023-05-26'
-metaTitle: Carnet d'information du logement : êtes-vous concerné ?
+metaTitle: "Carnet d'information du logement : êtes-vous concerné ?"
 metaDescription: >-
   Vente immobilière : découvrez qui doit constituer le carnet d'information du
   logement (CIL), son contenu et son utilité pour vendeurs et acquéreurs.

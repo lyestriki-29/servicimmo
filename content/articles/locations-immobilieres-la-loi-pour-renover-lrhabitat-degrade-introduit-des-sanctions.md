@@ -5,7 +5,7 @@ titre: >-
   Locations immobilières : la loi pour rénover l’habitat dégradé introduit des
   sanctions
 date: '2024-06-29'
-metaTitle: Habitat dégradé : les nouvelles sanctions pour les bailleurs
+metaTitle: "Habitat dégradé : les nouvelles sanctions pour les bailleurs"
 metaDescription: >-
   La loi du 9 avril 2024 sur l'habitat dégradé renforce les sanctions contre
   les bailleurs négligents. Découvrez les obligations et les risques encourus.

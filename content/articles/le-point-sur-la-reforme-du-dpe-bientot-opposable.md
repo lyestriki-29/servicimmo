@@ -2,11 +2,11 @@
 slug: le-point-sur-la-reforme-du-dpe-bientot-opposable
 titre: Le point sur la réforme du DPE bientôt opposable
 date: '2019-12-12'
-metaTitle: Réforme du DPE : vers un diagnostic opposable
-metaDescription: Point d'étape 2019 sur la réforme du DPE : fiabilisation du diagnostic, nouvelle méthode de calcul et opposabilité juridique attendue en janvier 2021.
+metaTitle: "Réforme du DPE : vers un diagnostic opposable"
+metaDescription: "Point d'étape 2019 sur la réforme du DPE : fiabilisation du diagnostic, nouvelle méthode de calcul et opposabilité juridique attendue en janvier 2021."
 anciennesUrls:
   - /le-point-sur-la-reforme-du-dpe-bientot-opposable-a28.html
-extrait: En 2019, la réforme du DPE se précise : fiabilisation du diagnostic et opposabilité juridique attendue pour janvier 2021.
+extrait: "En 2019, la réforme du DPE se précise : fiabilisation du diagnostic et opposabilité juridique attendue pour janvier 2021."
 archive: true
 archiveNote: Cet article relatait, en 2019, l'annonce de la réforme du DPE et de son opposabilité prévue pour janvier 2021 ; consultez notre article sur le DPE 2021 pour la réforme effectivement entrée en vigueur.
 ---

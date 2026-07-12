@@ -7,7 +7,7 @@ metaDescription: Un rapport parlementaire envisageait d'interdire la location de
 anciennesUrls:
   - >-
     /faut-il-mettre-en-place-une-interdiction-de-louer-un-logement-energivore-a19.html
-extrait: Passoires thermiques, permis de louer, performance énergétique : la piste d'une interdiction de location envisagée dès 2019.
+extrait: "Passoires thermiques, permis de louer, performance énergétique : la piste d'une interdiction de location envisagée dès 2019."
 archive: true
 archiveNote: Depuis, la loi Climat et Résilience a instauré un calendrier d'interdiction de location des passoires thermiques différent de l'échéance 2020 évoquée ici (à vérifier auprès des textes en vigueur).
 ---

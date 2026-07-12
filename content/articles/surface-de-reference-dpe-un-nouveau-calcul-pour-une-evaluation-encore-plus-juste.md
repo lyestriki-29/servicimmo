@@ -5,7 +5,7 @@ titre: >-
   Surface de référence DPE : un nouveau calcul pour une évaluation encore plus
   juste
 date: '2024-09-20'
-metaTitle: Surface de référence DPE : le nouveau calcul
+metaTitle: "Surface de référence DPE : le nouveau calcul"
 metaDescription: >-
   Depuis juillet 2024, le DPE utilise la surface de référence, plus fidèle que
   la surface habitable. Découvrez ce que ce changement modifie pour vous.

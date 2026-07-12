@@ -6,7 +6,7 @@ metaTitle: Faut-il toujours faire appel à un diagnostiqueur certifié ?
 metaDescription: Certification, assurance, indépendance, sanctions... ce que la loi impose au diagnostiqueur immobilier et pourquoi ces garanties vous protègent.
 anciennesUrls:
   - /faut-il-toujours-faire-appel-a-un-diagnostiqueur-certifie-a9.html
-extrait: Certification, assurance, indépendance et sanctions : ce que la loi impose à tout diagnostiqueur immobilier.
+extrait: "Certification, assurance, indépendance et sanctions : ce que la loi impose à tout diagnostiqueur immobilier."
 archive: false
 ---
 

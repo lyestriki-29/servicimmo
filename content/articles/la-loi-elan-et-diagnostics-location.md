@@ -1,9 +1,9 @@
 ---
 slug: la-loi-elan-et-diagnostics-location
-titre: Loi ÉLAN : quels changements pour les diagnostics location ?
+titre: "Loi ÉLAN : quels changements pour les diagnostics location ?"
 date: '2018-11-21'
-metaTitle: Loi ÉLAN : ce qui change pour les diagnostics location
-metaDescription: Encadrement des loyers, locations saisonnières, punaises de lit : découvrez ce que la loi ÉLAN change pour les diagnostics avant une location à Tours.
+metaTitle: "Loi ÉLAN : ce qui change pour les diagnostics location"
+metaDescription: "Encadrement des loyers, locations saisonnières, punaises de lit : découvrez ce que la loi ÉLAN change pour les diagnostics avant une location à Tours."
 anciennesUrls:
   - /la-loi-elan-et-diagnostics-location-a15.html
 extrait: Bail mobilité, encadrement des loyers, punaises de lit... ce que la loi ÉLAN change pour les propriétaires bailleurs à Tours.

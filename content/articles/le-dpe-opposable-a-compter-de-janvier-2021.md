@@ -6,7 +6,7 @@ metaTitle: Le DPE deviendra opposable à compter de janvier 2021
 metaDescription: La loi ELAN prévoit de rendre le DPE opposable dès janvier 2021, engageant la responsabilité des vendeurs et bailleurs. Servicimmo vous explique ce changement.
 anciennesUrls:
   - /le-dpe-opposable-a-compter-de-janvier-2021-a16.html
-extrait: La loi ELAN rend le DPE opposable dès janvier 2021 : vendeurs et bailleurs verront leur responsabilité engagée.
+extrait: "La loi ELAN rend le DPE opposable dès janvier 2021 : vendeurs et bailleurs verront leur responsabilité engagée."
 archive: true
 archiveNote: Article rédigé avant l'entrée en vigueur du DPE opposable ; vérifier le régime d'opposabilité du DPE effectivement en vigueur aujourd'hui.
 ---

@@ -8,7 +8,7 @@ anciennesUrls:
   - /lresris-ex-ernmt-obligatoire-depuis-janvier-2018-a7.html
 extrait: L'ERNMT a été remplacé par l'ESRIS en janvier 2018, avec la prise en compte des secteurs d'information sur les sols (SIS).
 archive: true
-archiveNote: Ce document s'appelle désormais l'ERP (État des Risques et Pollutions) depuis août 2018, et le radon y a été intégré dès juillet 2018 : vérifiez la version en vigueur avant toute utilisation.
+archiveNote: "Ce document s'appelle désormais l'ERP (État des Risques et Pollutions) depuis août 2018, et le radon y a été intégré dès juillet 2018 : vérifiez la version en vigueur avant toute utilisation."
 ---
 
 Suite à la création des secteurs d'information sur les sols (SIS), l'ERNMT (État des risques naturels, miniers et technologiques) a été modifié en profondeur. Depuis janvier 2018, les bailleurs et les vendeurs d'un bien immobilier doivent transmettre un ESRIS (État des Servitudes, Risques et d'Information sur les Sols) lors de toute transaction immobilière, qu'il s'agisse d'une location ou d'une vente.

@@ -6,7 +6,7 @@ metaTitle: Le DPE va-t-il devenir opposable ?
 metaDescription: En 2018, le Sénat repoussait l'opposabilité du DPE prévue par la loi Élan. Retour sur les enjeux de fiabilité qui freinaient cette réforme attendue.
 anciennesUrls:
   - /le-dpe-va-t-il-etre-opposable-a13.html
-extrait: Le Sénat a repoussé l'opposabilité du DPE prévue par la loi Élan : retour sur les enjeux de ce débat.
+extrait: "Le Sénat a repoussé l'opposabilité du DPE prévue par la loi Élan : retour sur les enjeux de ce débat."
 archive: true
 archiveNote: Article rédigé avant l'entrée en vigueur du DPE opposable ; vérifier le statut d'opposabilité du DPE effectivement en vigueur aujourd'hui.
 ---

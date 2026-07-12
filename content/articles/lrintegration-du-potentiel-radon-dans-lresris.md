@@ -8,7 +8,7 @@ anciennesUrls:
   - /lrintegration-du-potentiel-radon-dans-lresris-a11.html
 extrait: Le risque radon est désormais intégré à l'État des servitudes risques et d'information sur les sols (ESRIS), depuis juillet 2018.
 archive: true
-archiveNote: Ce document s'appelle désormais l'ERP (État des Risques et Pollutions) depuis août 2018 : vérifiez que la terminologie et le formulaire utilisés sont bien à jour.
+archiveNote: "Ce document s'appelle désormais l'ERP (État des Risques et Pollutions) depuis août 2018 : vérifiez que la terminologie et le formulaire utilisés sont bien à jour."
 ---
 
 C'est la principale nouveauté du mois de juillet en matière de diagnostics techniques : le risque radon est désormais pris en compte dans l'État des servitudes risques et d'information sur les sols (ESRIS). Cette évolution du document destiné aux acquéreurs et aux locataires de biens immobiliers était attendue depuis une ordonnance datant de février 2016.

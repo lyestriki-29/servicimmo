@@ -3,7 +3,7 @@ slug: >-
   logements-vacantsna-tours-et-partout-en-france-la-cible-des-pouvoirs-publics-en-2023
 titre: "Logements vacants\_à Tours et partout en France, la cible des pouvoirs publics en 2023"
 date: '2023-02-25'
-metaTitle: Logements vacants à Tours : la mobilisation des pouvoirs publics
+metaTitle: "Logements vacants à Tours : la mobilisation des pouvoirs publics"
 metaDescription: >-
   Taxes, guichet Zéro Logement Vacant : découvrez les leviers activés par les
   pouvoirs publics en 2023 pour remettre les logements vacants sur le marché.

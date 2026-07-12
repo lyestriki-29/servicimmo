@@ -2,7 +2,7 @@
 slug: mettez-a-jour-le-dossier-technique-amiante-dta-avant-fevrier-2021
 titre: Mettez à jour le dossier technique amiante (DTA) avant février 2021
 date: '2020-08-10'
-metaTitle: Dossier technique amiante (DTA) : mise à jour avant 2021
+metaTitle: "Dossier technique amiante (DTA) : mise à jour avant 2021"
 metaDescription: >-
   Le repérage amiante complémentaire du DTA était obligatoire avant le 1er
   février 2021 pour certains immeubles. Vérifiez si votre dossier est à jour.

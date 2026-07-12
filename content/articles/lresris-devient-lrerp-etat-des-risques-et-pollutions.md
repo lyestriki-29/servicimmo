@@ -6,7 +6,7 @@ metaTitle: L'ESRIS devient l'ERP (État des Risques et Pollutions)
 metaDescription: Depuis le 3 août 2018, l'ESRIS devient l'ERP. Découvrez ce que ce changement de nom implique pour vos ventes et locations en Indre-et-Loire.
 anciennesUrls:
   - /lresris-devient-lrerp-etat-des-risques-et-pollutions-a12.html
-extrait: L'État des risques change de nom : l'ESRIS devient l'ERP depuis août 2018. Ce qui change (ou pas) pour vendeurs et bailleurs.
+extrait: "L'État des risques change de nom : l'ESRIS devient l'ERP depuis août 2018. Ce qui change (ou pas) pour vendeurs et bailleurs."
 archive: false
 ---
 

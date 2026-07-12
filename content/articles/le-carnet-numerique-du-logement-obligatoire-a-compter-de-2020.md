@@ -2,8 +2,8 @@
 slug: le-carnet-numerique-du-logement-obligatoire-a-compter-de-2020
 titre: Le carnet numérique du logement obligatoire à compter de 2020
 date: '2019-04-15'
-metaTitle: Carnet numérique du logement : ce qu'il faut savoir
-metaDescription: DPE, diagnostics gaz et électricité regroupés en un espace sécurisé : découvrez le fonctionnement du carnet numérique du logement et son calendrier.
+metaTitle: "Carnet numérique du logement : ce qu'il faut savoir"
+metaDescription: "DPE, diagnostics gaz et électricité regroupés en un espace sécurisé : découvrez le fonctionnement du carnet numérique du logement et son calendrier."
 anciennesUrls:
   - /le-carnet-numerique-du-logement-obligatoire-a-compter-de-2020-a20.html
 extrait: Le carnet numérique regroupe tous les diagnostics techniques du logement dans un espace sécurisé, pour un suivi facilité.
