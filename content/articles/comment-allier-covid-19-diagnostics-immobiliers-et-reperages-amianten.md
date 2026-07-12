@@ -2,41 +2,35 @@
 slug: comment-allier-covid-19-diagnostics-immobiliers-et-reperages-amianten
 titre: "Comment allier covid-19 diagnostics immobiliers et repérages amiante\_?"
 date: '2020-04-14'
-metaTitle: "Comment allier covid-19 diagnostics immobiliers et repérages amiante\_? | SERVICIMMO"
-metaDescription: "Comment allier covid-19 diagnostics immobiliers et repérages amiante\_?"
+metaTitle: "Covid-19 : diagnostic immobilier et repérage amiante à Tours"
+metaDescription: "Découvrez le guide de préconisations sanitaires publié en 2020 pour concilier Covid-19, diagnostics immobiliers et repérages amiante en toute sécurité."
 anciennesUrls:
   - >-
     /comment-allier-covid-19-diagnostics-immobiliers-et-reperages-amianten-a32.html
-extrait: "Comment allier covid-19 diagnostics immobiliers et repérages amiante\_?"
+extrait: "Diagnostiqueurs et opérateurs amiante : un guide sanitaire pour reprendre l'activité en toute sécurité pendant le confinement."
 archive: false
-brut: true
 ---
-# Comment allier covid-19 diagnostics immobiliers et repérages amiante ? - 14/04/2020
 
-Un guide de préconisations sanitaires vient de paraître pour allier **Covid-19**, **diagnostics immobiliers et repérages amiante**.  
-L’objectif est de permettre la continuité de la filière du **diagnostic immobilier** sans prendre de risques sanitaires pendant le confinement.
+Un guide de préconisations sanitaires vient de paraître pour allier **Covid-19**, **diagnostics immobiliers** et **repérages amiante**. Son objectif : permettre la continuité de la filière du **diagnostic immobilier** sans prendre de risques sanitaires pendant le confinement.
 
-## ![](/userfiles/image/COVIDTEST.jpg)Mise en ligne de la version provisoire du guide de préconisations sanitaires
+## Mise en ligne de la version provisoire du guide de préconisations sanitaires
 
-Depuis la mi-mars et les restrictions imposées par l’épidémie du coronavirus **Covid-19**, des **diagnostiqueurs immobiliers** et des opérateurs de **repérage amiante** ont dû stopper leurs activités.  
-La chambre des **diagnostiqueurs immobiliers** FNAIM vient de mettre un guide de préconisations sanitaires à télécharger.  
-Il s’agit d’une version provisoire. Chaque **diagnostiqueur** est invité à prendre connaissances des consignes élaborées dans le guide.
+Depuis la mi-mars et les restrictions imposées par l'épidémie de **Covid-19**, de nombreux **diagnostiqueurs immobiliers** et opérateurs de **repérage amiante** ont dû interrompre leur activité.
 
-## Tenir compte du degré d’urgence du projet immobilier et des risques sanitaires
+La chambre des **diagnostiqueurs immobiliers** FNAIM vient justement de mettre à disposition un guide de préconisations sanitaires à télécharger. Il s'agit pour l'instant d'une version provisoire, et chaque **diagnostiqueur** est invité à prendre connaissance des consignes qui y sont détaillées.
 
-Auparavant, un guide élaboré par les entreprises du bâtiment a été validé par le gouvernement. Cette publication concerne le secteur du BTP et la reprise des chantiers. Cependant, les travaux
+## Tenir compte du degré d'urgence du projet immobilier et des risques sanitaires
 
-– **rénovation ou démolition**
+Un guide élaboré par les entreprises du bâtiment avait déjà été validé par le gouvernement pour le secteur du BTP et la reprise des chantiers. Or, les travaux de rénovation ou de démolition imposent souvent des prestations de **repérage amiante** : il devenait donc nécessaire de réfléchir spécifiquement aux conditions d'intervention des opérateurs.
 
-– imposent souvent des prestations de **repérage amiante**.
-
-Il était donc nécessaire de réfléchir aux conditions d’intervention des opérateurs. Le but du guide est aussi de se préparer aux conséquences de la crise sanitaire pour la filière du **diagnostic immobilier.** Dans tous les cas, il y a deux paramètres-clés à prendre en compte : l’urgence et les risques induits par la mission.
+Ce nouveau guide vise aussi à préparer la filière du **diagnostic immobilier** aux conséquences de la crise sanitaire. Dans tous les cas, deux paramètres-clés doivent être pris en compte avant toute intervention : l'urgence du projet et les risques induits par la mission.
 
 ## Évaluer individuellement les risques avant toute intervention
 
-Les sociétés de **diagnostics immobiliers** ne doivent intervenir sur les sites que si les mesures sanitaires sont applicables.  
-Il faut pouvoir respecter les gestes barrières, la distanciation sociale, la prévention par l’hygiène, etc.  
-Avant de **réaliser un diagnostic immobilier à Tours**, ou **un repérage amiante en Indre-et-Loire**, nous veillerons toujours à assurer : la sécurité de notre équipe et la protection de nos clients, particuliers et professionnels.
+Les sociétés de **diagnostics immobiliers** ne doivent intervenir sur un site que si les mesures sanitaires y sont applicables. Il faut notamment pouvoir respecter :
 
-  
-[« Retour aux actualités](https://www.servicimmo.fr/expertises-immobilieres-Tours.html "Retour aux actualités")
+- les gestes barrières ;
+- la distanciation sociale ;
+- la prévention par l'hygiène.
+
+Avant de **réaliser un diagnostic immobilier à Tours**, ou **un repérage amiante en Indre-et-Loire**, nous veillons ainsi toujours à assurer la sécurité de notre équipe et la protection de nos clients, particuliers comme professionnels.
