@@ -1,6 +1,6 @@
 ---
 slug: montbazon
-ville: Montbazon - 37250
+ville: Montbazon
 codePostal: '37250'
 metaTitle: Diagnostic immobilier Montbazon 37250 | SERVICIMMO
 metaDescription: Diagnostic immobilier Montbazon 37250

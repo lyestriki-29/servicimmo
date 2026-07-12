@@ -1,6 +1,6 @@
 ---
 slug: azay-le-rideau
-ville: Azay-le-Rideau - 37190
+ville: Azay-le-Rideau
 codePostal: '37190'
 metaTitle: Diagnostic immobilier Azay-le-Rideau 37190 | SERVICIMMO
 metaDescription: Diagnostic immobilier Azay-le-Rideau 37190

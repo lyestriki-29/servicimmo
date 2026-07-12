@@ -1,6 +1,6 @@
 ---
 slug: chateau-renault
-ville: Château-Renault - 37110
+ville: Château-Renault
 codePostal: '37110'
 metaTitle: Diagnostic immobilier Château-Renault 37110 | SERVICIMMO
 metaDescription: Diagnostic immobilier Château-Renault 37110

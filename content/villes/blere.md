@@ -1,6 +1,6 @@
 ---
 slug: blere
-ville: Bléré - 37150
+ville: Bléré
 codePostal: '37150'
 metaTitle: Diagnostic immobilier Bléré 37150 | SERVICIMMO
 metaDescription: Diagnostic immobilier Bléré 37150

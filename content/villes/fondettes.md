@@ -1,6 +1,6 @@
 ---
 slug: fondettes
-ville: Fondettes - 37230
+ville: Fondettes
 codePostal: '37230'
 metaTitle: Diagnostic immobilier Fondettes 37230 | SERVICIMMO
 metaDescription: Diagnostic immobilier Fondettes 37230

@@ -1,6 +1,6 @@
 ---
 slug: chambray-les-tours
-ville: Chambray-lès-Tours - 37170
+ville: Chambray-lès-Tours
 codePostal: '37170'
 metaTitle: Diagnostic immobilier Chambray-lès-Tours 37170 | SERVICIMMO
 metaDescription: Diagnostic immobilier Chambray-lès-Tours 37170

@@ -1,6 +1,6 @@
 ---
 slug: amboise
-ville: Amboise - 37400
+ville: Amboise
 codePostal: '37400'
 metaTitle: Diagnostic immobilier Amboise 37400 | SERVICIMMO
 metaDescription: Diagnostic immobilier Amboise 37400

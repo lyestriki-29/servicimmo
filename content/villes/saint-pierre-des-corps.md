@@ -1,6 +1,6 @@
 ---
 slug: saint-pierre-des-corps
-ville: Saint-Pierre-des-Corps - 37700
+ville: Saint-Pierre-des-Corps
 codePostal: '37700'
 metaTitle: Diagnostic immobilier Saint-Pierre-des-Corps 37700 | SERVICIMMO
 metaDescription: Diagnostic immobilier Saint-Pierre-des-Corps 37700

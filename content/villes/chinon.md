@@ -1,6 +1,6 @@
 ---
 slug: chinon
-ville: Chinon - 37500
+ville: Chinon
 codePostal: '37500'
 metaTitle: Diagnostic immobilier Chinon 37500 | SERVICIMMO
 metaDescription: Diagnostic immobilier Chinon 37500

@@ -1,6 +1,6 @@
 ---
 slug: luynes
-ville: Luynes - 37230
+ville: Luynes
 codePostal: '37230'
 metaTitle: Diagnostic immobilier Luynes 37230 | SERVICIMMO
 metaDescription: Diagnostic immobilier Luynes 37230

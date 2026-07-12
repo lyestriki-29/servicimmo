@@ -1,6 +1,6 @@
 ---
 slug: langeais
-ville: Langeais - 37130
+ville: Langeais
 codePostal: '37130'
 metaTitle: Diagnostic immobilier Langeais 37130 | SERVICIMMO
 metaDescription: Diagnostic immobilier Langeais 37130

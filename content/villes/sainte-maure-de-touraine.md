@@ -1,6 +1,6 @@
 ---
 slug: sainte-maure-de-touraine
-ville: Sainte-Maure-de-Touraine - 37800
+ville: Sainte-Maure-de-Touraine
 codePostal: '37800'
 metaTitle: Diagnostic immobilier Sainte-Maure-de-Touraine 37800 | SERVICIMMO
 metaDescription: Diagnostic immobilier Sainte-Maure-de-Touraine 37800

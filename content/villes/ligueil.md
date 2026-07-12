@@ -1,6 +1,6 @@
 ---
 slug: ligueil
-ville: Ligueil - 37240
+ville: Ligueil
 codePostal: '37240'
 metaTitle: Diagnostic immobilier Ligueil 37240 | SERVICIMMO
 metaDescription: Diagnostic immobilier Ligueil 37240

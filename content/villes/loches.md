@@ -1,6 +1,6 @@
 ---
 slug: loches
-ville: Loches - 37600
+ville: Loches
 codePostal: '37600'
 metaTitle: Diagnostic immobilier Loches 37600 | SERVICIMMO
 metaDescription: Diagnostic immobilier Loches 37600

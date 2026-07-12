@@ -1,6 +1,6 @@
 ---
 slug: la-membrolle-sur-choisille
-ville: Membrolle-sur-Choisille - 37390
+ville: Membrolle-sur-Choisille
 codePostal: '37390'
 metaTitle: Diagnostic immobilier Membrolle-sur-Choisille 37390 | SERVICIMMO
 metaDescription: Diagnostic immobilier Membrolle-sur-Choisille 37390

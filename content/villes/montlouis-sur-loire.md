@@ -1,6 +1,6 @@
 ---
 slug: montlouis-sur-loire
-ville: Montlouis-sur-Loire - 37270
+ville: Montlouis-sur-Loire
 codePostal: '37270'
 metaTitle: Diagnostic immobilier Montlouis-sur-Loire 37270 | SERVICIMMO
 metaDescription: Diagnostic immobilier Montlouis-sur-Loire 37270

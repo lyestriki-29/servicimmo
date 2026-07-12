@@ -1,6 +1,6 @@
 ---
 slug: joue-les-tours
-ville: Joué-lès-Tours - 37300
+ville: Joué-lès-Tours
 codePostal: '37300'
 metaTitle: Diagnostic immobilier Joué-lès-Tours 37300 | SERVICIMMO
 metaDescription: Diagnostic immobilier Joué-lès-Tours 37300

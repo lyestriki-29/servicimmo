@@ -1,6 +1,6 @@
 ---
 slug: saint-cyr-sur-loire
-ville: Saint-Cyr-sur-Loire - 37540
+ville: Saint-Cyr-sur-Loire
 codePostal: '37540'
 metaTitle: Diagnostic immobilier Saint-Cyr-sur-Loire 37540 | SERVICIMMO
 metaDescription: Diagnostic immobilier Saint-Cyr-sur-Loire 37540
