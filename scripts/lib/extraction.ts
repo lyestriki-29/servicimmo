@@ -16,7 +16,7 @@ const attendre = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 type Redirection = { source: string; destination: string };
 
-function extraireHtmlPrincipal($: cheerio.CheerioAPI): string {
+export function extraireHtmlPrincipal($: cheerio.CheerioAPI): string {
   // L'ancien site n'utilise aucune balise sémantique <header>/<nav>/<footer> : tout est
   // imbriqué dans un seul <div class="site_wrapper">, et la vraie nav est un
   // <div class="navbar navbar-default yamm">. Sans ce sélecteur, le fallback "plus gros
@@ -48,7 +48,7 @@ function extraireHtmlPrincipal($: cheerio.CheerioAPI): string {
   return meilleur;
 }
 
-async function geocoder(ville: string, cp: string): Promise<{ lat: number; lng: number }> {
+export async function geocoder(ville: string, cp: string): Promise<{ lat: number; lng: number }> {
   const url = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(ville)}&postcode=${cp}&type=municipality&limit=1`;
   try {
     const res = await fetch(url);
@@ -73,7 +73,7 @@ async function geocoder(ville: string, cp: string): Promise<{ lat: number; lng: 
 // ("02 47 47 01 23" → faux match "47/47/0123") : on ne cherche donc QUE dans le <h1>.
 // Les articles de la série historique "-iN" n'ont aucune date affichée sur le site
 // (ni sur la page, ni sur la page listing /actualites.php) : `null` y est légitime.
-function extraireDateFr(texte: string): { date: string; index: number } | null {
+export function extraireDateFr(texte: string): { date: string; index: number } | null {
   const m = texte.match(/(\d{1,2})[/. ](\d{1,2}|[a-zûé]+)[/. ](\d{4})/i);
   if (!m?.[1] || !m[3] || m.index === undefined) return null;
   const mois = [

@@ -54,15 +54,36 @@ async function inventaire(): Promise<void> {
   console.log(`inventaire.md écrit — ${urls.length} URLs classées`);
 }
 
+function lireSite(): "servicimmo" | "carottage" {
+  const i = process.argv.indexOf("--site");
+  const val = i >= 0 ? process.argv[i + 1] : "servicimmo";
+  if (val === "carottage" || val === "servicimmo") return val;
+  console.error(`Site inconnu : ${val} (attendu : servicimmo | carottage)`);
+  process.exit(1);
+}
+
 async function main(): Promise<void> {
   const mode = process.argv[2];
+  const site = lireSite();
+
+  if (site === "carottage") {
+    const { inventaireCarottage, extractionCarottage } = await import("./lib/scrape-carottage");
+    if (mode === "inventaire") await inventaireCarottage();
+    else if (mode === "extraction") await extractionCarottage();
+    else {
+      console.error("Usage : pnpm scrape <inventaire|extraction> --site carottage");
+      process.exit(1);
+    }
+    return;
+  }
+
   if (mode === "inventaire") {
     await inventaire();
   } else if (mode === "extraction") {
     const { extraction } = await import("./lib/extraction");
     await extraction();
   } else {
-    console.error("Usage : pnpm scrape <inventaire|extraction>");
+    console.error("Usage : pnpm scrape <inventaire|extraction> [--site servicimmo|carottage]");
     process.exit(1);
   }
 }
