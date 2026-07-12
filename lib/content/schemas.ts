@@ -29,7 +29,7 @@ function contraintesContenuModernise(
       code: z.ZodIssueCode.custom,
       path: ["metaDescription"],
       message:
-        "metaDescription 80-180 caractères requise pour un contenu modernisé",
+        "metaDescription 80-180 caractères requis pour un contenu modernisé",
     });
   }
 }

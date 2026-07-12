@@ -31,7 +31,7 @@ async function loadCollection<S extends z.ZodTypeAny>(
       const parsed = schema.safeParse(data);
       if (!parsed.success) {
         throw new Error(
-          `Frontmatter invalide dans content/${dossier}/${fichier} :\n${parsed.error.message}`,
+          `Frontmatter invalide dans ${path.join(dir, fichier)} :\n${parsed.error.message}`,
         );
       }
       return { ...parsed.data, html: renderMarkdown(content) };
