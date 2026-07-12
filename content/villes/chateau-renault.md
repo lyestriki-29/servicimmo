@@ -2,7 +2,7 @@
 slug: chateau-renault
 ville: Château-Renault
 codePostal: '37110'
-metaTitle: Diagnostic immobilier Château-Renault (37110) | Servicimmo
+metaTitle: Diagnostic immobilier Château-Renault (37110)
 metaDescription: Servicimmo intervient à Château-Renault (37110) pour vos diagnostics DPE, amiante, plomb, électricité, gaz et termites. Diagnostiqueur certifié.
 anciennesUrls:
   - /diagnostic-immobilier-chateau-renault-37110.html

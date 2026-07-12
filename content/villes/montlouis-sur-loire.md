@@ -2,7 +2,7 @@
 slug: montlouis-sur-loire
 ville: Montlouis-sur-Loire
 codePostal: '37270'
-metaTitle: Diagnostic immobilier Montlouis-sur-Loire (37270) | Servicimmo
+metaTitle: Diagnostic immobilier Montlouis-sur-Loire (37270)
 metaDescription: Servicimmo intervient à Montlouis-sur-Loire (37270) pour vos diagnostics DPE, amiante, plomb, gaz, électricité et termites. Devis sous 48 h.
 anciennesUrls:
   - /diagnostic-immobilier-montlouis-sur-loire-37270.html

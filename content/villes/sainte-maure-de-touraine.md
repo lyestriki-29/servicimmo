@@ -2,7 +2,7 @@
 slug: sainte-maure-de-touraine
 ville: Sainte-Maure-de-Touraine
 codePostal: '37800'
-metaTitle: Diagnostic immobilier Sainte-Maure-de-Touraine (37800) | Servicimmo
+metaTitle: Diagnostic immobilier Sainte-Maure-de-Touraine (37800)
 metaDescription: Servicimmo réalise vos diagnostics immobiliers à Sainte-Maure-de-Touraine (37800) – DPE, amiante, plomb, gaz, électricité, termites certifiés.
 anciennesUrls:
   - /diagnostic-immobilier-sainte-maure-de-touraine-37800.html

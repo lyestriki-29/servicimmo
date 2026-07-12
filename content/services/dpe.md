@@ -1,7 +1,7 @@
 ---
 slug: dpe
 titre: Diagnostic de Performance Énergétique (DPE)
-metaTitle: DPE Tours et Indre-et-Loire (37) | Servicimmo
+metaTitle: DPE Tours et Indre-et-Loire (37)
 metaDescription: Le DPE est obligatoire pour vendre ou louer un logement à Tours et en Indre-et-Loire. Servicimmo réalise votre diagnostic sous 48 h, devis rapide.
 anciennesUrls:
   - /dpe-amboise-37400.html

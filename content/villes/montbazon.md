@@ -2,7 +2,7 @@
 slug: montbazon
 ville: Montbazon
 codePostal: '37250'
-metaTitle: Diagnostic immobilier Montbazon (37250) | Servicimmo
+metaTitle: Diagnostic immobilier Montbazon (37250)
 metaDescription: Diagnostic immobilier à Montbazon (37250) – DPE, amiante, plomb, électricité, gaz, termites. Servicimmo, cabinet certifié, devis rapide et clair.
 anciennesUrls:
   - /diagnostic-immobilier-montbazon-37250.html

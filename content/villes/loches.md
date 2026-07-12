@@ -2,7 +2,7 @@
 slug: loches
 ville: Loches
 codePostal: '37600'
-metaTitle: Diagnostic immobilier Loches (37600) | Servicimmo
+metaTitle: Diagnostic immobilier Loches (37600)
 metaDescription: Diagnostiqueur certifié à Loches (37600) pour DPE, amiante, plomb, électricité, gaz et termites. Servicimmo intervient rapidement, devis gratuit.
 anciennesUrls:
   - /diagnostic-immobilier-loches-37600.html

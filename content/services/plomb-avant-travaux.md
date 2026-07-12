@@ -1,7 +1,7 @@
 ---
 slug: plomb-avant-travaux
 titre: Plomb avant travaux
-metaTitle: Diagnostic plomb avant travaux Tours | Servicimmo
+metaTitle: Diagnostic plomb avant travaux Tours
 metaDescription: Chantier sur un bâtiment d'avant 1949 ? Le diagnostic plomb avant travaux protège ouvriers et occupants. Servicimmo intervient à Tours et en Indre-et-Loire.
 anciennesUrls: []
 ordre: 6

@@ -5,6 +5,7 @@ import { Header } from "@/components/marketing/Header";
 import { Footer } from "@/components/marketing/Footer";
 import { SplashIntro } from "@/components/marketing/SplashIntro";
 import { QuoteModalProvider } from "@/components/questionnaire/QuoteModalProvider";
+import { JsonLd } from "@/components/seo/JsonLd";
 
 const sora = Sora({
   variable: "--font-sora",
@@ -37,6 +38,24 @@ export default function MarketingLayout({ children }: { children: ReactNode }) {
       className={`${sora.variable} ${inter.variable} ${fredoka.variable} font-[family-name:var(--font-inter)] text-[color:var(--color-home-ink)] [background:var(--color-home-bg)]`}
     >
       <SplashIntro />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          name: "Servicimmo",
+          description: "Cabinet de diagnostic immobilier à Tours depuis 1998.",
+          telephone: "+33247470123",
+          address: {
+            "@type": "PostalAddress",
+            streetAddress: "58 rue de la Chevalerie",
+            postalCode: "37100",
+            addressLocality: "Tours",
+            addressCountry: "FR",
+          },
+          areaServed: "Indre-et-Loire",
+          openingHours: ["Mo-Fr 09:00-12:00", "Mo-Fr 14:00-19:00"],
+        }}
+      />
       <QuoteModalProvider>
         <Header />
         <main className="min-h-[calc(100dvh-3.5rem)] flex-1">{children}</main>

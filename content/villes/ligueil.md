@@ -2,7 +2,7 @@
 slug: ligueil
 ville: Ligueil
 codePostal: '37240'
-metaTitle: Diagnostic immobilier Ligueil (37240) | Servicimmo
+metaTitle: Diagnostic immobilier Ligueil (37240)
 metaDescription: Diagnostic immobilier à Ligueil (37240) – DPE, amiante, plomb, électricité, gaz, termites. Servicimmo mobilise un diagnostiqueur certifié rapidement.
 anciennesUrls:
   - /diagnostic-immobilier-ligueil-37240.html

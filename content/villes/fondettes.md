@@ -2,7 +2,7 @@
 slug: fondettes
 ville: Fondettes
 codePostal: '37230'
-metaTitle: Diagnostic immobilier Fondettes (37230) | Servicimmo
+metaTitle: Diagnostic immobilier Fondettes (37230)
 metaDescription: Vente ou location à Fondettes (37230) ? Servicimmo prend en charge DPE, amiante, plomb, électricité, gaz et termites avec un expert certifié.
 anciennesUrls:
   - /diagnostic-immobilier-fondettes-37230.html

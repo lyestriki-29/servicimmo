@@ -2,7 +2,7 @@
 slug: saint-pierre-des-corps
 ville: Saint-Pierre-des-Corps
 codePostal: '37700'
-metaTitle: Diagnostic immobilier Saint-Pierre-des-Corps (37700) | Servicimmo
+metaTitle: Diagnostic immobilier Saint-Pierre-des-Corps (37700)
 metaDescription: Diagnostic immobilier à Saint-Pierre-des-Corps (37700) – DPE, amiante, plomb, gaz, électricité. Servicimmo, diagnostiqueurs certifiés, devis rapide.
 anciennesUrls:
   - /diagnostic-immobilier-saint-pierre-des-corps-37700.html

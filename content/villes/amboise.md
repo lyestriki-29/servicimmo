@@ -2,7 +2,7 @@
 slug: amboise
 ville: Amboise
 codePostal: '37400'
-metaTitle: Diagnostic immobilier Amboise (37400) | Servicimmo
+metaTitle: Diagnostic immobilier Amboise (37400)
 metaDescription: Vente ou location à Amboise (37400) ? Servicimmo réalise DPE, amiante, plomb, électricité et gaz avec un diagnostiqueur certifié, sous 48 h.
 anciennesUrls:
   - /diagnostic-immobilier-amboise-37400.html

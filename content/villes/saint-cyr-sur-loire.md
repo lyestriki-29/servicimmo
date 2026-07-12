@@ -2,7 +2,7 @@
 slug: saint-cyr-sur-loire
 ville: Saint-Cyr-sur-Loire
 codePostal: '37540'
-metaTitle: Diagnostic immobilier Saint-Cyr-sur-Loire (37540) | Servicimmo
+metaTitle: Diagnostic immobilier Saint-Cyr-sur-Loire (37540)
 metaDescription: Diagnostiqueur certifié à Saint-Cyr-sur-Loire (37540) pour DPE, amiante, plomb, gaz, électricité, termites. Servicimmo répond sous 48 h ouvrées.
 anciennesUrls:
   - /diagnostic-immobilier-saint-cyr-sur-loire-37540.html

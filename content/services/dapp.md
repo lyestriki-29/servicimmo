@@ -1,7 +1,7 @@
 ---
 slug: dapp
 titre: DAPP — amiante parties privatives
-metaTitle: DAPP amiante location Tours (37) | Servicimmo
+metaTitle: DAPP amiante location Tours (37)
 metaDescription: Location d'un logement antérieur à 1997 ? Le DAPP repère l'amiante dans les parties privatives. Servicimmo réalise ce diagnostic dans toute la Touraine.
 anciennesUrls: []
 ordre: 16

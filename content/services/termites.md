@@ -1,7 +1,7 @@
 ---
 slug: termites
 titre: Diagnostic termites
-metaTitle: Diagnostic termites Tours (37) | Servicimmo
+metaTitle: Diagnostic termites Tours (37)
 metaDescription: L'Indre-et-Loire est classée zone à risque termites par arrêté préfectoral. L'état parasitaire est obligatoire pour vendre. Servicimmo intervient sous 48 h.
 anciennesUrls: []
 ordre: 7

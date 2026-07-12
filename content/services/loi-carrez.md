@@ -1,7 +1,7 @@
 ---
 slug: loi-carrez
 titre: Métrage Loi Carrez
-metaTitle: Métrage Loi Carrez Tours (37) | Servicimmo
+metaTitle: Métrage Loi Carrez Tours (37)
 metaDescription: Vente d'un lot en copropriété ? Le métrage Loi Carrez de la surface privative est obligatoire. Servicimmo réalise ce certificat à Tours et alentours.
 anciennesUrls: []
 ordre: 10

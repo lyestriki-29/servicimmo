@@ -1,7 +1,7 @@
 ---
 slug: amiante
 titre: Diagnostic amiante (vente / location)
-metaTitle: Diagnostic amiante Tours (37) | Servicimmo
+metaTitle: Diagnostic amiante Tours (37)
 metaDescription: Permis de construire antérieur à juillet 1997 ? Le diagnostic amiante est obligatoire pour vendre ou louer. Servicimmo intervient dans toute la Touraine.
 anciennesUrls: []
 ordre: 3

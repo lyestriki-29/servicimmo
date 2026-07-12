@@ -2,7 +2,7 @@
 slug: chambray-les-tours
 ville: Chambray-lès-Tours
 codePostal: '37170'
-metaTitle: Diagnostic immobilier Chambray-lès-Tours (37170) | Servicimmo
+metaTitle: Diagnostic immobilier Chambray-lès-Tours (37170)
 metaDescription: Diagnostics immobiliers à Chambray-lès-Tours (37170) – DPE, amiante, plomb, électricité, gaz, termites. Servicimmo, cabinet certifié, intervient vite.
 anciennesUrls:
   - /diagnostic-immobilier-chambray-les-tours-37170.html

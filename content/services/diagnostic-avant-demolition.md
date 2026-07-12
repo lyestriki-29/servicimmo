@@ -1,7 +1,7 @@
 ---
 slug: diagnostic-avant-demolition
 titre: Diagnostics avant démolition
-metaTitle: Diagnostic avant démolition Tours (37) | Servicimmo
+metaTitle: Diagnostic avant démolition Tours (37)
 metaDescription: Avant tout chantier de démolition, un repérage amiante et plomb est exigé par la loi. Servicimmo accompagne les maîtres d'ouvrage à Tours et en Touraine.
 anciennesUrls:
   - /diagnostic-avant-demolition-tours-37000.html

@@ -1,7 +1,7 @@
 ---
 slug: dpe-collectif
 titre: DPE collectif (copropriété)
-metaTitle: DPE collectif copropriété Tours | Servicimmo
+metaTitle: DPE collectif copropriété Tours
 metaDescription: Les copropriétés doivent réaliser un DPE collectif selon un calendrier fixé par la loi Climat. Servicimmo accompagne les syndics à Tours et alentours.
 anciennesUrls: []
 ordre: 14

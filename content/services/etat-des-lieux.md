@@ -1,7 +1,7 @@
 ---
 slug: etat-des-lieux
 titre: État des lieux locatif
-metaTitle: État des lieux locatif Tours (37) | Servicimmo
+metaTitle: État des lieux locatif Tours (37)
 metaDescription: Entrée ou sortie de locataire à Tours ? L'état des lieux protège bailleur et locataire. Servicimmo réalise ce document contradictoire dans toute la Touraine.
 anciennesUrls: []
 ordre: 20

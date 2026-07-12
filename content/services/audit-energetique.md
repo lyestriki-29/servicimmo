@@ -1,7 +1,7 @@
 ---
 slug: audit-energetique
 titre: Audit énergétique réglementaire
-metaTitle: Audit énergétique Tours (37) | Servicimmo
+metaTitle: Audit énergétique Tours (37)
 metaDescription: Vente d'un logement classé E, F ou G en Indre-et-Loire ? L'audit énergétique réglementaire est obligatoire. Servicimmo vous accompagne de A à Z.
 anciennesUrls: []
 ordre: 2

@@ -1,7 +1,7 @@
 ---
 slug: electricite
 titre: Diagnostic électricité
-metaTitle: Diagnostic électricité Tours (37) | Servicimmo
+metaTitle: Diagnostic électricité Tours (37)
 metaDescription: Installation électrique de plus de 15 ans ? Le diagnostic est obligatoire pour vendre ou louer un logement. Servicimmo intervient à Tours et alentours.
 anciennesUrls: []
 ordre: 9

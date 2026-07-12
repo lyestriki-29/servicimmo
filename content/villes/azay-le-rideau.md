@@ -2,7 +2,7 @@
 slug: azay-le-rideau
 ville: Azay-le-Rideau
 codePostal: '37190'
-metaTitle: Diagnostic immobilier Azay-le-Rideau (37190) | Servicimmo
+metaTitle: Diagnostic immobilier Azay-le-Rideau (37190)
 metaDescription: Diagnostiqueur certifié à Azay-le-Rideau (37190) pour vos DPE, amiante, plomb, termites et électricité. Servicimmo intervient rapidement, devis clair.
 anciennesUrls:
   - /diagnostic-immobilier-azay-le-rideau-37190.html

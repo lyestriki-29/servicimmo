@@ -2,7 +2,7 @@
 slug: blere
 ville: Bléré
 codePostal: '37150'
-metaTitle: Diagnostic immobilier Bléré (37150) | Servicimmo
+metaTitle: Diagnostic immobilier Bléré (37150)
 metaDescription: Servicimmo, cabinet certifié, réalise vos diagnostics immobiliers à Bléré (37150) – DPE, amiante, plomb, gaz, électricité, termites, loi Carrez.
 anciennesUrls:
   - /diagnostic-immobilier-blere-37150.html

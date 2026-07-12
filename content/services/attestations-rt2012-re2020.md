@@ -1,7 +1,7 @@
 ---
 slug: attestations-rt2012-re2020
 titre: Attestations RT2012 / RE2020
-metaTitle: Attestations RT2012 et RE2020 Tours | Servicimmo
+metaTitle: Attestations RT2012 et RE2020 Tours
 metaDescription: Construction neuve à Tours ? L'attestation thermique RT2012 ou RE2020 est exigée au dépôt de permis et à l'achèvement des travaux. Servicimmo vous accompagne.
 anciennesUrls: []
 ordre: 19

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { PhoneIcon, MailIcon, MapPinIcon, ClockIcon, AwardIcon, ShieldIcon, BuildingIcon, BadgeIcon, FlaskConicalIcon, FacebookIcon, InstagramIcon, LinkedinIcon } from "lucide-react";
 
 import { LogoServicimmo } from "@/components/marketing/LogoServicimmo";
+import { loadServices, loadVilles } from "@/lib/content/load";
 
 const NAV_LINKS = [
   { label: "Accueil", href: "/" },
@@ -31,13 +32,18 @@ const CERTIFICATIONS = [
 
 /**
  * Footer fidèle à la maquette home.html (.si-footer).
- * 4 colonnes : brand/contact, navigation, diagnostics, certifications.
+ * 6 colonnes : brand/contact, navigation, diagnostics (statique), diagnostics
+ * (maillage interne vers les fiches services), zones d'intervention (maillage
+ * interne vers les fiches villes), certifications.
+ * Async : charge les fiches services/villes pour le maillage SEO.
  */
-export function Footer() {
+export async function Footer() {
+  const [services, villes] = await Promise.all([loadServices(), loadVilles()]);
+
   return (
     <footer className="bg-[color:var(--color-si-petrole)] text-[#c7d2e0]">
       {/* Top */}
-      <div className="grid grid-cols-1 gap-10 px-6 pb-14 pt-[84px] sm:grid-cols-2 md:grid-cols-[1.6fr_1fr_1fr_1.1fr] md:px-10 lg:px-16">
+      <div className="grid grid-cols-1 gap-10 px-6 pb-14 pt-[84px] sm:grid-cols-2 lg:grid-cols-[1.6fr_1fr_1fr_1fr_1fr_1.1fr] md:px-10 lg:px-16">
         {/* Colonne 1 : brand */}
         <div>
           <div className="mb-4">
@@ -62,7 +68,53 @@ export function Footer() {
         {/* Colonne 3 : diagnostics */}
         <FooterLinkCol title="Nos diagnostics" links={DIAGNOSTICS} />
 
-        {/* Colonne 4 : certifications */}
+        {/* Colonne 4 : maillage diagnostics (fiches services réelles) */}
+        <div>
+          <h4 className="mb-5 font-[family-name:var(--font-sora)] text-[16px] font-semibold tracking-[0.01em] text-white">
+            Diagnostics
+          </h4>
+          <ul className="flex flex-col gap-[11px]">
+            {services.slice(0, 6).map((s) => (
+              <li key={s.slug}>
+                <Link
+                  href={`/services/${s.slug}`}
+                  className="text-[14.5px] text-[#c7d2e0] transition-colors hover:text-[color:var(--color-home-saf)]"
+                >
+                  {s.titre}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Colonne 5 : maillage zones (fiches villes réelles) */}
+        <div>
+          <h4 className="mb-5 font-[family-name:var(--font-sora)] text-[16px] font-semibold tracking-[0.01em] text-white">
+            Zones d&apos;intervention
+          </h4>
+          <ul className="flex flex-col gap-[11px]">
+            {villes.slice(0, 7).map((v) => (
+              <li key={v.slug}>
+                <Link
+                  href={`/zones/${v.slug}`}
+                  className="text-[14.5px] text-[#c7d2e0] transition-colors hover:text-[color:var(--color-home-saf)]"
+                >
+                  Diagnostic {v.ville}
+                </Link>
+              </li>
+            ))}
+            <li>
+              <Link
+                href="/zones"
+                className="text-[14.5px] font-semibold text-[#c7d2e0] transition-colors hover:text-[color:var(--color-home-saf)]"
+              >
+                Toutes les villes →
+              </Link>
+            </li>
+          </ul>
+        </div>
+
+        {/* Colonne 6 : certifications */}
         <div>
           <h4 className="mb-5 font-[family-name:var(--font-sora)] text-[16px] font-semibold tracking-[0.01em] text-white">
             Certifications

@@ -1,7 +1,7 @@
 ---
 slug: dpe-tertiaire
 titre: DPE tertiaire / commerce
-metaTitle: DPE tertiaire commerce Tours (37) | Servicimmo
+metaTitle: DPE tertiaire commerce Tours (37)
 metaDescription: Vente ou location d'un local commercial ou de bureaux à Tours ? Le DPE tertiaire est obligatoire. Servicimmo réalise ce diagnostic adapté aux locaux pro.
 anciennesUrls:
   - /dpe-commerce-tours-37000.html

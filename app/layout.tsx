@@ -20,7 +20,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? "https://servicimmo.fr"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? "https://servicimmo.propulseo-site.com"),
   title: {
     default: "Servicimmo — Diagnostic immobilier à Tours depuis 1998",
     template: "%s | Servicimmo",

@@ -1,7 +1,7 @@
 ---
 slug: plomb-crep
 titre: Diagnostic plomb (CREP)
-metaTitle: Diagnostic plomb CREP Tours (37) | Servicimmo
+metaTitle: Diagnostic plomb CREP Tours (37)
 metaDescription: Logement antérieur à 1949 ? Le CREP recherche le plomb dans les peintures avant vente ou location. Servicimmo réalise ce diagnostic dans toute la Touraine.
 anciennesUrls: []
 ordre: 5

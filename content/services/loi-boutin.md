@@ -1,7 +1,7 @@
 ---
 slug: loi-boutin
 titre: Surface habitable Loi Boutin
-metaTitle: Surface habitable Loi Boutin Tours | Servicimmo
+metaTitle: Surface habitable Loi Boutin Tours
 metaDescription: Location d'un logement vide ? La surface habitable Loi Boutin doit figurer au bail. Servicimmo réalise ce mesurage à Tours et en Indre-et-Loire.
 anciennesUrls: []
 ordre: 11

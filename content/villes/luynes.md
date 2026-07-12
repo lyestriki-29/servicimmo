@@ -2,7 +2,7 @@
 slug: luynes
 ville: Luynes
 codePostal: '37230'
-metaTitle: Diagnostic immobilier Luynes (37230) | Servicimmo
+metaTitle: Diagnostic immobilier Luynes (37230)
 metaDescription: Servicimmo réalise vos diagnostics immobiliers à Luynes (37230) – DPE, amiante, plomb, termites, électricité et gaz. Diagnostiqueur certifié.
 anciennesUrls:
   - /diagnostic-immobilier-luynes-37230.html

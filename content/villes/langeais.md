@@ -2,7 +2,7 @@
 slug: langeais
 ville: Langeais
 codePostal: '37130'
-metaTitle: Diagnostic immobilier Langeais (37130) | Servicimmo
+metaTitle: Diagnostic immobilier Langeais (37130)
 metaDescription: Servicimmo, cabinet certifié, réalise vos diagnostics DPE, amiante, plomb, électricité et termites à Langeais (37130). Devis rapide et sans engagement.
 anciennesUrls:
   - /diagnostic-immobilier-langeais-37130.html

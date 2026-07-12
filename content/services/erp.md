@@ -1,7 +1,7 @@
 ---
 slug: erp
 titre: État des Risques et Pollutions (ERP)
-metaTitle: État des Risques et Pollutions Tours | Servicimmo
+metaTitle: État des Risques et Pollutions Tours
 metaDescription: Toute vente ou location impose l'État des Risques et Pollutions. L'Indre-et-Loire est concernée par le retrait-gonflement des argiles. Servicimmo répond vite.
 anciennesUrls: []
 ordre: 12

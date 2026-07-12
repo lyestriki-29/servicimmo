@@ -1,7 +1,7 @@
 ---
 slug: amiante-avant-travaux
 titre: Repérage amiante avant travaux
-metaTitle: Amiante avant travaux Tours (37) | Servicimmo
+metaTitle: Amiante avant travaux Tours (37)
 metaDescription: Avant tout chantier sur un bâtiment antérieur à 1997, le repérage amiante avant travaux protège les intervenants. Servicimmo intervient à Tours et alentours.
 anciennesUrls:
   - /amiante-avant-travaux-tours-37000.html

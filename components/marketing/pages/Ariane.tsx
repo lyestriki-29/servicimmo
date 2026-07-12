@@ -4,6 +4,9 @@ import { JsonLd } from "@/components/seo/JsonLd";
 
 type Segment = { label: string; href: string };
 
+/** Origine absolue du site, utilisée pour les URLs du JSON-LD (le protocole exige des URLs absolues). */
+const ORIGINE = process.env.NEXT_PUBLIC_APP_URL ?? "https://servicimmo.propulseo-site.com";
+
 export function Ariane({ segments }: { segments: Segment[] }) {
   const tous: Segment[] = [{ label: "Accueil", href: "/" }, ...segments];
   return (
@@ -25,7 +28,7 @@ export function Ariane({ segments }: { segments: Segment[] }) {
           "@context": "https://schema.org",
           "@type": "BreadcrumbList",
           itemListElement: tous.map((s, i) => ({
-            "@type": "ListItem", position: i + 1, name: s.label, item: s.href,
+            "@type": "ListItem", position: i + 1, name: s.label, item: `${ORIGINE}${s.href}`,
           })),
         }}
       />

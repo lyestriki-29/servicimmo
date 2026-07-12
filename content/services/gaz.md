@@ -1,7 +1,7 @@
 ---
 slug: gaz
 titre: Diagnostic gaz
-metaTitle: Diagnostic gaz Tours (37) | Servicimmo
+metaTitle: Diagnostic gaz Tours (37)
 metaDescription: Installation gaz de plus de 15 ans ? L'état de l'installation intérieure est obligatoire pour vendre ou louer. Servicimmo intervient en Indre-et-Loire.
 anciennesUrls: []
 ordre: 8

@@ -1,7 +1,7 @@
 ---
 slug: dta
 titre: Dossier Technique Amiante (DTA)
-metaTitle: Dossier Technique Amiante Tours (37) | Servicimmo
+metaTitle: Dossier Technique Amiante Tours (37)
 metaDescription: Copropriété antérieure à 1997 ? Le Dossier Technique Amiante des parties communes doit être tenu à jour. Servicimmo accompagne les syndics en Touraine.
 anciennesUrls: []
 ordre: 15
