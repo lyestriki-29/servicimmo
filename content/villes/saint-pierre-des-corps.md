@@ -16,7 +16,7 @@ Saint-Pierre-des-Corps s'est développée en bordure de la Loire et du Cher, une
 
 ## Des diagnostics à adapter au contexte local
 
-Le dossier de diagnostics techniques à réunir avant une vente ou une location à Saint-Pierre-des-Corps suit les règles générales applicables dans le département : performance énergétique, amiante, plomb, contrôle des installations électriques et gaz au-delà de quinze ans, recherche de termites, et mesurage loi Carrez pour les lots de copropriété. L'exposition de la commune aux crues peut par ailleurs justifier une vérification complémentaire, hors périmètre du diagnostic immobilier classique, avant l'acquisition d'un bien proche des berges.
+Le dossier à réunir avant une vente ou une location à Saint-Pierre-des-Corps suit le cadre général applicable dans le département : DPE, une recherche de plomb couplée à un repérage amiante selon l'âge du bâtiment, un contrôle des installations électriques et de l'arrivée de gaz une fois quinze ans révolus, la détection de termites, et le mesurage loi Carrez, propre aux lots en copropriété. L'exposition de la commune aux crues peut par ailleurs justifier une vérification complémentaire, hors périmètre du diagnostic immobilier classique, avant l'acquisition d'un bien proche des berges.
 
 ## Servicimmo, votre cabinet de diagnostic immobilier local
 

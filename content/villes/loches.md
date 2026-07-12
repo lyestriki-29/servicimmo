@@ -16,7 +16,7 @@ Située au sud-est de l'Indre-et-Loire, Loches compte environ six mille trois ce
 
 ## Un dossier de diagnostics adapté à un bâti historique
 
-Dans une ville où subsistent de nombreuses constructions anciennes, parfois antérieures au XXe siècle, le choix des diagnostics à réaliser demande une attention particulière : performance énergétique, recherche d'amiante et de plomb, contrôle de l'électricité et du gaz au-delà de quinze ans, détection de termites, et mesurage loi Carrez pour les lots de copropriété. Un bâti ancien mal évalué expose autant le vendeur que l'acquéreur à des difficultés après la signature, notamment lorsque des matériaux amiantés ou des peintures au plomb ont été recouverts sans être signalés au fil des rénovations successives.
+Face à un bâti dont une partie remonte parfois avant le XXe siècle, la priorité va au repérage de l'amiante et du plomb, réalisé avant même le diagnostic de performance énergétique. S'ajoutent le contrôle de l'électricité et du gaz passé le cap des quinze ans, une recherche de termites, et un mesurage loi Carrez pour tout lot vendu en copropriété. Un bâti ancien mal évalué expose autant le vendeur que l'acquéreur à des difficultés après la signature, notamment lorsque des matériaux amiantés ou des peintures au plomb ont été recouverts sans être signalés au fil des rénovations successives.
 
 ## Contactez le cabinet certifié Servicimmo
 

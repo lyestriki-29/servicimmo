@@ -16,7 +16,7 @@ Montlouis-sur-Loire doit sa réputation à sa production viticole, reconnue par 
 
 ## Un ou plusieurs diagnostics selon votre projet
 
-Le nombre de diagnostics exigés pour votre transaction à Montlouis-sur-Loire varie selon l'âge du bâtiment et sa situation : performance énergétique, amiante, plomb, état des installations électriques et gaz au-delà de quinze ans, recherche de termites, et mesurage loi Carrez pour un lot de copropriété. Un bien comportant des dépendances anciennes, cave ou cellier, mérite une attention particulière lors de la visite, notamment pour le repérage amiante et plomb. Le diagnostiqueur vérifie systématiquement chacun de ces espaces, même lorsqu'ils ne sont utilisés qu'occasionnellement par les occupants.
+Le nombre de contrôles exigés pour votre transaction à Montlouis-sur-Loire varie avant tout selon l'âge du bâtiment : détection d'amiante et de plomb, DPE, contrôle électrique et gaz au-delà de quinze ans, recherche de termites, et mesurage loi Carrez pour un lot de copropriété. Un bien comportant des dépendances anciennes, cave ou cellier, mérite une attention particulière lors de la visite, notamment pour le repérage amiante et plomb. Le diagnostiqueur vérifie systématiquement chacun de ces espaces, même lorsqu'ils ne sont utilisés qu'occasionnellement par les occupants.
 
 ## Pour tout diagnostic immobilier, faites appel à Servicimmo
 

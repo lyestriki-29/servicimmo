@@ -14,9 +14,9 @@ lng: 0.378259
 
 À l'extrémité ouest de l'Indre-et-Loire, en région Centre-Val de Loire, Langeais s'étend sur la rive droite de la Loire. Ses quelque quatre mille trois cent quarante habitants, les Langeaisiens, vivent dans un tissu urbain resserré autour du bourg historique, complété par des extensions résidentielles plus récentes en léger retrait du fleuve. Cette proximité avec la Loire influence directement le type de vigilance à observer lors de certains diagnostics, notamment sur les constructions les plus anciennes du bord de rive.
 
-## Les documents à réunir avant une transaction
+## Un dossier calé sur l'ancienneté des constructions du bord de Loire
 
-Pour vendre ou mettre en location un bien à Langeais, la loi impose de constituer un dossier de diagnostics techniques comprenant, selon l'âge du logement, la performance énergétique, la recherche d'amiante et de plomb, le contrôle des installations électriques et gaz de plus de quinze ans, la détection de termites, et le mesurage loi Carrez pour un lot de copropriété. L'absence d'un seul de ces documents peut compromettre la sécurité juridique de votre vente ou de votre bail.
+Sur les constructions les plus anciennes du bord de Loire, le diagnostic immobilier à Langeais s'ouvre logiquement par une recherche de plomb et un repérage amiante, avant le diagnostic de performance énergétique, obligatoire pour toute vente ou location. L'installation électrique et le réseau gaz sont ensuite contrôlés dès qu'ils cumulent plus de quinze ans, tout comme la présence de termites. Un lot de copropriété impose en outre un métrage loi Carrez. L'absence d'un seul de ces documents peut compromettre la sécurité juridique de votre vente ou de votre bail.
 
 ## Servicimmo, votre cabinet spécialiste à Langeais
 

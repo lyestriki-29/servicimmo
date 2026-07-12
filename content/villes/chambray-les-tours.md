@@ -14,9 +14,9 @@ lng: 0.717976
 
 Implantée au sud de Tours, Chambray-lès-Tours compte parmi les communes les plus peuplées d'Indre-et-Loire, se classant au septième rang du département. Membre de la communauté urbaine Tours Plus, elle bénéficie d'une bonne desserte vers l'agglomération tourangelle tout en conservant un tissu pavillonnaire dense, complété par des programmes collectifs plus récents. Cette diversité architecturale rend chaque diagnostic immobilier spécifique selon la date de construction du logement concerné.
 
-## Anticiper les diagnostics avant une vente ou une location
+## Un dossier réglementaire dicté par la densité du bâti
 
-Avant de vendre ou de louer un bien à Chambray-lès-Tours, il est nécessaire de constituer un dossier réunissant les diagnostics exigés par la loi : DPE, amiante et plomb selon l'ancienneté du bâtiment, contrôle de l'électricité et du gaz au-delà de quinze ans, recherche de termites, ainsi que le mesurage loi Carrez pour les biens en copropriété. Ce dossier conditionne la validité juridique de votre compromis ou de votre bail.
+Dans une commune où les programmes collectifs côtoient le tissu pavillonnaire, la question de la copropriété se pose souvent en premier : un lot copropriétaire impose un mesurage loi Carrez avant toute mise en vente. S'y ajoutent le diagnostic de performance énergétique, un repérage amiante et plomb tenant compte de l'année de construction, la vérification des circuits électriques et des canalisations de gaz vieux de plus de quinze ans, ainsi qu'un état parasitaire termites. Sans ce dossier complet, votre compromis ou votre bail perd toute validité juridique opposable.
 
 ## Un cabinet certifié à votre écoute à Chambray-lès-Tours
 

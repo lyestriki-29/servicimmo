@@ -14,9 +14,9 @@ lng: 0.601597
 
 Rattachée au canton de Saint-Cyr-sur-Loire, Fondettes appartient également à Tours Plus, la communauté urbaine qui fédère vingt-deux communes d'Indre-et-Loire. Sa position aux portes de Tours en fait une commune résidentielle recherchée, où cohabitent maisons de bourg, lotissements pavillonnaires et constructions plus récentes. Cette variété de bâti implique des exigences de diagnostics différentes selon l'année de construction de chaque logement.
 
-## Connaître ses obligations avant de vendre ou de louer
+## Un dossier de diagnostics calibré à votre logement
 
-Avant toute mise sur le marché à Fondettes, la loi impose de constituer un dossier de diagnostics techniques : DPE, amiante, plomb, contrôle de l'installation électrique et du gaz si elle a plus de quinze ans, recherche de termites, et mesurage loi Carrez pour un lot de copropriété. Ce dossier engage la responsabilité du diagnostiqueur et sécurise juridiquement l'acquéreur ou le locataire.
+Avant toute mise sur le marché à Fondettes, mieux vaut commencer par le DPE, puis enchaîner avec un repérage de l'amiante et une détection du plomb pour les constructions bâties avant les dates d'interdiction. Le réseau électrique et l'installation gaz font l'objet d'un contrôle dès qu'ils dépassent quinze ans, tout comme la présence éventuelle de termites. Un lot de copropriété nécessite en plus un relevé de surface loi Carrez. Ce dossier engage la responsabilité du diagnostiqueur et sécurise juridiquement l'acquéreur ou le locataire.
 
 ## Servicimmo réalise chaque diagnostic immobilier nécessaire à votre transaction
 

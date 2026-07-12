@@ -14,9 +14,9 @@ lng: 0.81054
 
 Ligueil fait partie de la Communauté de communes Loches Sud Touraine, une intercommunalité créée en 2017 qui réunit soixante-huit communes pour une population totale de plus de cinquante-deux mille cinq cents habitants. Au sein de cet ensemble très vaste, Ligueil occupe la troisième place en nombre d'habitants, juste devant Beaulieu-lès-Loches, ce qui en fait l'un des bourgs de référence du sud du département pour les services de proximité.
 
-## Respecter la réglementation avant de vendre ou de louer
+## Un cadre rural qui n'allège aucune obligation
 
-Avant de mettre en location ou en vente votre logement à Ligueil, faites appel à un professionnel pour la prise en charge de votre diagnostic immobilier : la réglementation actuellement en vigueur impose un dossier complet incluant le DPE, la recherche d'amiante et de plomb selon l'ancienneté du bâti, le contrôle des installations électriques et gaz, la détection de termites, et le mesurage loi Carrez pour les biens en copropriété. Ainsi, votre transaction se déroule sans risque de contestation ultérieure.
+Dans un secteur rural comme Ligueil, la présence éventuelle de termites occupe une place particulière aux côtés du DPE, d'un repérage amiante mené en parallèle d'une recherche de plomb, et d'un contrôle électrique et gaz dès que ces installations dépassent quinze années d'usage. Un lot de copropriété, plus rare hors du bourg, requiert malgré tout un relevé de surface loi Carrez. Ainsi, votre transaction se déroule sans risque de contestation ultérieure.
 
 ## Le cabinet Servicimmo à votre service
 

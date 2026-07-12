@@ -14,9 +14,9 @@ lng: 0.909328
 
 Située dans l'arrondissement de Loches, au nord-est de l'Indre-et-Loire, Château-Renault donne son nom à la Communauté de communes du Castelrenaudais, qui rassemble seize communes de ce secteur. Elle en constitue la ville la plus peuplée, devant Auzouer-en-Touraine, et joue à ce titre un rôle de pôle de services pour les communes environnantes. Son parc de logements associe un centre ancien resserré et des extensions pavillonnaires plus récentes.
 
-## Ce que la loi impose avant une vente ou une location
+## Les vérifications attendues selon l'âge du bien
 
-Un propriétaire qui prépare une transaction à Château-Renault doit produire un dossier de diagnostics techniques comprenant le DPE, la recherche d'amiante et de plomb selon l'âge du bâti, le contrôle des installations électriques et gaz vieillissantes, la détection de termites, et le mesurage loi Carrez pour les lots en copropriété. Ce dossier protège autant l'acquéreur ou le locataire que le vendeur ou le bailleur en cas de litige ultérieur.
+Le centre ancien de Château-Renault appelle en priorité une détection du plomb, complétée par un repérage amiante, selon la période de construction du bâti, avant même la réalisation du DPE, désormais systématique pour toute vente ou location. Le contrôle des équipements électriques et gaz au-delà de quinze années de service, ainsi qu'une recherche de termites, complètent le dossier. Le mesurage loi Carrez achève ce dossier dès lors que le bien relève d'une copropriété. Il protège autant l'acquéreur ou le locataire que le vendeur ou le bailleur en cas de litige ultérieur.
 
 ## Le bureau Servicimmo se déplace à Château-Renault
 

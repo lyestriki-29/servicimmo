@@ -14,9 +14,9 @@ lng: 0.462293
 
 Rattachée à l'arrondissement de Tours et au canton de Chinon, Azay-le-Rideau appartient à la Communauté de communes Touraine Vallée de l'Indre, qui regroupe vingt-deux communes autour d'un siège installé à Sorigny. Elle en est la cinquième commune la plus peuplée, ce qui en fait un bassin d'habitat significatif entre bourg ancien et lotissements plus récents. Cette diversité de bâti implique des besoins de diagnostics différents selon l'ancienneté de chaque logement.
 
-## Vendre ou louer : les obligations à connaître
+## Vendre ou louer : ce que prévoit la réglementation
 
-Un propriétaire qui souhaite vendre ou louer à Azay-le-Rideau doit fournir un dossier de diagnostics techniques complet : diagnostic de performance énergétique, recherche d'amiante et de plomb pour les constructions antérieures aux interdictions réglementaires, contrôle de l'installation électrique et du gaz si elles ont plus de quinze ans, état parasitaire termites, et mesurage loi Carrez pour les biens en copropriété. Ces documents doivent être annexés à la promesse de vente ou au bail.
+La réglementation encadrant tout diagnostic immobilier à Azay-le-Rideau prévoit un dossier complet : DPE, repérage amiante et plomb selon la date d'édification du logement, contrôle électrique et gaz dès que ces réseaux franchissent quinze ans, un état relatif à la présence de termites, et, pour les biens en copropriété, un relevé loi Carrez. Ces documents doivent être annexés à la promesse de vente ou au bail.
 
 ## Faire appel à Servicimmo pour votre bien
 

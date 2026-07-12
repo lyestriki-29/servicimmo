@@ -14,9 +14,9 @@ lng: 0.628923
 
 La Membrolle-sur-Choisille compte parmi les vingt-deux communes qui composent la Communauté urbaine Tours Métropole Val de Loire, plus connue sous le nom de Tours Plus. Avec seulement 6,87 km² de superficie, elle figure parmi les plus petites communes de cette intercommunalité, ce qui n'empêche pas son parc résidentiel de rester dense et recherché aux portes de Tours. Ce format compact concentre des logements de générations variées, du bourg ancien aux résidences plus récentes.
 
-## Un dossier de diagnostics à adapter à chaque logement
+## Les contrôles requis, quelle que soit la taille du bien
 
-Pour vendre ou louer un bien à La Membrolle-sur-Choisille, la réglementation impose de réunir plusieurs diagnostics techniques selon l'âge et la nature du logement : performance énergétique, amiante, plomb, contrôle de l'installation électrique et du gaz au-delà de quinze ans, recherche de termites, et mesurage loi Carrez pour un lot de copropriété. Ces documents doivent être annexés au compromis de vente ou au contrat de location.
+Vendre ou louer à La Membrolle-sur-Choisille suppose de réunir le DPE, une vérification des circuits électriques et de la conduite de gaz si leur ancienneté dépasse quinze ans, un repérage d'amiante et un contrôle du plomb selon l'année de construction du logement, la détection de termites, et un mesurage loi Carrez si le bien est un lot de copropriété. Ces documents doivent être annexés au compromis de vente ou au contrat de location.
 
 ## Servicimmo intervient sur la commune
 

@@ -12,11 +12,11 @@ lng: 0.249889
 
 ## Chinon, l'un des trois chefs-lieux d'arrondissement de Touraine
 
-Chinon fait partie des trois chefs-lieux d'arrondissement d'Indre-et-Loire, aux côtés de Tours et de Loches. Elle appartient à la Communauté de communes Chinon, Vienne et Loire, dont le siège est fixé à Avoine, et en reste la commune la plus peuplée devant Beaumont-en-Véron, parmi les seize communes que compte cette intercommunalité. Ce statut administratif s'accompagne d'un parc immobilier riche, du centre historique jusqu'aux quartiers plus récents.
+Chinon est l'un des trois chefs-lieux d'arrondissement du département d'Indre-et-Loire. Elle appartient à la Communauté de communes Chinon, Vienne et Loire, dont le siège est fixé à Avoine, et en reste la commune la plus peuplée devant Beaumont-en-Véron, parmi les seize communes que compte cette intercommunalité. Ce statut administratif s'accompagne d'un parc immobilier riche, du centre historique jusqu'aux quartiers plus récents.
 
-## Les diagnostics à prévoir pour votre bien
+## Un dossier calé sur l'ancienneté du logement
 
-Vendre ou louer un logement à Chinon suppose de réunir un dossier de diagnostics conforme à la réglementation en vigueur : performance énergétique, amiante et plomb pour les constructions concernées, état des installations électriques et gaz de plus de quinze ans, recherche de termites, et mesurage loi Carrez en copropriété. La nature exacte des diagnostics à fournir dépend directement de la période de construction du bien et de sa localisation.
+Le centre historique chinonais concentre des constructions anciennes qui justifient un repérage plomb et amiante conduit avant toute autre étape, en complément du diagnostic de performance énergétique désormais exigé pour toute transaction. S'ajoutent un état des installations électriques et de gaz de plus de quinze ans, un contrôle relatif aux termites, et, pour un lot en copropriété, le métrage loi Carrez. La nature exacte des diagnostics à fournir dépend directement de la période de construction du bien et de sa localisation.
 
 ## Servicimmo, un cabinet de diagnostic immobilier au service de Chinon
 

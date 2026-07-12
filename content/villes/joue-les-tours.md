@@ -14,9 +14,9 @@ lng: 0.657551
 
 Au sud-est de Tours, Joué-lès-Tours réunit près de trente-huit mille habitants, appelés Jocondiens, ce qui en fait la commune la plus peuplée de l'agglomération tourangelle. Son essor démographique remonte aux années 1960, période durant laquelle de nombreux quartiers résidentiels se sont développés. Ce passé urbain récent explique la coexistence, aujourd'hui, d'immeubles collectifs, de pavillons individuels et de constructions plus contemporaines sur l'ensemble du territoire communal.
 
-## Les diagnostics requis avant une vente ou une location
+## Des diagnostics adaptés aux grands ensembles comme aux pavillons
 
-Il vous manque un diagnostic immobilier pour finaliser un projet de vente ou de location à Joué-lès-Tours ? La réglementation prévoit un dossier adapté à l'âge du bâtiment : performance énergétique, amiante et plomb selon la période de construction, contrôle des installations électriques et gaz vieillissantes, recherche de termites, et mesurage loi Carrez pour les biens en copropriété. Chaque diagnostic manquant peut retarder la signature de votre acte, voire exposer le vendeur à une action en garantie des vices cachés une fois la vente conclue.
+Immeubles collectifs et maisons individuelles ne suivent pas tout à fait le même parcours réglementaire à Joué-lès-Tours : un lot de copropriété appelle un métrage loi Carrez, quand une maison avec dépendances s'en dispense. Restent exigés dans tous les cas le diagnostic de performance énergétique, un repérage d'amiante et de plomb selon la période de construction, la vérification de l'électricité et du gaz une fois quinze ans d'ancienneté dépassés, ainsi que la détection d'éventuels termites. Chaque diagnostic manquant peut retarder la signature de votre acte, voire exposer le vendeur à une action en garantie des vices cachés une fois la vente conclue.
 
 ## Servicimmo, cabinet certifié présent sur Joué-lès-Tours
 

@@ -14,9 +14,9 @@ lng: 0.992188
 
 Bléré donne son nom à la Communauté de communes de Bléré-Val de Cher, qui réunit quinze communes de l'Indre-et-Loire autour de la vallée du Cher. Le siège de cette intercommunalité est installé à La Croix-en-Touraine, mais Bléré reste, avec Saint-Martin-le-Beau et Athée-sur-Cher, l'une des communes les plus peuplées de ce territoire. Ce poids démographique se traduit par un marché immobilier actif, entre maisons anciennes proches du Cher et constructions plus récentes.
 
-## Le diagnostiqueur, une étape incontournable avant transaction
+## Un dossier à géométrie variable selon votre logement
 
-Que vous prépariez une vente ou une mise en location à Bléré, la réglementation impose de fournir un dossier de diagnostics techniques adapté à l'âge et à l'usage du bien : performance énergétique, amiante, plomb, état des installations électriques et gaz, présence éventuelle de termites, et mesurage loi Carrez pour un lot de copropriété. Sans ces documents, la transaction peut être retardée ou fragilisée juridiquement.
+Que vous prépariez une vente ou une location à Bléré, le diagnostic immobilier à fournir dépend de l'âge et de l'usage du bien : diagnostic de performance énergétique, amiante et plomb pour les logements antérieurs aux dates d'interdiction, un contrôle des réseaux électrique et gaz quand ils dépassent quinze ans d'existence, la détection d'éventuels termites, et un mesurage loi Carrez réservé aux lots de copropriété. Sans ces documents, la transaction peut être retardée ou fragilisée juridiquement.
 
 ## Servicimmo intervient sur l'ensemble du bassin de Bléré
 

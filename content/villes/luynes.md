@@ -16,7 +16,7 @@ Rattachée au canton de Saint-Cyr-sur-Loire, Luynes fait partie de l'intercommun
 
 ## Six domaines de contrôle, un seul interlocuteur
 
-Le bureau Servicimmo est certifié pour l'ensemble des domaines réglementaires attendus lors d'une vente ou d'une location à Luynes : amiante, plomb, performance énergétique, termites, électricité et gaz. Selon la date de construction de votre bien, seule une partie de ces diagnostics sera exigée, mais notre équipe détermine précisément la liste applicable avant toute intervention, afin d'éviter tout document superflu ou, à l'inverse, toute pièce manquante au dossier. Cette analyse préalable vous évite également de payer pour un contrôle qui ne s'applique pas à votre situation.
+Amiante, plomb, performance énergétique, termites, électricité et gaz : le bureau Servicimmo est certifié pour l'ensemble des domaines réglementaires attendus lors d'un diagnostic immobilier à Luynes. Selon la date de construction de votre bien, seule une partie de ces contrôles sera exigée — un lot de copropriété implique en plus un mesurage loi Carrez —, mais notre équipe détermine précisément la liste applicable avant toute intervention, afin d'éviter tout document superflu ou, à l'inverse, toute pièce manquante au dossier.
 
 ## Une intervention rapide sur l'ensemble de la commune
 

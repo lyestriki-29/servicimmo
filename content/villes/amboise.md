@@ -14,9 +14,9 @@ lng: 0.987649
 
 Avec une population municipale d'environ treize mille quatre cents habitants, Amboise figure parmi les communes les plus importantes de l'arrondissement de Loches, en Indre-et-Loire. Elle appartient à la Communauté de communes du Val d'Amboise, dont le siège administratif se trouve à Nazelles-Négron, de l'autre côté de la Loire. Ce statut de ville-centre se traduit par un parc immobilier varié : maisons de bourg anciennes, immeubles du centre historique et constructions plus récentes en périphérie, chacune appelant un diagnostic adapté à son époque de construction.
 
-## Le dossier de diagnostics attendu pour une transaction
+## Les diagnostics à réunir avant une transaction
 
-Avant toute mise en vente ou en location à Amboise, le propriétaire doit réunir un dossier de diagnostics techniques immobiliers dont la composition dépend de l'âge du bâtiment : performance énergétique (DPE), recherche d'amiante et de plomb pour les biens construits avant leur interdiction respective, état de l'installation électrique et du gaz au-delà de quinze ans, recherche de termites, et mesurage loi Carrez pour les lots de copropriété. Un logement mal diagnostiqué expose le vendeur à un risque de recours après la signature.
+À Amboise, l'ancienneté du bâti prime dans le choix des vérifications : le centre historique appelle en priorité un repérage de l'amiante et du plomb, avant même le DPE, obligatoire pour toute vente ou location. Vient ensuite un contrôle de l'électricité et du gaz si ces réseaux dépassent quinze ans d'ancienneté, complété par une recherche de termites. Pour un lot de copropriété du centre-ville, le mesurage loi Carrez s'ajoute au dossier. Une pièce manquante expose le vendeur à un risque de recours après la signature.
 
 ## Servicimmo se déplace pour votre diagnostic immobilier à Amboise
 

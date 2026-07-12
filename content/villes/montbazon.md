@@ -14,9 +14,9 @@ lng: 0.708724
 
 Montbazon appartient à la Communauté de communes Touraine Vallée de l'Indre, qui regroupe vingt-deux communes au centre du département d'Indre-et-Loire autour d'un siège installé à Sorigny. Aux côtés de Monts, Veigne et Esvres, elle figure parmi les communes les plus peuplées de cette structure intercommunale, un poids démographique qui s'accompagne d'un marché immobilier actif entre le bourg historique et les extensions résidentielles plus récentes. Cette diversité de logements, construits à des époques différentes, justifie que chaque diagnostic soit évalué au cas par cas plutôt que de façon standardisée.
 
-## Les diagnostics à intégrer dans votre dossier de vente
+## Un dossier de diagnostics conforme, étape par étape
 
-Concrétiser rapidement une vente ou une location à Montbazon suppose de disposer d'un dossier de diagnostics complet et conforme à la réglementation : performance énergétique, amiante et plomb selon l'ancienneté du logement, contrôle des installations électriques et gaz vieillissantes, recherche de termites, et mesurage loi Carrez pour les copropriétés. Ce dossier conditionne directement la validité de votre compromis de vente ou de votre contrat de location.
+Concrétiser une vente ou une location à Montbazon commence par le DPE, puis se poursuit avec une détection de plomb et un repérage d'amiante propres aux constructions les plus anciennes du secteur. Les réseaux électrique et gaz sont vérifiés dès qu'ils dépassent quinze ans d'âge, de même que la présence de termites, avant un mesurage loi Carrez pour les lots concernés par la copropriété. Un dossier incomplet retarde immanquablement la signature devant notaire, qu'il s'agisse d'une vente ou d'un contrat de location.
 
 ## Servicimmo, cabinet certifié en diagnostic immobilier à Montbazon
 
