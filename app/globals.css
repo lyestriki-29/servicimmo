@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@plugin "@tailwindcss/typography";
+
 @custom-variant dark (&:is(.dark *));
 
 :root {
@@ -360,4 +362,23 @@
 
 .vr2-marquee:hover .vr2-track {
   animation-play-state: paused;
+}
+
+/* Corps d'article des pages intérieures (services, villes, actualités) */
+.article-prose {
+  font-size: 15.5px;
+  line-height: 1.75;
+  color: var(--color-home-slate);
+}
+.article-prose h2,
+.article-prose h3 {
+  font-family: var(--font-sora);
+  color: var(--color-si-petrole);
+}
+.article-prose a {
+  color: var(--color-si-petrole);
+  text-decoration: underline;
+}
+.article-prose strong {
+  color: var(--color-home-ink);
 }
