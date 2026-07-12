@@ -2,22 +2,22 @@
 slug: loches
 ville: Loches
 codePostal: '37600'
-metaTitle: Diagnostic immobilier Loches 37600 | SERVICIMMO
-metaDescription: Diagnostic immobilier Loches 37600
+metaTitle: Diagnostic immobilier Loches (37600) | Servicimmo
+metaDescription: Diagnostiqueur certifié à Loches (37600) pour DPE, amiante, plomb, électricité, gaz et termites. Servicimmo intervient rapidement, devis gratuit.
 anciennesUrls:
   - /diagnostic-immobilier-loches-37600.html
 lat: 47.122156
 lng: 0.981834
-brut: true
 ---
-# Diagnostic immobilier Loches - 37600
 
-Loches est un chef-lieu d’arrondissement d’Indre-et-Loire situé au sud-est du département.
+## Loches, chef-lieu d'arrondissement dominé par son château
 
-Sa population municipale est d’environ six mille trois cents habitants qui portent le nom de Lochois.
+Située au sud-est de l'Indre-et-Loire, Loches compte environ six mille trois cents habitants, appelés Lochois, et constitue l'un des chefs-lieux d'arrondissement du département. La ville est célèbre pour son château, implanté sur un promontoire qui domine le cours de l'Indre et dont l'origine remonte au XIe siècle. Ce patrimoine médiéval cohabite avec un centre-ville actif et des quartiers résidentiels plus récents, ce qui diversifie fortement les profils de logements à diagnostiquer.
 
-Le château de Loches est implanté sur un promontoire qui domine le cours de l’Indre.
+## Un dossier de diagnostics adapté à un bâti historique
 
-Son origine remonte au XIe siècle.
+Dans une ville où subsistent de nombreuses constructions anciennes, parfois antérieures au XXe siècle, le choix des diagnostics à réaliser demande une attention particulière : performance énergétique, recherche d'amiante et de plomb, contrôle de l'électricité et du gaz au-delà de quinze ans, détection de termites, et mesurage loi Carrez pour les lots de copropriété. Un bâti ancien mal évalué expose autant le vendeur que l'acquéreur à des difficultés après la signature, notamment lorsque des matériaux amiantés ou des peintures au plomb ont été recouverts sans être signalés au fil des rénovations successives.
 
-Besoin d’un diagnostic immobilier à Loches ? Contactez au plus vite le cabinet certifié SERVICIMMO !
+## Contactez le cabinet certifié Servicimmo
+
+Besoin d'un diagnostic immobilier à Loches ? Nos diagnostiqueurs certifiés interviennent aussi bien dans le centre ancien, à proximité du château, que dans les lotissements des faubourgs plus récents, avec une connaissance fine des contraintes propres aux bâtiments anciens. Chaque visite s'accompagne d'explications claires sur les points de contrôle relevés, afin que vous compreniez précisément ce qui figure dans votre rapport. Contactez au plus vite notre équipe pour obtenir un créneau d'intervention rapide et un devis détaillé avant tout engagement de votre part.

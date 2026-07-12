@@ -3,7 +3,7 @@ slug: chambray-les-tours
 ville: Chambray-lès-Tours
 codePostal: '37170'
 metaTitle: Diagnostic immobilier Chambray-lès-Tours (37170) | Servicimmo
-metaDescription: Diagnostics immobiliers à Chambray-lès-Tours (37170) : DPE, amiante, plomb, électricité, gaz, termites. Servicimmo, cabinet certifié, intervient vite.
+metaDescription: Diagnostics immobiliers à Chambray-lès-Tours (37170) – DPE, amiante, plomb, électricité, gaz, termites. Servicimmo, cabinet certifié, intervient vite.
 anciennesUrls:
   - /diagnostic-immobilier-chambray-les-tours-37170.html
 lat: 47.332303
@@ -20,4 +20,4 @@ Avant de vendre ou de louer un bien à Chambray-lès-Tours, il est nécessaire d
 
 ## Un cabinet certifié à votre écoute à Chambray-lès-Tours
 
-Servicimmo dépêche un diagnostiqueur certifié à l'adresse de votre bien pour réaliser l'ensemble de ces vérifications en une seule visite lorsque la configuration le permet. Vous recevez ensuite un rapport détaillé, directement utilisable par votre notaire ou votre agence immobilière. Nos équipes se déplacent aussi bien dans les résidences collectives proches du centre commercial que dans les zones pavillonnaires plus excentrées, en s'adaptant à chaque agenda de transaction. Êtes-vous certain de détenir tous les diagnostics nécessaires pour votre projet ? Notre équipe reste joignable pour organiser une intervention rapide et vous transmettre un devis avant tout engagement.
+Servicimmo dépêche un diagnostiqueur certifié à l'adresse de votre bien pour réaliser l'ensemble de ces vérifications en une seule visite lorsque la configuration le permet. Vous recevez ensuite un rapport détaillé, directement utilisable par votre notaire ou votre agence immobilière. Nos équipes se déplacent aussi bien dans les résidences collectives que dans les zones pavillonnaires plus excentrées, en s'adaptant à chaque agenda de transaction. Êtes-vous certain de détenir tous les diagnostics nécessaires pour votre projet ? Notre équipe reste joignable pour organiser une intervention rapide et vous transmettre un devis avant tout engagement.

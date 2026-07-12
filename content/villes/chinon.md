@@ -3,7 +3,7 @@ slug: chinon
 ville: Chinon
 codePostal: '37500'
 metaTitle: Diagnostic immobilier Chinon (37500) | Servicimmo
-metaDescription: Diagnostic immobilier à Chinon (37500) : DPE, amiante, plomb, gaz, électricité, termites. Servicimmo, diagnostiqueurs certifiés, devis rapide.
+metaDescription: Diagnostic immobilier à Chinon (37500) – DPE, amiante, plomb, gaz, électricité, termites. Servicimmo, diagnostiqueurs certifiés, devis rapide.
 anciennesUrls:
   - /diagnostic-immobilier-chinon-37500.html
 lat: 47.174042

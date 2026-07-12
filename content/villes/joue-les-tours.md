@@ -3,7 +3,7 @@ slug: joue-les-tours
 ville: Joué-lès-Tours
 codePostal: '37300'
 metaTitle: Diagnostic immobilier Joué-lès-Tours (37300) | Servicimmo
-metaDescription: Diagnostiqueur certifié à Joué-lès-Tours (37300) : DPE, amiante, plomb, gaz, électricité, termites, loi Carrez. Servicimmo répond sous 48 h.
+metaDescription: Diagnostiqueur certifié à Joué-lès-Tours (37300) – DPE, amiante, plomb, gaz, électricité, termites, loi Carrez. Servicimmo répond sous 48 h.
 anciennesUrls:
   - /diagnostic-immobilier-joue-les-tours-37300.html
 lat: 47.336276

@@ -3,7 +3,7 @@ slug: la-membrolle-sur-choisille
 ville: La Membrolle-sur-Choisille
 codePostal: '37390'
 metaTitle: Diagnostic immobilier La Membrolle-sur-Choisille (37390) | Servicimmo
-metaDescription: Servicimmo réalise vos diagnostics immobiliers à La Membrolle-sur-Choisille (37390) : DPE, amiante, plomb, électricité, gaz, termites.
+metaDescription: Servicimmo réalise vos diagnostics immobiliers à La Membrolle-sur-Choisille (37390) – DPE, amiante, plomb, électricité, gaz, termites.
 anciennesUrls:
   - /diagnostic-immobilier-la-membrolle-sur-choisille-37390.html
 lat: 47.444098
