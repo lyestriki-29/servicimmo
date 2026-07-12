@@ -2,32 +2,39 @@
 slug: amiante-enrobes-bitumineux-protegez-convenablement-chantiers
 titre: 'Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !'
 date: '2017-01-01'
-metaTitle: >-
-  Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !
-  | SERVICIMMO
-metaDescription: 'Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !'
+metaTitle: "Amiante dans les enrobés bitumineux : protégez vos chantiers"
+metaDescription: "Amiante et HAP dans les enrobés bitumineux : repérage obligatoire avant travaux, carottages et analyse en laboratoire COFRAC pour sécuriser le chantier."
 anciennesUrls:
   - /amiante-enrobes-bitumineux-protegez-convenablement-chantiers-i18.html
-extrait: 'Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !'
+extrait: "Amiante et HAP dans les enrobés routiers : pourquoi le repérage avant travaux est obligatoire et comment il protège votre chantier."
 archive: false
-brut: true
 ---
-# Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !
 
-![](/userfiles/image/amiante-enrobes-routiers.jpg)La présence d’**amiante** et de **HAP** dans les **enrobés bitumineux** a contraint la France à adopter une réglementation afin de mieux encadrer les **chantiers routiers**.
+La présence d'**amiante** et de **hydrocarbures aromatiques polycycliques (HAP)** dans les **enrobés bitumineux** a conduit la France à adopter une réglementation destinée à mieux encadrer les **chantiers routiers**. Ces substances, largement utilisées jusqu'à la fin du siècle dernier, sont aujourd'hui reconnues comme cancérogènes : leur présence sur un chantier impose donc la mise en place de procédures particulières.
 
-Avant toute intervention, les maitres d’ouvrage doivent faire effectuer des recherches de présence d’hydrocarbures aromatiques polycycliques (**HAP**) et d’**amiante**.
+## Un repérage obligatoire avant travaux
 
-Ces produits ont en effet été régulièrement été utilisés jusqu’à la fin du siècle dernier.
+Avant toute intervention sur une voirie, le maître d'ouvrage doit faire réaliser des recherches de présence de HAP et d'amiante. Cette étape n'est pas une simple formalité : c'est elle qui conditionne le niveau de protection à mettre en œuvre pour le chantier, ses abords et les personnes qui y interviennent.
 
-Leur caractère cancérogène rend indispensable la mise en place de procédure particulière si leur présence est avérée sur un chantier.
+## Des diagnostiqueurs certifiés et habilités
 
-Les diagnostiqueurs de SERVICIMMO EXPERTISES certifiés pour le repérage de l'amiante avant travaux sont également détenteurs après examens des A.I.P.R. (Autorisations d'Interventions à Proximité des Réseaux, niveau concepteurs)   
+Les diagnostiqueurs de SERVICIMMO EXPERTISES, certifiés pour le repérage de l'amiante avant travaux, sont également détenteurs, après examens, des A.I.P.R. (Autorisations d'Interventions à Proximité des Réseaux, niveau concepteurs).
 
-Ils sont également en charge de rassembler toute la documentation technique disponible sur la zone des travaux et procéder à des carottages des enrobés pour une analyse complète et envoie des prélèvements en laboratoire agréé par le COFRAC.
+## Une mission de terrain rigoureuse
 
-Son rapport devra spécifier les zones à risques afin que le maître d’ouvrage puisse adapter les moyens mis en œuvre pour la sécurisation du chantier, de ses abords et de ses intervenants.  
+Sur le terrain, les diagnostiqueurs rassemblent d'abord toute la documentation technique disponible sur la zone des travaux. Ils procèdent ensuite à des carottages des enrobés afin de réaliser une analyse complète, puis envoient les prélèvements à un laboratoire agréé par le COFRAC.
 
-Les rapports remis comportent des photos précises des emplacements, des carottes prélevées avec leurs identifications et une vue permettent la localisation précise de la zone de prélèvement.  
+Le rapport remis précise les zones à risques, ce qui permet au maître d'ouvrage d'adapter les moyens de sécurisation du chantier, de ses abords et de ses intervenants. Il comporte notamment :
 
-Selon le résultats des analyses des H.A.P., les enrobés pourront être réutilisés à chaud si le seuil est inférieur à 50 mg, de 0 à 500 mg/Kg, réutilisation à froid possible, de 500 à 1000 mgKg, stockage en classe 2 et enfin, au-dessus de 1000 mg/Kg, stockage en classe 1 obligatoire.
+- des photos précises de chaque emplacement de prélèvement ;
+- les carottes prélevées, avec leur identification ;
+- une vue permettant de localiser précisément chaque zone de prélèvement.
+
+## Des seuils de HAP qui déterminent le devenir des enrobés
+
+Le résultat des analyses de HAP détermine ensuite ce qu'il est possible de faire des enrobés :
+
+- en dessous de 50 mg/kg, une réutilisation à chaud est envisageable ;
+- de 0 à 500 mg/kg, une réutilisation à froid reste possible ;
+- de 500 à 1000 mg/kg, les enrobés doivent être stockés en classe 2 ;
+- au-delà de 1000 mg/kg, le stockage en classe 1 devient obligatoire.
