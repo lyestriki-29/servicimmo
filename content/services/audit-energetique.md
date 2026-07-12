@@ -2,7 +2,7 @@
 slug: audit-energetique
 titre: Audit énergétique réglementaire
 metaTitle: Audit énergétique Tours (37) | Servicimmo
-metaDescription: Vente d'un logement classé F ou G en Indre-et-Loire ? L'audit énergétique réglementaire est obligatoire. Servicimmo vous accompagne de A à Z.
+metaDescription: Vente d'un logement classé E, F ou G en Indre-et-Loire ? L'audit énergétique réglementaire est obligatoire. Servicimmo vous accompagne de A à Z.
 anciennesUrls: []
 ordre: 2
 icone: gauge
@@ -20,7 +20,7 @@ Ce document, plus complet qu'un simple DPE, permet à un acquéreur de se projet
 
 ## Qui est concerné ?
 
-L'audit énergétique est obligatoire depuis le 1er avril 2023 pour la vente d'une maison individuelle ou d'un immeuble en monopropriété classé F ou G au DPE — les fameuses « passoires thermiques ». Le calendrier réglementaire prévoit un élargissement progressif aux classes E puis D dans les années à venir, en cohérence avec la loi Climat et Résilience.
+L'audit énergétique est obligatoire depuis le 1er avril 2023 pour la vente d'une maison individuelle ou d'un immeuble en monopropriété classé F ou G au DPE — les fameuses « passoires thermiques » — et il est étendu aux logements classés E depuis le 1er janvier 2025. Le calendrier réglementaire prévoit un élargissement progressif à la classe D en cohérence avec la loi Climat et Résilience. Les appartements vendus en copropriété ne sont pas concernés.
 
 En Indre-et-Loire, de nombreuses maisons anciennes du centre de Tours ou des communes rurales du département entrent dans ce périmètre, du fait de leur ancienneté et de leur mode de chauffage. Si vous vendez un tel bien, l'audit doit être remis à l'acquéreur dès la première visite, au même titre que le DPE.
 

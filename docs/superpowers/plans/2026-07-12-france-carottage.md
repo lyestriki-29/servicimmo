@@ -65,11 +65,11 @@
 export const francecarottageConfig = {
   nom: "France Carottage",
   raisonSociale: "France Carottage",
-  siret: "", // TODO — à confirmer avec Etienne
+  siren: "433994563", // trouvé en ligne (SIREN 9 chiffres) — NIC établissement à confirmer pour le SIRET complet
   adresse: {
-    ligne1: "58 rue de la Chevalerie",
+    ligne1: "14 rue Galpin-Thiou", // adresse siège FC trouvée en ligne (≠ Servicimmo) — à confirmer via mentions-legales.html au scraping FC5
     ligne2: "",
-    codePostal: "37100",
+    codePostal: "37000",
     ville: "Tours",
     pays: "France",
   },
