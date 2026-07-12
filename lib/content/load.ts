@@ -17,8 +17,8 @@ import {
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
-async function loadCollection<S extends z.ZodTypeAny>(
-  dossier: "services" | "villes" | "articles",
+export async function loadCollection<S extends z.ZodTypeAny>(
+  dossier: string,
   schema: S,
   baseDir: string = CONTENT_DIR,
 ): Promise<(z.infer<S> & { html: string })[]> {

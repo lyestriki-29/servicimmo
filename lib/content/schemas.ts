@@ -1,8 +1,8 @@
 /** Frontmatter des collections `content/` — un frontmatter invalide CASSE le build. */
 import { z } from "zod";
 
-const slug = z.string().regex(/^[a-z0-9-]+$/, "slug kebab-case attendu");
-const meta = {
+export const slug = z.string().regex(/^[a-z0-9-]+$/, "slug kebab-case attendu");
+export const meta = {
   metaTitle: z.string().min(1),
   metaDescription: z.string().min(1),
   anciennesUrls: z.array(z.string().startsWith("/")).default([]),
@@ -12,7 +12,7 @@ const meta = {
 
 /** Les contraintes SEO ne s'appliquent qu'au contenu modernisé — le contenu
  *  scrapé (`brut: true`) passe, et la QA finale vérifie qu'il n'en reste aucun. */
-function contraintesContenuModernise(
+export function contraintesContenuModernise(
   data: { brut: boolean; metaTitle: string; metaDescription: string },
   ctx: z.RefinementCtx,
 ): void {
