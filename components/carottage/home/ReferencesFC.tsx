@@ -45,7 +45,7 @@ function GroupeLogos({ masque = false }: { masque?: boolean }) {
 /** Bandeau défilant des références clients (marquee, pause au survol et en reduced-motion). */
 export function ReferencesFC() {
   return (
-    <section aria-label="Ils nous font confiance" className="border-b border-[color:var(--fc-gris-clair)] bg-white py-7">
+    <section aria-label="Ils nous font confiance" className="border-b border-[color:var(--fc-gris-clair)] bg-white py-8">
       <p className="mb-5 text-center font-[family-name:var(--font-sora)] text-[11.5px] font-bold uppercase tracking-[0.14em] text-[color:var(--fc-gris)]">
         Ils font analyser leurs chantiers par nos équipes
       </p>
