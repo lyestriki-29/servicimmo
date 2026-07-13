@@ -3,31 +3,25 @@ slug: maitres-ouvrage-professionnels-quelles-obligations-lors-chantiers-voirie
 titre: >-
   Maîtres d’ouvrage professionnels : quelles obligations lors de chantiers de
   voirie ?
-metaTitle: >-
-  Maîtres d’ouvrage professionnels : quelles obligations lors de chantiers de
-  voirie ? | France Carottage
-metaDescription: >-
-  Maîtres d’ouvrage professionnels : quelles obligations lors de chantiers de
-  voirie ?
+metaTitle: "Obligations du maître d’ouvrage : amiante et HAP en voirie"
+metaDescription: "Repérage amiante et HAP sur enrobés routiers : les obligations des maîtres d’ouvrage professionnels avant tout chantier de voirie, du diagnostic aux déchets."
 anciennesUrls:
-  - >-
-    /maitres-ouvrage-professionnels-quelles-obligations-lors-chantiers-voirie-i6.html
-brut: true
+  - /maitres-ouvrage-professionnels-quelles-obligations-lors-chantiers-voirie-i6.html
 ---
-# Maîtres d’ouvrage professionnels : quelles obligations lors de chantiers de voirie ?
+Vous êtes maître d’ouvrage professionnel et votre opération touche des enrobés bitumineux — démolition, travaux de rabotage des chaussées, découpes d’enrobés ? Avant toute intervention, vous devez impérativement faire réaliser un **repérage amiante et HAP sur enrobés routiers**. Faillir à cette obligation vous expose à des sanctions, dont l’interruption des travaux et de sévères préjudices financiers.
 
-![](/userfiles/image/obligations-professionnel.jpg)Les **maîtres d’ouvrage professionnels** en charge d’opérations de travaux impactant des enrobés bitumineux doivent impérativement mettre en œuvre au préalable un repérage amiante et HAP sur les enrobés routiers.
+## Un repérage préalable pour sécuriser vos chantiers de voirie
 
-Un **repérage amiante et HAP sur enrobés routiers** va permettre aux professionnels responsables d’un projet de travaux d’anticiper toute présence dangereuse d’amiante comme toute concentration élevée d’HAP, afin de procéder à une sécurisation du chantier avant toute intervention.
+Le **repérage amiante et HAP sur enrobés routiers** vous permet d’anticiper toute présence dangereuse d’**amiante** comme toute concentration élevée de **HAP**, afin de procéder à une sécurisation du chantier avant toute intervention sur la voirie.
 
-Vous êtes professionnel et votre projet inclut une démolition, des travaux de rabotage des chaussées, des découpes d’enrobés ? Il est essentiel de ne pas faillir à vos obligations pour éviter toute sanction comme l’interruption des travaux et de sévères préjudices financiers.
+Vos **obligations** de professionnel vont au-delà d’un simple contrôle ponctuel : elles imposent une évaluation des risques complète, comportant un repérage exhaustif — avec, le cas échéant, des prélèvements par **carottage** sur site — ainsi qu’une prise en compte permanente du risque, jusqu’à la définition et la gestion des déchets. Le cadre réglementaire des repérages avant travaux ayant été précisé au fil des années, référez-vous aux textes en vigueur au moment de votre projet.
 
-En plus, dans ce domaine, vos obligations en tant que professionnel sont nombreuses et incluent une évaluation des risques complète, comportant non seulement un repérage exhaustif par la réalisation éventuelle de prélèvements par carottage sur site mais également une prise en compte permanente du risque allant jusqu’à la définition et la gestion des déchets.
+## Informer les entreprises intervenantes
 
-En plus, une fois le **repérage amiante et HAP sur les enrobés routiers** effectué et le rapport émis, il s’agira de communiquer toutes ces données précieuses aux entreprises contractées pour la réalisation des travaux, qui vont intervenir dans la zone étudiée et donc en plein cœur des risques présents.
+Une fois le repérage effectué et le rapport émis, il vous appartient de communiquer ces données précieuses aux entreprises contractées pour la réalisation des travaux : elles interviendront dans la zone étudiée, donc au cœur des risques identifiés.
 
-Correctement informées, les entreprises auront tous les éléments pour établir des modes opératoires adaptés durant les travaux comme pour programmer des équipements de protection individuelle et des mesures de sécurité conformes à la situation du chantier au regard de l’amiante comme des HAP.
+Correctement informées, ces entreprises disposent de tous les éléments pour établir des modes opératoires adaptés durant les travaux, programmer des équipements de protection individuelle et prévoir des mesures de sécurité conformes à la situation du chantier au regard de l’amiante comme des HAP.
 
-Bien entendu, en cas de présence d’amiante et d’une concentration d’HAP supérieure au seuil réglementaire, le maitre d’ouvrage professionnel a aussi la responsabilité de veiller à ce que les déchets ne puissent en aucun cas subsister dans le chantier.
+## Gérer les déchets amiantés ou chargés en HAP
 
-Il devra alors s’assurer qu’ils seront évacués dans des filières spécifiques et en adéquation parfaite avec leur degré de dangerosité.
+En cas de présence d’amiante ou de concentration de HAP supérieure au seuil réglementaire, le maître d’ouvrage professionnel a également la responsabilité de veiller à ce qu’aucun déchet ne subsiste sur le chantier. Il doit s’assurer de leur évacuation vers des filières spécifiques, en adéquation parfaite avec leur degré de dangerosité.

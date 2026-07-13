@@ -3,36 +3,31 @@ slug: cartographie-detaillee-chantier-grace-au-diagnostic-amiante-hap
 titre: >-
   Une cartographie détaillée de votre chantier grâce au diagnostic amiante et
   HAP
-metaTitle: >-
-  Une cartographie détaillée de votre chantier grâce au diagnostic amiante et
-  HAP | France Carottage
-metaDescription: >-
-  Une cartographie détaillée de votre chantier grâce au diagnostic amiante et
-  HAP
+metaTitle: "Diagnostic amiante et HAP sur enrobés : cartographie du chantier"
+metaDescription: "Repérage amiante et HAP sur enrobés routiers : carottages, analyses en laboratoire COFRAC et cartographie des risques pour sécuriser vos chantiers de voirie."
 anciennesUrls:
   - /cartographie-detaillee-chantier-grace-au-diagnostic-amiante-hap-i2.html
-brut: true
 ---
-# Une cartographie détaillée de votre chantier grâce au diagnostic amiante et HAP
+Quelle que soit la nature de l’intervention programmée sur des revêtements routiers, un diagnostic préalable des enrobés est obligatoire : le **repérage amiante et HAP sur enrobés routiers**. Il conditionne la sécurité de vos équipes, la conformité de votre chantier de voirie et la bonne gestion des matériaux excavés.
 
-![](/userfiles/image/diagnostic-enrobes-routiers.jpg)Quelle que soit la nature de l’intervention programmée sur des revêtements routiers, il est obligatoire de procéder au préalable à un **[diagnostic](http://www.diagnostic-immobiliers.fr/) dans les enrobés routiers**, appelé **repérage amiante et HAP sur enrobés routiers**.
+## De quoi parle-t-on ?
 
-Expertise qui consiste à caractériser l’**amiante** potentiellement présent dans les enrobés mais aussi à connaître la teneur éventuelle d’hydrocarbures aromatiques polycycliques (**HAP**), le repérage amiante et HAP dans les enrobés routiers est un diagnostic essentiel qui doit être initié avant de déclencher le chantier par tout donneur d’ordre d’un projet de travaux, soit le maître d’ouvrage, un gestionnaire de réseaux ou d’infrastructures, un employeur ou toute autre personne responsable d’évaluer les risques présents au sein de la zone concernée par les travaux.
+Cette expertise consiste à caractériser l’**amiante** potentiellement présent dans les enrobés et à mesurer la teneur éventuelle en hydrocarbures aromatiques polycycliques (**HAP**). Amiante comme HAP sont des composants fortement cancérogènes : leur maîtrise est indispensable pour protéger les travailleurs et l’environnement.
 
-En effet, l’amiante comme les HAP sont des composants fortement cancérogènes qu’il est essentiel de maîtriser pour protéger les travailleurs comme l’environnement.
+Le repérage doit être initié avant le déclenchement du chantier par le donneur d’ordre du projet de travaux : maître d’ouvrage, gestionnaire de réseaux ou d’infrastructures, employeur, ou toute autre personne responsable de l’évaluation des risques dans la zone concernée par les travaux. Le cadre des repérages avant travaux ayant été précisé au fil des années, référez-vous aux textes en vigueur au moment de votre projet.
 
-Afin de répondre à cet impératif, le donneur d’ordre doit faire appel à un professionnel formé au **repérage amiante et HAP sur enrobés routiers**, détenant une certification amiante avec mention et habilité au regard de la prévention des risques liés à l’amiante sous-section 4.
+## Qui peut réaliser ce repérage ?
 
-Il doit aussi être doté d’une AIPR, soit une autorisation d’intervention à proximité des réseaux, niveau concepteur.
+Le donneur d’ordre doit faire appel à un professionnel formé au **repérage amiante et HAP sur enrobés routiers**, détenant une certification amiante avec mention et habilité au titre de la prévention des risques liés à l’amiante en sous-section 4.
 
-Une fois que cet opérateur a été missionné, le repérage amiante et HAP sur enrobés routiers proprement dit n’est réalisé qu’après une étude rigoureuse, mise en œuvre par cet expert, de toute ressource documentaire et historique disponible concernant la totalité de l’ouvrage ou le tronçon d’enrobés bitumineux concerné par le projet.
+L’opérateur doit également être titulaire d’une AIPR (autorisation d’intervention à proximité des réseaux) de niveau concepteur, indispensable pour intervenir en toute sécurité sur le domaine routier.
 
-Cette analyse est essentielle puisque c’est elle qui va permettre de décider ou non si le repérage amiante et HAP sur enrobés routiers doit être réalisé.
+## Comment se déroule l’intervention
 
-Si c’est le cas, la caractérisation de l’**amiante** et des **HAP** éventuellement présents pourra débuter après une planification du repérage et par un examen visuel de la zone et la réalisation de carottages sur site.
+Une fois l’opérateur missionné, le repérage proprement dit n’est engagé qu’après une étude rigoureuse de toute ressource documentaire et historique disponible sur l’ouvrage ou le tronçon d’enrobés bitumineux concerné. Cette analyse est essentielle : c’est elle qui détermine si le repérage amiante et HAP sur enrobés routiers doit être réalisé.
 
-Une fois les prélèvements effectués, les échantillons sont envoyés pour analyse au sein d’un laboratoire accrédité par le COFRAC.
+Si c’est le cas, la caractérisation de l’**amiante** et des **HAP** débute par une planification du repérage, un examen visuel de la zone, puis la réalisation de **carottages** sur site. Les échantillons prélevés sont ensuite envoyés pour analyse à un laboratoire accrédité par le COFRAC.
 
-Les résultats qui apparaitront alors dans les rapports d’essais permettront à l’expert de bâtir une cartographie précise des risques présents dans la zone du chantier.
+## Ce que vous obtenez
 
-Ils permettront aussi de déterminer les protections collectives et individuelles à mettre en œuvre et de définir un plan de gestion des déchets approprié.
+Les résultats consignés dans les rapports d’essais permettent à l’expert de bâtir une **cartographie précise des risques** présents dans la zone du chantier. Vous disposez ainsi d’une base fiable pour déterminer les protections collectives et individuelles à mettre en œuvre et pour définir un plan de gestion des déchets approprié — autant d’éléments clés pour piloter sereinement vos travaux de voirie.
