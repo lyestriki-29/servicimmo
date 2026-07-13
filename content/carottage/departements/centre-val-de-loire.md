@@ -2,29 +2,27 @@
 slug: centre-val-de-loire
 nom: Repérage amiante et HAP enrobés routiers Centre Val de Loire
 code: '00'
-villesPrincipales: []
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Centre Val de Loire | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Centre Val de Loire
+villesPrincipales:
+  - Orléans
+  - Tours
+  - Bourges
+  - Blois
+  - Chartres
+metaTitle: "Carottage amiante HAP des enrobés en Centre-Val de Loire"
+metaDescription: "La réglementation impose un repérage amiante et HAP avant travaux sur enrobés en Centre-Val de Loire. Carottage à Orléans, Tours, Bourges, rapport sous 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-centre-val-de-loire.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Centre Val de Loire
+Avant de lancer un marché de voirie en Centre-Val de Loire, le donneur d’ordre doit joindre au dossier la preuve qu’un repérage amiante et HAP a été mené sur les enrobés concernés : c’est une exigence du dispositif réglementaire « repérage avant travaux », pas une simple précaution. Faute de ce document, les entreprises consultées ne peuvent ni chiffrer correctement ni protéger leurs salariés.
 
-![Repérage amiante et HAP enrobés routiers Centre Val de Loire](images/logo.png)
+## Six départements, un même cadre légal
 
- [![Repérage amiante et HAP enrobés routiers Centre Val de Loire](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+De l’Eure-et-Loir au Cher, la règle est identique : tout fraisage, rabotage ou décroûtage d’un revêtement bitumineux suppose d’en connaître la composition. L’amiante, utilisé jadis dans certaines couches de roulement, et les HAP des anciens liants goudronneux imposent des précautions différentes selon leur concentration mesurée en laboratoire.
 
-![Repérage amiante et HAP enrobés routiers Centre Val de Loire](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulé d’une campagne de carottage
 
-La région Centre-Val de Loire est principalement formée de trois entités culturelles et historiques : le Berry, l’Orléanais et la Touraine.
+Nous définissons avec vous un maillage de sondages, puis extrayons les carottes à la carotteuse sur chaussées, trottoirs ou plateformes, à Orléans, Tours, Bourges, Blois ou Chartres. Après remise en état des points de forage, les échantillons partent pour identification des fibres et dosage des hydrocarbures aromatiques polycycliques.
 
-L’aéroport de Bourges et les nombreux parcs naturels régionaux offrent de formidables potentiels de développement.
+## Anticiper plutôt que subir
 
-Dans la perspective de constructions routières et d’aménagements territoriaux, un diagnostic préventif est nécessaire.
-
-Profitez de l’expertise de France Carottage pour effectuer un repérage amiante et HAP sur les enrobés routiers du Centre-Val de Loire.
-
-Votre projet roulera vers le succès !
+Le rapport, restitué en 24 à 48 h, précise couche par couche la nature des matériaux rencontrés. Il sécurise vos appels d’offres, votre plan de gestion des déchets de fraisage et la santé des compagnons, sur l’ensemble du Centre-Val de Loire comme sur un simple parking communal.

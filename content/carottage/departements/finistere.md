@@ -2,23 +2,23 @@
 slug: finistere
 nom: Finistère
 code: '29'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Finistère | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Finistère
+villesPrincipales:
+  - Brest
+  - Quimper
+  - Morlaix
+  - Concarneau
+  - Douarnenez
+metaTitle: "Carottage enrobés Finistère : amiante HAP avant travaux"
+metaDescription: "Carottage et repérage amiante HAP des enrobés dans le Finistère, de Brest à Quimper et Morlaix. Prélèvements avant travaux routiers, délais 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-finistere.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Finistère
+À la pointe bretonne, une journée d’intervention peut enchaîner plusieurs sites : un giratoire à Brest le matin, une rue de Quimper l’après-midi. Sur chaque emplacement, le protocole reste identique : sécurisation de l’emprise, perçage de la structure de part en part, extraction d’une carotte référencée, rebouchage et nettoyage avant de repartir. Regrouper les points de prélèvement optimise votre budget comme le planning.
 
-![Repérage amiante et HAP enrobés routiers Finistère](images/logo.png)
+## L’analyse qui conditionne vos travaux routiers
 
- [![Repérage amiante et HAP enrobés routiers Finistère](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Amiante dans les couches anciennes, HAP dans certains liants bitumineux : ces deux risques imposent une vérification avant tout rabotage, toute démolition ou tout recyclage d’enrobé. Les résultats de laboratoire déterminent les mesures de protection des équipes et l’orientation des matériaux retirés. Réalisé tôt, ce diagnostic sécurise le calendrier autant que les coûts.
 
-![Repérage amiante et HAP enrobés routiers Finistère](images/picto-mail.png) **contact @ france-carottage.fr**
+## Brest, Quimper, Morlaix : le 29 couvert en entier
 
-La population du Finistère est assez jeune avec une grande quantité de Finistériens qui ont moins de 40 ans.
-
-Les personnes et l'environnement se situant à proximité de travaux sur un enrobé routier sont aussi concernés, comme les intervenants directs, par l'amiante ou les HAP libérés par l'intervention.
-
-Un particulier, une collectivité ou une entreprise ne peut démarrer un tel chantier sans avoir demander un diagnostic amiante et HAP enrobés routiers sur le Finistère à FRANCE CAROTTAGE.
+Nos techniciens interviennent partout dans le Finistère : Brest et sa métropole, Quimper, Morlaix, Concarneau, Douarnenez et jusqu’aux communes les plus à l’ouest. Une demande reçue aujourd’hui débouche en règle générale sur une intervention sous 24 à 48 heures. Voirie communale, routes départementales, zones portuaires et d’activités, parkings, réseaux ou bâtiments : si le support est en enrobé, nous savons le prélever et le faire analyser. Contactez-nous avec la localisation de votre chantier finistérien pour recevoir un devis détaillé.

@@ -2,25 +2,25 @@
 slug: vienne
 nom: Vienne
 code: '86'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Vienne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vienne
+villesPrincipales:
+  - Poitiers
+  - Châtellerault
+  - Montmorillon
+metaTitle: "Enrobés amiante-HAP dans la Vienne : carottage et analyses"
+metaDescription: "Dans la Vienne, chaque carotte d’enrobé passe au laboratoire : détection d’amiante, mesure des HAP, classement des matériaux avant vos chantiers de voirie."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vienne.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vienne
+L’amiante et plusieurs HAP figurent parmi les substances cancérogènes : raboter un enrobé qui en contient expose directement les compagnons de chantier. Dans la Vienne, l’évaluation de ce risque passe par un geste simple — le carottage — et par le verdict du laboratoire qui l’accompagne.
 
-![Repérage amiante et HAP enrobés routiers Vienne](images/logo.png)
+## L’analyse qui protège vos équipes
 
- [![Repérage amiante et HAP enrobés routiers Vienne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Sur chaque échantillon, le laboratoire identifie les fibres d’amiante éventuelles et mesure la concentration en HAP, strate après strate. Ces données alimentent le plan de prévention : équipements de protection, techniques de fraisage adaptées, arrosage, confinement si nécessaire. Sans elles, impossible d’organiser un chantier conforme.
 
-![Repérage amiante et HAP enrobés routiers Vienne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des matériaux tracés jusqu’à leur exutoire
 
-Département situé dans le centre ouest de la France, la Vienne a pour préfecture Poitiers et ses habitants sont appelés Viennois et Viennoises.
+Le même rapport sert ensuite à diriger les fraisats : valorisation en centrale d’enrobage lorsqu’ils sont sains, stockage encadré ou filière déchets dangereux dans le cas contraire. Cette traçabilité, exigée des donneurs d’ordre, se prépare dès la phase d’étude. Vous gardez ainsi la main sur les coûts d’évacuation au lieu de les découvrir en cours d’exécution.
 
-Dans la Vienne, ne manquez pas l’opportunité de confier votre projet de chantier routier à un partenaire efficace.
+## Toute la Vienne, des grands axes aux bourgs
 
-France Carottage réalise votre recherche amiante et HP dans les enrobés routiers dans la Vienne.
-
-Faites donc appel à nos opérateurs expérimentés et qualifiés afin d’évaluer les risques d’exposition à ces substances cancérogènes et polluantes et ainsi mettre en sécurité votre opération en toute sérénité.
+Nos opérateurs se rendent à Poitiers, à Châtellerault et jusque dans les communes rurales du département, avec une prise de rendez-vous sous 24 à 48 heures. Les points de sondage sont définis avec vous, selon l’historique des revêtements et la géométrie du projet. Routes, rues, plateformes industrielles ou cours de bâtiments : chaque carottage d’enrobé est réalisé dans les règles, rebouché proprement et suivi d’un rapport précis.

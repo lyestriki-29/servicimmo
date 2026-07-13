@@ -2,23 +2,21 @@
 slug: eure
 nom: Eure
 code: '27'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Eure | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Eure
+villesPrincipales:
+  - Évreux
+  - Vernon
+  - Louviers
+metaTitle: "Repérage amiante et HAP sur enrobés dans l’Eure (27)"
+metaDescription: "Diagnostic amiante HAP sur enrobés routiers dans l’Eure : carottage à Évreux, Vernon, Louviers. Planification en 24-48 h pour voirie, réseaux et bâtiment."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-eure.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Eure
+Couronne diamantée, arrosage à l’eau, forage lent et régulier : la carotteuse extrait de la chaussée un cylindre net, sans fissurer l’enrobé alentour. Sur vos chantiers de l’Eure, ce geste précis se répète à chaque point du plan de prélèvement, avec rebouchage systématique avant de replier la signalisation. Les échantillons, référencés un à un, filent ensuite au laboratoire pour la recherche d’amiante et le dosage des HAP.
 
-![Repérage amiante et HAP enrobés routiers Eure](images/logo.png)
+## Des résultats qui pilotent le chantier
 
- [![Repérage amiante et HAP enrobés routiers Eure](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Selon les conclusions d’analyse, votre opération dans l’Eure prendra des chemins très différents : fraisage classique et recyclage des matériaux si les tests sont négatifs, mode opératoire renforcé et filière spécifique en cas de présence d’amiante ou de teneur élevée en HAP. Ce diagnostic préalable protège les compagnons, les riverains et la responsabilité du maître d’ouvrage.
 
-![Repérage amiante et HAP enrobés routiers Eure](images/picto-mail.png) **contact @ france-carottage.fr**
+## D’Évreux à Vernon, réponse sous 24-48 h
 
-Trois communes de Seine-Maritime portent le nom d'Elbeuf distinguées par les particules 'en-Bray, 'sur-Andelle' et 'sur-Seine'.
-
-Pour vos diagnostics amiante et HAP enrobés routiers à Elbeuf, vous pouvez contacter FRANCE CAROTTAGE, société spécialisée dans ce domaine et qui intervient sur toute la France.
-
-L'amiante et les HAP sont responsables de cancers si aucune précaution n'est prise par les personnes travaillant sur un chantier destiné à détruire ou rénover un enrobé routier.
+France Carottage se déplace dans tout le département : Évreux, Vernon, Louviers et l’ensemble des communes euroises. Le rendez-vous se cale sous 24 à 48 heures selon vos contraintes d’exploitation. Chaussées, giratoires, parkings, zones d’activités, tranchées ou dalles : chaque support enrobé peut être prélevé et analysé. Envoyez-nous votre plan ou une simple adresse ; nous définissons ensemble le maillage de carottages et vous adressons un chiffrage sans attente.

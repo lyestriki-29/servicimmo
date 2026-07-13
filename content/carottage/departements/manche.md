@@ -2,23 +2,27 @@
 slug: manche
 nom: Manche
 code: '50'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Manche | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Manche
+villesPrincipales:
+  - Cherbourg-Octeville
+  - Saint-Lô
+  - Granville
+  - Tourlaville
+  - Équeurdreville-Hainneville
+metaTitle: "Carottage d’enrobés amiante HAP dans la Manche (50)"
+metaDescription: "Dans la Manche, France Carottage carotte vos enrobés avant tranchées, rabotage ou démolition : analyses amiante et HAP, mobilisation en 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-manche.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Manche
+Enfouir un réseau électrique le long d’une route du Cotentin, reprendre les trottoirs de Granville, raboter un giratoire à l’entrée de Cherbourg-Octeville, casser une dalle bitumée sur une ancienne emprise portuaire : dans la Manche, on n’entame pas un revêtement sans savoir s’il contient de l’amiante ou des HAP.
 
-![Repérage amiante et HAP enrobés routiers Manche](images/logo.png)
+## Des carottes d’enrobés lues couche après couche
 
- [![Repérage amiante et HAP enrobés routiers Manche](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le carottage consiste à prélever un cylindre complet de chaussée. Le laboratoire y recherche les fibres d’amiante et mesure la concentration en HAP des liants. Deux informations décisives : elles conditionnent la protection des équipes de terrassement et la destination des matériaux retirés.
 
-![Repérage amiante et HAP enrobés routiers Manche](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une couverture complète du département
 
-La Manche a plusieurs secteurs d'activités économiques dont l'agriculture et le tourisme.
+France Carottage intervient de la pointe de la Hague au sud-Manche : Cherbourg-Octeville, Tourlaville, Équeurdreville-Hainneville, Saint-Lô, Granville et toutes les communes du littoral comme du bocage. Nos techniciens se mobilisent sous 24 à 48 h, avec balisage du chantier et remise en état des points de sondage.
 
-Il n'est plus possible d'entreprendre des travaux sur une voirie ou toute autre surface goudronnée sans avoir au préalable demander à FRANCE CAROTTAGE un diagnostic amiante et HAP enrobés routiers dans la Manche.
+## Voirie, réseaux, bâtiment : un seul interlocuteur
 
-Préservant la santé des personnes sur ou à proximité du chantier, un diagnostic amiante et HAP enrobés routiers permet aussi de ne pas polluer l'environnement en supprimant les déchets contaminés via des procédures très encadrées.
+Que le donneur d’ordre soit une collectivité, un syndicat d’énergie ou une entreprise privée, la démarche reste identique : plan de sondages, prélèvements, analyses, rapport détaillé. Intégrer la recherche d’amiante et de HAP dans les enrobés de la Manche dès la phase d’étude, c’est verrouiller le planning, fiabiliser le budget d’évacuation et protéger celles et ceux qui travailleront demain sur la chaussée. Un simple appel suffit pour obtenir un devis adapté à votre chantier.

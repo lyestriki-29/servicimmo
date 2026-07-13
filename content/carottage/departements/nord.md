@@ -2,27 +2,27 @@
 slug: nord
 nom: Nord
 code: '59'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Nord | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Nord
+villesPrincipales:
+  - Lille
+  - Roubaix
+  - Tourcoing
+  - Dunkerque
+  - Villeneuve-d'Ascq
+metaTitle: "Carottage enrobés, amiante et HAP dans le Nord (59)"
+metaDescription: "Le Nord enchaîne les chantiers de voirie : carottages et repérages amiante-HAP avant rabotage ou tranchée, de Lille à Dunkerque, sous 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-nord.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Nord
+Raboter un axe de la métropole lilloise, ouvrir une tranchée de réseau à Roubaix, requalifier un quai à Dunkerque, démolir un parking de zone industrielle à Villeneuve-d’Ascq : dans le Nord, département le plus peuplé de France, les chantiers de voirie s’enchaînent toute l’année. Chacun débute par une vérification incontournable : le revêtement renferme-t-il de l’amiante ou des HAP ?
 
-![Repérage amiante et HAP enrobés routiers Nord](images/logo.png)
+## Une chaussée se lit strate par strate
 
- [![Repérage amiante et HAP enrobés routiers Nord](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les revêtements du Nord ont souvent été rechargés à plusieurs reprises ; les couches profondes, plus anciennes, sont précisément celles qui présentent le plus de risques. Le carottage traverse toute la structure et permet au laboratoire d’examiner chaque niveau : recherche d’amiante, dosage des HAP. Un historique de chaussée complexe ne pose donc aucun problème, il se lit dans la carotte.
 
-![Repérage amiante et HAP enrobés routiers Nord](images/picto-mail.png) **contact @ france-carottage.fr**
+## Mobilisation sous 24-48 h dans tout le 59
 
-Département n°59, le Nord est le plus peuplé de l'Hexagone.
+De Lille à Tourcoing, du littoral dunkerquois au Cambrésis, France Carottage déploie ses techniciens sous 24 à 48 h. Les prélèvements s’organisent en fonction du trafic : intervention nocturne si nécessaire, balisage, rebouchage immédiat des sondages pour restituer la voirie en état.
 
-Gouverné par la métropole lilloise, le Nord est un secteur estudiantin, jeune, touristique et festif.
+## Voirie, réseaux et bâtiment traités de front
 
-C'est aussi une région d'histoire avec des bâtisses conçues par l'architecte Vauban.
-
-Une route à refaire ? Un espace bitumineux à transformer ? En tant que responsable du chantier, soyez avisé de l'importance du diagnostic amiante et HAP dans les enrobés routiers du Nord.
-
-Une étude d'autant plus déterminante qu'elle s'applique à des voies pavées, particulièrement contaminées par l'amiante.
+Collectivités, concessionnaires de réseaux, promoteurs : le rapport remis localise chaque carotte et qualifie les matériaux, pour orienter les fraisats vers la bonne filière et protéger les compagnons. Planifiez le diagnostic amiante-HAP des enrobés du Nord bien avant la veille des travaux : c’est la garantie d’un chantier qui démarre à l’heure.

@@ -2,31 +2,22 @@
 slug: deux-sevres
 nom: Deux-Sèvres
 code: '79'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Deux-Sèvres | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Deux-Sèvres
+villesPrincipales:
+  - Niort
+  - Bressuire
+  - Parthenay
+  - Thouars
+metaTitle: "Repérage amiante HAP des enrobés en Deux-Sèvres (79)"
+metaDescription: "Prélèvements d’enrobés et repérage amiante HAP dans les Deux-Sèvres : Niort, Bressuire, Parthenay. Carottage planifié sous 24 à 48 h, rapport d’analyse fiable."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-deux-sevres.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Deux-Sèvres
+Tout se joue d’abord sur plan : la veille, les points de prélèvement sont positionnés avec le donneur d’ordre, en fonction des zones à raboter ou à terrasser. Le jour J, l’opérateur France Carottage sécurise chaque emplacement, extrait une carotte sur la hauteur totale de la structure, photographie et référence l’échantillon, puis rebouche proprement. Une chaussée des Deux-Sèvres peut ainsi être diagnostiquée sans perturber durablement le trafic.
 
-![Repérage amiante et HAP enrobés routiers Deux-Sèvres](images/logo.png)
+## Amiante et HAP : deux analyses, un seul prélèvement
 
- [![Repérage amiante et HAP enrobés routiers Deux-Sèvres](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+La carotte prélevée sert à la fois à la recherche d’amiante et au dosage des HAP. Ces polluants, présents dans certains bitumes anciens, imposent des précautions strictes dès qu’on fraise ou qu’on démolit un enrobé. Connaître leur présence avant travaux, c’est choisir la bonne filière d’élimination, protéger les équipes et verrouiller le budget du chantier.
 
-![Repérage amiante et HAP enrobés routiers Deux-Sèvres](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un maillage complet du 79
 
-Département du centre-ouest, les Deux-Sèvres dépendent de la région Nouvelle-Aquitaine.
-
-Les Deux-Sèvres ont été fondées durant la période révolutionnaire.
-
-L’économie du département est principalement agricole mais le secteur industriel tend à émerger.
-
-On y réalise de nombreux projets de construction et d’aménagement de la voie publique.
-
-Faites donc appel à France Carottage pour vous accompagner dans votre opération.
-
-Fort de son expertise et de ses compétences, nous prendrons en charge toutes vos recherches amiante et HAP sur les enrobés routiers des Deux-Sèvres afin de préparer la sécurisation de votre futur chantier.
-
-Une autre révolution est en route !
+De Niort à Bressuire, de Parthenay à Thouars, nos équipes sillonnent l’ensemble des Deux-Sèvres, zones rurales comprises. Un créneau d’intervention est proposé sous 24 à 48 heures après validation du devis. Communes, syndicats de voirie, entreprises de travaux publics ou promoteurs : chacun reçoit un rapport exploitable directement dans son dossier travaux. Le protocole vaut aussi au-delà des routes : parkings, cours d’usines, tranchées de réseaux enterrés ou dallages de bâtiments se prélèvent de la même manière. Parlez-nous de votre projet deux-sévrien, nous dimensionnons le plan de carottage adéquat et réservons la date qui vous arrange.

@@ -2,25 +2,27 @@
 slug: normandie
 nom: Repérage amiante et HAP enrobés routiers Normandie
 code: '00'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Normandie | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Normandie
+villesPrincipales:
+  - Rouen
+  - Caen
+  - Le Havre
+  - Évreux
+  - Alençon
+metaTitle: "Carottage d’enrobés et repérage amiante HAP en Normandie"
+metaDescription: "Sur les cinq départements normands, France Carottage réalise carottages d’enrobés et repérages amiante-HAP : voirie, réseaux, bâtiment, sous 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-normandie.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Normandie
+À l’échelle d’une région comme la Normandie, les chantiers touchant aux enrobés prennent toutes les formes : rabotage de nationales et de départementales, tranchées d’enfouissement de réseaux dans les bourgs, démolitions de sites industriels ou portuaires, réfections de parkings publics. Sur les cinq départements normands — Calvados, Eure, Manche, Orne, Seine-Maritime —, la règle ne varie pas : vérifier la présence d’amiante et de HAP avant d’entamer le bitume.
 
-![Repérage amiante et HAP enrobés routiers Normandie](images/logo.png)
+## Des enrobés anciens sous surveillance
 
- [![Repérage amiante et HAP enrobés routiers Normandie](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les chaussées mises en œuvre avant les années 2000 peuvent renfermer des fibres d’amiante, et leurs couches au goudron des teneurs élevées en HAP. Le carottage d’enrobés apporte la preuve : un cylindre prélevé sur la totalité de l’épaisseur, une analyse en laboratoire, un verdict pour chaque couche.
 
-![Repérage amiante et HAP enrobés routiers Normandie](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une organisation régionale, des délais courts
 
-La Normandie est mondialement connue pour ces historiques et tristement célèbres plages du Débarquement.
+France Carottage intervient partout en Normandie, de Rouen à Caen, du Havre à Alençon, sur le littoral comme dans les terres. Les équipes se déplacent sous 24 à 48 h et adaptent leurs prélèvements aux contraintes locales : circulation dense en agglomération, axes ruraux, emprises portuaires ou industrielles.
 
-Les enrobés bitumineux sont soumis à un diagnostic amiante et HAP sur les enrobés routiers car ils peuvent contenir ces substances cancérigènes s'ils ont été mis en place avant les années 2000.
+## Un même rapport pour tous vos chantiers
 
-C'est le maitre d'ouvrage qui doit faire la demande de ce repérage amiante et HAP sur les enrobés routiers en Normandie afin de ne pas mettre en danger les personnes qui interviendront sur le chantier de rénovation par exemple.
-
-Appelez FRANCE CAROTTAGE !
+Voirie, réseaux, bâtiment : quel que soit le maître d’ouvrage, le livrable reste homogène — plan de sondages, photographies, résultats amiante et HAP, préconisations pour l’évacuation des matériaux. Un vrai confort pour les donneurs d’ordre qui pilotent des opérations dans plusieurs départements normands. Contactez France Carottage pour vos repérages amiante-HAP sur enrobés en Normandie.

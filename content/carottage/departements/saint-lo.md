@@ -2,23 +2,26 @@
 slug: saint-lo
 nom: Saint-Lô
 code: '00'
-villesPrincipales: []
-metaTitle: Saint-Lô | France Carottage
-metaDescription: Saint-Lô
+villesPrincipales:
+  - Saint-Lô
+  - Granville
+  - Cherbourg-Octeville
+  - Bayeux
+metaTitle: "Carottage d’enrobés et amiante HAP à Saint-Lô (Manche)"
+metaDescription: "À Saint-Lô, position centrale dans la Manche : carottage d’enrobés, analyses amiante et HAP, intervention calée sous 24 à 48 h sur voirie et réseaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-lo.html
-brut: true
 ---
-# Saint-Lô
+Préfecture de la Manche, Saint-Lô occupe le centre géographique du département : un emplacement qui simplifie la logistique des chantiers routiers. Quand un maître d’ouvrage saint-lois sollicite le réseau France Carottage, le technicien retenu est celui dont la tournée passe au plus près, ce qui permet de confirmer un créneau en 24 à 48 heures dans la plupart des situations.
 
-![Saint-Lô](images/logo.png)
+## Rayonner depuis le cœur de la Manche
 
-[![Saint-Lô](images/picto-tel.png)](tel:)
+Autour de Saint-Lô, les équipes desservent l’agglomération comme les communes voisines, remontent vers Cherbourg-Octeville ou redescendent vers Granville selon les besoins ; Bayeux, toute proche côté Calvados, s’insère dans les mêmes circuits. Ce fonctionnement mutualisé réduit les frais de déplacement facturés et fluidifie les campagnes de prélèvements multi-communes.
 
-![Saint-Lô](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le diagnostic amiante et HAP des enrobés saint-lois
 
-Les marchés alimentaires de Saint-Lô ont lieu du mardi au samedi, de quoi avoir toujours des produits frais et locaux.
+Toute intervention qui attaque le corps de chaussée — rabotage, tranchée, réfection — impose de savoir au préalable si l’enrobé contient de l’amiante et quelle est sa teneur en HAP. Le carottage fournit cet échantillon : extraction propre, rebouchage du point de prélèvement, envoi au laboratoire accrédité, résultats consolidés dans un compte rendu lisible.
 
-FRANCE CAROTTAGE vous invite à les contacter pour toute pratique d'un diagnostic amiante et HAP enrobés routiers à Saint-Lô, exigé avant une intervention sur un revêtement routier.
+## Qui est concerné à Saint-Lô ?
 
-Cette obligation de diagnostic amiante et HAP enrobés routiers s'adresse aussi bien aux particuliers, aux entreprises qu'aux collectivités.
+Collectivités, entreprises de travaux publics, aménageurs, gestionnaires de réseaux : tous les donneurs d’ordre intervenant sur la voirie ou les surfaces bitumées de Saint-Lô sont visés par cette obligation. Le repérage s’ajoute aux pièces de consultation et protège les compagnons sur le terrain dès le premier coup de raboteuse.

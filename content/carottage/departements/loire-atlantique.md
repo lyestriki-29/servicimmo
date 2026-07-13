@@ -2,21 +2,27 @@
 slug: loire-atlantique
 nom: Loire-Atlantique
 code: '44'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Loire-Atlantique | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Loire-Atlantique
+villesPrincipales:
+  - Nantes
+  - Saint-Nazaire
+  - Saint-Herblain
+  - Rezé
+  - Vertou
+metaTitle: "Repérage amiante HAP et carottage enrobés en Loire-Atlantique"
+metaDescription: "Carottage d’enrobés en Loire-Atlantique : détection amiante et HAP avant rabotage, tranchée ou démolition. Équipes mobilisées sous 24 à 48 h dans le 44."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-loire-atlantique.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Loire-Atlantique
+Requalification d’un boulevard nantais, création d’un parking d’activités à Saint-Herblain, tranchée de raccordement à Rezé, déconstruction d’une plateforme industrielle près de Saint-Nazaire : en Loire-Atlantique, les chantiers qui touchent aux enrobés ne manquent pas. Tous partagent la même exigence avant le premier passage de raboteuse : savoir ce que contient le bitume.
 
-![Repérage amiante et HAP enrobés routiers Loire-Atlantique](images/logo.png)
+## Amiante et HAP : ce que cache un enrobé ancien
 
- [![Repérage amiante et HAP enrobés routiers Loire-Atlantique](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Les couches de chaussée posées il y a plusieurs décennies peuvent renfermer des fibres d’amiante ou des liants riches en HAP. Le carottage extrait un échantillon représentatif de chaque strate, qui est ensuite analysé afin de classer les matériaux et d’orienter leur filière d’évacuation.
 
-![Repérage amiante et HAP enrobés routiers Loire-Atlantique](images/picto-mail.png) **contact @ france-carottage.fr**
+## Carottage d’enrobés partout dans le 44
 
-La Loire-Atlantique comptabilise un bon nombre de monuments appartenant au patrimoine architectural classé du département.
+France Carottage intervient sur l’ensemble de la Loire-Atlantique : métropole nantaise, littoral, secteurs ruraux. Voirie communale, réseaux enterrés, cours de bâtiments — nos techniciens réalisent les prélèvements puis rebouchent proprement chaque point de sondage. La mobilisation s’effectue en 24 à 48 h selon votre planning de travaux, de Nantes à Vertou comme sur la côte nazairienne.
 
-Une collectivité, un particulier ou une entreprise doit obligatoirement demander un diagnostic amiante et HAP enrobés routiers en Loire-Atlantique avant de commencer une intervention sur une surface bitumeuse car ces deux composés pouvant être présents dans les enrobés sont extrêmement nocifs pour l'homme
+## Un rapport qui fait avancer votre projet
+
+À l’issue des analyses, vous recevez un document clair localisant chaque carotte et détaillant les résultats amiante et HAP couche par couche. Maîtres d’ouvrage publics ou privés, entreprises de TP : appuyez-vous dessus pour consulter vos sous-traitants, chiffrer l’évacuation des fraisats et protéger les personnes qui interviendront sur la chaussée. Vos travaux d’enrobés en Loire-Atlantique méritent ce préalable simple et rapide.

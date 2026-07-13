@@ -2,25 +2,27 @@
 slug: la-fleche
 nom: La Flèche
 code: '00'
-villesPrincipales: []
-metaTitle: La Flèche | France Carottage
-metaDescription: La Flèche
+villesPrincipales:
+  - Sablé-sur-Sarthe
+  - Le Lude
+  - Durtal
+  - Bazouges Cré sur Loir
+  - Clermont-Créans
+metaTitle: "Carottage enrobés à La Flèche : amiante et HAP avant travaux"
+metaDescription: "À La Flèche, tout chantier sur chaussée exige de connaître la teneur en amiante et en HAP des enrobés : France Carottage prélève et fait analyser sur place."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-la-fleche.html
-brut: true
 ---
-# La Flèche
+À La Flèche, la commune comme les entreprises qui interviennent sur sa voirie partagent une même contrainte : impossible de raboter, découper ou terrasser un enrobé sans s’être assuré qu’il ne libérera ni fibres d’amiante ni HAP. Celui qui commande l’opération en porte la charge, et cette vérification passe par un prélèvement en bonne et due forme.
 
-![La Flèche](images/logo.png)
+## Comment se déroule un carottage à La Flèche
 
-[![La Flèche](images/picto-tel.png)](tel:)
+Le technicien découpe dans la chaussée une carotte de quelques centimètres de diamètre, rebouche aussitôt le point de prélèvement et expédie l’échantillon vers un laboratoire accrédité. Quelques jours plus tard, le rapport détaille, pour chaque strate, l’éventuelle présence d’amiante et le niveau de HAP mesuré, deux données qui conditionnent le mode opératoire du chantier et l’évacuation des matériaux.
 
-![La Flèche](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une desserte locale, dans la vallée du Loir
 
-Le zoo de La Flèche est l'un des sites touristiques phare de la Sarthe.
+France Carottage intervient dans le centre-ville fléchois comme dans les zones d’activités, et rayonne sur les communes alentour : Clermont-Créans, Bazouges Cré sur Loir, Durtal ou Le Lude, jusqu’à Sablé-sur-Sarthe. Une visite se cale habituellement sous 24 à 48 heures après votre appel.
 
-Des travaux sur des enrobés amiantifères demandent des protections particulières pour les travailleurs ; il est donc important de savoir si le revêtement bitumineux en contient ou non.
+## Pour la mairie, le syndicat ou l’entreprise de TP
 
-De plus, il y a également un risque d'exposition aux HAP sur certaines surfaces goudronnées.
-
-Ces diverses informations sont communiquées par un diagnostic amiante et HAP enrobés routiers à La Flèche et qui peut être pratiqué par FRANCE CAROTTAGE.
+Réseaux d’eau à reprendre, trottoirs à refaire, parking à restructurer : chaque configuration mérite son propre plan de prélèvement. En confiant le repérage amiante-HAP de vos enrobés à un spécialiste, vous protégez vos équipes, vos administrés et vos marchés de travaux. Demandez votre devis de carottage pour La Flèche et ses environs.

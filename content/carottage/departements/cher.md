@@ -2,27 +2,25 @@
 slug: cher
 nom: Cher
 code: '18'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Loir-et-Cher | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Loir-et-Cher
+villesPrincipales:
+  - Bourges
+  - Vierzon
+  - Saint-Amand-Montrond
+metaTitle: "Diagnostic amiante et HAP des enrobés dans le Cher (18)"
+metaDescription: "Le Code du travail impose de rechercher amiante et HAP avant tout chantier sur les enrobés du Cher : carottage à Bourges, Vierzon, Saint-Amand-Montrond."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cher.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Loir-et-Cher
+Impossible de programmer un rabotage de chaussée dans le Cher sans passer par la case repérage : depuis 2017, la réglementation oblige tout commanditaire de travaux à faire rechercher l’amiante dans les enrobés visés, et la prévention du risque chimique y ajoute le dosage des HAP. Ce contrôle protège les ouvriers, les riverains et la responsabilité juridique du maître d’ouvrage.
 
-![Repérage amiante et HAP enrobés routiers Loir-et-Cher](images/logo.png)
+## Le département 18 concerné comme les autres
 
- [![Repérage amiante et HAP enrobés routiers Loir-et-Cher](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Routes départementales du Berry, boulevards de Bourges, voiries industrielles de Vierzon ou rues de Saint-Amand-Montrond : tout revêtement bitumineux d’une certaine ancienneté peut contenir des fibres d’amiante ou des liants goudronneux chargés en hydrocarbures aromatiques polycycliques. L’historique des couches successives étant rarement documenté, le doute ne se lève qu’en perçant la chaussée.
 
-![Repérage amiante et HAP enrobés routiers Loir-et-Cher](images/picto-mail.png) **contact @ france-carottage.fr**
+## Notre protocole de prélèvement
 
-Département du Centre-Val de Loire, le Loir-et-Cher regroupe une dizaine de petites entités agricoles.
+France Carottage extrait des carottes sur toute l’épaisseur du corps de chaussée, documente chaque strate rencontrée et transmet les échantillons au laboratoire. Les forages sont comblés immédiatement afin de rendre la voie à la circulation, et un repérage photographique accompagne chaque point de sondage.
 
-Grâce à son essor industriel lié au secteur secondaire, le Loir-et-Cher bénéficie d’une forte attractivité notamment avec le Cœur Val de Loire, la destination touristique principale.
+## Et après le carottage ?
 
-Pour vos futurs projets sur la voie publique, France Carottage vous accompagne dans le repérage amiante et des HAP présents dans les enrobés.
-
-Faites confiance à France Carottage pour effectuer votre repérage amiante et HAP sur les enrobés routiers de Loir-et-Cher.
-
-Votre projet est en bonne voie avec France Carottage !
+Le rapport arrive sous 24 à 48 h et détaille les résultats niveau par niveau. Vous pouvez alors rédiger vos pièces de marché, définir le mode opératoire du fraisage et orienter les matériaux extraits dans le Cher vers la filière adaptée, du recyclage classique au traitement en déchet dangereux.

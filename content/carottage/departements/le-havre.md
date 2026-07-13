@@ -2,23 +2,27 @@
 slug: le-havre
 nom: Le Havre
 code: '00'
-villesPrincipales: []
-metaTitle: Le Havre | France Carottage
-metaDescription: Le Havre
+villesPrincipales:
+  - Montivilliers
+  - Harfleur
+  - Sainte-Adresse
+  - Gonfreville-l’Orcher
+  - Octeville-sur-Mer
+metaTitle: "Carottage d’enrobés au Havre : détection amiante et HAP"
+metaDescription: "Au Havre, vos projets de voirie passent par un carottage d’enrobés : analyse amiante et HAP en laboratoire accrédité, délais courts sur l’agglomération."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-le-havre.html
-brut: true
 ---
-# Le Havre
+Ville reconstruite puis constamment réaménagée, Le Havre superpose des générations d’enrobés sur ses boulevards, ses quais et ses zones industrialo-portuaires. Pour le maître d’ouvrage havrais — collectivité, gestionnaire portuaire ou aménageur —, toucher à ces revêtements sans repérage préalable de l’amiante et des HAP revient à engager sa responsabilité sur un terrain qu’il ne connaît pas.
 
-![Le Havre](images/logo.png)
+## Le carottage, seule preuve opposable
 
-[![Le Havre](images/picto-tel.png)](tel:)
+Aucune inspection visuelle ne distingue un enrobé amianté d’un enrobé sain. Seule une carotte, confiée à un laboratoire accrédité, établit la composition réelle de la chaussée. Ce document devient ensuite la référence du chantier : choix des équipements de protection, technique de retrait, classement des déchets bitumineux.
 
-![Le Havre](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du centre-ville havrais aux communes voisines
 
-En parcourant l'Eure, vous verrez de multiples paysages mais également différents types d'urbanisation.
+France Carottage programme ses prélèvements sous 24 à 48 heures au Havre ainsi qu’à Montivilliers, Harfleur, Sainte-Adresse ou Gonfreville-l’Orcher. L’entreprise couvre plus largement l’estuaire de la Seine et la Seine-Maritime, jusqu’à Fécamp.
 
-Les routes, les trottoirs, les parkings, les ronds-points antérieurs à 2013 ont souvent été construits avec des fibres d'amiante ou des goudrons contenant des HAP.
+## Intégrer le diagnostic à vos opérations
 
-Aujourd'hui, avant toute intervention sur un enrobé routier, le maitre d'ouvrage à l'obligation de demander un diagnostic amiante et HAP enrobés routiers dans l'Eure à FRANCE CAROTTAGE afin de protéger les personnes présentes sur le chantier et l'environnement.
+Réfection de voirie, tranchées de réseaux, démolition partielle de dalle : chaque projet havrais gagne à inclure le repérage amiante-HAP dès la phase de conception. Les résultats alimentent le dossier de consultation, verrouillent le budget d’évacuation des fraisats et protègent tous les intervenants. Rapprochez-vous de France Carottage pour cadrer votre campagne de carottage d’enrobés au Havre.

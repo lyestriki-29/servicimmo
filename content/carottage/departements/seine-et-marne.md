@@ -2,29 +2,26 @@
 slug: seine-et-marne
 nom: Seine-et-Marne
 code: '77'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Seine-et-Marne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Seine-et-Marne
+villesPrincipales:
+  - Meaux
+  - Melun
+  - Chelles
+  - Pontault-Combault
+metaTitle: "Repérage amiante HAP enrobés et carottage en Seine-et-Marne"
+metaDescription: "Seine-et-Marne : carottages d’enrobés et repérages amiante HAP programmés sous 48 h à Meaux, Melun, Chelles et dans tout le département 77."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-seine-et-marne.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Seine-et-Marne
+Plus grand département d’Île-de-France par sa superficie, la Seine-et-Marne étire ses chantiers de Chelles aux confins de la Brie. Cette étendue rend la logistique déterminante : le réseau France Carottage sectorise le 77, affecte à chaque site l’équipe la plus voisine et s’engage sur une prise de rendez-vous rapide — comptez 24 à 48 heures sur la majorité des dossiers.
 
-![Repérage amiante et HAP enrobés routiers Seine-et-Marne](images/logo.png)
+## Meaux, Melun, Chelles : un département sectorisé
 
- [![Repérage amiante et HAP enrobés routiers Seine-et-Marne](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les pôles urbains seine-et-marnais comme les villages agricoles relèvent des mêmes circuits. Les demandes voisines sont associées sur une tournée commune, un vrai atout pour les intercommunalités qui pilotent des programmes de voirie répartis sur plusieurs communes à la fois. Les délais annoncés restent identiques d’un bout à l’autre du territoire, frange rurale comprise.
 
-![Repérage amiante et HAP enrobés routiers Seine-et-Marne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Recherche d’amiante et de HAP : le passage obligé
 
-La Seine-et-Marne est positionnée géographiquement à l'est de Paris.
+Avant de raboter, recycler ou évacuer un enrobé, son contenu doit être connu. La carotte prélevée dans la chaussée est analysée en laboratoire accrédité pour détecter l’amiante et mesurer les HAP ; les conclusions déterminent les équipements de protection requis et la destination finale des fraisats.
 
-Le secteur est encore extrêmement rural.
+## Du devis au rapport final
 
-Plus de la moitié du département est utilisée pour l'agriculture.
-
-La Seine-et-Marne est également un site où culture et histoire sont omniprésentes avec des châteaux, des ruines d'abbaye et des maisons à colombages.
-
-Afin de détecter l'amiante et les HAP à l'intérieur des enrobés routiers de la Seine-et-Marne, contactez notre équipe expérimentée.
-
-Après acceptation du devis, nous nous rendrons sur place pour effectuer un prélèvement dans l'enrobé bitumineux que vous souhaitez diagnostiquer.
+Après validation du devis, l’équipe se déplace, réalise les carottages, remet la chaussée en état et transmet les échantillons. Le repérage vous parvient ensuite, localisé et illustré, prêt à compléter le dossier travaux de votre opération en Seine-et-Marne. Entreprises, bailleurs et collectivités du 77 gagnent ainsi un jalon réglementaire sans alourdir leur calendrier.

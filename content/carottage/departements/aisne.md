@@ -2,23 +2,26 @@
 slug: aisne
 nom: Aisne
 code: '02'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Aisne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Aisne
+villesPrincipales:
+  - Laon
+  - Saint-Quentin
+  - Soissons
+  - Château-Thierry
+metaTitle: "Carottage enrobés, repérage amiante et HAP dans l’Aisne (02)"
+metaDescription: "Le repérage amiante et HAP des enrobés est obligatoire avant travaux de voirie dans l’Aisne. Carottage à Laon, Saint-Quentin, Soissons, rapport sous 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-aisne.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Aisne
+Depuis le décret n° 2017-899 du 9 mai 2017, aucun chantier de voirie ne peut démarrer sans que le donneur d’ordre ait fait rechercher l’amiante dans les matériaux concernés. Dans l’Aisne, cette exigence s’applique dès qu’un enrobé doit être raboté, fraisé ou découpé : la couche bitumineuse peut renfermer des fibres d’amiante ainsi que des HAP (hydrocarbures aromatiques polycycliques), deux familles de substances cancérogènes.
 
-![Repérage amiante et HAP enrobés routiers Aisne](images/logo.png)
+## Une obligation qui pèse sur le maître d’ouvrage
 
- [![Repérage amiante et HAP enrobés routiers Aisne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Collectivité, entreprise de travaux publics ou gestionnaire de réseaux : c’est au commanditaire des travaux de prouver que le risque a été évalué. Sans repérage préalable, sa responsabilité est engagée et l’inspection du travail peut suspendre l’opération. Le carottage d’enrobés constitue la réponse technique à cette obligation : des carottes sont prélevées dans la chaussée puis examinées strate par strate.
 
-![Repérage amiante et HAP enrobés routiers Aisne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Comment nous intervenons dans l’Aisne
 
-L'Aisne (02) jouxte le nord-est de la région parisienne et partage une frontière avec la Belgique.
+France Carottage se déplace sur l’ensemble du département 02, de Laon à Château-Thierry, pour des prélèvements sur routes, parkings, trottoirs ou cours d’immeubles. Chaque point de sondage est rebouché proprement et repéré sur plan. Les échantillons partent ensuite en laboratoire pour la recherche d’amiante et le dosage des HAP.
 
-Château-Thierry, l'une des sous-préfectures, a vu naître Jean de la Fontaine.
+## Des résultats rapides pour vos plannings
 
-Afin de prévoir la formation de vos ouvriers, leur suivi médical, une protection pour les travailleurs et les habitants de la zone concernée par le chantier, contactez une entreprise experte en diagnostic amiante et HAP des enrobés routiers de l'Aisne.
+Les conclusions vous sont transmises sous 24 à 48 h, un délai compatible avec les contraintes des chantiers de voirie à Saint-Quentin, Soissons ou ailleurs dans l’Aisne. Vous disposez ainsi d’un rapport exploitable pour organiser le retrait, le recyclage des fraisats et la protection de vos équipes.

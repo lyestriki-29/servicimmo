@@ -2,23 +2,25 @@
 slug: maine-et-loire
 nom: Maine-et-Loire
 code: '49'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Maine-et-Loire | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Maine-et-Loire
+villesPrincipales:
+  - Angers
+  - Cholet
+  - Saumur
+metaTitle: "Carottage enrobés, repérage amiante HAP en Maine-et-Loire"
+metaDescription: "Repérage amiante et HAP sur enrobés en Maine-et-Loire : carottages pour voirie, réseaux et bâtiment, d’Angers à Cholet et Saumur, sous 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-maine-et-loire.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Maine-et-Loire
+Réfection du parking d’une zone commerciale à Cholet, rabotage d’un axe angevin avant renouvellement de la couche de surface, tranchées d’assainissement dans une commune du Saumurois : les enrobés du Maine-et-Loire sont sollicités par des chantiers très variés. Avant chacun d’eux, une étape s’impose, le repérage de l’amiante et des HAP.
 
-![Repérage amiante et HAP enrobés routiers Maine-et-Loire](images/logo.png)
+## Pourquoi carotter avant de raboter
 
- [![Repérage amiante et HAP enrobés routiers Maine-et-Loire](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Jusqu’à la fin des années 1990, certains enrobés incorporaient de l’amiante ; d’autres reposent sur des couches au goudron chargées en HAP. Seul un carottage suivi d’une analyse en laboratoire met ces polluants en évidence. Le résultat pilote ensuite tout le chantier : protection des équipes, tri des fraisats, choix des exutoires.
 
-![Repérage amiante et HAP enrobés routiers Maine-et-Loire](images/picto-mail.png) **contact @ france-carottage.fr**
+## Interventions dans tout le 49 sous 24 à 48 h
 
-Le château de Montsoreau, qui est l'un des multiples châteaux de Maine-et-Loire, accueille un musée d'art contemporain.
+D’Angers à Cholet en passant par Saumur, France Carottage couvre l’intégralité du Maine-et-Loire et cale ses prélèvements sur vos contraintes d’exploitation : travail de nuit, week-end, circulation maintenue. Voirie, réseaux enterrés ou abords de bâtiments, nos équipes se mobilisent en 24 à 48 h.
 
-Une intervention sur une voirie est conditionnée par la réalisation d'un diagnostic amiante et HAP enrobés routiers dans le Maine-et-Loire.
+## Du sondage au rapport exploitable
 
-En tant que maitre d'ouvrage, ne pas réaliser ce diagnostic amiante et HAP enrobés routiers vous expose à un risque de condamnation pour mise en danger d'autrui car ces composés sont néfastes pour la santé humaine.
+Chaque carotte est photographiée, localisée et décrite strate après strate. Le rapport final vous donne une cartographie fiable des matériaux amiantés ou chargés en HAP, prête à intégrer vos dossiers de consultation et vos plans de prévention. Sécurisez vos chantiers d’enrobés en Maine-et-Loire avec France Carottage, et gardez la maîtrise de votre calendrier comme de votre budget d’évacuation.

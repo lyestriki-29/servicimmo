@@ -2,25 +2,26 @@
 slug: cotes-d-armor
 nom: Côtes-d'Armor
 code: '22'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Côtes d'Armor | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Côtes d'Armor
+villesPrincipales:
+  - Saint-Brieuc
+  - Lannion
+  - Plérin
+  - Dinan
+metaTitle: "Amiante HAP enrobés routiers : carottage en Côtes-d’Armor"
+metaDescription: "Amiante et HAP dans les enrobés des Côtes-d’Armor : le carottage avant travaux protège vos équipes. Prélèvements à Saint-Brieuc, Lannion, Plérin, Dinan."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cotes-d-armor.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Côtes d'Armor
+Le repérage amiante avant travaux est devenu une étape imposée par la loi pour les infrastructures routières : dans les Côtes-d’Armor, aucun fraisage ni décaissement d’enrobé ne devrait être engagé sans ce contrôle, complété par la mesure des HAP contenus dans les liants. L’objectif du législateur est double : préserver la santé des intervenants et tracer le devenir des matériaux extraits.
 
-![Repérage amiante et HAP enrobés routiers Côtes d'Armor](images/logo.png)
+## Qui est responsable, et de quoi ?
 
- [![Repérage amiante et HAP enrobés routiers Côtes d'Armor](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+La charge de la preuve revient au maître d’ouvrage : c’est lui qui commande le repérage, le joint au dossier de consultation et informe les entreprises intervenantes. À défaut, il s’expose à un arrêt de chantier et répond des expositions aux fibres ou aux hydrocarbures aromatiques polycycliques subies par les salariés.
 
-![Repérage amiante et HAP enrobés routiers Côtes d'Armor](images/picto-mail.png) **contact @ france-carottage.fr**
+## Carottage d’enrobés dans tout le département 22
 
-Avant février 1990, les Côtes d'Armor étaient connues sous le nom des Côtes-du-Nord.
+De Saint-Brieuc à Lannion, de Plérin à Dinan, France Carottage prélève des carottes sur voiries, réseaux, giratoires et parkings, du littoral comme de l’intérieur des terres. Le technicien répertorie chaque sondage, restitue une chaussée propre et expédie les échantillons pour analyse le jour même quand c’est possible.
 
-Toutes les routes et infrastructures goudronnées des Côtes d'Armor peuvent être souillées par de l'amiante et des HAP mettant en danger la santé des hommes présents sur un chantier routier ou aux alentours.
+## Du prélèvement à la décision
 
-Avant de programmer des travaux sur un enrobé bitumineux, le maitre d'ouvrage doit se conformer à un diagnostic amiante et HAP enrobés routiers dans les Côtes d'Armor.
-
-Pour cela, contactez FRANCE CAROTTAGE.
+Les résultats tombent en 24 à 48 h, accompagnés d’un rapport localisant les points de forage et décrivant la composition de chaque couche. Vous disposez alors des éléments nécessaires pour organiser le chantier costarmoricain, équiper les équipes et diriger fraisats et croûtes d’enrobé vers la filière appropriée.

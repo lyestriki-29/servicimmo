@@ -2,25 +2,26 @@
 slug: seine-maritime
 nom: Seine-Maritime
 code: '76'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Seine-Maritime | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Seine-Maritime
+villesPrincipales:
+  - Rouen
+  - Dieppe
+  - Fécamp
+  - Elbeuf
+metaTitle: "Enrobés en Seine-Maritime : carottage, amiante et HAP (76)"
+metaDescription: "Carottage d’enrobés en Seine-Maritime : analyse amiante et HAP en laboratoire, orientation des déchets vers la bonne filière. Intervention 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-seine-maritime.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Seine-Maritime
+Tout part d’un flacon scellé expédié au laboratoire. Sur chaque carotte d’enrobé prélevée en Seine-Maritime, deux examens sont menés : la recherche de fibres d’amiante, couche par couche, et le dosage des hydrocarbures aromatiques polycycliques (HAP). Le rapport qui en résulte conditionne toute la suite de votre chantier.
 
-![Repérage amiante et HAP enrobés routiers Seine-Maritime](images/logo.png)
+## Ce que la carotte révèle au laboratoire
 
- [![Repérage amiante et HAP enrobés routiers Seine-Maritime](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Chaque strate du cylindre prélevé est examinée séparément, car un revêtement récent peut recouvrir une couche ancienne contenant de l’amiante. Les HAP, hérités des liants goudronneux d’autrefois, sont quantifiés avec précision. Ces résultats déterminent si les matériaux pourront être recyclés en centrale ou devront rejoindre une installation de stockage adaptée.
 
-![Repérage amiante et HAP enrobés routiers Seine-Maritime](images/picto-mail.png) **contact @ france-carottage.fr**
+## La bonne filière d’évacuation, sans mauvaise surprise
 
-Découvrez le patrimoine de Seine-Maritime en empruntant les diverses routes touristiques spécifiques à un thème.
+Un enrobé amianté est classé déchet dangereux : son évacuation obéit à des règles strictes et pèse lourd dans un budget. À l’inverse, des matériaux conformes se valorisent facilement. Identifier la filière avant l’ouverture du chantier évite les arrêts de travaux, les surcoûts et les litiges avec les entreprises de terrassement.
 
-Les routes et autres lieux recouvert d'un enrobé font l'objet d'un diagnostic amiante et HAP enrobés routiers en Seine-Maritime avant toute intervention sur l'enrobé.
+## Prélèvements sous 24-48 h dans toute la Seine-Maritime
 
-La présence d'amiante dans le bitume ou une teneur de HAP supérieure à un certain seuil impose une protection des intervenants sur le chantier, une protection de l'environnement et une méthodologie stricte pour le recyclage ou la destruction des enrobés souillés.
-
-FRANCE CAROTTAGE se déplace pour toute réalisation d'un repérage AMIANTE et HAP enrobés routiers en Seine-Maritime.
+Nos équipes interviennent à Rouen, Dieppe ou Fécamp comme dans les communes rurales du département. Voirie communale, réseaux enterrés, parkings ou dalles de bâtiment : le carottage est réalisé proprement, avec rebouchage immédiat, puis les échantillons partent à l’analyse. Vous recevez un rapport exploitable pour votre plan de retrait ou votre dossier de consultation.

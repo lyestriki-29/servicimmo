@@ -2,25 +2,27 @@
 slug: indre
 nom: Indre
 code: '36'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Indre | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Indre
+villesPrincipales:
+  - Châteauroux
+  - Issoudun
+  - Argenton-sur-Creuse
+  - Le Blanc
+  - La Châtre
+metaTitle: "Amiante et HAP dans les enrobés : carottage dans l’Indre (36)"
+metaDescription: "Communes et gestionnaires de voirie de l’Indre : faites analyser vos enrobés par carottage pour repérer amiante et HAP avant travaux, de Châteauroux à Issoudun."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-indre.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Indre
+Dans l’Indre, l’essentiel du linéaire routier traverse des communes rurales qui ne disposent ni de service technique étoffé ni d’ingénierie dédiée. Le maire ou le président d’intercommunalité n’en reste pas moins responsable : ordonner le rabotage d’un enrobé sans savoir s’il renferme de l’amiante ou des HAP l’expose, lui et ses agents, à des conséquences sanitaires et pénales bien réelles.
 
-![Repérage amiante et HAP enrobés routiers Indre](images/logo.png)
+## Un diagnostic simple pour des territoires étendus
 
- [![Repérage amiante et HAP enrobés routiers Indre](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le principe du carottage tient en peu de mots : prélever un cylindre d’enrobé, analyser chaque couche en laboratoire accrédité, restituer un rapport qui dit précisément quoi faire des matériaux. France Carottage se charge de tout, du plan d’échantillonnage à l’interprétation des résultats, pour que les petites collectivités berrichonnes bénéficient du même niveau de sécurité que les grandes agglomérations.
 
-![Repérage amiante et HAP enrobés routiers Indre](images/picto-mail.png) **contact @ france-carottage.fr**
+## Présent de Châteauroux à La Châtre
 
-Département français de la région Centre-Val de Loire, l’Indre tire son nom de la rivière du même nom.
+Les équipes interviennent à Châteauroux et Issoudun comme à Argenton-sur-Creuse, Le Blanc ou La Châtre, et se déplacent jusque sur les routes communales les plus isolées du département. Comptez 24 à 48 heures entre la demande et le passage du technicien sur site.
 
-Site touristique avec ses abbayes, son parc naturel régional de Brenne ou encore sa réserve zoologique de la Haute-Touche, l’Indre offre des opportunités assez diverses.
+## Avant de signer l’ordre de service
 
-Pour tous vos projets de construction sur la voie publique, France Carottage apporte son expertise et effectue pour vous les repérages amiante et HAP sur les enrobés routiers d’Indre.
-
-Avec France Carottage, vos projets seront béton !
+Exigez le repérage amiante et HAP sur enrobés dès le dossier de consultation : le chantier démarre alors sur des bases saines, les fraisats partent vers la bonne filière et le budget ne réserve aucune mauvaise surprise. France Carottage répond aux collectivités, aux syndicats et aux entreprises de travaux publics de l’Indre.

@@ -2,23 +2,26 @@
 slug: calvados
 nom: Calvados
 code: '14'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Calvados | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Calvados
+villesPrincipales:
+  - Caen
+  - Lisieux
+  - Bayeux
+  - Hérouville-Saint-Clair
+metaTitle: "Amiante et HAP dans les enrobés du Calvados (14) : carottage"
+metaDescription: "Fraisage ou démolition de chaussée dans le Calvados ? Le repérage amiante et HAP des enrobés s’impose. Carottage à Caen, Lisieux, Bayeux, réponse en 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-calvados.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Calvados
+Le Code du travail fait du repérage de l’amiante un préalable à toute intervention sur des matériaux en place ; pour les chaussées, cette règle vaut dans le Calvados dès qu’un revêtement doit être fraisé, scié, percé ou démoli. Le maître d’ouvrage qui s’en dispense s’expose à des sanctions et met en danger les intervenants comme les riverains du chantier.
 
-![Repérage amiante et HAP enrobés routiers Calvados](images/logo.png)
+## Amiante, HAP : ce que peut cacher un bitume du Calvados
 
- [![Repérage amiante et HAP enrobés routiers Calvados](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Certains revêtements anciens du département 14 intègrent des fibres d’amiante ajoutées autrefois pour durcir la couche de roulement, ou des goudrons riches en HAP. Ces polluants ne se voient pas à l’œil nu : le carottage reste le moyen fiable de les détecter avant travaux, en traversant l’intégralité de la structure de chaussée.
 
-![Repérage amiante et HAP enrobés routiers Calvados](images/picto-mail.png) **contact @ france-carottage.fr**
+## Prélèvements de Caen à Bayeux
 
-Les divers lieux concernant la Bataille de Normandie sont très prisés par les citoyens et les touristes du Calvados.
+Nos équipes carottent routes départementales, rues, giratoires et cours privées à Caen, Lisieux, Bayeux ou Hérouville-Saint-Clair. Chaque sondage fait l’objet d’une fiche de prélèvement géolocalisée, et la voie est rendue à la circulation sitôt le forage rebouché. Les échantillons sont ensuite acheminés vers le laboratoire d’analyse.
 
-Les routes, les trottoirs, les parkings même ceux d'une propriété privée sont susceptibles de contenir de l'amiante et des HAP, des molécules cancérigènes.
+## Un rapport sous 24 à 48 h
 
-Il est donc indispensable de demander à FRANCE CAROTTAGE un diagnostic amiante et HAP enrobés routiers dans le Calvados avant toute intervention sur une surface bitumée afin de préserver la santé de toutes les personnes qui interviennent ou qui sont à proximité d'un tel chantier.
+Les analyses établissent la présence d’amiante et la concentration en hydrocarbures aromatiques polycycliques pour chacune des couches traversées. Vous savez alors si les fraisats peuvent être réemployés ou s’ils relèvent d’une filière de déchets dangereux, et sous quelles protections vos ouvriers peuvent intervenir sur les voiries du Calvados.

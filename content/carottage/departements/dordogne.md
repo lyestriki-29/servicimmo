@@ -2,27 +2,21 @@
 slug: dordogne
 nom: Dordogne
 code: '24'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Dordogne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Dordogne
+villesPrincipales:
+  - Périgueux
+  - Bergerac
+  - Sarlat-la-Canéda
+metaTitle: "Carottage d’enrobés en Dordogne : amiante et HAP (24)"
+metaDescription: "Carottage routier en Dordogne pour détecter amiante et HAP dans les enrobés. Périgueux, Bergerac, Sarlat : intervention rapide, résultats exploitables."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-dordogne.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Dordogne
+Une route est un empilement : couche de roulement, couches de liaison, parfois plusieurs générations d’enrobés superposées au fil des rechargements. Le carottage traverse cet historique d’un seul geste. Sur site, notre technicien délimite son emprise, fore au diamant à travers toutes les strates, récupère un échantillon complet puis referme le point de forage avant de lever le balisage.
 
-![Repérage amiante et HAP enrobés routiers Dordogne](images/logo.png)
+## Lire chaque couche avant de raboter
 
- [![Repérage amiante et HAP enrobés routiers Dordogne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+En laboratoire, les strates de la carotte sont dissociées et testées séparément : l’amiante peut se nicher dans une couche profonde alors que la surface en est exempte, et inversement pour les HAP. Cette lecture fine évite de classer toute une chaussée en déchet dangereux quand seule une épaisseur est concernée — ou, à l’inverse, de fraiser sans protection un matériau contaminé.
 
-![Repérage amiante et HAP enrobés routiers Dordogne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Périgueux, Bergerac, Sarlat et tout le 24
 
-Le département de la Dordogne (Nouvelle-Aquitaine) comprend d'importantes villes touristiques.
-
-C'est également là que se trouve le site de Lascaux.
-
-Cette région est par ailleurs très visitée à cause de ses châteaux.
-
-Pour tous vos travaux d'urbanisme avec impact sur une chaussée, faites-vous aider par les experts de France Carottage.
-
-Ils effectueront, pour vous, le repérage de l'amiante et des HAP dans les enrobés routiers de Dordogne.
+France Carottage intervient sur l’ensemble de la Dordogne, de Périgueux à Bergerac en passant par Sarlat-la-Canéda et les communes rurales du département. Voirie communale, routes départementales, parkings, cours, tranchées de réseaux ou dalles de bâtiment : le périmètre s’adapte à chaque opération. Comptez 24 à 48 heures pour caler une date après votre demande, y compris lorsque plusieurs sites doivent être traités dans la même campagne. Un devis précis, un passage rapide, un rapport d’analyse clair : votre chantier périgourdin démarre sur des bases saines.

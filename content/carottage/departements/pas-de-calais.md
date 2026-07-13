@@ -2,25 +2,26 @@
 slug: pas-de-calais
 nom: Pas-de-Calais
 code: '62'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Pas-de-Calais | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Pas-de-Calais
+villesPrincipales:
+  - Arras
+  - Calais
+  - Boulogne-sur-Mer
+  - Lens
+metaTitle: "Amiante et HAP des enrobés : carottage en Pas-de-Calais"
+metaDescription: "Repérage amiante et HAP des enrobés dans le Pas-de-Calais : carottages planifiés sous 48 h à Arras, Calais, Lens, Boulogne-sur-Mer et sur tout le 62."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pas-de-calais.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Pas-de-Calais
+Entre la Côte d’Opale et l’ancien bassin minier, les chantiers du Pas-de-Calais peuvent être fort éloignés les uns des autres. C’est là que la force d’un réseau se mesure : France Carottage regroupe les demandes par secteur, dépêche l’équipe la mieux placée et confirme la plupart des interventions dans une fenêtre de 24 à 48 heures.
 
-![Repérage amiante et HAP enrobés routiers Pas-de-Calais](images/logo.png)
+## Des tournées d’Arras à Boulogne-sur-Mer
 
- [![Repérage amiante et HAP enrobés routiers Pas-de-Calais](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Arras, Calais, Boulogne-sur-Mer, Lens : les pôles urbains du département sont intégrés à des circuits réguliers, auxquels s’ajoutent les communes littorales et rurales au fil des demandes. Un marché de carottages portant sur plusieurs sites du 62 peut ainsi être bouclé en un minimum de passages, avec un seul rapport consolidé si vous le souhaitez.
 
-![Repérage amiante et HAP enrobés routiers Pas-de-Calais](images/picto-mail.png) **contact @ france-carottage.fr**
+## Détecter l’amiante et les HAP avant d’ouvrir la chaussée
 
-Le département du Pas-de-Calais, au nord de la France, fait face à l'Angleterre.
+Raboter ou trancher un enrobé qui n’a jamais été contrôlé, c’est risquer de disperser des fibres d’amiante et d’exposer les équipes aux HAP. Le carottage d’enrobés apporte la réponse : un échantillon cylindrique est extrait de la chaussée, analysé par un laboratoire accrédité, et le résultat dicte les précautions de retrait comme le circuit d’élimination des matériaux.
 
-Le Pas-de-Calais, c'est un front de mer, des paysages préservés, des terrils qui parsèment le territoire rappelant son histoire ouvrière.
+## Un appui pour collectivités et entreprises de TP
 
-En vue d'un éventuel rabotage sur la chaussée, faites confiance à France Carottage pour le repérage de l'amiante et des HAP dans les enrobés routiers du Pas-de-Calais.
-
-Si elles sont inhalées, les poussières amiantifères ont un effet néfaste sur le système respiratoire.
+Communes, intercommunalités, aménageurs ou majors des travaux publics : chaque donneur d’ordre du Pas-de-Calais reçoit un repérage clair, daté et localisé, prêt à rejoindre son dossier de marché. Vos opérations de voirie démarrent ainsi avec un risque amiante et HAP réellement maîtrisé, du littoral à l’Artois.

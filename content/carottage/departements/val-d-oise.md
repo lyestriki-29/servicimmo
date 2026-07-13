@@ -2,27 +2,27 @@
 slug: val-d-oise
 nom: Val-d'Oise
 code: '95'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Val-d'Oise | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Val-d'Oise
+villesPrincipales:
+  - Cergy
+  - Pontoise
+  - Argenteuil
+  - Sarcelles
+  - Franconville
+metaTitle: "Repérage amiante HAP sur enrobés routiers dans le Val-d’Oise"
+metaDescription: "Analyse laboratoire des enrobés du Val-d’Oise : détection amiante, dosage HAP, filière d’évacuation adaptée. Carottage sous 24-48 h sur vos chantiers."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-val-d-oise.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Val-d'Oise
+Dans un dossier de consultation des entreprises, le rapport de repérage amiante et HAP des enrobés fait partie des pièces attendues. Pour les maîtres d’ouvrage du Val-d’Oise, tout commence donc par une série de carottes envoyées au laboratoire — et par ce qu’elles révèlent.
 
-![Repérage amiante et HAP enrobés routiers Val-d'Oise](images/logo.png)
+## Lecture d’une carotte d’enrobé
 
- [![Repérage amiante et HAP enrobés routiers Val-d'Oise](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Sous la couche de roulement récente se cachent parfois des enrobés posés à l’époque où l’amiante entrait dans certaines formulations. Le laboratoire examine chaque strate et dose les HAP présents dans les liants. C’est ce diagnostic, et lui seul, qui permet de qualifier les matériaux avant travaux. Cette cartographie des couches éclaire aussi bien le bureau d’études que l’entreprise qui répondra à l’appel d’offres.
 
-![Repérage amiante et HAP enrobés routiers Val-d'Oise](images/picto-mail.png) **contact @ france-carottage.fr**
+## Anticiper l’évacuation plutôt que la subir
 
-Le Val-d'Oise, département francilien, est situé au nord de la capitale.
+Découvrir de l’amiante en cours de chantier signifie arrêt immédiat, mise en sécurité et renégociation des marchés. Le repérage préalable inverse la logique : la filière d’élimination est choisie dès l’étude, les entreprises chiffrent en connaissance de cause et le planning tient jusqu’à la réception.
 
-Il fait partie de la grande couronne.
+## France Carottage dans tout le Val-d’Oise
 
-Parmi les choses à voir et à faire dans le Val-d'Oise, on recense plusieurs châteaux et abbayes, de grands espaces verts et des parcs d'attraction.
-
-Que vous soyez responsable de travaux, employeur privé ou public, demandez sans tarder le diagnostic complet d'amiante et de HAP des enrobés routiers du Val-d'Oise.
-
-En effet, il est dorénavant obligatoire de fournir ce document avec les autres pièces de votre DCE.
+De Cergy à Argenteuil en passant par Sarcelles, nos opérateurs carottent chaussées, parkings, pistes et cours d’immeubles, puis remettent les surfaces en état. Programmation sous 24 à 48 heures, rapport détaillé strate par strate : votre projet de voirie, de réseaux ou de démolition démarre sur des bases saines.

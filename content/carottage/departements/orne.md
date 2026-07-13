@@ -2,23 +2,25 @@
 slug: orne
 nom: Orne
 code: '61'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Orne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Orne
+villesPrincipales:
+  - Alençon
+  - Argentan
+  - Flers
+metaTitle: "Repérage amiante HAP et carottage enrobés dans l’Orne"
+metaDescription: "Dans l’Orne, France Carottage prélève vos enrobés pour analyse amiante et HAP : planification rapide, équipes proches d’Alençon, Argentan et Flers."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-orne.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Orne
+Un linéaire routier étendu pour une population dispersée : voilà ce qui caractérise l’Orne. Y programmer un carottage d’enrobés est d’abord une affaire d’organisation. France Carottage mutualise les déplacements de ses techniciens entre départements voisins, si bien qu’une demande ornaise obtient sa date d’intervention rapidement — le plus souvent sous 24 à 48 heures — sans surcoût lié à l’éloignement.
 
-![Repérage amiante et HAP enrobés routiers Orne](images/logo.png)
+## Alençon, Argentan, Flers et tout le bocage
 
- [![Repérage amiante et HAP enrobés routiers Orne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les trois principales villes de l’Orne sont desservies au même titre que les bourgs du Perche ou du Bocage. Les prélèvements proches sont regroupés sur une même journée, ce qui rend viables les petites campagnes communales comme les gros marchés départementaux, y compris lorsque les points de forage sont dispersés le long des routes secondaires.
 
-![Repérage amiante et HAP enrobés routiers Orne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Pourquoi analyser l’enrobé avant de le raboter
 
-Tous les départements de la Normandie ont un accès avec la Manche sauf l'Orne.
+Attaquer une couche bitumineuse sans repérage préalable expose les compagnons aux fibres d’amiante et aux HAP. Le carottage prélève un échantillon représentatif de la chaussée ornaise concernée ; le laboratoire accrédité en détermine la composition, et le rapport indique comment retirer puis évacuer les matériaux en toute conformité.
 
-Le diagnostic amiante et HAP enrobés routiers évalue les risques quant à la présence d'amiante ou la teneur de HAP afin de ne pas mettre en danger les personnes se trouvant sur un chantier de destruction ou de rénovation d'enrobés routiers.
+## Une traçabilité de bout en bout
 
-Pratiqué par FRANCE CAROTTAGE, ce diagnostic amiante et HAP enrobés routiers dans l'Orne informe également sur la gestion des déchets selon les résultats obtenus.
+Du repérage du point de forage jusqu’à la restitution des résultats, chaque étape est documentée : photos, coordonnées, profondeur des couches. Maîtres d’ouvrage publics et entreprises de TP disposent ainsi d’une pièce opposable pour leurs dossiers, et les chantiers de voirie de l’Orne démarrent sur des bases saines, sans découverte tardive qui viendrait geler l’opération.

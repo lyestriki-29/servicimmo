@@ -2,27 +2,27 @@
 slug: indre-et-loire
 nom: Indre-et-Loire
 code: '37'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Indre-et-Loire | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Indre-et-Loire
+villesPrincipales:
+  - Tours
+  - Joué-lès-Tours
+  - Amboise
+  - Chinon
+  - Loches
+metaTitle: "Carottage d’enrobés en Indre-et-Loire : amiante et HAP"
+metaDescription: "En Indre-et-Loire, anticipez le risque amiante-HAP de vos chaussées : carottage d’enrobés et analyse en laboratoire pour des chantiers conformes à Tours."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-indre-et-loire.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Indre-et-Loire
+Un chantier de voirie qui s’arrête en Indre-et-Loire faute d’avoir vérifié ses enrobés, c’est un giratoire barré des semaines de plus, des pénalités qui courent et un maître d’ouvrage sommé de s’expliquer. La présence possible d’amiante ou de HAP dans les couches bitumineuses anciennes fait peser ce scénario sur chaque opération de rabotage ou de terrassement.
 
-![Repérage amiante et HAP enrobés routiers Indre-et-Loire](images/logo.png)
+## Sonder la chaussée pour fiabiliser le planning
 
- [![Repérage amiante et HAP enrobés routiers Indre-et-Loire](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+France Carottage extrait des carottes d’enrobé sur les voiries tourangelles — routes départementales, rues, parkings, plateformes — et confie chaque échantillon à un laboratoire accrédité. Le résultat, restitué dans un rapport clair, indique où se situent les matériaux à risque et lesquels peuvent être recyclés sans contrainte particulière.
 
-![Repérage amiante et HAP enrobés routiers Indre-et-Loire](images/picto-mail.png) **contact @ france-carottage.fr**
+## Tours, Amboise, Chinon : tout le 37 couvert
 
-L’Indre-et-Loire se situe à l’extrémité sud du Bassin parisien et accueille une partie du parc naturel régional Loire-Anjou-Touraine.
+Les prélèvements s’organisent aussi bien dans l’agglomération de Tours et à Joué-lès-Tours que sur les secteurs d’Amboise, de Chinon ou de Loches. Entre votre demande et le carottier sur site, il s’écoule d’ordinaire 24 à 48 heures, de quoi caler le diagnostic sans décaler l’opération.
 
-Cette proximité avec la capitale et son attrait écologique font de l’Indre-et-Loire une place d’opportunités.
+## L’assurance d’une opération maîtrisée
 
-Pour vos projets routiers ou d’infrastructure, un diagnostic obligatoire est demandé.
-
-France Carottage effectue les repérages amiante et HAP sur les enrobés routiers d’Indre-et-Loire.
-
-Faites un petit bout de route avec France Carottage !
+Avec un repérage amiante et HAP réalisé en phase de préparation, le donneur d’ordre choisit ses techniques de retrait, budgète l’évacuation des fraisats au juste prix et démontre, pièces à l’appui, qu’il a rempli son devoir de prévention envers les compagnons et les riverains. Consultez France Carottage pour vos projets de voirie, de réseaux ou de bâtiment en Indre-et-Loire.

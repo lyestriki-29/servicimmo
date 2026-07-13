@@ -2,27 +2,26 @@
 slug: medoc-33
 nom: Repérage amiante et HAP enrobés routiers Médoc
 code: '00'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Médoc | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Médoc
+villesPrincipales:
+  - Lesparre-Médoc
+  - Pauillac
+  - Castelnau-de-Médoc
+  - Soulac-sur-Mer
+metaTitle: "Carottage enrobés et repérage amiante HAP dans le Médoc"
+metaDescription: "Carottage d’enrobés sur la presqu’île du Médoc : recherche d’amiante et de HAP avant travaux de voirie, réseaux ou parkings. Délais de 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-medoc-33.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Médoc
+Reprofilage d’une départementale desservant les vignobles, tranchée d’adduction d’eau dans un bourg, parking à réaménager près des plages de Soulac-sur-Mer : sur la presqu’île du Médoc, entre estuaire de la Gironde et océan, les travaux d’enrobés obéissent aux mêmes règles que partout en France. Avant rabotage ou démolition, il faut rechercher l’amiante et les HAP.
 
-![Repérage amiante et HAP enrobés routiers Médoc](images/logo.png)
+## Ce que révèle un carottage d’enrobé
 
- [![Repérage amiante et HAP enrobés routiers Médoc](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Un revêtement ancien peut cacher des fibres d’amiante ou un liant au goudron riche en HAP. En prélevant une carotte sur toute l’épaisseur de la chaussée puis en la faisant analyser, on obtient une réponse indiscutable pour chacune des couches. C’est ce verdict qui fixe la filière d’évacuation des matériaux et les mesures de protection du personnel.
 
-![Repérage amiante et HAP enrobés routiers Médoc](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le Médoc couvert, de Lesparre à Castelnau
 
-Situé en Gironde, le Médoc est un territoire naturel français divisé en trois parties, le Bas-Médoc, le Haut-Médoc, et les Landes.
+France Carottage se déplace sur l’ensemble du territoire médocain : Lesparre-Médoc, Pauillac, Castelnau-de-Médoc, Soulac-sur-Mer et les communes viticoles ou littorales alentour. Comptez 24 à 48 h pour mobiliser une équipe, y compris sur les axes touristiques où la fenêtre d’intervention est courte. Chaque carotte est référencée, photographiée sur site, puis expédiée au laboratoire sans délai.
 
-Le Médoc jouit d’un terroir d’exception comme le vignoble du Médoc.
+## Anticiper pour ne pas immobiliser le chantier
 
-France Carottage vous aide à garantir la sécurité des chantiers.
-
-Faites appel à France Carottage pour réaliser votre repérage amiante et HAP sur les enrobés routiers du Médoc.
-
-En route !
+Un repérage amiante-HAP commandé en phase d’étude, c’est un dossier de consultation complet, des fraisats correctement orientés et aucune mauvaise surprise à l’ouverture des travaux. Voirie, réseaux ou abords de bâtiment : confiez le carottage de vos enrobés du Médoc à France Carottage.

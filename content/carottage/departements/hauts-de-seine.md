@@ -2,31 +2,27 @@
 slug: hauts-de-seine
 nom: Hauts-de-Seine
 code: '92'
-villesPrincipales: []
-metaTitle: Repérage amiante et HAP enrobés routiers Hauts-de-Seine | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Hauts-de-Seine
+villesPrincipales:
+  - Nanterre
+  - Boulogne-Billancourt
+  - Courbevoie
+  - Colombes
+  - Asnières-sur-Seine
+metaTitle: "Carottage amiante HAP enrobés Hauts-de-Seine (92)"
+metaDescription: "Maîtres d’ouvrage du 92 : sécurisez vos chantiers de voirie par un carottage d’enrobés avec recherche d’amiante et dosage des HAP dans les Hauts-de-Seine."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-hauts-de-seine.html
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Hauts-de-Seine
+Rénover une chaussée dans les Hauts-de-Seine engage celui qui commande les travaux bien au-delà du simple planning : si le rabotage libère des fibres d’amiante ou expose les équipes à des HAP, la responsabilité du maître d’ouvrage est directement recherchée. Dans un département aussi dense que le 92, où l’on travaille au pied des immeubles et sous circulation, cette vérification ne s’improvise pas.
 
-![Repérage amiante et HAP enrobés routiers Hauts-de-Seine](images/logo.png)
+## Le carottage d’enrobés, un préalable au marché de voirie
 
- [![Repérage amiante et HAP enrobés routiers Hauts-de-Seine](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Avant d’ordonner un fraisage ou l’ouverture d’une tranchée, la collectivité doit connaître la composition de ses couches de roulement. France Carottage prélève des carottes sur chaussées, trottoirs et parkings, puis les transmet à un laboratoire accrédité qui y recherche l’amiante et y dose les HAP. Le rapport conditionne à la fois la méthode d’exécution du chantier et l’exutoire des fraisats.
 
-![Repérage amiante et HAP enrobés routiers Hauts-de-Seine](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des interventions partout dans le 92
 
-Les Hauts-de-Seine sont un département francilien situé à l'ouest de Paris.
+Nos techniciens se déplacent à Nanterre, Boulogne-Billancourt, Courbevoie, Colombes ou Asnières-sur-Seine, de jour comme de nuit pour limiter la gêne aux usagers. La programmation d’un prélèvement s’effectue généralement sous 24 à 48 heures, un atout précieux quand un calendrier de travaux se resserre.
 
-La totalité du territoire altoséquanais est intégrée dans le Grand Paris.
+## Ce que le donneur d’ordre y gagne
 
-Si les Hauts-de-Seine sont économiquement riches, ils le sont aussi sur le plan du patrimoine naturel et culturel.
-
-Parcs, forêts, châteaux et musées y sont innombrables.
-
-Du gros œuvre en prévision dans ce département ? N'hésitez pas à contacter France Carottage.
-
-L'entreprise France Carottage est détentrice de l'agrément lui permettant de repérer l'amiante ainsi que les HAP dans les enrobés routiers des Hauts-de-Seine.
-
-Pensez à votre sécurité, à la santé de vos collaborateurs et des riverains, et à l'environnement.
+Un repérage mené en amont évite l’arrêt de chantier, protège agents, compagnons et riverains, et documente la traçabilité des déchets d’enrobés. Voirie communale, réseaux enterrés ou dalle de bâtiment : chaque situation reçoit un plan de carottage adapté à ses contraintes. Contactez France Carottage pour cadrer votre diagnostic amiante et HAP dans les Hauts-de-Seine.
