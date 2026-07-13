@@ -48,7 +48,11 @@ export async function middleware(request: NextRequest) {
   // ce bloc est ignoré et l'exécution continue exactement comme avant.
   if (estHostCarottage(host)) {
     // Déjà réécrit (évite la boucle de rewrite) : laisser passer tel quel.
-    if (pathname.startsWith("/carottage")) return NextResponse.next();
+    // Match par segment exact (pas `startsWith` brut) pour ne jamais capter une
+    // éventuelle future route SI du type `/carottage-routier`.
+    if (pathname === "/carottage" || pathname.startsWith("/carottage/")) {
+      return NextResponse.next();
+    }
     const urlCarottage = request.nextUrl.clone();
     urlCarottage.pathname = pathname === "/" ? "/carottage" : `/carottage${pathname}`;
     return NextResponse.rewrite(urlCarottage);
@@ -56,7 +60,7 @@ export async function middleware(request: NextRequest) {
 
   // Anti-duplicate cross-domaine : /carottage/* n'est pas servi depuis un host
   // Servicimmo — on redirige (308) vers l'équivalent sur le domaine FC.
-  if (pathname.startsWith("/carottage")) {
+  if (pathname === "/carottage" || pathname.startsWith("/carottage/")) {
     const cibleCarottage = process.env.NEXT_PUBLIC_CAROTTAGE_URL ?? "https://www.france-carottage.fr";
     const chemin = pathname.replace(/^\/carottage/, "") || "/";
     return NextResponse.redirect(new URL(chemin, cibleCarottage), 308);

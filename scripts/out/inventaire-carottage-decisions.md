@@ -43,6 +43,24 @@ Confirmé selon le plan FC (§6) : gabarit ville à 4 structures tournantes + do
 (département parent, villes voisines), top 30 villes (par population) vraiment reformulées.
 Les 58 départements : reformulation différenciée par lots.
 
+## Notes de revue socle FC1 (à traiter plus tard — ne pas oublier)
+
+Verdict revue Opus : **socle sain à poursuivre**, zéro régression Servicimmo. Points à câbler :
+
+- **FC6 (SEO) — câblage `redirects-carottage.json`** : il n'est PAS encore branché dans
+  `next.config.ts` (normal, routes FC pas construites). Au câblage : (1) **dédupliquer**
+  `/index.html` et `/mentions-legales.html` qui existent AUSSI dans `redirects.json` (SI) ;
+  (2) **host-scoper** les redirections FC avec `has: [{ type: "host", value: "<host FC>" }]`
+  — sinon elles s'appliqueraient aussi sur le domaine Servicimmo.
+- **FC2/FC4 — namespace `/zones/<slug>` partagé villes+départements** : 0 collision
+  aujourd'hui (191 villes ∩ 58 depts), mais fragile. À trancher : garder `/zones` unifié
+  en documentant la contrainte d'unicité, ou router les départements sous `/departements/<slug>`.
+- **FC2 — `/carottage/*` indexable sur le host FC** : ajouter un canonical (ou rediriger
+  vers l'URL propre) pour éviter le duplicate content `france-carottage.fr/carottage/zones/x`
+  vs `france-carottage.fr/zones/x`.
+- Durcissements déjà appliqués au socle : middleware match par segment exact (`=== "/carottage"`
+  ou `startsWith("/carottage/")`), casse Corse `2A/2B` alignée sur la table DEPARTEMENTS.
+
 ## À confirmer par Etienne (non bloquant)
 
 - Départements = 58 (le plan estimait 57) — un de plus, sans incidence.

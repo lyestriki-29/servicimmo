@@ -59,7 +59,8 @@ export async function inventaireCarottage(): Promise<void> {
 
 /** Code département à partir du code postal (2 chiffres ; 2A/2B pour la Corse). */
 function departementDepuisCp(cp: string): string {
-  if (cp.startsWith("20")) return Number(cp) < 20200 ? "2a" : "2b";
+  // Casse alignée sur la table DEPARTEMENTS (2A/2B majuscules) pour tout lookup strict.
+  if (cp.startsWith("20")) return Number(cp) < 20200 ? "2A" : "2B";
   if (cp.startsWith("97") || cp.startsWith("98")) return cp.slice(0, 3);
   return cp.slice(0, 2);
 }
