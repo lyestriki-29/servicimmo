@@ -15,7 +15,7 @@ type EntryScreenProps = {
 /**
  * Écran 1 — Entrée.
  * Hero Fraunces + 5 BranchCards + footer de trust.
- * La sélection d'une carte fait avancer vers le FillingScreen via le parent.
+ * La sélection d'une carte fait avancer vers la première étape (StepScreen) via le parent.
  */
 export function EntryScreen({ selected, onSelect }: EntryScreenProps) {
   return (
