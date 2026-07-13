@@ -36,8 +36,8 @@ const CONTACT: QuestionnaireData = {
 
 const FULL: QuestionnaireData = { ...CONTACT, urgency: "week" };
 
-const stepIds = (branch: Parameters<typeof getSteps>[0], data: QuestionnaireData = {}) =>
-  getSteps(branch, data).map((s) => s.id);
+const stepIds = (branch: Parameters<typeof getSteps>[0]) =>
+  getSteps(branch).map((s) => s.id);
 
 describe("getSteps — composition par branche", () => {
   it("vente : bien → bâti → contact → existants → délai", () => {
@@ -48,14 +48,14 @@ describe("getSteps — composition par branche", () => {
     expect(stepIds("rental")).toEqual([
       "bien", "bati", "specifique", "contact", "existants", "delai",
     ]);
-    expect(getSteps("rental", {})[2]?.title).toBe("Votre location");
+    expect(getSteps("rental")[2]?.title).toBe("Votre location");
   });
 
   it("travaux : + spécifique (nature des travaux)", () => {
     expect(stepIds("works")).toEqual([
       "bien", "bati", "specifique", "contact", "existants", "delai",
     ]);
-    expect(getSteps("works", {})[2]?.title).toBe("Vos travaux");
+    expect(getSteps("works")[2]?.title).toBe("Vos travaux");
   });
 
   it("copropriété : même flux que la vente (parties communes = type de bien)", () => {
@@ -67,14 +67,14 @@ describe("getSteps — composition par branche", () => {
   });
 
   it("seule l'étape existants est facultative", () => {
-    const optional = getSteps("sale", {}).filter((s) => s.optional).map((s) => s.id);
+    const optional = getSteps("sale").filter((s) => s.optional).map((s) => s.id);
     expect(optional).toEqual(["existants"]);
   });
 });
 
 describe("Step.isComplete — prédicats", () => {
   const step = (branch: Parameters<typeof getSteps>[0], id: string) => {
-    const found = getSteps(branch, {}).find((s) => s.id === id);
+    const found = getSteps(branch).find((s) => s.id === id);
     if (!found) throw new Error(`step ${id} absente`);
     return found;
   };
@@ -121,7 +121,7 @@ describe("Step.isComplete — prédicats", () => {
   });
 
   it("autre : description ≥ 10 caractères + contact + consentement RGPD", () => {
-    const autre = getSteps("other", {})[0];
+    const autre = getSteps("other")[0];
     if (!autre) throw new Error("étape autre absente");
     const data: QuestionnaireData = {
       email: "x@y.fr",
@@ -137,44 +137,44 @@ describe("Step.isComplete — prédicats", () => {
 
 describe("firstIncompleteIndex / resolveStepIndex", () => {
   it("données vides → première étape", () => {
-    const steps = getSteps("sale", {});
+    const steps = getSteps("sale");
     expect(firstIncompleteIndex(steps, {})).toBe(0);
   });
 
   it("bien + bâti complets en location → l'étape spécifique (index 2)", () => {
-    const steps = getSteps("rental", BATI);
+    const steps = getSteps("rental");
     expect(firstIncompleteIndex(steps, BATI)).toBe(2);
   });
 
   it("étape facultative jamais bloquante : tout complet sauf délai → index délai", () => {
-    const steps = getSteps("sale", CONTACT);
+    const steps = getSteps("sale");
     expect(firstIncompleteIndex(steps, CONTACT)).toBe(4); // delai
   });
 
   it("tout complet → steps.length", () => {
-    const steps = getSteps("sale", FULL);
+    const steps = getSteps("sale");
     expect(firstIncompleteIndex(steps, FULL)).toBe(steps.length);
   });
 
   it("resolveStepIndex : saut en avant clampé au premier incomplet", () => {
-    const steps = getSteps("sale", {});
+    const steps = getSteps("sale");
     expect(resolveStepIndex(steps, "delai", {})).toBe(0);
   });
 
   it("resolveStepIndex : retour en arrière toujours permis", () => {
-    const steps = getSteps("sale", FULL);
+    const steps = getSteps("sale");
     expect(resolveStepIndex(steps, "bien", FULL)).toBe(0);
   });
 
   it("resolveStepIndex : id inconnu (purge / changement de branche) → premier incomplet", () => {
-    const steps = getSteps("sale", BIEN);
+    const steps = getSteps("sale");
     expect(resolveStepIndex(steps, "inexistante", BIEN)).toBe(1); // bati
     expect(resolveStepIndex(steps, null, FULL)).toBe(steps.length - 1);
   });
 
   it("robuste au changement d'une réponse antérieure : bien invalidé → retour clampé", () => {
     const broken: QuestionnaireData = { ...FULL, surface: undefined };
-    const steps = getSteps("sale", broken);
+    const steps = getSteps("sale");
     expect(resolveStepIndex(steps, "delai", broken)).toBe(0);
   });
 });

@@ -83,9 +83,10 @@ const autreComplete = (d: QuestionnaireData): boolean =>
 
 // ── Composition du flux ──────────────────────────────────────────────────────
 
-// `_data` : réservé pour de futures étapes conditionnelles aux réponses ;
-// la signature (branch, data) est celle de la spec.
-export function getSteps(branch: ProjectType, _data: QuestionnaireData): Step[] {
+// La LISTE des étapes ne dépend que de la branche ; ce sont les prédicats
+// `isComplete` (portés par chaque Step) et les helpers de navigation ci-dessous
+// qui consomment `data`. On garde donc `getSteps` mono-argument.
+export function getSteps(branch: ProjectType): Step[] {
   if (branch === "other") {
     return [{ id: "autre", title: "Votre demande", optional: false, isComplete: autreComplete }];
   }

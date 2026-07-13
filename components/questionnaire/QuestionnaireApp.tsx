@@ -64,7 +64,7 @@ function QuestionnaireHeader() {
 /**
  * Root Client Component du parcours devis — flux LINÉAIRE (refonte 2026-07).
  *
- * Orchestration : entry → steps[getSteps(branch, data)] → recap → thanks.
+ * Orchestration : entry → steps[getSteps(branch)] → recap → thanks.
  * Navigation avant/arrière sur la liste d'étapes, données jamais perdues,
  * aucun appel réseau bloquant entre les écrans.
  */
@@ -90,7 +90,7 @@ export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = 
   const [otherError, setOtherError] = useState<string | null>(null);
 
   const branch: ProjectType = data.project_type ?? "sale";
-  const steps = useMemo(() => getSteps(branch, data), [branch, data]);
+  const steps = useMemo(() => getSteps(branch), [branch]);
   const stepIndex = resolveStepIndex(steps, currentStepId, data);
   const step = steps[stepIndex];
 
