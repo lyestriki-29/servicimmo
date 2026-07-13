@@ -14,7 +14,7 @@ export function CtaDevisFC({
   sousTitre = "Décrivez votre projet, recevez un devis chiffré sous 24 h ouvrées.",
 }: Props) {
   return (
-    <section className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)]">
+    <section className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-charbon)]">
       <div className="mx-auto flex max-w-[var(--container,1280px)] flex-col items-start gap-6 px-6 py-12 md:flex-row md:items-center md:justify-between md:px-8">
         <div>
           <h2 className="font-[family-name:var(--font-sora)] text-[26px] font-extrabold leading-tight text-white sm:text-[32px]">

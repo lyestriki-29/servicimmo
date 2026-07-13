@@ -197,6 +197,8 @@
   --fc-rouge: #b32024;
   --fc-rouge-fonce: #8c161a;
   --fc-noir: #111113;
+  --fc-charbon: #17171b; /* CTA — bande d'action au-dessus du noir (couture bas de page) */
+  --fc-noir-profond: #0c0c0e; /* footer — se pose sous le CTA (marche de valeur) */
   --fc-blanc-casse: #f5f4f2;
   --fc-gris: #6b6e73;
   --fc-gris-clair: #e4e3e0;

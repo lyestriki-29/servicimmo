@@ -13,7 +13,7 @@ export async function FooterFC() {
   const expertisesTop = expertises.slice(0, 6);
 
   return (
-    <footer className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)] text-white/70">
+    <footer className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir-profond)] text-white/70">
       <div className="mx-auto grid max-w-[var(--container,1280px)] gap-10 px-6 py-12 md:grid-cols-4 md:px-8">
         <div>
           <LogoFC tone="light" className="h-8" />
