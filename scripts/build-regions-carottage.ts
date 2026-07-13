@@ -17,13 +17,14 @@ const METRO_CODES = new Set(["11", "24", "27", "28", "32", "44", "52", "53", "75
 const TOURS_LATLNG: [number, number] = [47.3936, 0.6848];
 
 type Ring = number[][];
-type Geometry = { type: string; coordinates: Ring[][] | Ring[][][] };
+/** Polygon : coordinates = Ring[] ; MultiPolygon : coordinates = Ring[][]. */
+type Geometry = { type: string; coordinates: Ring[] | Ring[][] };
 type Feature = { properties: { code: string; nom: string }; geometry: Geometry };
 
 function polysDe(geometry: Geometry): Ring[][] {
   return geometry.type === "MultiPolygon"
-    ? (geometry.coordinates as Ring[][][]).map((p) => p)
-    : [geometry.coordinates as Ring[][]];
+    ? (geometry.coordinates as Ring[][])
+    : [geometry.coordinates as Ring[]];
 }
 
 /** metropole.geojson est une Feature seule ; regions.geojson une FeatureCollection. */
