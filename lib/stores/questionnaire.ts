@@ -1,17 +1,13 @@
 /**
  * Store Zustand du questionnaire de devis.
  *
- * Pivot UX (handoff Claude Design V2-final) : le parcours n'est plus à 6 étapes
- * linéaires mais sur 4 écrans (entry → filling → recap → thanks). Les données
- * restent compatibles avec `FullQuoteInput` + `QuoteFormData` : seul le
- * "chapitrage" de l'UI change. Le moteur de règles et le pricing sont intacts.
+ * Refonte 2026-07 (approche C) : parcours linéaire piloté par
+ * `lib/questionnaire/steps.ts`. Le store conserve l'écran courant, l'étape
+ * courante, les réponses, l'id du draft serveur et le dernier calcul
+ * diagnostics/prix (local ou serveur).
  *
- * Responsabilités :
- * - Conserver l'écran courant
- * - Conserver les réponses (`data`) incrémentalement
- * - Conserver l'id du `quote_requests` créé côté serveur (après capture email)
- * - Conserver le dernier calcul de diagnostics/prix (affiché au recap)
- * - Persister dans localStorage pour permettre la reprise après abandon
+ * Persist localStorage : v4. Les états < v4 (squelette accordéon) sont purgés
+ * au chargement — décision « bump v4 » du 2026-07-13.
  */
 
 "use client";
@@ -19,84 +15,88 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 
+import type { PriceEstimate, RequiredDiagnostic } from "@/lib/core/diagnostics/types";
 import type { FullQuoteInput } from "@/lib/validation/schemas";
 
 export type QuestionnaireScreen = "entry" | "filling" | "recap" | "thanks";
 
 export type QuestionnaireData = Partial<FullQuoteInput>;
 
-type LastCalculation = {
-  required: unknown[];
-  toClarify: unknown[];
-  estimate: { min: number; max: number; appliedModulators: string[] };
-} | null;
+/** Résultat d'un calcul diagnostics + prix, local (grille fallback) ou serveur. */
+export type QuoteCalculation = {
+  required: RequiredDiagnostic[];
+  toClarify: RequiredDiagnostic[];
+  estimate: PriceEstimate;
+  source: "local" | "server";
+};
 
 type QuestionnaireState = {
   currentScreen: QuestionnaireScreen;
+  /** Id de l'étape courante du flux linéaire (`StepId`), null = première atteignable. */
+  currentStepId: string | null;
   data: QuestionnaireData;
   quoteRequestId: string | null;
   /** Indique si la soumission finale a déjà été effectuée avec succès. */
   submitted: boolean;
-  lastCalculation: LastCalculation;
+  lastCalculation: QuoteCalculation | null;
 
   goToScreen: (screen: QuestionnaireScreen) => void;
+  goToStep: (id: string | null) => void;
   updateData: (patch: QuestionnaireData) => void;
   setQuoteRequestId: (id: string) => void;
-  setLastCalculation: (calc: LastCalculation) => void;
+  setLastCalculation: (calc: QuoteCalculation | null) => void;
   markSubmitted: () => void;
   reset: () => void;
+};
+
+const INITIAL = {
+  currentScreen: "entry" as QuestionnaireScreen,
+  currentStepId: null,
+  data: {},
+  quoteRequestId: null,
+  submitted: false,
+  lastCalculation: null,
 };
 
 export const useQuestionnaireStore = create<QuestionnaireState>()(
   persist(
     (set) => ({
-      currentScreen: "entry",
-      data: {},
-      quoteRequestId: null,
-      submitted: false,
-      lastCalculation: null,
+      ...INITIAL,
 
       goToScreen: (screen) => set({ currentScreen: screen }),
+      goToStep: (id) => set({ currentStepId: id }),
       updateData: (patch) => set((state) => ({ data: { ...state.data, ...patch } })),
       setQuoteRequestId: (id) => set({ quoteRequestId: id }),
       setLastCalculation: (calc) => set({ lastCalculation: calc }),
       markSubmitted: () => set({ submitted: true }),
-      reset: () =>
-        set({
-          currentScreen: "entry",
-          data: {},
-          quoteRequestId: null,
-          submitted: false,
-          lastCalculation: null,
-        }),
+      reset: () => set({ ...INITIAL }),
     }),
     {
       name: "servicimmo-quote",
-      // v3 = extensions "rappel téléphone" (accès, chauffage indiv/collectif,
-      // dépendances, diag existants, téléphone obligatoire…). Migration
-      // conservatrice v2 → v3 : on garde les données saisies, les nouveaux
-      // champs démarrent à `undefined`.
-      // v2 = pivot UX vers 4 écrans. v1 = ancien 6 étapes (reset complet).
-      version: 3,
+      // v4 = refonte flux linéaire (2026-07). Les états v1-v3 (accordéon 2
+      // niveaux) sont purgés : structure de navigation incompatible, et un
+      // état périmé qui ressurgit était précisément un des bugs à corriger.
+      version: 4,
       partialize: (state) => ({
         currentScreen: state.currentScreen,
+        currentStepId: state.currentStepId,
         data: state.data,
         quoteRequestId: state.quoteRequestId,
         submitted: state.submitted,
       }),
       migrate: (persistedState, fromVersion) => {
-        // v1 → reset (forme trop différente).
-        if (fromVersion < 2) {
+        if (fromVersion < 4) {
           return {
-            currentScreen: "entry",
+            currentScreen: "entry" as QuestionnaireScreen,
+            currentStepId: null,
             data: {},
             quoteRequestId: null,
             submitted: false,
           };
         }
-        // v2 → v3 : rien à convertir, les nouveaux champs sont optionnels.
         return persistedState as {
           currentScreen: QuestionnaireScreen;
+          currentStepId: string | null;
           data: QuestionnaireData;
           quoteRequestId: string | null;
           submitted: boolean;

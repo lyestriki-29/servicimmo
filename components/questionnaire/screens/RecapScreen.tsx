@@ -167,6 +167,8 @@ export function RecapScreen({ branch, onSubmitted }: RecapScreenProps) {
             max: json.data.estimate.max,
             appliedModulators: json.data.estimate.appliedModulators,
           },
+          // Provisoire (Task 4) : RecapScreen est réécrit en Task 12.
+          source: "server" as const,
         });
         setCalcState("ready");
       } catch {
