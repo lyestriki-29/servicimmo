@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { PhoneIcon, MailIcon, MapPinIcon, ClockIcon, AwardIcon, ShieldIcon, BuildingIcon, BadgeIcon, FlaskConicalIcon, FacebookIcon, InstagramIcon, LinkedinIcon } from "lucide-react";
+import { PhoneIcon, MailIcon, MapPinIcon, ClockIcon, AwardIcon, ShieldIcon, BuildingIcon, BadgeIcon, FlaskConicalIcon, FacebookIcon } from "lucide-react";
 
 import { LogoServicimmo } from "@/components/marketing/LogoServicimmo";
 import { loadServices, loadVilles } from "@/lib/content/load";
@@ -150,9 +150,11 @@ export async function Footer() {
             </a>
           </p>
           <div className="flex justify-center gap-[10px] md:justify-self-end">
-            <SocialLink href="#" icon={FacebookIcon} label="Facebook" />
-            <SocialLink href="#" icon={InstagramIcon} label="Instagram" />
-            <SocialLink href="#" icon={LinkedinIcon} label="LinkedIn" />
+            <SocialLink
+              href="https://www.facebook.com/servicimmotours/"
+              icon={FacebookIcon}
+              label="Facebook"
+            />
           </div>
         </div>
       </div>
@@ -235,6 +237,8 @@ function SocialLink({
   return (
     <a
       href={href}
+      target="_blank"
+      rel="noopener noreferrer"
       aria-label={label}
       className="flex h-[38px] w-[38px] items-center justify-center rounded-full bg-white/[0.08] text-white transition-all hover:bg-[color:var(--color-home-saf)] hover:text-[color:var(--color-home-ink)]"
     >
