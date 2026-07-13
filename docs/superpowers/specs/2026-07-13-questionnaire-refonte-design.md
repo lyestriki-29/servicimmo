@@ -1,8 +1,8 @@
 # Refonte du questionnaire de devis — Design (approche C, hybride)
 
-> **Statut : PROPOSÉ** — direction validée par Lyes (approche C). Design présenté,
-> à **re-valider en début de session neuve** avant d'écrire le plan
-> d'implémentation (`writing-plans`). Quelques points ouverts en bas.
+> **Statut : VALIDÉ** — direction validée par Lyes (approche C) le 2026-07-13,
+> les 5 points ouverts tranchés le 2026-07-13 (session suivante, voir bas de page).
+> Prêt pour le plan d'implémentation (`writing-plans`).
 > Issu d'un brainstorming (superpowers) le 2026-07-13.
 
 ## Contexte & problème
@@ -105,13 +105,17 @@ robuste aux changements de réponses antérieures (recalcul du premier incomplet
   métier** (tarifs « indicatifs » à caler avec Servicimmo) est un chantier séparé (idée #2 go-live).
 - Le portail / l'app Pilote.
 
-## Points ouverts (à trancher en session neuve)
+## Points tranchés (validés par Lyes le 2026-07-13)
 
-1. **Placement de la capture email** : étape 5 (proposé) vs plus tôt (étape 2, encore plus tôt
-   pour l'abandon) vs juste avant le récap (comme aujourd'hui). Trade-off friction ↔ lead.
-2. **Nombre d'écrans** : regrouper « Le bien » + « Le bâti » si trop long ? Ou garder très atomique ?
-3. **Barre de progression** : numérique (« 3/7 ») vs segments vs pourcentage.
-4. **Reprise localStorage** : garder + bouton « recommencer » visible ? Bump de version pour purger
-   l'état périmé v3 → v4 au déploiement de la refonte.
-5. **Estimation de prix** : la montrer d'emblée au récap, ou la mettre derrière un clic tant que la
-   grille n'est pas validée client ?
+1. **Capture email → étape 5/7** : après « Le bien / Le bâti / Spécifique ». L'utilisateur a
+   investi 4 écrans (effet d'engagement), et les abandons sur les 2 derniers écrans laissent
+   quand même un lead exploitable (relance J+1).
+2. **Écrans séparés** : « Le bien » et « Le bâti » restent deux écrans distincts. « Le bien »
+   compte déjà 5 champs ; fusionner recréerait un écran long qui scrolle sur mobile.
+3. **Barre de progression = segments + numéro** : segments (un par étape) qui se remplissent
+   + libellé « Étape 3/7 — Le bâti ».
+4. **localStorage : bump v3 → v4 au déploiement** (purge propre des anciens états accordéon).
+   Reprise conservée pour les nouveaux parcours + bouton « Recommencer » visible.
+   Pas de migration v3 → v4 (coût disproportionné).
+5. **Prix affiché d'emblée au récap, en fourchette** avec mention « Estimation indicative TTC —
+   devis définitif sous 2 h ouvrées » (couvre la grille tarifaire pas encore validée client).
