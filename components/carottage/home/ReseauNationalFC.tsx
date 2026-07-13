@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Reveal } from "@/components/marketing/Reveal";
 import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 import { REGIONS_CARTE, REGIONS_CARTE_VIEWBOX, SIEGE_TOURS } from "@/lib/clients/francecarottage/regions-carte";
+import { loadDepartementsFC, loadVillesFC } from "@/lib/content/load-carottage";
 
 /** Régions couvertes par le réseau (relevé de la carte du site actuel — à valider Etienne). */
 const REGIONS_COUVERTES = new Set(["11", "24", "28", "32", "52", "53", "75", "76", "84"]);
@@ -17,14 +18,14 @@ function CarteReseau() {
     >
       {REGIONS_CARTE.map((r) =>
         REGIONS_COUVERTES.has(r.code) ? (
-          <a key={r.code} href="/zones" aria-label={`${r.nom} — voir nos zones d'intervention`}>
+          <Link key={r.code} href="/zones" aria-label={`${r.nom} — voir nos zones d'intervention`}>
             <path
               d={r.d}
               className="cursor-pointer fill-[#f5eae8] stroke-[#8c161a] stroke-[1.6] transition-[fill] duration-200 hover:fill-white"
             >
               <title>{r.nom}</title>
             </path>
-          </a>
+          </Link>
         ) : (
           <path key={r.code} d={r.d} className="fill-[#d49a9c] stroke-[#8c161a] stroke-[1.4]">
             <title>{`${r.nom} — hors réseau`}</title>
@@ -54,7 +55,8 @@ function CarteReseau() {
  * Section réseau national — même composition que le site FC actuel (bande rouge,
  * contacts régionaux à gauche, carte des régions à droite) en exécution premium.
  */
-export function ReseauNationalFC() {
+export async function ReseauNationalFC() {
+  const [villes, departements] = await Promise.all([loadVillesFC(), loadDepartementsFC()]);
   return (
     <section className="relative overflow-hidden border-t-[3px] border-[color:var(--fc-rouge)] bg-[linear-gradient(118deg,#a01d21_0%,#8c161a_55%,#6e1013_100%)]">
       {/* Halo lumineux côté carte */}
@@ -72,8 +74,8 @@ export function ReseauNationalFC() {
             Le réseau France Carottage.
           </h2>
           <p className="mt-4 max-w-lg text-[15px] leading-relaxed text-white/82">
-            Né à Tours, un réseau d’opérateurs certifiés présent partout en France — 191 villes,
-            58 départements.
+            Né à Tours, un réseau d’opérateurs certifiés présent partout en France —{" "}
+            {villes.length} villes, {departements.length} départements.
           </p>
           <ul className="mt-6 border-t border-white/30">
             {francecarottageConfig.antennes.map((a) => (

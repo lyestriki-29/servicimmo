@@ -3,8 +3,11 @@ import type { Metadata } from "next";
 import { CtaDevisFC } from "@/components/carottage/CtaDevisFC";
 import { HeroFC } from "@/components/carottage/HeroFC";
 import { ChiffresFC } from "@/components/carottage/home/ChiffresFC";
+import { ExpertisesTeaserFC } from "@/components/carottage/home/ExpertisesTeaserFC";
 import { MetierFC } from "@/components/carottage/home/MetierFC";
+import { PedagogieFC } from "@/components/carottage/home/PedagogieFC";
 import { ProcessFC } from "@/components/carottage/home/ProcessFC";
+import { ReferencesFC } from "@/components/carottage/home/ReferencesFC";
 import { ReseauNationalFC } from "@/components/carottage/home/ReseauNationalFC";
 
 export const metadata: Metadata = {
@@ -18,9 +21,12 @@ export default function CarottageHomePage() {
   return (
     <>
       <HeroFC />
-      <ChiffresFC />
+      <ReferencesFC />
       <MetierFC />
+      <PedagogieFC />
+      <ChiffresFC />
       <ProcessFC />
+      <ExpertisesTeaserFC />
       <ReseauNationalFC />
       <CtaDevisFC />
     </>
