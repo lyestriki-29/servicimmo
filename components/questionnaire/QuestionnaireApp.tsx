@@ -2,23 +2,39 @@
 
 import Link from "next/link";
 import { PhoneIcon } from "lucide-react";
-import { useState, useSyncExternalStore } from "react";
+import { useMemo, useState, useSyncExternalStore, type ComponentType } from "react";
 
 import { LogoMark } from "@/components/marketing/Logo";
 import type { ApiResponse } from "@/lib/api/responses";
 import type { ProjectType } from "@/lib/core/diagnostics/types";
+import { saveDraftInBackground } from "@/lib/questionnaire/draft";
+import { getSteps, resolveStepIndex, type StepId } from "@/lib/questionnaire/steps";
 import { useQuestionnaireStore } from "@/lib/stores/questionnaire";
 
 import { EntryScreen } from "./screens/EntryScreen";
-import { FillingScreen } from "./screens/FillingScreen";
 import { RecapScreen } from "./screens/RecapScreen";
+import { StepScreen } from "./screens/StepScreen";
 import { ThanksScreen } from "./screens/ThanksScreen";
+import { AutreStep } from "./steps/AutreStep";
+import { BatiStep } from "./steps/BatiStep";
+import { BienStep } from "./steps/BienStep";
+import { ContactStep } from "./steps/ContactStep";
+import { DelaiStep } from "./steps/DelaiStep";
+import { ExistantsStep } from "./steps/ExistantsStep";
+import { SpecifiqueStep } from "./steps/SpecifiqueStep";
+import type { StepProps } from "./steps/types";
 
-/**
- * Header minimal propre au parcours devis.
- * Rappel logo cliquable → home + numéro de téléphone. Pas de nav complète :
- * on reste focus sur le questionnaire (pattern « focused flow »).
- */
+const STEP_COMPONENTS: Record<StepId, ComponentType<StepProps>> = {
+  bien: BienStep,
+  bati: BatiStep,
+  specifique: SpecifiqueStep,
+  contact: ContactStep,
+  existants: ExistantsStep,
+  delai: DelaiStep,
+  autre: AutreStep,
+};
+
+/** Header minimal propre au parcours devis (inchangé — pattern « focused flow »). */
 function QuestionnaireHeader() {
   return (
     <header className="sticky top-0 z-40 border-b border-[var(--color-devis-line)] bg-[var(--color-devis-cream)]/90 backdrop-blur">
@@ -46,18 +62,13 @@ function QuestionnaireHeader() {
 }
 
 /**
- * Root Client Component du parcours devis.
+ * Root Client Component du parcours devis — flux LINÉAIRE (refonte 2026-07).
  *
- * Orchestration :
- *   entry → filling → recap → thanks
- *
- * Le store Zustand persiste dans localStorage (`servicimmo-quote` v2) : une
- * reprise de session rend directement l'écran où l'utilisateur s'était arrêté.
+ * Orchestration : entry → steps[getSteps(branch, data)] → recap → thanks.
+ * Navigation avant/arrière sur la liste d'étapes, données jamais perdues,
+ * aucun appel réseau bloquant entre les écrans.
  */
 export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = {}) {
-  // Garde anti-mismatch SSR : on ne rend l'écran concret qu'après la fin de
-  // l'hydratation du store Zustand (persist middleware lit localStorage).
-  // `useSyncExternalStore` évite les setState en useEffect (React 19 lint).
   const mounted = useSyncExternalStore(
     (cb) => useQuestionnaireStore.persist.onFinishHydration(cb),
     () => useQuestionnaireStore.persist.hasHydrated(),
@@ -65,55 +76,85 @@ export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = 
   );
 
   const currentScreen = useQuestionnaireStore((s) => s.currentScreen);
+  const currentStepId = useQuestionnaireStore((s) => s.currentStepId);
   const data = useQuestionnaireStore((s) => s.data);
+  const quoteRequestId = useQuestionnaireStore((s) => s.quoteRequestId);
   const goToScreen = useQuestionnaireStore((s) => s.goToScreen);
+  const goToStep = useQuestionnaireStore((s) => s.goToStep);
   const updateData = useQuestionnaireStore((s) => s.updateData);
   const setQuoteRequestId = useQuestionnaireStore((s) => s.setQuoteRequestId);
+  const markSubmitted = useQuestionnaireStore((s) => s.markSubmitted);
   const reset = useQuestionnaireStore((s) => s.reset);
 
-  const [submittingDraft, setSubmittingDraft] = useState(false);
-  const [draftError, setDraftError] = useState<string | null>(null);
+  const [submittingOther, setSubmittingOther] = useState(false);
+  const [otherError, setOtherError] = useState<string | null>(null);
 
   const branch: ProjectType = data.project_type ?? "sale";
+  const steps = useMemo(() => getSteps(branch, data), [branch, data]);
+  const stepIndex = resolveStepIndex(steps, currentStepId, data);
+  const step = steps[stepIndex];
 
-  async function handleContinueToRecap() {
-    setDraftError(null);
-    setSubmittingDraft(true);
-
-    const payload = {
-      project_type: data.project_type,
-      property_type: data.property_type,
-      address: data.address,
-      postal_code: data.postal_code,
-      city: data.city,
-      surface: data.surface,
-      rooms_count: data.rooms_count,
-      is_coownership: data.is_coownership,
-      email: data.email,
-    };
-
+  // ── Branche « autre » : soumission directe, seul appel réseau du flux ────
+  async function submitOther() {
+    setOtherError(null);
+    setSubmittingOther(true);
     try {
       const res = await fetch("/api/quote-request", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+        body: JSON.stringify({
+          project_type: "other",
+          email: data.email,
+          first_name: data.first_name,
+          phone: data.phone,
+          notes: data.notes,
+          consent_rgpd: data.consent_rgpd,
+        }),
       });
       const json = (await res.json()) as ApiResponse<{ id: string }>;
-
       if (json.ok) {
         setQuoteRequestId(json.data.id);
       } else if (res.status !== 503) {
-        // 503 = Supabase non configuré : on continue sans id (mode offline S2).
-        // Toute autre erreur bloque la progression.
-        setDraftError(json.error ?? "Impossible d'enregistrer votre demande.");
+        // 503 = Supabase non configuré : on continue en mode local.
+        setOtherError(json.error ?? "Impossible d'envoyer votre demande.");
         return;
       }
-      goToScreen("recap");
+      markSubmitted();
+      goToScreen("thanks");
     } catch {
-      setDraftError("Impossible de joindre le serveur. Vérifiez votre connexion.");
+      setOtherError("Impossible de joindre le serveur. Vérifiez votre connexion.");
     } finally {
-      setSubmittingDraft(false);
+      setSubmittingOther(false);
     }
+  }
+
+  function handleNext() {
+    if (!step) return;
+    if (branch === "other") {
+      void submitOther();
+      return;
+    }
+    // Quitter l'étape Contact = capture lead → draft en arrière-plan (jamais bloquant).
+    if (step.id === "contact" && !quoteRequestId) {
+      saveDraftInBackground(data, setQuoteRequestId);
+    }
+    const next = stepIndex + 1;
+    if (next >= steps.length) {
+      goToScreen("recap");
+      return;
+    }
+    const target = steps[next];
+    if (target) goToStep(target.id);
+  }
+
+  function handleBack() {
+    if (stepIndex === 0) {
+      goToStep(null);
+      goToScreen("entry");
+      return;
+    }
+    const prev = steps[stepIndex - 1];
+    if (prev) goToStep(prev.id);
   }
 
   if (!mounted) {
@@ -129,6 +170,8 @@ export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = 
     );
   }
 
+  const StepFields = step ? STEP_COMPONENTS[step.id] : null;
+
   return (
     <div
       className={
@@ -138,28 +181,52 @@ export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = 
       }
     >
       {!embedded && <QuestionnaireHeader />}
+
       {currentScreen === "entry" ? (
         <EntryScreen
           selected={data.project_type ?? null}
           onSelect={(b) => {
             updateData({ project_type: b });
+            goToStep(null);
             goToScreen("filling");
           }}
         />
       ) : null}
 
-      {currentScreen === "filling" ? (
-        <FillingScreen
+      {currentScreen === "filling" && step && StepFields ? (
+        <StepScreen
           branch={branch}
-          onBack={() => goToScreen("entry")}
-          onContinue={handleContinueToRecap}
-          submitting={submittingDraft}
-          error={draftError}
-        />
+          title={step.title}
+          stepNumber={stepIndex + 1}
+          stepCount={steps.length}
+          optional={step.optional}
+          canContinue={step.isComplete(data)}
+          nextLabel={
+            branch === "other"
+              ? "Envoyer ma demande"
+              : stepIndex === steps.length - 1
+                ? "Voir mon estimation"
+                : "Continuer"
+          }
+          submitting={submittingOther}
+          error={otherError}
+          onBack={handleBack}
+          onNext={handleNext}
+          onRestart={reset}
+        >
+          <StepFields data={data} updateData={updateData} branch={branch} />
+        </StepScreen>
       ) : null}
 
       {currentScreen === "recap" ? (
-        <RecapScreen branch={branch} onSubmitted={() => goToScreen("thanks")} />
+        <RecapScreen
+          branch={branch}
+          onEdit={(id) => {
+            goToStep(id);
+            goToScreen("filling");
+          }}
+          onSubmitted={() => goToScreen("thanks")}
+        />
       ) : null}
 
       {currentScreen === "thanks" ? (
@@ -167,9 +234,7 @@ export function QuestionnaireApp({ embedded = false }: { embedded?: boolean } = 
           branch={branch}
           firstName={data.first_name}
           email={data.email}
-          onRestart={() => {
-            reset();
-          }}
+          onRestart={reset}
         />
       ) : null}
     </div>

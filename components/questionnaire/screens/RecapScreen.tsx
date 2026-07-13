@@ -9,6 +9,7 @@ import type {
   ProjectType,
   RequiredDiagnostic,
 } from "@/lib/core/diagnostics/types";
+import type { StepId } from "@/lib/questionnaire/steps";
 import {
   useQuestionnaireStore,
   type QuestionnaireData,
@@ -40,6 +41,8 @@ const PAYMENT_METHOD_OPTIONS = [
 
 type RecapScreenProps = {
   branch: ProjectType;
+  /** Navigation vers une étape du flux pour corriger une réponse (Task 12). */
+  onEdit: (id: StepId) => void;
   onSubmitted: () => void;
 };
 
