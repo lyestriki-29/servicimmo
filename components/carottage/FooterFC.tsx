@@ -2,6 +2,7 @@ import Link from "next/link";
 import { PhoneIcon } from "lucide-react";
 
 import { LienServicimmo } from "@/components/carottage/LienServicimmo";
+import { LogoFC } from "@/components/carottage/LogoFC";
 import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 import { loadDepartementsFC, loadExpertises } from "@/lib/content/load-carottage";
 
@@ -15,9 +16,7 @@ export async function FooterFC() {
     <footer className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)] text-white/70">
       <div className="mx-auto grid max-w-[var(--container,1280px)] gap-10 px-6 py-12 md:grid-cols-4 md:px-8">
         <div>
-          <p className="font-[family-name:var(--font-sora)] text-[18px] font-extrabold uppercase text-white">
-            France<span className="text-[color:var(--fc-rouge)]"> Carottage</span>
-          </p>
+          <LogoFC tone="light" className="h-8" />
           <p className="mt-3 text-[13.5px] leading-relaxed">
             {francecarottageConfig.zoneIntervention} · carottage routier & repérage amiante/HAP sur enrobés.
           </p>
@@ -92,8 +91,21 @@ export async function FooterFC() {
         </div>
       </div>
       <div className="border-t border-white/10">
-        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-5 text-[12px] text-white/55 md:px-8">
-          © {new Date().getFullYear()} {francecarottageConfig.raisonSociale}. Tous droits réservés.
+        <div className="mx-auto flex max-w-[var(--container,1280px)] flex-col items-center justify-between gap-2 px-6 py-5 text-[12px] text-white/55 md:flex-row md:px-8">
+          <p className="m-0">
+            © {new Date().getFullYear()} {francecarottageConfig.raisonSociale}. Tous droits réservés.
+          </p>
+          <p className="m-0">
+            Fait avec passion par{" "}
+            <a
+              href="https://propulseo-site.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-white/80 no-underline transition-colors hover:text-[color:var(--fc-rouge)]"
+            >
+              Propul&apos;SEO
+            </a>
+          </p>
         </div>
       </div>
     </footer>

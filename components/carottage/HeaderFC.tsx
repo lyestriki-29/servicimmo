@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { MapPinnedIcon, MenuIcon, PhoneIcon, XIcon } from "lucide-react";
 
 import { LienServicimmo } from "@/components/carottage/LienServicimmo";
+import { LogoFC } from "@/components/carottage/LogoFC";
 import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 
 const NAV: { label: string; href: string }[] = [
@@ -60,11 +61,8 @@ export function HeaderFC() {
         }`}
       >
         <div className="mx-auto flex max-w-[var(--container,1280px)] items-center justify-between gap-6 px-6 py-[15px] md:px-8">
-          <Link href="/" aria-label="Accueil France Carottage" className="inline-flex flex-none items-center gap-2">
-            <span aria-hidden className="h-6 w-[6px] rounded-full bg-[color:var(--fc-rouge)]" />
-            <span className="font-[family-name:var(--font-sora)] text-[19px] font-extrabold uppercase tracking-[-0.01em] text-[color:var(--fc-noir)]">
-              France<span className="text-[color:var(--fc-rouge)]"> Carottage</span>
-            </span>
+          <Link href="/" aria-label="Accueil France Carottage" className="inline-flex flex-none items-center">
+            <LogoFC tone="dark" priority className="h-9" />
           </Link>
 
           <nav aria-label="Navigation principale" className="hidden items-center gap-8 lg:flex">
