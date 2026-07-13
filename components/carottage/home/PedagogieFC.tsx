@@ -23,12 +23,12 @@ const DEFINITIONS = [
 export function PedagogieFC() {
   return (
     <section className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)]">
-      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-20 md:px-8">
+      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-16 md:px-8">
         <SurtitreFC>Comprendre l’enjeu</SurtitreFC>
         <h2 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[30px] font-extrabold leading-tight tracking-[-0.02em] text-white sm:text-[38px]">
           Pourquoi carotter avant de raboter ?
         </h2>
-        <div className="mt-10 grid items-start gap-10 lg:grid-cols-[1.1fr_1fr]">
+        <div className="mt-8 grid items-start gap-10 lg:grid-cols-[1.1fr_1fr]">
           <Reveal direction="left">
             <p className="max-w-xl text-[15px] leading-relaxed text-white/70">
               Avant toute intervention sur un ouvrage de voirie — maintenance, réfection,

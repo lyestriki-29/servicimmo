@@ -13,7 +13,7 @@ export async function FooterFC() {
 
   return (
     <footer className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)] text-white/70">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-10 px-6 py-14 md:grid-cols-4 md:px-8">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-10 px-6 py-12 md:grid-cols-4 md:px-8">
         <div>
           <p className="font-[family-name:var(--font-sora)] text-[18px] font-extrabold uppercase text-white">
             France<span className="text-[color:var(--fc-rouge)]"> Carottage</span>

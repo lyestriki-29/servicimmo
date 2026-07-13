@@ -21,7 +21,7 @@ export async function ExpertisesTeaserFC() {
   const expertises = vedettes.length === SLUGS_VEDETTES.length ? vedettes : toutes.slice(0, 3);
 
   return (
-    <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-20 md:px-8">
+    <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-14 md:px-8">
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <SurtitreFC>Aller plus loin</SurtitreFC>
@@ -40,7 +40,7 @@ export async function ExpertisesTeaserFC() {
           />
         </Link>
       </div>
-      <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {expertises.map((e, i) => (
           <Reveal key={e.slug} delay={Math.min(i * 0.08, 0.16)}>
             <Link

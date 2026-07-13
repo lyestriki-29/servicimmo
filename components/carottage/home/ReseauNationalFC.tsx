@@ -64,7 +64,7 @@ export async function ReseauNationalFC() {
         aria-hidden
         className="pointer-events-none absolute inset-0 bg-[radial-gradient(620px_420px_at_74%_42%,rgba(255,255,255,0.10),transparent_66%)]"
       />
-      <div className="relative mx-auto grid max-w-[var(--container,1280px)] items-center gap-12 px-6 py-20 md:px-8 lg:grid-cols-[1fr_1.05fr]">
+      <div className="relative mx-auto grid max-w-[var(--container,1280px)] items-center gap-12 px-6 py-16 md:px-8 lg:grid-cols-[1fr_1.05fr]">
         <Reveal direction="left">
           <p className="inline-flex items-center gap-3 font-[family-name:var(--font-sora)] text-[12.5px] font-bold uppercase tracking-[0.2em] text-white/78">
             <span aria-hidden className="h-[2px] w-8 bg-white" />

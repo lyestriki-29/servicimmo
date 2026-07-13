@@ -27,12 +27,12 @@ const DOMAINES = [
 /** Section métier FC — 3 domaines, cartes noir/blanc à liseré rouge au hover. */
 export function MetierFC() {
   return (
-    <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-20 md:px-8">
+    <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-14 md:px-8">
       <SurtitreFC>Notre métier</SurtitreFC>
       <h2 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[30px] font-extrabold leading-tight tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[38px]">
         Le carottage d’enrobés, sur tous vos chantiers.
       </h2>
-      <div className="mt-12 grid gap-6 md:grid-cols-3">
+      <div className="mt-8 grid gap-6 md:grid-cols-3">
         {DOMAINES.map((d, i) => {
           const Icone = d.icone;
           return (

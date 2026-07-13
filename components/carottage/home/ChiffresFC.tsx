@@ -13,7 +13,7 @@ export async function ChiffresFC() {
 
   return (
     <section className="border-y border-[color:var(--fc-gris-clair)] bg-white">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] grid-cols-2 gap-8 px-6 py-14 md:grid-cols-4 md:px-8">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] grid-cols-2 gap-8 px-6 py-10 md:grid-cols-4 md:px-8">
         {chiffres.map((c, i) => (
           <Reveal key={c.label} delay={Math.min(i * 0.06, 0.18)}>
             <div>
