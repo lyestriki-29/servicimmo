@@ -12,6 +12,7 @@ import {
 
 import { useQuoteModal } from "@/components/questionnaire/QuoteModalProvider";
 import { LogoServicimmo } from "@/components/marketing/LogoServicimmo";
+import { LienMarqueSoeur } from "@/components/marketing/LienMarqueSoeur";
 
 const NAV_LINKS: { label: string; href: string }[] = [
   { label: "Accueil", href: "/" },
@@ -54,13 +55,16 @@ export function Header() {
             />
             Certifié COFRAC · iCert · Assuré Allianz
           </span>
-          <a
-            href="tel:0247470123"
-            className="inline-flex items-center gap-[7px] font-bold text-white transition-colors hover:text-[color:var(--color-si-lime)]"
-          >
-            <PhoneIcon className="h-[14px] w-[14px]" aria-hidden />
-            02 47 47 01 23
-          </a>
+          <span className="inline-flex items-center gap-3">
+            <LienMarqueSoeur />
+            <a
+              href="tel:0247470123"
+              className="inline-flex items-center gap-[7px] font-bold text-white transition-colors hover:text-[color:var(--color-si-lime)]"
+            >
+              <PhoneIcon className="h-[14px] w-[14px]" aria-hidden />
+              02 47 47 01 23
+            </a>
+          </span>
         </div>
       </div>
 
