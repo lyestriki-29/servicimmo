@@ -1,6 +1,6 @@
 "use client";
 
-import { useActionState, useEffect, useState } from "react";
+import { useActionState, useEffect, useRef, useState } from "react";
 
 import { soumettreDevis } from "@/app/carottage/devis/actions";
 import { LIBELLES_CHANTIER, LIBELLES_DELAI, type DevisState } from "@/app/carottage/devis/schema";
@@ -16,12 +16,13 @@ export function DevisFormFC() {
   const [state, formAction, pending] = useActionState<DevisState, FormData>(soumettreDevis, {
     status: "idle",
   });
-  // Posé à l'hydratation (le rendu doit rester pur) — sert au délai anti-bot côté action.
-  const [renderedAt, setRenderedAt] = useState(0);
+  // Horodatage anti-bot posé sur l'input caché à l'hydratation, via le DOM :
+  // le rendu reste pur (pas de Date.now() au rendu, pas de setState en effet).
+  const renderedAtRef = useRef<HTMLInputElement>(null);
   const [unite, setUnite] = useState<"surface" | "lineaire">("surface");
 
   useEffect(() => {
-    setRenderedAt(Date.now());
+    if (renderedAtRef.current) renderedAtRef.current.value = String(Date.now());
   }, []);
 
   const err = (champ: string) =>
@@ -51,7 +52,7 @@ export function DevisFormFC() {
         aria-hidden
         className="absolute left-[-9999px] h-0 w-0 opacity-0"
       />
-      <input type="hidden" name="renderedAt" value={renderedAt} />
+      <input ref={renderedAtRef} type="hidden" name="renderedAt" defaultValue="0" />
 
       <div>
         <span className={labelClasses}>Type de chantier</span>
