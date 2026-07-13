@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Dax | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Dax
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-dax-40100.html
-lat: 47.394
-lng: 0.687
+lat: 43.700723
+lng: -1.06016
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Dax

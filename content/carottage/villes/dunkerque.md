@@ -1,28 +1,23 @@
 ---
 slug: dunkerque
-ville: Repérage  et    Dunkerque
+ville: Dunkerque
 codePostal: '59140'
 departement: '59'
-metaTitle: Repérage amiante et HAP enrobés routiers Dunkerque | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Dunkerque
+metaTitle: "Carottage & amiante enrobés Dunkerque (59140)"
+metaDescription: "Liant au goudron, fibres d’amiante : vos enrobés à Dunkerque passent au laboratoire. Carottage, analyses HAP et META, réponse en 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-dunkerque-59140.html
 lat: 51.028256
 lng: 2.346525
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Dunkerque
+## Goudron ou bitume ? Le dosage HAP fait la différence
 
-![Repérage amiante et HAP enrobés routiers Dunkerque](images/logo.png)
+Jusque dans les années 1990, certaines couches de chaussée ont été formulées avec des liants au goudron de houille, très riches en hydrocarbures aromatiques polycycliques ; d’autres enrobés ont reçu des fibres d’amiante pour améliorer leur tenue. Des décennies plus tard, ces matériaux sont toujours en place sous nos routes — et seul un passage en laboratoire révèle ce que contient réellement une structure avant de la raboter. C’est l’objet du couple analyse META pour l’amiante et quantification des HAP, réalisé sur carottes.
 
- [![Repérage amiante et HAP enrobés routiers Dunkerque](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+## Prélever juste : le carottage à Dunkerque
 
-![Repérage amiante et HAP enrobés routiers Dunkerque](images/picto-mail.png) **contact @ france-carottage.fr**
+La fiabilité du résultat dépend d’abord de l’échantillon. France Carottage organise vos campagnes de carottage à Dunkerque (59140) : définition du maillage de sondages avec votre maîtrise d’œuvre, extraction de carottes complètes jusqu’au support, conditionnement individuel et envoi en laboratoire accrédité. Les emprises portuaires, industrielles ou urbaines sont traitées avec la même exigence, en s’adaptant aux contraintes d’exploitation de chaque site du département du Nord.
 
-Connue pour son carnaval, Dunkerque est une ville dotée d'une riche histoire.
+## Et après l’analyse ?
 
-Lieu assiégé lors de la Seconde Guerre mondiale, cette commune du nord de la France est également un grand port de pêche qui a changé plusieurs fois de nationalité.
-
-Parmi les missions pour lesquelles France Carottage peut vous assister : le repérage de l'amiante et des HAP dans les enrobés routiers à Dunkerque.
-
-Entreprise indépendante agréée, avec France Carottage, vous recevez l'assurance de travailler dans les meilleures conditions.
+Le rapport, disponible sous 24 à 48 heures après réception des carottes, répond aux trois questions qui conditionnent votre chantier : y a-t-il de l’amiante enrobés à Dunkerque sur l’emprise concernée ? Quelles teneurs en HAP, couche par couche ? Vers quelle filière diriger les fraisats — recyclage, stockage ou traitement dédié ? Vous ajustez alors le mode opératoire, le budget d’évacuation et la protection des intervenants avant la signature du marché, et non en cours de travaux. Sollicitez-nous dès la phase d’études pour caler votre campagne de prélèvements.

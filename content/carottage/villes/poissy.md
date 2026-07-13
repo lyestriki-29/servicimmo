@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Poissy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Poissy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-poissy-78300.html
-lat: 47.394
-lng: 0.687
+lat: 48.930299
+lng: 2.033457
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Poissy

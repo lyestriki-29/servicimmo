@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Pantin | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Pantin
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pantin-93500.html
-lat: 47.394
-lng: 0.687
+lat: 48.900267
+lng: 2.409457
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Pantin

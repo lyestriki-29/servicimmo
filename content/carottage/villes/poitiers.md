@@ -1,28 +1,25 @@
 ---
 slug: poitiers
-ville: Repérage  et    Poitiers
+ville: Poitiers
 codePostal: '86000'
 departement: '86'
-metaTitle: Repérage amiante et HAP enrobés routiers Poitiers | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Poitiers
+metaTitle: Carottage & amiante enrobés Poitiers (86000)
+metaDescription: "Réfection de chaussées, tranchées, parkings : France Carottage prélève et fait analyser vos enrobés à Poitiers (86). Amiante, HAP, délais 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-poitiers-86000.html
 lat: 46.586578
 lng: 0.35668
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Poitiers
+Les programmes d’entretien de voirie alternent rabotages ponctuels, reprises de tranchées et réfections complètes de chaussées. Tous ces travaux exposent au même aléa : découvrir en cours de chantier un enrobé amianté ou chargé en HAP. À Poitiers, préfecture de la Vienne, France Carottage lève cette incertitude en amont grâce au carottage et à l’analyse des matériaux bitumineux.
 
-![Repérage amiante et HAP enrobés routiers Poitiers](images/logo.png)
+## Adapter le plan de sondage au type de travaux
 
- [![Repérage amiante et HAP enrobés routiers Poitiers](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Un rabotage superficiel n’appelle pas la même stratégie qu’une déconstruction totale : dans le premier cas, l’analyse porte sur les centimètres réellement fraisés ; dans le second, la carotte descend jusqu’aux assises. Pour les tranchées de réseaux, les prélèvements jalonnent le futur linéaire de fouille. Pour un parking ou une dalle, ils vérifient chaque zone homogène de revêtement. Ce plan de sondage est construit avec vous, à partir de vos plans d’exécution.
 
-![Repérage amiante et HAP enrobés routiers Poitiers](images/picto-mail.png) **contact @ france-carottage.fr**
+## Amiante enrobés à Poitiers : ce qui se joue dans l’analyse
 
-Commune du grand ouest de la France, Poitiers est la capitale culturelle et historique de la région du Poitou.
+L’enjeu est double. Sanitaire d’abord : le fraisage d’un enrobé amianté sans précaution expose les équipes à l’inhalation de fibres dangereuses. Économique ensuite : la teneur en HAP (hydrocarbures aromatiques polycycliques) décide si les matériaux peuvent retourner en centrale d’enrobage ou doivent être éliminés en filière spécialisée, avec un écart de coût considérable à la tonne. Les résultats alimentent directement vos pièces de consultation.
 
-Poitiers, surnommée la « ville aux cent clochers » offre mille opportunités en raison de sa vitalité, Poitiers étant la ville la plus étudiante de France, mais aussi de son patrimoine historique monumental.
+## Des délais compatibles avec vos plannings
 
-Alors si vous avez un projet de travaux, contactez France Carottage pour réaliser votre repérage amiante et HAP sur les enrobés de Poitiers.
-
-Vous donnerez du poids à votre projet !
+Nos techniciens interviennent à Poitiers et dans l’ensemble de la Vienne sous 24 à 48 heures. Le carottage à Poitiers s’effectue sous signalisation temporaire, avec rebouchage immédiat des sondages, et donne lieu à un rapport géoréférencé regroupant photos, coupes observées et résultats de laboratoire — un livrable prêt à intégrer votre dossier de travaux.

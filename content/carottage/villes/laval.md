@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Laval | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Laval
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-laval-53000.html
-lat: 47.394
-lng: 0.687
+lat: 48.059596
+lng: -0.77159
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Laval

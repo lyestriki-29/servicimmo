@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Gien | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Gien
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-gien-45500.html
-lat: 47.394
-lng: 0.687
+lat: 47.69809
+lng: 2.645031
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Gien

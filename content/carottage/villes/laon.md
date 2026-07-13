@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Laon | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Laon
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-laon-02000.html
-lat: 47.394
-lng: 0.687
+lat: 49.570096
+lng: 3.614939
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Laon

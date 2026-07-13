@@ -1,28 +1,25 @@
 ---
 slug: nantes
-ville: Repérage  et    Nantes
+ville: Nantes
 codePostal: '44000'
 departement: '44'
-metaTitle: Repérage amiante et HAP enrobés routiers Nantes | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Nantes
+metaTitle: "Carottage & amiante enrobés Nantes (44000)"
+metaDescription: "Repérage amiante et HAP avant travaux de voirie à Nantes (44) : carottage d’enrobés normé, analyses accréditées, intervention sous 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-nantes-44000.html
-lat: 47.394
-lng: 0.687
-brut: true
+lat: 47.239367
+lng: -1.555335
 ---
-# Repérage amiante et HAP enrobés routiers Nantes
+Le Code du travail impose au donneur d’ordre de faire rechercher l’amiante avant toute opération susceptible d’émettre des fibres, et son arrêté d’application du 25 juillet 2022 étend explicitement cette exigence aux infrastructures de transport. Concrètement, à Nantes et dans le reste de la Loire-Atlantique, aucune opération de rabotage, de tranchée ou de démolition de chaussée ne devrait être engagée sans connaître au préalable la composition des couches bitumineuses.
 
-![Repérage amiante et HAP enrobés routiers Nantes](images/logo.png)
+## Ce que la réglementation exige avant d’ouvrir une chaussée
 
- [![Repérage amiante et HAP enrobés routiers Nantes](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Jusqu’à son interdiction en 1997, l’amiante a été incorporé dans certains enrobés pour en améliorer la tenue. Les HAP, eux, proviennent des liants à base de goudron utilisés sur les générations de revêtements les plus anciennes. Ces deux polluants conditionnent à la fois la protection des équipes de chantier et la filière d’évacuation des fraisats : le repérage préalable, mené selon la norme NF X 46-102, constitue donc le point de départ obligé de tout projet de voirie.
 
-![Repérage amiante et HAP enrobés routiers Nantes](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage, seule méthode probante
 
-Préfecture de la région Pays de la Loire, Nantes est la sixième ville la plus peuplée de France.
+Une carotte prélevée sur la chaussée traverse l’ensemble des couches d’enrobé et restitue l’historique du revêtement. Chaque échantillon est référencé, localisé, puis confié à un laboratoire accrédité qui recherche les fibres d’amiante et dose les HAP. Le point de prélèvement est aussitôt rebouché afin de restituer la voie à la circulation. Cette démarche fournit une preuve opposable, là où une simple hypothèse documentaire ne protège ni le maître d’ouvrage ni les entreprises.
 
-Élément central de la Métropole-Nantes depuis 2015, la ville bénéficie d’une attractivité importante et d’opportunités dans la construction routière et le développement d’infrastructure.
+## Votre opération à Nantes, notre organisation
 
-L’amiante et les HAP présents naturellement dans certains composants des enrobés bitumineux nécessitent un repérage.
-
-France Carottage met à votre service son savoir-faire en respectant toutes les réglementations en vigueur pour réaliser votre repérage amiante et HAP des enrobés routiers à Nantes.
+France Carottage réalise votre carottage à Nantes et sur l’ensemble du département de la Loire-Atlantique (44), pour la voirie, les réseaux comme le bâtiment. Nos équipes se mobilisent sous 24 à 48 h et vous remettent un rapport directement exploitable dans vos dossiers de consultation ou vos plans de retrait. Contactez-nous pour cadrer votre repérage amiante et HAP sur enrobés à Nantes dès la phase d’études.

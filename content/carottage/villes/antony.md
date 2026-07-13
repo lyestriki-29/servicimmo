@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Antony | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Antony
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-antony-92160.html
-lat: 47.394
-lng: 0.687
+lat: 48.751021
+lng: 2.29783
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Antony

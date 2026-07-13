@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Bayeux | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Bayeux
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bayeux-14400.html
-lat: 47.394
-lng: 0.687
+lat: 49.278188
+lng: -0.702334
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Bayeux

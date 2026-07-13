@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Royan | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Royan
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-royan-17200.html
-lat: 47.394
-lng: 0.687
+lat: 45.634186
+lng: -1.017415
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Royan

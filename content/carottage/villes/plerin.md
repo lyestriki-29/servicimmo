@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Plérin | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Plérin
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-plerin-22190.html
-lat: 47.394
-lng: 0.687
+lat: 48.547316
+lng: -2.782476
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Plérin

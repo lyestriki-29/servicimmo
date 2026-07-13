@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Guéret | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Guéret
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-gueret-23000.html
-lat: 47.394
-lng: 0.687
+lat: 46.171794
+lng: 1.874985
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Guéret

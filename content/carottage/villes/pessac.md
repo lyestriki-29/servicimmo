@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Pessac | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Pessac
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pessac-33600.html
-lat: 47.394
-lng: 0.687
+lat: 44.787469
+lng: -0.675933
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Pessac

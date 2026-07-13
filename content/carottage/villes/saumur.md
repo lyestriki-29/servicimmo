@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Saumur | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Saumur
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saumur-49400.html
-lat: 47.394
-lng: 0.687
+lat: 47.261814
+lng: -0.082764
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Saumur

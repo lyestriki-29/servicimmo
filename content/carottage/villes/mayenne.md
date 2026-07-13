@@ -11,8 +11,8 @@ metaDescription: >-
   routiers Mayenne
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-mayenne-53100.html
-lat: 47.394
-lng: 0.687
+lat: 48.303387
+lng: -0.617261
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Repérage amiante et HAP enrobés routiers Mayenne

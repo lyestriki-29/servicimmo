@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Bègles | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Bègles
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-begles-33130.html
-lat: 47.394
-lng: 0.687
+lat: 44.802062
+lng: -0.551187
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Bègles

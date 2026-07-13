@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Liévin | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Liévin
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lievin-62800.html
-lat: 47.394
-lng: 0.687
+lat: 50.424192
+lng: 2.769683
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Liévin

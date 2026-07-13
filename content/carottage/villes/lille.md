@@ -1,26 +1,25 @@
 ---
 slug: lille
-ville: Repérage  et    Lille
+ville: Lille
 codePostal: '59000'
 departement: '59'
-metaTitle: Repérage amiante et HAP enrobés routiers Lille | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Lille
+metaTitle: "Carottage & amiante enrobés Lille (59000)"
+metaDescription: "Carottage d’enrobés à Lille (59) : repérage amiante et HAP conforme avant vos chantiers de voirie et réseaux, intervention possible en 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lille-59000.html
-lat: 47.394
-lng: 0.687
-brut: true
+lat: 50.630951
+lng: 3.045391
 ---
-# Repérage amiante et HAP enrobés routiers Lille
+La norme NF X 46-102 encadre depuis 2020 le repérage de l’amiante dans les ouvrages de génie civil et les infrastructures de transport ; c’est elle que l’arrêté d’application du Code du travail rend incontournable pour les chaussées. Pour un projet de voirie à Lille ou ailleurs dans le Nord, le repérage n’est donc pas une prestation libre : il obéit à un référentiel précis, de la stratégie d’échantillonnage jusqu’au contenu du rapport.
 
-![Repérage amiante et HAP enrobés routiers Lille](images/logo.png)
+## Un référentiel qui ne laisse rien au hasard
 
- [![Repérage amiante et HAP enrobés routiers Lille](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le texte définit le périmètre de la mission, la manière de découper l’ouvrage en zones homogènes, le nombre de sondages nécessaires et les compétences attendues de l’opérateur de repérage. Ce cadre protège le maître d’ouvrage : un diagnostic mené hors norme peut être contesté, et avec lui l’ensemble des choix techniques qui en découlent.
 
-![Repérage amiante et HAP enrobés routiers Lille](images/picto-mail.png) **contact @ france-carottage.fr**
+## Présumer n’est pas prouver
 
-Avec sa grand place typiquement flamande, son Musée des Beaux-Arts, son zoo et son centre historique, Lille est un véritable point de rencontre européen.
+Deux sections de rue voisines peuvent avoir été rechargées à des époques différentes, avec des matériaux distincts. Seul un carottage traversant permet d’examiner chaque couche : les cylindres extraits sont repérés sur plan puis analysés par un laboratoire accrédité, qui statue sur la présence d’amiante et mesure la concentration en HAP. Les résultats déterminent le mode opératoire des travaux et la destination des matériaux de déconstruction.
 
-Dans le cadre d'un réaménagement des infrastructures lilloises, le chef de chantier doit se renseigner sur la teneur en béton des ouvrages et, le cas échéant, sur la teneur en amiante et en HAP, notamment pour les enrobés routiers de Lille.
+## France Carottage dans le Nord
 
-Pour aider les responsables dans cette mission, recourez à France Carottage, société certifiée.
+Nous intervenons pour votre carottage à Lille et dans tout le département du Nord (59), en voirie, sur réseaux enterrés ou en bâtiment, avec une mobilisation possible en 24 à 48 h. Demandez votre devis de repérage amiante et HAP sur les enrobés à Lille : nous calons la campagne de prélèvements sur les contraintes d’exploitation de vos voies.

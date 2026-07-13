@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Fougères | France Carotta
 metaDescription: Repérage amiante et HAP enrobés routiers Fougères
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fougeres-35133.html
-lat: 47.394
-lng: 0.687
+lat: 48.3525
+lng: -1.1986
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Fougères

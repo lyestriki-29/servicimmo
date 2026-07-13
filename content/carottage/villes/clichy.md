@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Clichy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Clichy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-clichy-92110.html
-lat: 47.394
-lng: 0.687
+lat: 48.90348
+lng: 2.305118
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Clichy

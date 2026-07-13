@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Cergy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Cergy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cergy-95000.html
-lat: 47.394
-lng: 0.687
+lat: 49.04227
+lng: 2.045547
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Cergy

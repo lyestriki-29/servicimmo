@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Massy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Massy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-massy-91300.html
-lat: 47.394
-lng: 0.687
+lat: 48.728133
+lng: 2.269556
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Massy

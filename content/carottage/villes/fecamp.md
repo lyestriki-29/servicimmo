@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Fécamp | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Fécamp
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fecamp-76400.html
-lat: 47.394
-lng: 0.687
+lat: 49.750369
+lng: 0.396705
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Fécamp

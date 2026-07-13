@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Sevran | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Sevran
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-sevran-93270.html
-lat: 47.394
-lng: 0.687
+lat: 48.93797
+lng: 2.531288
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Sevran

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Rezé | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Rezé
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-reze-44400.html
-lat: 47.394
-lng: 0.687
+lat: 47.17269
+lng: -1.552789
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Rezé

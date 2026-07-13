@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Lens | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Lens
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lens-62300.html
-lat: 47.394
-lng: 0.687
+lat: 50.437872
+lng: 2.819642
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Lens

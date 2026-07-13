@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Melun | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Melun
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-melun-77000.html
-lat: 47.394
-lng: 0.687
+lat: 48.541332
+lng: 2.655743
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Melun

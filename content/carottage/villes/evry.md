@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Évry | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Évry
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-evry-91000.html
-lat: 47.394
-lng: 0.687
+lat: 48.62729
+lng: 2.43251
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Évry

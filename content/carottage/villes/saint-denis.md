@@ -1,32 +1,25 @@
 ---
 slug: saint-denis
-ville: Repérage  et    Saint-Denis
+ville: Saint-Denis
 codePostal: '93200'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Denis | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Denis
+metaTitle: 'Carottage & amiante enrobés Saint-Denis (93200)'
+metaDescription: 'Besoin d’un carottage à Saint-Denis (93) ? Recherche d’amiante et de HAP dans vos enrobés : prélèvements, analyse en labo, rapport sous 24 à 48 h.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-denis-93200.html
 lat: 48.93746
 lng: 2.361503
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Denis
+En Seine-Saint-Denis, les chantiers de voirie et de réseaux s’enchaînent sur des emprises très sollicitées. Avant d’y raboter ou d’y terrasser un enrobé, une donnée manque souvent au dossier : sa teneur en amiante et en HAP. France Carottage apporte cette réponse à Saint-Denis en quatre temps, sans immobiliser vos équipes.
 
-![Repérage amiante et HAP enrobés routiers Saint-Denis](images/logo.png)
+## De votre appel au passage sur site
 
- [![Repérage amiante et HAP enrobés routiers Saint-Denis](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Le point de départ est un brief court : localisation exacte, nature de l’opération, contraintes d’accès et d’exploitation. Nous positionnons alors les sondages sur plan et convenons d’un créneau, y compris nocturne lorsque le trafic l’exige. Le technicien exécute ensuite le carottage Saint-Denis proprement dit : forage à la couronne diamantée, extraction d’éprouvettes complètes, rebouchage immédiat et relevé photographique de chaque point.
 
-![Repérage amiante et HAP enrobés routiers Saint-Denis](images/picto-mail.png) **contact @ france-carottage.fr**
+## L’étape laboratoire, décisive
 
-Sous-préfecture du département 93, Saint-Denis est partagée entre des logements et des bureaux.
+Chaque carotte est sciée puis étudiée niveau par niveau par un laboratoire accrédité. Deux questions guident l’examen : les liants renferment-ils des fibres d’amiante, et la concentration en HAP franchit-elle les seuils qui déterminent le devenir des matériaux ? Les réponses tombent éprouvette par éprouvette, sans extrapolation.
 
-Parmi les lieux d'intérêt de la ville, il y a le campus universitaire, la Basilique gothique ainsi que le mythique Stade de France.
+## Un rapport qui engage la suite du chantier
 
-Dans le cadre de l'exploitation d'un enrobé, vous êtes contraint de diagnostiquer l'éventuelle présence d'amiante et de HAP.
-
-Ces substances peuvent demeurer à l'intérieur des enrobés routiers ou elles peuvent avoir été utilisées en sous-couches.
-
-Quoiqu'il en soit, amiante et HAP sont préjudiciables pour la santé des individus.
-
-Avant d'entamer des travaux, il est donc obligatoire de connaître la teneur en amiante et en HAP des enrobés de la chaussée à remettre en état à Saint-Denis.
+Votre repérage amiante enrobés Saint-Denis vous est transmis dans les 24 à 48 h : synthèse des résultats, stratigraphie détaillée et orientation des déblais vers la filière appropriée. Maîtres d’ouvrage publics, MOE et entreprises de travaux du 93 y trouvent la pièce qui manquait au DCE, au PPSPS ou au plan de retrait — un document opposable, daté et cartographié. Un doute sur le nombre de sondages nécessaire à votre emprise ? Envoyez-nous le périmètre concerné : nous dimensionnons la campagne au plus juste et bloquons une date d’intervention rapprochée.

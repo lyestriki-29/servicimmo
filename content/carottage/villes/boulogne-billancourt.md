@@ -1,30 +1,25 @@
 ---
 slug: boulogne-billancourt
-ville: Repérage  et    Boulogne-Billancourt
+ville: Boulogne-Billancourt
 codePostal: '92100'
 departement: '92'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Boulogne-Billancourt | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Boulogne-Billancourt
+metaTitle: 'Carottage & amiante enrobés Boulogne-Billancourt (92100)'
+metaDescription: 'Carottage d’enrobés à Boulogne-Billancourt (92) : diagnostic amiante et HAP avant travaux de voirie, intervention cadrée et rapport sous 24-48 h.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-boulogne-billancourt-92100.html
 lat: 48.837799
 lng: 2.243202
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Boulogne-Billancourt
+Intervenir sur la voirie des Hauts-de-Seine impose de composer avec un tissu urbain dense : circulation soutenue, réseaux enterrés nombreux, emprises réduites. À Boulogne-Billancourt, France Carottage adapte chacune de ses campagnes de prélèvement à ces contraintes, en tenant toujours le même fil conducteur : brief, forage, laboratoire, rapport.
 
-![Repérage amiante et HAP enrobés routiers Boulogne-Billancourt](images/logo.png)
+## Une préparation qui tient compte du site
 
- [![Repérage amiante et HAP enrobés routiers Boulogne-Billancourt](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Avant toute mobilisation, nous étudions avec vous la zone à sonder : voie circulée, trottoir, cour intérieure, dalle de parking. Cette lecture du terrain conditionne l’horaire d’intervention — nuit ou heures creuses si nécessaire —, le balisage et l’implantation des points de forage. Chaque mission de carottage Boulogne-Billancourt fait ainsi l’objet d’un mode opératoire écrit, validé avec vos services avant le jour J.
 
-![Repérage amiante et HAP enrobés routiers Boulogne-Billancourt](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du forage au résultat d’analyse
 
-Boulogne-Billancourt est, après la capitale, la ville la plus densément peuplée de la région.
+L’extraction s’effectue à la couronne diamantée sur quelques centimètres de diamètre : la chaussée redevient exploitable sitôt le point rebouché. Identifiées et scellées, les carottes rejoignent un laboratoire accrédité qui traque les fibres d’amiante et mesure la concentration en HAP de chaque couche bitumineuse. Comptez 24 à 48 h pour recevoir les résultats commentés.
 
-C'est aussi une commune aux multiples facettes qui regroupe des entreprises, un immense espace boisé, de luxueuses demeures et des appartements contemporains.
+## Un livrable pensé pour la maîtrise d’œuvre
 
-Un trottoir à refaire ? Une route à modifier ? Nous vous alertons sur la possible présence d'amiante et de HAP dans les enrobés routiers de Boulogne-Billancourt.
-
-Un diagnostic permettrait d'en connaître la teneur exacte.
+Le document remis constitue votre repérage amiante enrobés Boulogne-Billancourt : plan des sondages, stratigraphie, valeurs mesurées et préconisations de gestion des déblais. Il s’intègre tel quel à vos pièces de consultation, à votre plan de prévention ou au dossier de demande de voirie. Collectivités, aménageurs, syndics et entreprises du 92 : sollicitez-nous dès l’esquisse de l’opération, pour que l’analyse précède les travaux au lieu de les retarder. Un simple périmètre tracé sur plan suffit pour établir une proposition ferme.

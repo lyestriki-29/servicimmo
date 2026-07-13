@@ -1,30 +1,25 @@
 ---
 slug: vitry-sur-seine
-ville: Repérage  et    Vitry-sur-Seine
+ville: Vitry-sur-Seine
 codePostal: '94400'
 departement: '94'
-metaTitle: Repérage amiante et HAP enrobés routiers Vitry-sur-Seine | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vitry-sur-Seine
+metaTitle: Carottage & amiante enrobés Vitry-sur-Seine (94400)
+metaDescription: "Tranchées réseaux, réfection de voirie, dalles : à Vitry-sur-Seine (94), carottage d’enrobés avec analyses amiante et HAP, intervention en 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vitry-sur-seine-94400.html
 lat: 48.789495
 lng: 2.39571
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vitry-sur-Seine
+Chaque tranchée ouverte dans une chaussée du Val-de-Marne traverse plusieurs générations d’enrobés, dont certaines peuvent renfermer de l’amiante ou des HAP. Avant de terrasser à Vitry-sur-Seine, la maîtrise d’ouvrage a donc tout intérêt à faire carotter l’emprise concernée : c’est le seul moyen fiable de qualifier les matériaux qui sortiront de la fouille.
 
-![Repérage amiante et HAP enrobés routiers Vitry-sur-Seine](images/logo.png)
+## Réseaux enterrés : sonder l’emprise avant le terrassement
 
- [![Repérage amiante et HAP enrobés routiers Vitry-sur-Seine](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Pose de canalisations, enfouissement électrique, déploiement de fourreaux : nos sondages suivent le tracé prévu de la tranchée, à intervalles définis avec votre bureau d’études. Les carottes prélevées descendent jusqu’au support, couche par couche, et partent en laboratoire pour recherche d’amiante et dosage des hydrocarbures aromatiques polycycliques.
 
-![Repérage amiante et HAP enrobés routiers Vitry-sur-Seine](images/picto-mail.png) **contact @ france-carottage.fr**
+## Rabotages, dalles et parkings : anticiper le devenir des matériaux
 
-Vitry-sur-Seine est la ville la plus importante en termes de taille et de démographie dans le 94.
+Le même raisonnement vaut pour une réfection de voirie ou la démolition d’une aire de stationnement. Selon les résultats, le fraisat sera réemployé, évacué en installation de stockage ou traité comme déchet dangereux — trois scénarios aux coûts très différents, qu’il vaut mieux arbitrer au stade de l’étude qu’en pleine exécution. Le repérage amiante enrobés à Vitry-sur-Seine sécurise ainsi vos marchés de travaux comme vos bordereaux de suivi des déchets.
 
-Elle est longée par la Seine, accessible par une autoroute par une nationale, par plusieurs départementales.
+## Notre intervention dans le Val-de-Marne
 
-Vitry-sur-Seine est une ville dans laquelle on circule aisément en vélo et dans laquelle le réseau de transports en commun est très développé.
-
-Avant de procéder à des remaniements ou à des déconstructions sur la voie publique, les maîtres d'ouvrage peuvent demander un repérage de l'amiante et de HAP dans les enrobés routiers de Vitry-sur-Seine.
-
-Cette démarche permet de prendre toutes les dispositions relatives à la présence d'amiante.
+Une demande de carottage à Vitry-sur-Seine est traitée sous 24 à 48 heures : signalisation temporaire, prélèvements à la carotteuse, rebouchage immédiat, puis remise d’un rapport géolocalisé compilant les résultats d’analyses. Les interventions s’organisent aussi en horaires décalés lorsque le trafic l’impose, notamment sur les axes structurants. Votre conducteur d’opération dispose ainsi, avant consultation des entreprises, d’un état précis des matériaux bitumineux concernés par le projet.

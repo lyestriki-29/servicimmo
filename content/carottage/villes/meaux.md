@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Meaux | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Meaux
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-meaux-77100.html
-lat: 47.394
-lng: 0.687
+lat: 48.959287
+lng: 2.902726
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Meaux

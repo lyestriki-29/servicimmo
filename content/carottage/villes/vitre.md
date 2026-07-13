@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Vitré | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Vitré
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vitre-35500.html
-lat: 47.394
-lng: 0.687
+lat: 48.111352
+lng: -1.192619
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Vitré

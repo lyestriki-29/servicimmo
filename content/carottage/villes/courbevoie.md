@@ -1,30 +1,23 @@
 ---
 slug: courbevoie
-ville: Repérage  et    Courbevoie
+ville: Courbevoie
 codePostal: '92400'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Courbevoie | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Courbevoie
+metaTitle: "Carottage & amiante enrobés Courbevoie (92400)"
+metaDescription: "Repérage amiante et teneur HAP avant fraisage : carottage d’enrobés à Courbevoie (92), analyses en laboratoire et rapport sous 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-courbevoie-92400.html
 lat: 48.897974
 lng: 2.257057
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Courbevoie
+## Le résultat d’analyse conditionne tout le chantier
 
-![Repérage amiante et HAP enrobés routiers Courbevoie](images/logo.png)
+La réglementation relative au repérage de l’amiante avant travaux s’applique aussi aux chaussées : impossible d’engager un fraisage ou une déconstruction de voirie sans avoir vérifié, analyses à l’appui, ce que contiennent les enrobés. Le rapport de laboratoire devient alors le document pivot de l’opération. Il détermine le niveau de protection des opérateurs, le classement des travaux et le sort des matériaux extraits ; le dosage des HAP, mené sur les mêmes échantillons, fixe pour sa part la filière d’évacuation de chaque fraisat, du recyclage en centrale au traitement en installation spécialisée.
 
- [![Repérage amiante et HAP enrobés routiers Courbevoie](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+## En amont du rapport : le carottage à Courbevoie
 
-![Repérage amiante et HAP enrobés routiers Courbevoie](images/picto-mail.png) **contact @ france-carottage.fr**
+Ces analyses reposent sur des prélèvements exécutés dans les règles de l’art. France Carottage programme votre carottage à Courbevoie (92400) : visite préalable si nécessaire, implantation des sondages validée avec la maîtrise d’œuvre, extraction de carottes sur toute l’épaisseur de la structure, remise en état immédiate des points de prélèvement. L’organisation tient compte des contraintes de circulation propres aux voiries denses des Hauts-de-Seine, avec des interventions possibles en dehors des heures de pointe.
 
-Courbevoie accueille une partie de la zone d'affaires de La Défense.
+## Des délais compatibles avec vos plannings
 
-Si le réseau routier et les accès aux transports publics sont plutôt bons, les pistes cyclables peuvent être améliorées dans cette ville.
-
-Nous tenons à attirer votre attention sur le fait que l'amiante et les HAP dans les enrobés routiers de Courbevoie doivent faire l'objet d'une étude préalable.
-
-Cette procédure permet non seulement de garantir la bonne santé des employés et des promeneurs.
-
-Mais cela permet également de vous prémunir juridiquement en cas de maladie respiratoire d'un des individus en contact avec l'ouvrage.
+Les résultats de recherche d’amiante enrobés à Courbevoie et de teneur en HAP sont restitués sous 24 à 48 heures après traitement en laboratoire. Assez tôt, donc, pour arbitrer sereinement : consulter les entreprises sur des bases exactes, provisionner les coûts d’évacuation au juste niveau et prévenir tout arrêt de chantier lié à une découverte tardive. Confiez-nous vos emprises dès la phase de conception ; nous vous remettons un dossier directement exploitable par vos équipes techniques.

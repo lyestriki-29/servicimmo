@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Bondy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Bondy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bondy-93140.html
-lat: 47.394
-lng: 0.687
+lat: 48.903653
+lng: 2.48526
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Bondy

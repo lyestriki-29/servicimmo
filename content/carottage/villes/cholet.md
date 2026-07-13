@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Cholet | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Cholet
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cholet-49300.html
-lat: 47.394
-lng: 0.687
+lat: 47.036408
+lng: -0.875399
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Cholet

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Anglet | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Anglet
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-anglet-64600.html
-lat: 47.394
-lng: 0.687
+lat: 43.488004
+lng: -1.518997
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Anglet

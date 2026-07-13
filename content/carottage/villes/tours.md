@@ -1,30 +1,25 @@
 ---
 slug: tours
-ville: Repérage  et    Tours
+ville: Tours
 codePostal: '37000'
 departement: '37'
-metaTitle: Repérage amiante et HAP enrobés routiers Tours | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Tours
+metaTitle: 'Carottage & amiante enrobés Tours (37000)'
+metaDescription: 'Carottage d’enrobés et repérage amiante HAP à Tours (37) : équipe basée sur place, prélèvements normés, analyses labo et rapport sous 24-48 h.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-tours-37000.html
 lat: 47.394
 lng: 0.687
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Tours
+France Carottage a installé son siège à Tours : c’est depuis l’Indre-et-Loire que nos équipes préparent et réalisent leurs campagnes de prélèvement sur enrobés. Pour les maîtres d’ouvrage et maîtres d’œuvre tourangeaux, cette proximité se traduit concrètement — mobilisation rapide, reconnaissance des emplacements en amont et interlocuteur unique du brief initial jusqu’au rendu final.
 
-![Repérage amiante et HAP enrobés routiers Tours](images/logo.png)
+## Carottage Tours : un déroulé rodé depuis notre siège
 
- [![Repérage amiante et HAP enrobés routiers Tours](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Tout démarre par un échange technique. Vous nous transmettez le périmètre du chantier — section de voirie, tranchée de réseau, parking, cour d’immeuble — et nous définissons ensemble le maillage de sondage : nombre de carottes, profondeur, couches à isoler. Le jour J, le technicien extrait chaque éprouvette à la carotteuse à couronne diamantée, rebouche le point de forage et consigne les références sur un plan d’implantation. La voirie reste praticable dès notre départ.
 
-![Repérage amiante et HAP enrobés routiers Tours](images/picto-mail.png) **contact @ france-carottage.fr**
+## Analyse en laboratoire, puis rapport exploitable
 
-Commune du département de l’Indre-et-Loire, Tours est le siège de la métropole Tours Val de Loire.
+Les échantillons partent ensuite vers un laboratoire accrédité, qui recherche la présence de fibres d’amiante et dose les HAP strate par strate. Vous recevez sous 24 à 48 h un repérage amiante enrobés Tours directement utilisable : cartographie des points, résultats détaillés par couche et filière d’évacuation ou de recyclage adaptée aux matériaux rencontrés.
 
-La ville est un carrefour de transport qui permet, grâce à son aéroport et à sa gare, de desservir toutes les régions de France.
+## Pourquoi anticiper ce diagnostic
 
-France Carottage effectue les repérages amiante et HAP sur les enrobés routiers de Tours.
-
-Pour vos futurs projets de rénovation ou de développement routiers, faites appel à France Carottage.
-
-Vos projets sont sur la bonne route !
+Sans ces résultats, impossible de raboter, de terrasser ou d’évacuer des fraisats en règle : la responsabilité du donneur d’ordre est engagée, tant vis-à-vis des compagnons exposés aux poussières que des filières de traitement. Intégrer le carottage dès la phase d’étude, c’est sécuriser le démarrage des travaux sans immobiliser le planning. Basés à Tours, nous couvrons toute l’Indre-et-Loire et les départements voisins — contactez-nous en amont de votre consultation pour caler la campagne.

@@ -1,30 +1,30 @@
 ---
 slug: argenteuil
-ville: Repérage  et    Argenteuil
+ville: Argenteuil
 codePostal: '95100'
 departement: '95'
-metaTitle: Repérage amiante et HAP enrobés routiers Argenteuil | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Argenteuil
+metaTitle: "Carottage & amiante enrobés Argenteuil (95100)"
+metaDescription: "Évitez l’arrêt de chantier à Argenteuil : carottage d’enrobés, détection amiante et HAP avant vos travaux de voirie dans le Val-d’Oise. Réponse 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-argenteuil-95100.html
 lat: 48.948465
 lng: 2.248202
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Argenteuil
+Un chantier de voirie stoppé net parce qu’une suspicion d’amiante apparaît au rabotage : ce scénario, chaque maître d’ouvrage du Val-d’Oise cherche à l’éviter. À Argenteuil, la parade tient en un mot : anticiper. Le repérage des polluants dans les couches bitumineuses, mené en amont, transforme une inconnue coûteuse en simple donnée d’entrée du projet.
 
-![Repérage amiante et HAP enrobés routiers Argenteuil](images/logo.png)
+## L’arrêt de chantier, un risque qui se chiffre
 
- [![Repérage amiante et HAP enrobés routiers Argenteuil](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Lorsque des fibres d’amiante ou des liants riches en HAP sont découverts en cours d’exécution, tout s’interrompt : mise en sécurité de la zone, information des entreprises, reprise des procédures, renégociation éventuelle du marché. Pour une collectivité ou un promoteur, ces journées perdues pèsent bien plus lourd que le coût d’un diagnostic préalable. La responsabilité du donneur d’ordre peut en outre être recherchée si des salariés ont été exposés faute de repérage.
 
-![Repérage amiante et HAP enrobés routiers Argenteuil](images/picto-mail.png) **contact @ france-carottage.fr**
+## Comment se déroule un carottage à Argenteuil
 
-Argenteuil est la commune la plus importante du Val-d'Oise (95) sur le plan de la démographie.
+France Carottage intervient sur tous types d’emprises : chaussées communales, parkings, plateformes, tranchées de réseaux, abords de bâtiments. Concrètement :
 
-Originellement, c'était un territoire exclusivement rural qui était exploité pour l'agriculture et pour la viticulture.
+1. définition du plan d’échantillonnage selon la surface et l’historique des enrobés ;
+2. extraction des carottes avec rebouchage soigné, y compris sous circulation alternée ;
+3. analyses amiante et HAP confiées à un laboratoire accrédité ;
+4. remise d’un rapport de repérage directement exploitable par votre maîtrise d’œuvre.
 
-Dorénavant, Argenteuil est très urbanisée.
+## Amiante enrobés à Argenteuil : des résultats rapides
 
-Cette ville est accessible par plusieurs grandes routes, notamment par l'autoroute A86.
-
-Si vous êtes confronté à des travaux publics, pensez à faire vérifier la présence de l'amiante et des HAP dans les enrobés routiers d'Argenteuil.
+Notre organisation permet une mobilisation sous 24 à 48 heures sur Argenteuil et le département du Val-d’Oise. Les conclusions du repérage amiante enrobés vous indiquent si les matériaux peuvent être fraisés de façon conventionnelle, recyclés en centrale ou dirigés vers une filière de traitement spécifique. Vous consolidez ainsi votre planning, vos coûts et la sécurité des équipes avant la première passe de raboteuse.

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Vertou | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Vertou
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vertou-44120.html
-lat: 47.394
-lng: 0.687
+lat: 47.155326
+lng: -1.467557
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Vertou

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Olivet | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Olivet
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-olivet-45160.html
-lat: 47.394
-lng: 0.687
+lat: 47.859196
+lng: 1.889457
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Olivet

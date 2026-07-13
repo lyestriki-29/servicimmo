@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Vannes | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Vannes
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vannes-56000.html
-lat: 47.394
-lng: 0.687
+lat: 47.659971
+lng: -2.752192
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Vannes

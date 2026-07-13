@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Cenon | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Cenon
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cenon-33150.html
-lat: 47.394
-lng: 0.687
+lat: 44.854935
+lng: -0.523227
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Cenon

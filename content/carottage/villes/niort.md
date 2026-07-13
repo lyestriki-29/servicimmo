@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Niort | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Niort
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-niort-79000.html
-lat: 47.394
-lng: 0.687
+lat: 46.327232
+lng: -0.466291
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Niort

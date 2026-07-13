@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Blois | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Blois
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-blois-41000.html
-lat: 47.394
-lng: 0.687
+lat: 47.581406
+lng: 1.316533
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Blois

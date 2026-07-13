@@ -1,26 +1,25 @@
 ---
 slug: angers
-ville: Repérage  et    Angers
+ville: Angers
 codePostal: '49000'
 departement: '49'
-metaTitle: Repérage amiante et HAP enrobés routiers Angers | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Angers
+metaTitle: "Carottage & amiante enrobés Angers (49000)"
+metaDescription: "Sécurisez vos chantiers de voirie à Angers (49) : carottage d’enrobés, recherche d’amiante et de HAP, planification rapide sous 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-angers-49000.html
-lat: 47.394
-lng: 0.687
-brut: true
+lat: 47.467471
+lng: -0.561615
 ---
-# Repérage amiante et HAP enrobés routiers Angers
+Un marché de voirie attribué, une entreprise mobilisée, puis un doute sur la présence d’amiante dans la chaussée : ce scénario se termine presque toujours par un arrêt de chantier coûteux. La réglementation issue du Code du travail l’anticipe en imposant au donneur d’ordre un repérage avant toute intervention sur les enrobés — à Angers comme sur l’ensemble du territoire.
 
-![Repérage amiante et HAP enrobés routiers Angers](images/logo.png)
+## Ce que coûte un repérage absent
 
- [![Repérage amiante et HAP enrobés routiers Angers](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Sans diagnostic, l’entreprise de travaux est en droit de suspendre son intervention ; les fraisats ne peuvent être ni valorisés ni évacués faute de caractérisation, et la responsabilité pénale du maître d’ouvrage peut être recherchée en cas d’exposition des salariés. À l’inverse, un repérage mené en phase de conception se planifie sans peser sur le calendrier de l’opération.
 
-![Repérage amiante et HAP enrobés routiers Angers](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une méthodologie encadrée
 
-Angers se trouve quasiment à égale distance de la Manche et de l'Océan Pacifique.
+Le prélèvement par carottage traverse l’intégralité de la structure bitumineuse et permet d’attribuer les résultats à chaque couche. Nos échantillons, localisés et tracés, sont analysés en laboratoire accrédité pour la recherche de fibres d’amiante et le dosage des HAP. Le trou de sondage est rebouché dans la foulée, la voie restant exploitable. Chaque point fait l’objet d’un repérage photographique et d’une localisation précise, reportés dans le rapport final.
 
-Les routes que vous empruntez et toutes les autres surfaces bitumées sont susceptibles de renfermer de l'amiante et des HAP non dangereux tant qu'ils ne sont pas libérés par le fait d'une dégradation volontaire ou non.
+## Planifier votre diagnostic en Maine-et-Loire
 
-Au préalable de travaux sur un revêtement bitumeux, il est nécessaire de faire accomplir un diagnostic amiante et HAP enrobés routiers à Angers par FRANCE CAROTTAGE afin de connaitre la présence ou non de ces deux substances dangereuses.
+Nous assurons votre carottage à Angers et dans tout le Maine-et-Loire (49), avec une planification sous 24 à 48 h. Voirie communale, réseaux, parkings ou plateformes : la recherche d’amiante et de HAP sur les enrobés à Angers vous donne les données nécessaires pour rédiger vos consultations, arrêter les modes opératoires et choisir les bonnes filières d’évacuation. Prenez contact dès l’amont de votre projet pour caler la campagne.

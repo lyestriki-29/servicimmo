@@ -1,32 +1,25 @@
 ---
 slug: bordeaux
-ville: Repérage  et    Bordeaux
+ville: Bordeaux
 codePostal: '33000'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Bordeaux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bordeaux
+metaTitle: "Carottage & amiante enrobés Bordeaux (33000)"
+metaDescription: "Avant rabotage ou terrassement à Bordeaux (33), faites carotter vos enrobés : détection amiante et HAP, rapport exploitable, délais 24-48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bordeaux-33000.html
 lat: 44.851895
 lng: -0.587877
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bordeaux
+Depuis le décret du 9 mai 2017 relatif au repérage avant travaux, la responsabilité de rechercher l’amiante pèse directement sur celui qui commande l’opération. Pour un gestionnaire de voirie ou un maître d’œuvre bordelais, cela signifie qu’aucun marché de rabotage, de renouvellement de couche de roulement ou d’ouverture de tranchée ne peut être lancé sans un diagnostic préalable des enrobés.
 
-![Repérage amiante et HAP enrobés routiers Bordeaux](images/logo.png)
+## Une obligation qui engage le donneur d’ordre
 
- [![Repérage amiante et HAP enrobés routiers Bordeaux](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+En cas de contrôle de l’inspection du travail, c’est bien la collectivité ou le promoteur qui doit démontrer avoir fait rechercher l’amiante et évalué la présence de HAP. L’enjeu dépasse la conformité administrative : exposer des compagnons à des fibres cancérogènes ou orienter des fraisats pollués vers une mauvaise filière engage des responsabilités lourdes et peut immobiliser un chantier entier.
 
-![Repérage amiante et HAP enrobés routiers Bordeaux](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulement d’une campagne à Bordeaux
 
-Ville du sud-ouest de la France, Bordeaux est le chef-lieu du département de la Gironde.
+Nos opérateurs définissent avec vous un maillage de sondages représentatif du linéaire concerné. Sur chaque point, une carotteuse extrait un cylindre couvrant toutes les strates du revêtement ; l’emplacement est aussitôt comblé et la zone rendue à l’exploitation. Les échantillons partent ensuite en laboratoire accrédité pour identification des fibres et quantification des HAP.
 
-Bordeaux est mondialement réputé pour ses vignobles.
+## Des résultats exploitables pour vos marchés
 
-Une partie de la ville, le port de la Lune, appartient à la liste du patrimoine mondial.
-
-Bordeaux offre donc de nombreuses possibilités d’investissement, de construction d’infrastructure ou de réseaux routiers.
-
-Faites confiance à France Carottage pour effectuer les repérages amiante et HAP sur les enrobés routiers de Bordeaux.
-
-Mettez en route tous vos projets !
+Le rapport final cartographie les zones saines et les zones polluées, couche par couche : vous pouvez ainsi dimensionner les modes opératoires, chiffrer l’évacuation des matériaux et sécuriser vos pièces de marché. France Carottage programme votre carottage à Bordeaux et partout en Gironde (33) sous 24 à 48 h, en voirie, sur réseaux ou en bâtiment. Sollicitez-nous en amont pour intégrer le repérage amiante et HAP des enrobés à Bordeaux dans votre calendrier d’opération.

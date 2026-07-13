@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Lucé | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Lucé
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-luce-28110.html
-lat: 47.394
-lng: 0.687
+lat: 48.433504
+lng: 1.455674
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Lucé

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Creil | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Creil
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-creil-60100.html
-lat: 47.394
-lng: 0.687
+lat: 49.257474
+lng: 2.4788
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Creil

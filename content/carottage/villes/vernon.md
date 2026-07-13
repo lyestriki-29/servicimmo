@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Vernon | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Vernon
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vernon-27200.html
-lat: 47.394
-lng: 0.687
+lat: 49.089623
+lng: 1.494472
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Vernon

@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Cognac | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Cognac
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cognac-16100.html
-lat: 47.394
-lng: 0.687
+lat: 45.694905
+lng: -0.337146
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Cognac

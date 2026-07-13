@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Flers | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Flers
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-flers-61100.html
-lat: 47.394
-lng: 0.687
+lat: 48.737426
+lng: -0.563453
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Flers

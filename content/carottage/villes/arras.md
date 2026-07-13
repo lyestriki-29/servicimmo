@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Arras | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Arras
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-arras-62000.html
-lat: 47.394
-lng: 0.687
+lat: 50.287896
+lng: 2.768267
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Arras

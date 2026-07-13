@@ -1,28 +1,25 @@
 ---
 slug: roubaix
-ville: Repérage  et    Roubaix
+ville: Roubaix
 codePostal: '59100'
 departement: '59'
-metaTitle: Repérage amiante et HAP enrobés routiers Roubaix | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Roubaix
+metaTitle: "Carottage & amiante enrobés Roubaix (59100)"
+metaDescription: "Amiante et HAP dans les enrobés à Roubaix : carottage normé pour fiabiliser budget, sécurité et évacuation des matériaux. Mobilisation 24-48 h, Nord."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-roubaix-59100.html
 lat: 50.688454
 lng: 3.183662
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Roubaix
+Un aléa amiante découvert après la signature des marchés fait déraper le coût d’une opération de voirie : procédures alourdies, évacuation en installation spécialisée, avenants, immobilisation des équipes. Le maître d’ouvrage qui pilote un projet à Roubaix, dans le Nord, a donc intérêt à lever cette incertitude dès les études, quand elle ne coûte encore que le prix de quelques sondages.
 
-![Repérage amiante et HAP enrobés routiers Roubaix](images/logo.png)
+## Budgéter juste grâce au carottage à Roubaix
 
- [![Repérage amiante et HAP enrobés routiers Roubaix](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Réalisé en phase de conception, le carottage d’enrobés fournit des données objectives sur les couches bitumineuses : présence ou absence d’amiante, concentration en HAP, épaisseurs réelles. Ces informations permettent d’estimer correctement les postes de désamiantage éventuel et d’évacuation des matériaux, de rédiger des dossiers de consultation sans zone d’ombre et de comparer les offres des entreprises sur des bases identiques. C’est l’inverse du pari : vous chiffrez ce que vous savez.
 
-![Repérage amiante et HAP enrobés routiers Roubaix](images/picto-mail.png) **contact @ france-carottage.fr**
+## La santé des intervenants, condition de la poursuite du chantier
 
-Labellisée Ville d'Art et d'Histoire, Roubaix fait montre d'un riche patrimoine architectural.
+Au-delà du budget, le repérage amiante enrobés à Roubaix conditionne la protection des personnels amenés à fraiser, découper ou terrasser. Une pollution ignorée expose les opérateurs à des fibres cancérogènes et place le donneur d’ordre en situation de faute. Un rapport d’analyse établi avant le lancement des travaux permet au contraire de retenir des techniques adaptées et de maintenir le chantier ouvert en toute légalité.
 
-Son développement a été fortement influencé par l'industrie textile.
+## Notre engagement de service dans le Nord
 
-Si un ouvrage devait subir une rénovation, sachez qu'il est préférable de diagnostiquer les substances nocives avant de débuter les travaux.
-
-L'amiante et les HAP peuvent ainsi être repérés dans les enrobés routiers de Roubaix.
+France Carottage prélève sur chaussées, parkings, cours d’établissements, plateformes logistiques et abords de bâtiments, puis fait analyser chaque carotte par un laboratoire accrédité. La restitution distingue précisément les strates concernées par une contamination. Présents à Roubaix et dans tout le département du Nord, nous programmons l’intervention sous 24 à 48 heures et adaptons nos créneaux aux contraintes de circulation. Transmettez-nous votre projet pour recevoir une proposition détaillée.

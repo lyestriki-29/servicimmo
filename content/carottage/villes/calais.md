@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Calais | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Calais
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-calais-62100.html
-lat: 47.394
-lng: 0.687
+lat: 50.951564
+lng: 1.866112
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Calais

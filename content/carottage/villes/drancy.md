@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Drancy | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Drancy
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-drancy-93700.html
-lat: 47.394
-lng: 0.687
+lat: 48.924157
+lng: 2.444197
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Drancy

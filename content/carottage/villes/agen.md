@@ -7,8 +7,8 @@ metaTitle: Repérage amiante et HAP enrobés routiers Agen | France Carottage
 metaDescription: Repérage amiante et HAP enrobés routiers Agen
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-agen-47000.html
-lat: 47.394
-lng: 0.687
+lat: 44.202304
+lng: 0.631041
 brut: true
 ---
 # Repérage amiante et HAP enrobés routiers Agen
