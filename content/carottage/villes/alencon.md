@@ -1,26 +1,23 @@
 ---
 slug: alencon
-ville: Repérage  et    Alençon
+ville: Alençon
 codePostal: '61000'
 departement: '61'
-metaTitle: Repérage amiante et HAP enrobés routiers Alençon | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Alençon
+metaTitle: "Carottage enrobés à Alençon : amiante et HAP (61000)"
+metaDescription: "Parking, cour ou chaussée à rénover à Alençon ? France Carottage sonde vos enrobés et fait rechercher amiante et HAP en laboratoire accrédité."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-alencon-61000.html
 lat: 48.429633
 lng: 0.092012
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Alençon
+Vous prévoyez de raboter un parking, de reprendre une cour d’entreprise ou de rouvrir une chaussée à Alençon ? Tant que la composition du bitume n’a pas été vérifiée, le chantier ne peut pas démarrer sereinement : certains revêtements anciens renferment de l’amiante ou des HAP.
 
-![Repérage amiante et HAP enrobés routiers Alençon](images/logo.png)
+## Une obligation qui engage le donneur d’ordre
 
- [![Repérage amiante et HAP enrobés routiers Alençon](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Celui qui commande les travaux répond de la sécurité des équipes envoyées sur la surface bitumée. Sans repérage préalable, une exposition accidentelle aux fibres peut lui être directement reprochée. Le carottage à Alençon fournit la preuve documentée que ce devoir de prévention a bien été rempli.
 
-![Repérage amiante et HAP enrobés routiers Alençon](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du forage au rapport de laboratoire
 
-De somptueux monuments, dont certains ont une forme atypique, sont à découvrir lors d'un passage à Alençon.
+Nos techniciens extraient des échantillons sur toute l’épaisseur du revêtement, puis les confient à un laboratoire accrédité chargé d’y rechercher l’amiante et d’y doser les HAP, couche par couche. Le rapport d’analyse, remis rapidement, sert de base au tri des matériaux et aux consignes de protection.
 
-Avez-vous vérifié que vous possédez le diagnostic amiante et HAP enrobés routiers à Alençon avant d'entreprendre des travaux sur votre parking ou autre surface bitumée ? Si ce n'est pas le cas, appelez sans tarder FRANCE CAROTTAGE.
-
-Vous êtes responsable de la sécurité des personnes qui interviendront sur votre chantier et la non production de ce diagnostic amiante et HAP enrobés routiers peut engendrer de graves conséquences sur ce point-là.
+Pour un diagnostic amiante enrobés à Alençon, dans l’Orne ou aux alentours, contactez France Carottage : nous calons l’intervention sur votre planning.

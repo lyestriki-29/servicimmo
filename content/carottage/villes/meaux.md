@@ -1,28 +1,21 @@
 ---
 slug: meaux
-ville: Repérage  et    Meaux
+ville: Meaux
 codePostal: '77100'
 departement: '77'
-metaTitle: Repérage amiante et HAP enrobés routiers Meaux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Meaux
+metaTitle: "Carottage & amiante enrobés Meaux (77100)"
+metaDescription: "À Meaux (77), France Carottage sonde vos chaussées avant travaux : détection de l’amiante, mesure des HAP et rapport d’analyse localisé point par point."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-meaux-77100.html
 lat: 48.959287
 lng: 2.902726
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Meaux
+Desservie par la RN3 et l’autoroute A4, Meaux développe ses aménagements cyclables et entretient un réseau viaire conséquent. Agrandissement, rénovation ou démolition : chaque opération touchant une chaussée exige de savoir ce que contiennent ses enrobés. L’amiante, massivement employé des années 1970 au milieu des années 1990, s’y rencontre encore, tout comme les HAP des anciens liants.
 
-![Repérage amiante et HAP enrobés routiers Meaux](images/logo.png)
+## Un contrôle qui ne s’improvise pas
 
- [![Repérage amiante et HAP enrobés routiers Meaux](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Le carottage à Meaux prélève un échantillon continu de la structure bitumineuse. Analysé en laboratoire accrédité, il révèle la présence de fibres et la concentration en hydrocarbures aromatiques polycycliques de chaque couche — la seule base fiable pour organiser le chantier.
 
-![Repérage amiante et HAP enrobés routiers Meaux](images/picto-mail.png) **contact @ france-carottage.fr**
+## Ce que vous apporte France Carottage
 
-A plus de 40 km de la capitale, Paris, Meaux est accessible par le réseau routier (en particulier la RN3 et l'A4), Meaux est une ville propice aux promenades sur l'eau, le long de la Marne.
-
-Les déplacements à vélo y sont par ailleurs favorisés grâce à la conception et à l'expansion de voies réservées aux cyclistes.
-
-Un agrandissement, une rénovation ou une destruction ? N'oubliez pas de diagnostiquer l'amiante ainsi que les HAP dans les enrobés routiers de Meaux.
-
-Aujourd'hui prohibé à cause de ses effets néfastes, l'amiante a cependant été très utilisé de 1970 à 1995, et plus particulièrement sur les routes pavées.
+Un plan de sondage ajusté à votre emprise, des forages rebouchés dans la foulée, puis un rapport localisé qui vaut repérage amiante enrobés à Meaux : équipements de protection à prévoir, tri des fraisats, pièces pour vos consultations. Collectivités et entreprises de Seine-et-Marne peuvent nous solliciter dès la phase de programmation.

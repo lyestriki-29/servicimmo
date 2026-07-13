@@ -1,26 +1,23 @@
 ---
 slug: fecamp
-ville: Repérage  et    Fécamp
+ville: Fécamp
 codePostal: '76400'
 departement: '76'
-metaTitle: Repérage amiante et HAP enrobés routiers Fécamp | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Fécamp
+metaTitle: "Fécamp : carottage d’enrobés, amiante et HAP (76400)"
+metaDescription: "Recyclage des fraisats, sécurité des équipes : le carottage d’enrobés à Fécamp détecte l’amiante et mesure les HAP avant vos chantiers routiers."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fecamp-76400.html
 lat: 49.750369
 lng: 0.396705
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Fécamp
+À Fécamp comme ailleurs, une entreprise ne peut pas intervenir sur un enrobé routier sans savoir ce qu’il contient. La présence d’amiante ou de HAP change tout : protection des équipes, technique de retrait, devenir des matériaux.
 
-![Repérage amiante et HAP enrobés routiers Fécamp](images/logo.png)
+## Recycler les fraisats, une question de teneur
 
- [![Repérage amiante et HAP enrobés routiers Fécamp](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les agrégats d’enrobés se réemploient de plus en plus — à condition d’être sains. Le carottage à Fécamp mesure précisément la teneur en HAP et détecte les fibres d’amiante : selon les résultats, les fraisats repartent en centrale d’enrobage ou rejoignent une filière d’élimination adaptée.
 
-![Repérage amiante et HAP enrobés routiers Fécamp](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le maître d’ouvrage au centre de l’obligation
 
-Dieppe compte quatre ports aux activités différentes : plaisance, pêché, transmanche et commerce.
+C’est au commanditaire des travaux de faire établir le repérage amiante enrobés à Fécamp, puis de le transmettre aux entreprises consultées. France Carottage produit ce document de bout en bout : sondages tracés, analyses en laboratoire accrédité, conclusions sans ambiguïté.
 
-Une entreprise devant intervenir sur un enrobé routier doit au préalable être informé de la présence ou non d'amiante mais aussi des HAP afin permettre le recyclage de l'enrobé routier dans les règles.
-
-Cette information est fournie par le diagnostic amiante et HAP enrobés routiers à Dieppe que chaque maitre d'ouvrage devra posséder.
+Nous intervenons à Fécamp et dans toute la Seine-Maritime, avec des délais compatibles avec vos échéances de chantier.

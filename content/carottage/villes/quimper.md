@@ -1,30 +1,21 @@
 ---
 slug: quimper
-ville: Repérage  et    Quimper
+ville: Quimper
 codePostal: '29000'
 departement: '29'
-metaTitle: Repérage amiante et HAP enrobés routiers Quimper | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Quimper
+metaTitle: "Carottage & amiante enrobés Quimper (29000)"
+metaDescription: "Toute intervention sur chaussée à Quimper (29) mérite un contrôle : carottage d’enrobés, recherche d’amiante et dosage HAP en laboratoire accrédité."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-quimper-29000.html
 lat: 47.998695
 lng: -4.093228
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Quimper
+Sous les rues de Quimper, comme sous la plupart des voiries françaises, dorment des enrobés posés à une époque où amiante et goudrons entraient dans la composition des revêtements. Tant que la chaussée reste intacte, pas de danger particulier ; dès qu’on la découpe, la donne change.
 
-![Repérage amiante et HAP enrobés routiers Quimper](images/logo.png)
+## La moindre intervention justifie un contrôle
 
- [![Repérage amiante et HAP enrobés routiers Quimper](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Tranchée ponctuelle, purge localisée ou réfection complète : toute opération qui entame le revêtement peut libérer fibres et poussières. C’est pourquoi un diagnostic amiante enrobés Quimper, incluant le dosage des HAP, doit précéder les travaux, quelle que soit leur ampleur. Le résultat protège les intervenants et fixe le classement réglementaire des matériaux extraits.
 
-![Repérage amiante et HAP enrobés routiers Quimper](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une prestation complète, du plan de sondage au rapport
 
-Environ une vingtaine de films ont été tourné à Quimper.
-
-De l'amiante et des HAP sont potentiellement présents dans nos routes et toutes surfaces goudronnées.
-
-Ces substances ne sont pas nocives pour l'homme tant que ces voiries ne sont pas détériorées et qu'aucuns travaux ne sont réalisés.
-
-La moindre intervention sur une portion d'enrobés routiers requiert la pratique d'un diagnostic amiante et HAP enrobés routiers à Quimper.
-
-Appelez FRANCE CAROTTAGE pour en savoir plus !
+France Carottage prend en charge toute la chaîne : définition des points de prélèvement, carottage Quimper avec remise en état immédiate, acheminement des témoins vers un laboratoire accrédité, puis synthèse des résultats couche par couche. Collectivités et entreprises du Finistère reçoivent un document opposable, directement utilisable dans leurs consultations.

@@ -1,32 +1,23 @@
 ---
 slug: goussainville
-ville: Repérage  et    Goussainville
+ville: Goussainville
 codePostal: '95190'
 departement: '95'
-metaTitle: Repérage amiante et HAP enrobés routiers Goussainville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Goussainville
+metaTitle: "Amiante enrobés Goussainville : carottage et HAP (95190)"
+metaDescription: "Avant de manipuler un enrobé à Goussainville, faites rechercher fibres d’amiante et HAP : carottage, analyses accréditées et rapport détaillé."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-goussainville-95190.html
 lat: 49.02773
 lng: 2.46692
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Goussainville
+À l’est du Val-d’Oise, Goussainville s’est construite autour de ses lotissements et d’un maillage de dessertes fourni : rail, bus, autoroute, routes départementales. Ces infrastructures vieillissent et nécessitent des reprises régulières.
 
-![Repérage amiante et HAP enrobés routiers Goussainville](images/logo.png)
+## Des fibres invisibles mais redoutables
 
- [![Repérage amiante et HAP enrobés routiers Goussainville](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Inhalées, les fibres d’amiante provoquent des pathologies graves qui se déclarent des années plus tard. Les HAP, de leur côté, posent un problème sanitaire et environnemental dès que le bitume est chauffé ou concassé. D’où l’exigence d’un repérage amiante enrobés à Goussainville avant toute manipulation du revêtement.
 
-![Repérage amiante et HAP enrobés routiers Goussainville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Comment nous procédons
 
-Commune francilienne, Goussainville se trouve à l'est du Val-d'Oise.
+France Carottage organise le carottage à Goussainville en concertation avec vous : choix des points de forage, intervention balisée, remise en circulation immédiate. Les carottes sont ensuite examinées par un laboratoire accrédité, strate par strate.
 
-Goussainville est composée de nombreux lotissements.
-
-Ses habitants peuvent se déplacer en train, en bus, par l'autoroute et par des routes départementale et nationale.
-
-Les constructions immobilières et les infrastructures routières peuvent contenir des fibres amiantifères.
-
-Ces fibres impliquent de sérieux dangers si elles sont aspirées par les voies ORL.
-
-C'est pourquoi un diagnostic amiante et HAP est préconisé dans les enrobés routiers de Goussainville en vue de leur manipulation.
+Le rapport final vous donne une lecture nette du risque et vous permet de consulter les entreprises sur des bases solides. Devis rapide sur simple demande.

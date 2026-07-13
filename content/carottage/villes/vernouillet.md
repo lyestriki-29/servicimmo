@@ -1,30 +1,21 @@
 ---
 slug: vernouillet
-ville: Repérage  et    Vernouillet
+ville: Vernouillet
 codePostal: '28500'
 departement: '28'
-metaTitle: Repérage amiante et HAP enrobés routiers Vernouillet | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vernouillet
+metaTitle: "Carottage & amiante enrobés Vernouillet (28500)"
+metaDescription: "À Vernouillet (Eure-et-Loir), carottage de chaussées et repérage amiante HAP : analyses en laboratoire accrédité et rapport remis avant vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vernouillet-28500.html
 lat: 48.720567
 lng: 1.355581
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vernouillet
+Commune d’Eure-et-Loir en développement, Vernouillet voit son réseau routier évoluer au fil des projets d’aménagement. Avant de reprendre une chaussée, un contrôle des enrobés s’impose : les couches bitumineuses posées à certaines époques peuvent contenir de l’amiante ou des HAP.
 
-![Repérage amiante et HAP enrobés routiers Vernouillet](images/logo.png)
+## Un préalable réglementaire et sanitaire
 
- [![Repérage amiante et HAP enrobés routiers Vernouillet](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le repérage n’est pas une formalité : il conditionne la sécurité des équipes appelées à fraiser ou terrasser, ainsi que le devenir des matériaux extraits. Le carottage à Vernouillet apporte la réponse en prélevant l’intégralité de la structure, ensuite analysée en laboratoire accrédité — identification des fibres, dosage des hydrocarbures aromatiques polycycliques.
 
-![Repérage amiante et HAP enrobés routiers Vernouillet](images/picto-mail.png) **contact @ france-carottage.fr**
+## France Carottage à vos côtés
 
-Commune du département des Yvelines, Vernouillet est située à 29 kilomètres de la Porte Maillot de Paris.
-
-Vernouillet offre des opportunités de développement en termes d’infrastructures et de réseaux routiers.
-
-Un diagnostic dans les enrobés routiers est obligatoire pour prévenir de l’amiante et des HAP.
-
-Faites donc appel à France Carottage pour réaliser les repérages amiante et HAP sur les enrobés routiers de Vernouillet.
-
-Avec France Carottage, l’environnement, la sécurité, et le développement enroberont vos projets !
+De la définition du plan de sondage à la remise du rapport, nous gérons la campagne complète : forages propres, rebouchage immédiat, échantillons référencés. Le document final vaut repérage amiante enrobés à Vernouillet : composition couche par couche, zones à précautions, filières recommandées. Collectivités et entreprises du département 28 peuvent nous solliciter dès aujourd’hui pour un devis.

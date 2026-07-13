@@ -1,30 +1,21 @@
 ---
 slug: savigny-le-temple
-ville: Repérage  et    Savigny-le-Temple
+ville: Savigny-le-Temple
 codePostal: '77176'
 departement: '77'
-metaTitle: Repérage amiante et HAP enrobés routiers Savigny-le-Temple | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Savigny-le-Temple
+metaTitle: "Carottage à Savigny-le-Temple : amiante enrobés, HAP"
+metaDescription: "Chaussées, trottoirs et parkings à Savigny-le-Temple : faites repérer amiante et HAP des enrobés par carottage avant vos travaux en Seine-et-Marne."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-savigny-le-temple-77176.html
 lat: 48.587726
 lng: 2.576659
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Savigny-le-Temple
+Longtemps restée rurale, Savigny-le-Temple s’est transformée avec son intégration à la ville nouvelle de Sénart : la commune seine-et-marnaise se modernise et voit sa population progresser nettement. Ses aménagements des dernières décennies méritent aujourd’hui un regard attentif.
 
-![Repérage amiante et HAP enrobés routiers Savigny-le-Temple](images/logo.png)
+## Le bitume aussi peut contenir de l’amiante
 
- [![Repérage amiante et HAP enrobés routiers Savigny-le-Temple](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Nombre de logements des années 70 et 80 renferment de l’amiante ; c’est également vrai de bien des ouvrages en béton et des revêtements routiers. Trottoirs, chaussées, parkings : avant d’y toucher, faites établir un repérage amiante enrobés à Savigny-le-Temple, complété par la recherche de HAP. Les fibres inhalées provoquent des atteintes graves, notamment pulmonaires.
 
-![Repérage amiante et HAP enrobés routiers Savigny-le-Temple](images/picto-mail.png) **contact @ france-carottage.fr**
+## Organiser votre carottage à Savigny-le-Temple
 
-Savigny-le-Temple est longtemps restée une commune rurale de l'Ile-de-France.
-
-Depuis son assimilation dans la ville nouvelle de Sénart, Savigny se modernise et sa population s'accroît ostensiblement.
-
-Vous savez certainement que les logements construits durant les décennies 70 et 80 contiennent souvent beaucoup d'amiante.
-
-Saviez-vous qu'il en était de même pour tous les ouvrages béton ? Par conséquent, si vous prévoyez des travaux sur un tel ouvrage, faites repérer l'amiante mais aussi les HAP dans les enrobés routiers de Savigny-le-Temple.
-
-L'amiante a la particularité de provoquer des troubles au niveau pulmonaire, au niveau de la gorge et des organes reproducteurs.
+France Carottage planifie les prélèvements avec vous, fait analyser chaque carotte, puis vous transmet un document localisant les couches à risque. Vous adaptez ensuite le chantier en conséquence. Contactez-nous en amont de vos travaux en Seine-et-Marne.

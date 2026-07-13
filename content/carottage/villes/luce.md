@@ -1,28 +1,23 @@
 ---
 slug: luce
-ville: Repérage  et    Lucé
+ville: Lucé
 codePostal: '28110'
 departement: '28'
-metaTitle: Repérage amiante et HAP enrobés routiers Lucé | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Lucé
+metaTitle: 'Carottage & amiante enrobés Lucé (28110)'
+metaDescription: 'À Lucé (28), France Carottage prélève et analyse vos enrobés : amiante, HAP, stratigraphie complète et rapport remis avant le démarrage du chantier.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-luce-28110.html
 lat: 48.433504
 lng: 1.455674
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Lucé
+Voisine immédiate de Chartres, Lucé mène des projets d’aménagement ambitieux à l’échelle de son territoire. Pour chacun d’eux, dès qu’une chaussée existante est concernée, la réglementation appelle une vérification de la composition des enrobés.
 
-![Repérage amiante et HAP enrobés routiers Lucé](images/logo.png)
+## Une contrainte environnementale à prendre au sérieux
 
- [![Repérage amiante et HAP enrobés routiers Lucé](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+L’amiante incorporé autrefois à certains bitumes et les HAP issus des liants goudronneux figurent parmi les polluants les plus surveillés du domaine routier. Leur présence modifie les conditions d’exécution du chantier et interdit certaines voies de valorisation des matériaux.
 
-![Repérage amiante et HAP enrobés routiers Lucé](images/picto-mail.png) **contact @ france-carottage.fr**
+## L’expertise France Carottage au service de vos projets
 
-Commune française située dans le département de l’Eure-et-Loir, Lucé est limitrophe de Chartres.
+Le carottage à Lucé est planifié avec vous : nombre de sondages, implantation, fenêtres d’intervention. Chaque carotte, extraite sur l’épaisseur totale du revêtement, part en laboratoire accrédité, où l’amiante est recherché et les HAP dosés. Les forages sont rebouchés avant notre départ.
 
-La commune de Lucé malgré sa superficie moyenne et sa démographie peu élevée, développe des projets ambitieux comme l’Agri-quartier, projet inédit en France.
-
-Afin de respecter les contraintes environnementales liées à l’utilisation d’amiante et des HAP présents dans les enrobés, France Carottage met à votre service son expertise, son professionnalisme et sa rigueur.
-
-Faites donc réaliser vos repérages amiante et HAP sur les enrobés routiers de Lucé par France Carottage et vos projets rouleront !
+Vous recevez ensuite un rapport de repérage amiante enrobés Lucé attribuant une conclusion à chaque couche, avec plan de localisation. Ce livrable engage la suite : consultation des entreprises, choix des protections, orientation des fraisats. Nos équipes couvrent Lucé et tout l’Eure-et-Loir avec la même rigueur.

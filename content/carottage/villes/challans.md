@@ -1,32 +1,23 @@
 ---
 slug: challans
-ville: Repérage  et    Challans
+ville: Challans
 codePostal: '85300'
 departement: '85'
-metaTitle: Repérage amiante et HAP enrobés routiers Challans | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Challans
+metaTitle: "Challans : carottage routier, amiante enrobés et HAP (85300)"
+metaDescription: "À Challans, ville en pleine croissance, sécurisez vos chantiers de voirie : carottage d’enrobés et repérage amiante HAP par France Carottage."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-challans-85300.html
 lat: 46.83053
 lng: -1.845829
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Challans
+Avec plus de vingt-trois mille habitants, Challans figure parmi les communes les plus dynamiques de Vendée. Cette croissance entraîne son lot de chantiers : extensions de lotissements, requalifications de rues, réfections de stationnements.
 
-![Repérage amiante et HAP enrobés routiers Challans](images/logo.png)
+## Le préalable à tout chantier de voirie
 
- [![Repérage amiante et HAP enrobés routiers Challans](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Chaque opération qui attaque un revêtement existant exige de savoir si amiante et HAP s’y trouvent. Le repérage amiante enrobés à Challans identifie les couches à risque avant l’entrée en action des engins, ce qui évite d’exposer les équipes et de bloquer les travaux en cours de route.
 
-![Repérage amiante et HAP enrobés routiers Challans](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des carottes analysées en laboratoire accrédité
 
-Située dans le département de la Vendée, la commune de Challans compte plus de vingt-trois mille habitants.
+Le carottage à Challans se fait ponctuellement, sans perturber durablement la circulation : quelques forages ciblés, rebouchés dans la foulée. L’analyse distingue les fibres d’amiante des hydrocarbures aromatiques polycycliques et quantifie ces derniers au regard des seuils réglementaires.
 
-Les origines de Challans remontent à la préhistoire avec des sites mégalithiques.
-
-De construction en construction, Challans n’a fait que se développer tout comme sa population avec un pic prévu pour 2020.
-
-Dans cette optique, le réseau routier et les infrastructures sont nécessairement en mutation.
-
-France Carottage, fort de son expertise est le meilleur partenaire pour votre projet.
-
-Pour votre repérage de l’amiante et des HAP dans les enrobés routiers à Challans, inscrivez France Carottage sur votre feuille de route !
+France Carottage accompagne les donneurs d’ordre vendéens du devis jusqu’au rapport final. Parlez-nous de votre calendrier : nous nous y adaptons.

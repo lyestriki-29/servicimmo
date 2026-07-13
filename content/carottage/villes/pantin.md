@@ -1,30 +1,23 @@
 ---
 slug: pantin
-ville: Repérage  et    Pantin
+ville: Pantin
 codePostal: '93500'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Pantin | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Pantin
+metaTitle: 'Carottage enrobés Pantin (93500) : amiante & HAP'
+metaDescription: 'Avant rabotage à Pantin (93), vérifiez vos enrobés : carottage balisé, détection amiante, dosage HAP et compte rendu conforme aux exigences.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pantin-93500.html
 lat: 48.900267
 lng: 2.409457
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Pantin
+Collée à Paris et remarquablement desservie, Pantin voit sa population croître et ses espaces publics se transformer. Pour les responsables de réfection de chaussée, un réflexe s’impose avant l’ouverture du chantier : faire examiner les enrobés par un spécialiste.
 
-![Repérage amiante et HAP enrobés routiers Pantin](images/logo.png)
+## Des toxiques parfois présents en quantité
 
- [![Repérage amiante et HAP enrobés routiers Pantin](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Amiante et HAP peuvent se loger dans les couches bitumineuses en concentrations significatives. Libérés lors d’un rabotage ou d’un sciage, ils exposent les employés à des atteintes irréversibles. Seule une analyse en laboratoire, à partir d’échantillons réels, permet d’écarter ou de confirmer le risque.
 
-![Repérage amiante et HAP enrobés routiers Pantin](images/picto-mail.png) **contact @ france-carottage.fr**
+## France Carottage, opérateur de votre repérage
 
-Pantin, voisine de Paris, fait partie de la Seine-Saint-Denis.
+Nous menons le carottage à Pantin en environnement urbain contraint : signalisation temporaire, forages localisés au plan, remise en circulation rapide. Les carottes sont ensuite analysées par un laboratoire accrédité, qui statue couche par couche sur l’amiante et mesure les HAP.
 
-Avec une population qui ne cesse d'augmenter, cette ville compte de nombreux établissements scolaires.
-
-Desservie par plusieurs lignes de transport en commun, Pantin n'est qu'à quelques minutes de La Villette et des Buttes Chaumont.
-
-Si vous êtes responsable de la réfection d'une chaussée, demandez l'aide d'une société experte pour repérer l'amiante et les HAP dans les enrobés routiers à Pantin.
-
-Ces produits toxiques, susceptibles de se trouver en quantité importante dans les enrobés, peuvent provoquer des dommages aux conséquences irréversibles pour les employés.
+Votre rapport de repérage amiante enrobés Pantin rassemble localisation des sondages, stratigraphie et conclusions : il fonde le mode opératoire du chantier et le classement des déchets. Nos équipes interviennent dans toute la Seine-Saint-Denis, en horaires adaptés si l’exploitation l’exige.

@@ -1,32 +1,23 @@
 ---
 slug: drancy
-ville: Repérage  et    Drancy
+ville: Drancy
 codePostal: '93700'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Drancy | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Drancy
+metaTitle: "Carottage enrobés à Drancy (93700) : amiante, HAP"
+metaDescription: "Amiante cancérogène, HAP polluants : avant vos travaux de chaussée à Drancy, France Carottage sonde les enrobés et livre des analyses accréditées."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-drancy-93700.html
 lat: 48.924157
 lng: 2.444197
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Drancy
+Au cœur de la Seine-Saint-Denis, Drancy alterne quartiers denses et grands parcs départementaux. Ses rues très sollicitées appellent des rénovations régulières, qui ne devraient jamais démarrer sans contrôle préalable du bitume.
 
-![Repérage amiante et HAP enrobés routiers Drancy](images/logo.png)
+## Deux polluants à prendre au sérieux
 
- [![Repérage amiante et HAP enrobés routiers Drancy](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+L’amiante, classé cancérogène, et les HAP, reconnus polluants par l’Organisation mondiale de la santé, ont pu être incorporés aux revêtements posés jusque dans les années 1990. Le repérage amiante enrobés à Drancy lève le doute avant que quiconque n’attaque la chaussée, et documente le niveau de risque réel.
 
-![Repérage amiante et HAP enrobés routiers Drancy](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une intervention rapide sur votre emprise
 
-Drancy fait partie de la Seine-Saint-Denis, en Ile-de-France.
+Nos opérateurs réalisent le carottage à Drancy en quelques heures : forages ponctuels, échantillons scellés, envoi en laboratoire accrédité. Les résultats vous parviennent sous une forme directement intégrable à vos pièces de marché, sondage par sondage.
 
-Aire très urbanisée, Drancy est toutefois cernée d'espaces verts dont le Parc de La Courneuve et le Parc Départemental de la Bergère.
-
-Avant de réaliser une opération de rénovation de voie, procédez au repérage de l'amiante et des HAP dans les enrobés routiers à Drancy.
-
-France Carottage peut intervenir rapidement pour vous assister et vous fournir un diagnostic.
-
-Rappelons que l'amiante est hautement cancérogène.
-
-Quant aux  hydrocarbures aromatiques polycycliques, ils sont reconnus polluants par l'Organisation Mondiale de la Santé.
+France Carottage assiste collectivités, bailleurs et entreprises dans toute l’Île-de-France. Un appel suffit pour cadrer la mission et recevoir un chiffrage.

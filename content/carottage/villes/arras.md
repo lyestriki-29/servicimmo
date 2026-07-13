@@ -1,28 +1,21 @@
 ---
 slug: arras
-ville: Repérage  et    Arras
+ville: Arras
 codePostal: '62000'
 departement: '62'
-metaTitle: Repérage amiante et HAP enrobés routiers Arras | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Arras
+metaTitle: "Carottage des enrobés à Arras : repérage amiante et HAP"
+metaDescription: "Carottage des enrobés à Arras : recherche d’amiante et dosage des HAP en laboratoire pour sécuriser vos chantiers de voirie et vos équipes."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-arras-62000.html
 lat: 50.287896
 lng: 2.768267
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Arras
+Chef-lieu du Pas-de-Calais, Arras entretient un réseau de rues et de places dont certaines couches de roulement datent de plusieurs générations. Un carottage à Arras s’impose dès qu’un chantier prévoit d’attaquer ces revêtements anciens.
 
-![Repérage amiante et HAP enrobés routiers Arras](images/logo.png)
+## Des liants anciens sous surveillance
 
- [![Repérage amiante et HAP enrobés routiers Arras](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Jusque dans les années 1990, de l’amiante a été incorporé à certains bitumes, tandis que les goudrons plus vieux concentrent des HAP. Impossible de distinguer à l’œil nu un enrobé sain d’un enrobé pollué : seule l’analyse d’échantillons apporte une réponse fiable. Le diagnostic amiante enrobés à Arras protège donc les compagnons autant qu’il sécurise juridiquement le donneur d’ordre.
 
-![Repérage amiante et HAP enrobés routiers Arras](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du prélèvement au rapport final
 
-Si Arras est le chef-lieu de son département, cette ville n'est pas la plus peuplée.
-
-En revanche, Arras est jeune (sans doute grâce à son caractère universitaire) et touristique (avec des monuments classés par l'UNESCO et son festival musical).
-
-Si vous êtes chargé de raboter une voie publique ou privée, n'oubliez pas l'investigation relative à l'amiante et aux HAP présents dans les enrobés routiers à Arras.
-
-Une enquête indispensable pour garantir des conditions de travail optimales aux employés.
+Les carottes extraites de la chaussée sont conditionnées puis confiées à un laboratoire qui identifie l’amiante et dose les HAP. Selon les résultats, le maître d’œuvre adapte son mode opératoire : fraisage sous protection renforcée, évacuation en filière dédiée ou réemploi des matériaux sains. Sur Arras et sa périphérie, France Carottage organise rapidement ce repérage préalable et remet un rapport clair, exploitable dès la préparation du chantier.

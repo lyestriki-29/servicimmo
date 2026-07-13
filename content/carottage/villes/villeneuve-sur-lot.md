@@ -1,30 +1,23 @@
 ---
 slug: villeneuve-sur-lot
-ville: Repérage  et    Villeneuve-sur-Lot
+ville: Villeneuve-sur-Lot
 codePostal: '47300'
 departement: '47'
-metaTitle: Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot
+metaTitle: "Carottage Villeneuve-sur-Lot : amiante enrobés et HAP"
+metaDescription: "Démolir une voie libère fibres et poussières : à Villeneuve-sur-Lot, France Carottage repère amiante et HAP dans vos enrobés avant travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-villeneuve-sur-lot-47300.html
 lat: 44.416152
 lng: 0.747052
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot
+Labellisée Ville d’art et d’histoire, Villeneuve-sur-Lot veille autant sur ses remparts que sur son réseau viaire. Or démolir ou raboter une voie libère des particules qu’il faut avoir identifiées au préalable.
 
-![Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot](images/logo.png)
+## Protéger ouvriers et riverains
 
- [![Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Lors de la déconstruction d’une chaussée, fibres d’amiante et poussières chargées en HAP peuvent être inhalées par les équipes comme par les passants. Le repérage amiante enrobés à Villeneuve-sur-Lot évalue ce danger avant l’arrivée du premier engin sur zone.
 
-![Repérage amiante et HAP enrobés routiers Villeneuve-sur-Lot](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une campagne dimensionnée à votre projet
 
-Grande ville du Lot-et-Garonne au nord d'Agen, Villeneuve-sur-Lot est labellisée Ville d'Art et d'Histoire.
+France Carottage adapte le carottage à Villeneuve-sur-Lot à la taille de l’emprise : nombre de sondages, profondeur, cadence d’exécution. Les analyses en laboratoire accrédité aboutissent à un rapport clair, exploitable pour le marché de travaux comme pour la gestion des déchets bitumineux.
 
-Si l'on peut y visiter ses remparts et son église, Villeneuve-sur-Lot est également un lieu où l'on peut se promener, sur terre comme sur l'eau.
-
-Vous mettez en place un programme de rénovation routière à Villeneuve ? Avez-vous pensé à l'amiante et aux HAP ? Ces composants chimiques sont libérés lors de la démolition d'une voie.
-
-Les particules peuvent alors être aspirées par les ouvriers et les passants, causant des dommages non négligeables sur leur santé.
-
-C'est pourquoi nous vous recommandons de procéder au repérage de l'amiante et des HAP dans les enrobés routiers de Villeneuve-sur-Lot avant le début de vos travaux.
+Communes et entreprises du Lot-et-Garonne : sollicitez un devis, nous répondons sous quelques jours.

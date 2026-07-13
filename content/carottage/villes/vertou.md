@@ -1,30 +1,23 @@
 ---
 slug: vertou
-ville: Repérage  et    Vertou
+ville: Vertou
 codePostal: '44120'
 departement: '44'
-metaTitle: Repérage amiante et HAP enrobés routiers Vertou | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vertou
+metaTitle: 'Carottage enrobés Vertou (44120) : amiante & HAP'
+metaDescription: 'Sondages d’enrobés à Vertou (44) : carottage, recherche d’amiante et de HAP, rapport stratigraphique pour vos aménagements de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vertou-44120.html
 lat: 47.155326
 lng: -1.467557
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vertou
+Entre vignoble du Muscadet et périphérie nantaise, Vertou conjugue territoires agricoles et développement de son réseau routier. Cette évolution s’accompagne d’une exigence sanitaire : vérifier les enrobés existants avant d’y engager le moindre chantier.
 
-![Repérage amiante et HAP enrobés routiers Vertou](images/logo.png)
+## Des contraintes sanitaires bien identifiées
 
- [![Repérage amiante et HAP enrobés routiers Vertou](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Les bitumes anciens peuvent contenir de l’amiante ; les liants goudronneux, des HAP. Ces substances, sans danger tant qu’elles restent emprisonnées, deviennent redoutables dès qu’un fraisage les libère. La réglementation impose donc leur recherche préalable, quelle que soit l’apparence du revêtement.
 
-![Repérage amiante et HAP enrobés routiers Vertou](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un repérage exigeant, pensé pour vos travaux
 
-Commune de l’ouest de la France, située dans le département de la Loire-Atlantique, Vertou conserve de nombreux territoires agricoles et notamment le vignoble du Muscadet.
+Le carottage à Vertou s’effectue sur des points définis d’après vos plans : extraction d’éprouvettes sur toute la hauteur de la structure, rebouchage immédiat, envoi des échantillons en laboratoire accrédité. Recherche d’amiante et dosage des HAP aboutissent à une conclusion par couche.
 
-Néanmoins, la commune de Vertou est désireuse de développer ses infrastructures, et son réseau routier.
-
-Pour faire face aux contraintes sanitaires et environnementales comme l’amiante et les HAP présents dans les enrobés bitumineux, France Carottage apporte son expertise et effectue des repérages exigeants et de qualité.
-
-Faites donc confiance à France Carottage pour votre repérage de l’amiante et des HAP sur les enrobés routiers de Vertou.
-
-Mettez en route votre projet !
+Le rapport de repérage amiante enrobés Vertou consolide ces résultats avec la localisation des sondages : il alimente vos consultations, vos modes opératoires et la traçabilité de vos déblais. France Carottage intervient à Vertou et dans toute la Loire-Atlantique, au rythme de vos projets.

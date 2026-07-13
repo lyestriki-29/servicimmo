@@ -1,28 +1,21 @@
 ---
 slug: dieppe
-ville: Repérage  et    Dieppe
+ville: Dieppe
 codePostal: '76200'
 departement: '76'
-metaTitle: Repérage amiante et HAP enrobés routiers Dieppe | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Dieppe
+metaTitle: "Carottage à Dieppe : détection amiante et HAP enrobés"
+metaDescription: "Carottage à Dieppe pour détecter amiante et HAP dans les enrobés : couches contaminées localisées, teneurs mesurées et préconisations pour vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-dieppe-76200.html
 lat: 49.919877
 lng: 1.086296
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Dieppe
+À Dieppe comme partout en Seine-Maritime, les chaussées anciennes méritent un examen attentif avant travaux. L’amiante n’a pas servi que dans le bâtiment : incorporée à certains enrobés pour limiter leur dilatation et l’apparition de nids-de-poule, elle peut resurgir dès que l’on attaque le revêtement.
 
-![Repérage amiante et HAP enrobés routiers Dieppe](images/logo.png)
+## Amiante, HAP : deux contrôles indissociables
 
- [![Repérage amiante et HAP enrobés routiers Dieppe](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les goudrons et liants d’autrefois peuvent par ailleurs concentrer des HAP. Au-delà d’un certain seuil, le fraisat ne peut plus être réemployé sur un autre chantier et doit rejoindre une filière d’élimination adaptée. D’où l’importance d’un repérage amiante enrobés à Dieppe mené avant toute opération sur une surface bitumée.
 
-![Repérage amiante et HAP enrobés routiers Dieppe](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulement du carottage à Dieppe
 
-Le centre du Havre possède une forêt urbaine où se cotoyent les sportifs, les enfants ou les amateurs de balades pédestres, équestres ou à vélo.
-
-L'amiante n'est pas seulement présent dans les biens immobiliers, les enrobés routiers sont aussi concernés car l'amiante limitait la dilation de l'enrobé provoquant les nids de poule.
-
-Les goudrons quant à eux peuvent contenir des HAP et s'ils sont présents au-dessus d'un certain seuil, l'enrobé ne pourra pas être recyclé sur un autre chantier.
-
-Toutes les surfaces bitumées sont tenues à un diagnostic amiante et HAP enrobés routiers au Havre réalisable par FRANCE CAROTTAGE.
+France Carottage prélève des carottes sur les zones concernées, les fait analyser par un laboratoire accrédité, puis vous restitue un rapport exploitable : localisation des couches contaminées, teneurs mesurées, préconisations. De quoi organiser vos travaux de voirie sereinement. Contactez-nous pour convenir d’un rendez-vous.

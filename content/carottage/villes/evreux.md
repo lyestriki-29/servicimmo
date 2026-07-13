@@ -1,26 +1,21 @@
 ---
 slug: evreux
-ville: Repérage  et    Évreux
+ville: Évreux
 codePostal: '27000'
 departement: '27'
-metaTitle: Repérage amiante et HAP enrobés routiers Évreux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Évreux
+metaTitle: "Diagnostic amiante enrobés et carottage à Évreux"
+metaDescription: "Collectivité, entreprise ou particulier à Évreux : faites repérer amiante et HAP des enrobés par carottage avant d’engager vos travaux de voirie dans l’Eure."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-evreux-27000.html
 lat: 49.020599
 lng: 1.146898
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Évreux
+Évreux se distingue par un patrimoine architectural remarquable, riche de nombreux édifices classés ou inscrits aux Monuments historiques. Pour relier ces trésors, la ville s’appuie sur une voirie qui a, elle aussi, son histoire — et parfois ses polluants.
 
-![Repérage amiante et HAP enrobés routiers Évreux](images/logo.png)
+## Qui est concerné par le diagnostic des enrobés ?
 
- [![Repérage amiante et HAP enrobés routiers Évreux](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Entreprise de travaux publics, collectivité ou particulier : quiconque fait intervenir des équipes sur une surface bitumée doit disposer d’un repérage amiante enrobés à Évreux, recherche de HAP comprise. L’enjeu est double : écarter le risque de cancer lié aux fibres inhalées et garantir une élimination des enrobés contaminés selon des procédures strictes.
 
-![Repérage amiante et HAP enrobés routiers Évreux](images/picto-mail.png) **contact @ france-carottage.fr**
+## L’expertise France Carottage dans l’Eure
 
-Le patrimoine architectural d'Évreux est spectaculaire et compte de nombreux monument classés ou inscrits aux Monuments Historiques.
-
-Entreprise, collectivité, particulier, avant d'entreprendre des travaux sur un enrobé routier, faites pratiquer les diagnostic amiante et HAP enrobés routiers à Évreux par FRANCE CAROTTAGE.
-
-Ce diagnostic amiante et HAP enrobés routiers protègent les personnes contre le cancer et préserve l'environnement en éliminant les enrobés contaminés selon des procédures très strictes.
+Nos opérateurs assurent le carottage à Évreux : prélèvements localisés, analyse accréditée, rapport détaillé. Vous disposez d’une base solide pour définir le mode opératoire, informer les entreprises intervenantes et gérer les déchets du chantier. Contactez France Carottage dès la préparation de votre opération.

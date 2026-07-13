@@ -1,30 +1,21 @@
 ---
 slug: saint-ouen
-ville: Repérage  et    Saint-Ouen
+ville: Saint-Ouen
 codePostal: '93400'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Ouen | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Ouen
+metaTitle: "Carottage à Saint-Ouen : amiante et HAP des enrobés"
+metaDescription: "Travaux de voirie à Saint-Ouen : le carottage des enrobés identifie amiante et HAP, une obligation qui protège la santé et l’environnement."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-ouen-93400.html
 lat: 48.911709
 lng: 2.333339
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Ouen
+Aux portes de Paris et longée par la Seine, Saint-Ouen concentre sur un petit territoire une activité urbaine permanente. Y programmer des travaux de voirie suppose une précaution incontournable : le carottage à Saint-Ouen, pour savoir ce que cache le bitume.
 
-![Repérage amiante et HAP enrobés routiers Saint-Ouen](images/logo.png)
+## Une double motivation, la règle et la santé
 
- [![Repérage amiante et HAP enrobés routiers Saint-Ouen](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Le repérage des substances toxiques avant travaux est une obligation réglementaire ; c’est aussi une mesure de bon sens vis-à-vis des équipes et de l’environnement. Fibres d’amiante et HAP relâchés par un fraisage non préparé contaminent l’air et les gravats. Le repérage amiante enrobés à Saint-Ouen neutralise ce risque à la source.
 
-![Repérage amiante et HAP enrobés routiers Saint-Ouen](images/picto-mail.png) **contact @ france-carottage.fr**
+## Concrètement, comment cela se passe
 
-Saint-Ouen est une commune qui se trouve aux portes de Paris.
-
-Longée par la Seine et frontalière des Hauts-de-Seine, cette ville dispose d'un grand parc.
-
-Si des travaux de voirie sont envisagés, faites repérer les substances toxiques telles amiante et HAP dans les enrobés routiers de Saint-Ouen.
-
-D'une part, le diagnostic est obligatoire.
-
-D'autre part, vous participerez ainsi à protéger les personnes et l'environnement.
+Après repérage des zones du chantier, des carottes sont extraites de la chaussée puis analysées strate après strate en laboratoire. Les conclusions, consignées dans un rapport, indiquent où se trouvent les polluants et comment gérer les matériaux lors de la dépose. France Carottage accompagne les opérations audoniennes du prélèvement jusqu’à la restitution des résultats.

@@ -1,26 +1,21 @@
 ---
 slug: hennebont
-ville: Repérage  et    Hennebont
+ville: Hennebont
 codePostal: '56700'
 departement: '56'
-metaTitle: Repérage amiante et HAP enrobés routiers Hennebont | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Hennebont
+metaTitle: "Amiante enrobés Hennebont : carottage et repérage HAP"
+metaDescription: "Avant d’intervenir sur une surface goudronnée à Hennebont, exigez un carottage avec repérage amiante et HAP des enrobés : France Carottage se déplace sur site."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-hennebont-56700.html
 lat: 47.807325
 lng: -3.27075
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Hennebont
+Les tours Bro-Erc’h, qui abritent un musée consacré à la culture bretonne, comptent parmi les curiosités d’Hennebont. Dans cette commune du Morbihan comme ailleurs, les surfaces goudronnées vieillissent et finissent par réclamer des travaux — strictement encadrés.
 
-![Repérage amiante et HAP enrobés routiers Hennebont](images/logo.png)
+## Une responsabilité qui peut devenir pénale
 
- [![Repérage amiante et HAP enrobés routiers Hennebont](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Faire travailler des équipes sur un enrobé jamais analysé peut être qualifié de mise en danger d’autrui. Particulier, collectivité ou entreprise : avant toute opération sur une chaussée, un parking ou une cour bitumée, le repérage amiante enrobés à Hennebont et la recherche de HAP s’imposent.
 
-![Repérage amiante et HAP enrobés routiers Hennebont](images/picto-mail.png) **contact @ france-carottage.fr**
+## France Carottage intervient sur place
 
-Les tours Bro-Erc'h sont l'une des curiosités d'Hennebont tout comme le musée sur la culture bretonne situé dans celles-ci.
-
-Afin de ne pas être condamné(e) pour mise en danger d'autrui, pensez à demander un diagnostic amiante et HAP enrobés routiers avant toute intervention sur une surface goudronnée et ce que vous soyez un particulier, une collectivité ou une entreprise.
-
-FRNCE CAROTTAGE intervient sur place pour un diagnostic amiante et HAP enrobés routiers à Hennebont.
+Nos opérateurs se déplacent pour le carottage à Hennebont : prélèvements aux points stratégiques, envoi des carottes au laboratoire, rapport sur la composition des couches. Vous engagez ensuite vos travaux dans un cadre clair, pour vos équipes comme pour les riverains. Contactez-nous afin de planifier l’intervention.

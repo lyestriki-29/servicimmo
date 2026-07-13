@@ -1,26 +1,21 @@
 ---
 slug: vitre
-ville: Repérage  et    Vitré
+ville: Vitré
 codePostal: '35500'
 departement: '35'
-metaTitle: Repérage amiante et HAP enrobés routiers Vitré | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vitré
+metaTitle: "Carottage & amiante enrobés Vitré (35500)"
+metaDescription: "Repérage amiante et HAP sur enrobés routiers à Vitré (35) : un professionnel du réseau France Carottage prélève, fait analyser et conclut rapidement."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vitre-35500.html
 lat: 48.111352
 lng: -1.192619
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vitré
+Depuis 2013, plus aucune intervention sur un revêtement routier ne devrait s’engager sans vérification préalable de sa composition. Vitré n’échappe pas à la règle : ses chaussées, comme partout, peuvent receler de l’amiante ou des HAP hérités des techniques anciennes.
 
-![Repérage amiante et HAP enrobés routiers Vitré](images/logo.png)
+## Ce que dit la réglementation, concrètement
 
- [![Repérage amiante et HAP enrobés routiers Vitré](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Avant fraisage, rabotage ou démolition, le maître d’ouvrage doit produire un repérage amiante enrobés Vitré. Ce diagnostic s’appuie sur des prélèvements physiques — impossible de conclure sur simple dossier — confiés à un laboratoire accrédité pour recherche de fibres et quantification des HAP.
 
-![Repérage amiante et HAP enrobés routiers Vitré](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un professionnel du réseau, mobilisé à la demande
 
-Vitré est visible de loin avec son château magnifique qui domine la vallée de la Vilaine.
-
-Depuis 2013, toute intervention sur un enrobé routier est soumise au préalable à la réalisation d'un repérage amiante et HAP enrobés routiers à cause d'une potentielle d'amiante ou d'HAP.
-
-Le réseau FRANCE CAROTTAGE peut faire intervenir à votre demande l'un de ses professionnels pour établir le diagnostic amiante et HAP enrobés routiers à Vitré.
+France Carottage s’appuie sur un réseau national d’opérateurs habilités : l’un d’eux se déplace pour réaliser votre carottage Vitré selon votre planning, baliser la zone, forer, reboucher et expédier les témoins. Vous recevez ensuite un rapport détaillé, exploitable pour vos marchés publics comme pour vos chantiers privés, dans toute l’Ille-et-Vilaine.

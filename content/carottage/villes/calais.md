@@ -1,30 +1,21 @@
 ---
 slug: calais
-ville: Repérage  et    Calais
+ville: Calais
 codePostal: '62100'
 departement: '62'
-metaTitle: Repérage amiante et HAP enrobés routiers Calais | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Calais
+metaTitle: 'Amiante et HAP dans les enrobés : carottage à Calais'
+metaDescription: 'Avant de raboter une chaussée à Calais, faites rechercher amiante et HAP dans les enrobés. Carottage, analyse et rapport par France Carottage.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-calais-62100.html
 lat: 50.951564
 lng: 1.866112
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Calais
+Porte d’entrée vers le Royaume-Uni depuis le percement du tunnel sous la Manche, Calais vit au rythme de son port, de ses plages et de son hôtel de ville en briques rouges. Son réseau routier, très sollicité, demande un entretien constant.
 
-![Repérage amiante et HAP enrobés routiers Calais](images/logo.png)
+## Amiante et HAP dans les enrobés de Calais
 
- [![Repérage amiante et HAP enrobés routiers Calais](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Un rabotage est programmé sur une chaussée ? La recherche d’amiante et de HAP dans les enrobés à Calais s’impose avant le démarrage des travaux. Ces composés, présents dans certains bitumes anciens, exposent ouvriers et riverains à des risques sanitaires sérieux lorsqu’ils sont remis en suspension.
 
-![Repérage amiante et HAP enrobés routiers Calais](images/picto-mail.png) **contact @ france-carottage.fr**
+## Votre carottage à Calais en pratique
 
-Calais est une voie d'accès directe au Royaume-Uni.
-
-C'est là qu'a été creusé le tunnel sous la Manche.
-
-Avec son superbe Hôtel de ville en briques rouges typiques de la région, ses plages, son port et son Musée de la dentelle, Calais est une commune plaisante.
-
-Si un rabotage est prévu sur l'une des chaussées, notez que la détection de l'amiante et des HAP est recommandée sur les enrobés routiers à Calais.
-
-Pour une demande de rendez-vous, téléphonez-nous ou envoyez-nous un mail.
+Le carottage à Calais permet de prélever la chaussée sur toute sa hauteur et d’analyser chaque couche en laboratoire. Le rapport remis précise la composition des enrobés et guide le choix des équipements de protection comme des filières d’élimination. Prenez rendez-vous avec France Carottage pour caler votre intervention dans le Pas-de-Calais.

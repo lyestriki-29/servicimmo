@@ -1,30 +1,21 @@
 ---
 slug: neuilly-sur-seine
-ville: Repérage  et    Neuilly-sur-Seine
+ville: Neuilly-sur-Seine
 codePostal: '92200'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine
+metaTitle: "Carottage & amiante enrobés Neuilly-sur-Seine (92200)"
+metaDescription: "Requalification de rues à Neuilly-sur-Seine (92) : carottage d’enrobés puis analyses amiante et HAP en laboratoire pour éviter tout arrêt de chantier."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-neuilly-sur-seine-92200.html
 lat: 48.886191
 lng: 2.265869
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine
+À Neuilly-sur-Seine, la priorité donnée aux piétons transforme la voirie : rues passées en circulation douce, trottoirs végétalisés, stationnement repensé. Autant d’interventions qui entament les revêtements existants — et qui peuvent s’arrêter net si de l’amiante ou des HAP y sont découverts en cours d’exécution.
 
-![Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine](images/logo.png)
+## Anticiper plutôt que subir l’interruption
 
- [![Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Un chantier suspendu pour cause de matériaux pollués coûte cher en délais et en reprises de protocole. Le carottage à Neuilly-sur-Seine élimine cette inconnue en amont : prélèvement de la structure complète, analyse en laboratoire accrédité, identification des fibres et dosage des hydrocarbures aromatiques polycycliques.
 
-![Repérage amiante et HAP enrobés routiers Neuilly-sur-Seine](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un diagnostic adapté aux rues denses
 
-Neuilly-sur-Seine est frontalière de Paris, d'une partie du quartier de La Défense et de Levallois.
-
-La municipalité de Neuilly fait la part belle à la circulation piétonnière.
-
-Plusieurs rues sont passées en circulation douce et des trottoirs ont été végétalisés afin de limiter le stationnement des véhicules.
-
-Si de nouveaux travaux devaient intervenir, notez qu'un diagnostic relatif à l'amiante et aux HAP dans les enrobés routiers de Neuilly-sur-Seine fait l'objet d'une recommandation.
-
-Si amiante et HAP s'avéraient présents dans l'ouvrage, le chantier pourrait être interrompu.
+France Carottage intervient ponctuellement, sans immobiliser la voie, et restitue un rapport situant chaque sondage avec sa conclusion analytique. Ce repérage amiante enrobés à Neuilly-sur-Seine sécurise vos équipes, vos riverains et votre calendrier. Transmettez-nous les emprises à requalifier dans les Hauts-de-Seine : nous bâtissons le plan de prélèvement correspondant.

@@ -1,26 +1,21 @@
 ---
 slug: vannes
-ville: Repérage  et    Vannes
+ville: Vannes
 codePostal: '56000'
 departement: '56'
-metaTitle: Repérage amiante et HAP enrobés routiers Vannes | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vannes
+metaTitle: "Carottage à Vannes : repérage amiante et HAP enrobés"
+metaDescription: "La réglementation impose un repérage amiante et HAP avant travaux sur surface bitumée : carottage à Vannes et résultats détaillés couche par couche."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vannes-56000.html
 lat: 47.659971
 lng: -2.752192
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vannes
+À Vannes, l’essentiel des monuments classés ou inscrits se concentre dans la vieille ville médiévale. Autour de ce cœur historique s’est développé un réseau d’axes plus récents — avec des enrobés d’âges très variés, parfois antérieurs à l’interdiction de l’amiante.
 
-![Repérage amiante et HAP enrobés routiers Vannes](images/logo.png)
+## Ce que la réglementation impose avant travaux
 
- [![Repérage amiante et HAP enrobés routiers Vannes](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les voiries anciennes sont susceptibles de contenir de l’amiante et des HAP ; un repérage amiante enrobés à Vannes est désormais exigé avant chaque intervention sur une surface bitumée. Ce diagnostic conditionne le mode opératoire du chantier comme la gestion des matériaux retirés.
 
-![Repérage amiante et HAP enrobés routiers Vannes](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage à Vannes réalisé par des spécialistes
 
-Les monuments de Vannes inscrits ou classés aux monuments historiques sont regroupés pour la plupart dans la vieille ville médiévale.
-
-Les voiries construites avant 2013 sont susceptibles de contenir de l'amiante et des HAP et c'est depuis cette date qu'un diagnostic amiante et HAP enrobés routiers est exigé avant tout opération sur une surface bitumée.
-
-Pensez à contacter FRANCE CAROTTAGE pour toutes questions ou la réalisation d'un diagnostic amiante et HAP à Vannes.
+France Carottage soumet chaque prélèvement à l’analyse et présente des résultats clairs, couche par couche. Pour toute question ou pour programmer une intervention dans le Morbihan, contactez notre équipe : nous vous accompagnons de la préparation du chantier jusqu’au rapport final.

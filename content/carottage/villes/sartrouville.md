@@ -1,30 +1,21 @@
 ---
 slug: sartrouville
-ville: Repérage  et    Sartrouville
+ville: Sartrouville
 codePostal: '78500'
 departement: '78'
-metaTitle: Repérage amiante et HAP enrobés routiers Sartrouville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Sartrouville
+metaTitle: 'Amiante HAP enrobés Sartrouville : carottage routier'
+metaDescription: 'Repérage amiante et recherche de HAP sur les enrobés routiers de Sartrouville : carottage par une équipe spécialisée, rapport clair avant chantier.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-sartrouville-78500.html
 lat: 48.939047
 lng: 2.174783
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Sartrouville
+Deuxième commune des Yvelines par sa population derrière Versailles, Sartrouville est fortement urbanisée et bénéficie d’un réseau d’infrastructures dense, à la limite du Val-d’Oise. Ces équipements exigent un entretien suivi.
 
-![Repérage amiante et HAP enrobés routiers Sartrouville](images/logo.png)
+## HAP et amiante : des intrus dans le bitume
 
- [![Repérage amiante et HAP enrobés routiers Sartrouville](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les hydrocarbures aromatiques polycycliques — les fameux HAP — et l’amiante entrent dans la composition de certains enrobés anciens. Dangereux pour l’homme et pour l’environnement, ils doivent être détectés avant travaux grâce à un repérage amiante enrobés à Sartrouville.
 
-![Repérage amiante et HAP enrobés routiers Sartrouville](images/picto-mail.png) **contact @ france-carottage.fr**
+## À qui confier le carottage à Sartrouville ?
 
-Dans le département des Yvelines, Sartrouville est la deuxième ville la plus peuplée après Versailles.
-
-Limitrophe du Val d'Oise, cette commune est très urbanisée.
-
-Les Sartrouvillois bénéficient d'un réseau d'infrastructures développé.
-
-Afin de procéder au repérage de l'amiante et des hydrocarbures aromatiques polycycliques (plus connus sous l'acronyme HAP) dans les enrobés routiers de Sartrouville, n'hésitez pas à joindre France Carottage.
-
-Cette entreprise est spécialiste pour déceler l'amiante et les HAP, qui représentent un danger pour les humains et pour l'environnement.
+Spécialiste de la détection de ces polluants, France Carottage effectue votre carottage à Sartrouville : extraction d’échantillons de chaussée, analyses en laboratoire et rapport exploitable par la maîtrise d’œuvre. De quoi choisir protections, mode de fraisage et filière de traitement en toute connaissance de cause. Joignez-nous pour préparer votre chantier yvelinois.

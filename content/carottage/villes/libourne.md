@@ -1,30 +1,21 @@
 ---
 slug: libourne
-ville: Repérage  et    Libourne
+ville: Libourne
 codePostal: '33500'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Libourne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Libourne
+metaTitle: 'Amiante et HAP sur enrobés à Libourne : carottage routier'
+metaDescription: 'Repérage amiante et HAP sur les enrobés routiers de Libourne : prélèvements par carottage et analyses pour préparer vos chantiers de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-libourne-33500.html
 lat: 44.920384
 lng: -0.226836
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Libourne
+Fondée au XIIIe siècle par Roger de Leyburn, Libourne est devenue la principale ville du nord de la Gironde. Son plan urbain « Libourne 2025 » encadre depuis 2015 un développement coordonné, qui passe aussi par la voirie.
 
-![Repérage amiante et HAP enrobés routiers Libourne](images/logo.png)
+## Amiante et HAP : sécuriser vos chantiers libournais
 
- [![Repérage amiante et HAP enrobés routiers Libourne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Avant de raboter ou de déconstruire une chaussée, la composition des enrobés doit être connue. Le repérage amiante enrobés à Libourne recherche les fibres d’amiante et les HAP susceptibles d’être libérés pendant les travaux, afin d’écarter tout risque pour les intervenants et le voisinage.
 
-![Repérage amiante et HAP enrobés routiers Libourne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Votre carottage à Libourne en trois temps
 
-Commune du sud-ouest de la France, Libourne est située dans le département de la Gironde.
-
-Cet ancien village fondé au XIIIe siècle par Roger de Leyburn est aujourd’hui la principale ville du nord du département.
-
-Depuis 2015, Libourne s’est dotée d’un plan urbain, « Libourne 2025-La Confluente », pour accompagner son développement de manière coordonnée.
-
-Dans cette optique, France Carottage réalise votre repérage amiante et HAP sur les enrobés routiers de Libourne.
-
-Avec France Carottage, vos projets sont en voie de bon développement !
+Le carottage à Libourne s’organise simplement : prélèvement de carottes sur la zone concernée, analyses en laboratoire, puis remise d’un rapport détaillant chaque couche et ses teneurs. France Carottage vous aide ainsi à définir les équipements de protection et les filières d’élimination adaptées. Demandez un devis pour vos travaux girondins.

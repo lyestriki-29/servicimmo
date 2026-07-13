@@ -1,32 +1,21 @@
 ---
 slug: romorantin-lanthenay
-ville: Repérage  et    Romorantin-Lanthenay
+ville: Romorantin-Lanthenay
 codePostal: '41200'
 departement: '41'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay
+metaTitle: "Carottage & amiante enrobés Romorantin-Lanthenay (41200)"
+metaDescription: "En Sologne, France Carottage sonde vos chaussées : carottage à Romorantin-Lanthenay (41), analyses amiante et HAP, rapport conforme avant vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-romorantin-lanthenay-41200.html
 lat: 47.363293
 lng: 1.7449
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay
+Capitale de la Sologne, Romorantin-Lanthenay conjugue patrimoine et attractivité — et, comme partout, des voiries qui réclament un entretien régulier. Or toute intervention sur une chaussée en place suppose un repérage préalable de l’amiante et des HAP dans les couches bitumineuses.
 
-![Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay](images/logo.png)
+## Une étape imposée avant les travaux de voirie
 
- [![Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Raboter ou terrasser un enrobé sans en connaître la composition expose les équipes à des fibres cancérogènes et compromet la traçabilité des déchets. Le carottage à Romorantin-Lanthenay lève le doute : chaque prélèvement traverse l’ensemble des couches et fait l’objet d’analyses en laboratoire accrédité.
 
-![Repérage amiante et HAP enrobés routiers Romorantin-Lanthenay](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulement avec France Carottage
 
-Situé dans le département du Loir-et-Cher, Romorantin-Lanthenay est considéré comme la capitale de la Sologne.
-
-La commune aurait pu devenir la résidence royale de François 1er mais le projet a été abandonné à la mort de Léonard de Vinci.
-
-Avec ses nombreuses églises et chapelles ainsi que son patrimoine privé, Romorantin-Lanthenay bénéficie d’une forte attractivité.
-
-Pour vos projets routiers ou d’infrastructure, un repérage amiante et HAP sur les enrobés est obligatoire pour des interventions sur la voirie.
-
-Faites donc confiance à France Carottage pour réaliser vos repérages amiante et HAP sur les enrobés routiers de Romorantin-Lanthenay.
+Après un échange sur votre emprise et votre calendrier, nos techniciens implantent les sondages, forent, rebouchent et expédient les carottes. Le rapport final — localisation, stratigraphie, présence d’amiante, teneurs en hydrocarbures aromatiques polycycliques — vaut diagnostic amiante enrobés à Romorantin-Lanthenay et guide la suite de votre opération en Loir-et-Cher. Demandez votre devis dès la phase d’étude.

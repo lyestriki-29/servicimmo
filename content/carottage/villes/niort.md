@@ -1,30 +1,23 @@
 ---
 slug: niort
-ville: Repérage  et    Niort
+ville: Niort
 codePostal: '79000'
 departement: '79'
-metaTitle: Repérage amiante et HAP enrobés routiers Niort | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Niort
+metaTitle: 'Carottage & amiante enrobés Niort (79000)'
+metaDescription: 'Enrobés à sonder à Niort (79) ? Carottage, repérage amiante et analyse HAP par France Carottage, avec rapport détaillé rendu couche par couche.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-niort-79000.html
 lat: 46.327232
 lng: -0.466291
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Niort
+Chef-lieu des Deux-Sèvres tourné vers les activités tertiaires, Niort n’en reste pas moins un carrefour routier où les projets d’aménagement se succèdent. Chacun d’eux commence par une interrogation simple : que contiennent les chaussées existantes ?
 
-![Repérage amiante et HAP enrobés routiers Niort](images/logo.png)
+## Lever le doute avant d’engager les engins
 
- [![Repérage amiante et HAP enrobés routiers Niort](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Fibres d’amiante dans certaines couches de roulement, HAP dans les liants au goudron : ces polluants, indétectables sans analyse, dictent les précautions du chantier et la destination des matériaux fraisés. La réglementation impose leur recherche avant toute intervention destructive sur un enrobé.
 
-![Repérage amiante et HAP enrobés routiers Niort](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un accompagnement de la commande au rapport
 
-Ville du centre-ouest de la France, Niort est le chef-lieu du département des Deux-Sèvres.
+Le carottage Niort débute par la définition conjointe du plan de sondage. Sur site, nos techniciens extraient les carottes, rétablissent la surface et expédient les échantillons vers un laboratoire accrédité. Les résultats — amiante par couche, teneurs en HAP — sont consolidés dans un rapport localisé.
 
-Niort a bâti son économie en très grande partie sur les activités tertiaires.
-
-Son dynamisme en la matière, fait de Niort la quatrième place française en termes d’échanges de flux financier.
-
-Vous avez un projet d’aménagement routier dans la région niortaise ? Faites confiance à France Carottage pour vous accompagner dans vos repérages amiante et HAP sur les enrobés routiers de Niort.
-
-Votre projet ne perdra pas le Nord !
+Ce repérage amiante enrobés Niort donne aux collectivités, maîtres d’œuvre et entreprises de TP des Deux-Sèvres une base solide pour consulter et exécuter. Sollicitez France Carottage dès l’étude de votre projet : l’anticipation simplifie l’implantation des sondages et raccourcit les délais.

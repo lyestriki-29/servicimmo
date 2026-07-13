@@ -1,28 +1,21 @@
 ---
 slug: tourlaville
-ville: Repérage  et    Tourlaville
+ville: Tourlaville
 codePostal: '50110'
 departement: '50'
-metaTitle: Repérage amiante et HAP enrobés routiers Tourlaville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Tourlaville
+metaTitle: 'Carottage enrobés Tourlaville : repérage amiante et HAP'
+metaDescription: 'Repérage HAP et amiante des enrobés à Tourlaville, dans Cherbourg-en-Cotentin : carottage avant travaux sur surfaces bitumées, réponse rapide.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-tourlaville-50110.html
 lat: 49.6386
 lng: -1.5714
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Tourlaville
+Rattachée depuis 2016 à la commune nouvelle de Cherbourg-en-Cotentin, Tourlaville voit ses aménagements urbains coordonnés à l’échelle de l’agglomération. Les surfaces bitumées y font l’objet d’interventions régulières.
 
-![Repérage amiante et HAP enrobés routiers Tourlaville](images/logo.png)
+## La sécurité du chantier, priorité du maître d’ouvrage
 
- [![Repérage amiante et HAP enrobés routiers Tourlaville](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Protéger ceux qui travaillent sur un chantier, mais aussi les habitants et passants alentour, incombe au maître d’ouvrage. Cette exigence passe par un repérage amiante enrobés à Tourlaville avant toute action sur une chaussée : fraisage, découpe ou démolition.
 
-![Repérage amiante et HAP enrobés routiers Tourlaville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Les modalités du carottage à Tourlaville
 
-Tourlaville fait partie de la nouvelle commune Cherbourg-en-Cotentin créé en 2016.
-
-La sécurité des personnes qui travaillent sur un chantier mais aussi celles qui vivent ou passent à proximité est un enjeu primordial pour le maitre d'ouvrage.
-
-Cela passe notamment par la réalisation d'un diagnostic amiante et HAP enrobés routiers à Tourlaville avant toute action sur une surface bitumée.
-
-Contactez FRANCE CAROTTAGE pour en savoir plus sur les modalités de ce diagnostic amiante et HAP enrobés routiers.
+Le carottage à Tourlaville consiste à prélever des cylindres d’enrobé jusqu’aux couches profondes, puis à les soumettre à une analyse en laboratoire. Le rapport final signale la présence d’amiante, chiffre les HAP et précise comment traiter les matériaux extraits. Pour en savoir plus sur ce diagnostic dans la Manche, adressez-vous à France Carottage : un devis vous sera transmis rapidement.

@@ -1,32 +1,23 @@
 ---
 slug: corbeil-essonnes
-ville: Repérage  et    Corbeil-Essonnes
+ville: Corbeil-Essonnes
 codePostal: '91100'
 departement: '91'
-metaTitle: Repérage amiante et HAP enrobés routiers Corbeil-Essonnes | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Corbeil-Essonnes
+metaTitle: 'Carottage enrobés Corbeil-Essonnes : amiante HAP'
+metaDescription: 'Carottage d’enrobés à Corbeil-Essonnes (91) : détection d’amiante, quantification des HAP et rapport opposable pour vos réfections de chaussée.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-corbeil-essonnes-91100.html
 lat: 48.598229
 lng: 2.465045
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Corbeil-Essonnes
+Née du rapprochement de deux communes de l’Essonne, Corbeil-Essonnes entretient un patrimoine viaire étendu. Lors d’une réfection de chaussée, il revient au maître d’œuvre de garantir qu’aucune fibre amiantée ne sera dispersée pendant les travaux.
 
-![Repérage amiante et HAP enrobés routiers Corbeil-Essonnes](images/logo.png)
+## Un contrôle qui protège équipes et riverains
 
- [![Repérage amiante et HAP enrobés routiers Corbeil-Essonnes](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Fraiser un enrobé contenant de l’amiante libère des poussières dangereusement fines ; les HAP présents dans certains liants anciens posent, eux, un problème de toxicité et de gestion des déchets. Le repérage préalable identifie ces risques avant qu’ils ne se matérialisent.
 
-![Repérage amiante et HAP enrobés routiers Corbeil-Essonnes](images/picto-mail.png) **contact @ france-carottage.fr**
+## Comment se déroule l’intervention
 
-Corbeil-Essonnes est née de la réunion de deux communes de l'Essonne.
+Après cadrage de l’emprise, nos techniciens procèdent au carottage à Corbeil-Essonnes : forage à la couronne diamantée, positionnement précis de chaque sondage, réfection immédiate de la surface. Les échantillons sont analysés par un laboratoire accrédité, qui recherche l’amiante et mesure les HAP couche par couche.
 
-Le patrimoine présent dans cette ville est considérable.
-
-Le développement de la commune est principalement axé autour de la culture, pilier historique.
-
-Corbeil-Essonnes a son propre théâtre et ses compagnies, sa médiathèque ainsi que son cinéma d'art et essai.  Dans le cas d'une réfection de voirie, il incombe au maître d'œuvre de s'assurer qu'aucune particule amiantifère n'est présente dans l'ouvrage.
-
-Afin d'obtenir un diagnostic, vous pouvez appeler France Carottage.
-
-Cette société experte en détection d'amiante et de HAP dans les enrobés routiers pour Corbeil-Essonnes est agréée et assurée.
+Le rapport final constitue votre preuve de diagnostic amiante enrobés Corbeil-Essonnes : localisation des sondages, stratigraphie, conclusions exploitables pour le plan de retrait ou l’orientation des matériaux. France Carottage, société assurée pour cette activité, intervient sur toute l’Essonne selon votre calendrier.

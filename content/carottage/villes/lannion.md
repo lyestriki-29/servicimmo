@@ -1,26 +1,21 @@
 ---
 slug: lannion
-ville: Repérage  et    Lannion
+ville: Lannion
 codePostal: '22300'
 departement: '22'
-metaTitle: Repérage amiante et HAP enrobés routiers Lannion | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Lannion
+metaTitle: "Carottage à Lannion, repérage amiante enrobés et HAP"
+metaDescription: "Repérage amiante enrobés et HAP à Lannion par un réseau certifié avec mention : carottage, traçabilité des échantillons et compte rendu clair."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lannion-22300.html
 lat: 48.748772
 lng: -3.469365
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Lannion
+Récompensée par le label « 4 fleurs » depuis 2001, Lannion soigne son fleurissement à chaque saison. La même exigence devrait guider les travaux de voirie : avant d’ouvrir un chantier sur une surface bitumée, la composition de l’enrobé doit être connue.
 
-![Repérage amiante et HAP enrobés routiers Lannion](images/logo.png)
+## Des intervenants certifiés, des garanties vérifiables
 
- [![Repérage amiante et HAP enrobés routiers Lannion](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le repérage amiante enrobés à Lannion ne s’improvise pas : il exige une certification amiante avec mention ainsi que diverses habilitations, que tout prestataire sérieux fournit sur simple demande. C’est la garantie d’un diagnostic mené dans les règles, HAP compris.
 
-![Repérage amiante et HAP enrobés routiers Lannion](images/picto-mail.png) **contact @ france-carottage.fr**
+## Pourquoi choisir France Carottage
 
-Lannion est embellie par un fleurissement à chaque saison, des efforts récompensés par un label "4 fleurs" depuis 2001.
-
-Les experts qui proposent les diagnostic amiante et HAP enrobés routiers à Lannion doivent avoir une certification amiante avec mention ainsi que diverses habilitations qui pourront vous être fournies sur demande.
-
-Choisissez le réseau FRANCE CAROTTAGE pour l'accomplissement d'un diagnostic amiante et HAP enrobés routiers pour un professionnalisme incomparable.
+Notre réseau conduit le carottage à Lannion avec un haut niveau d’exigence : prélèvements soignés, traçabilité des échantillons, analyses accréditées et compte rendu limpide. Collectivité ou entreprise des Côtes-d’Armor, vous obtenez un document fiable pour cadrer vos chantiers. Demandez justificatifs et devis en un seul contact.

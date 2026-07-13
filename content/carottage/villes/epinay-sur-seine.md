@@ -1,28 +1,21 @@
 ---
 slug: epinay-sur-seine
-ville: Repérage  et    Épinay-sur-Seine
+ville: Épinay-sur-Seine
 codePostal: '93800'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Épinay-sur-Seine | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Épinay-sur-Seine
+metaTitle: 'Amiante enrobés Épinay-sur-Seine : carottage et HAP'
+metaDescription: 'Repérage amiante et HAP obligatoire avant travaux de voirie à Épinay-sur-Seine : carottage des enrobés et analyses complètes en laboratoire.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-epinay-sur-seine-93800.html
 lat: 48.955218
 lng: 2.317123
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Épinay-sur-Seine
+Située à la pointe ouest de la Seine-Saint-Denis, Épinay-sur-Seine a vu sa population tripler en soixante ans et son paysage se couvrir de grands ensembles. Les opérations d’urbanisme y sont donc fréquentes.
 
-![Repérage amiante et HAP enrobés routiers Épinay-sur-Seine](images/logo.png)
+## Un repérage obligatoire avant de toucher au bitume
 
- [![Repérage amiante et HAP enrobés routiers Épinay-sur-Seine](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Dès qu’un chantier concerne une chaussée, le repérage amiante enrobés à Épinay-sur-Seine devient une obligation. La dégradation ou le recyclage d’un enrobé contenant de l’amiante ou des HAP présente en effet un double risque, sanitaire et environnemental, qu’il faut écarter avant les premiers coups de fraiseuse.
 
-![Repérage amiante et HAP enrobés routiers Épinay-sur-Seine](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Épinay-sur-Seine, étape par étape
 
-Épinay-sur-Seine se trouve à l'extrême ouest de la Seine-Saint-Denis.
-
-Avec une population qui a triplé en soixante ans, la ville d'Épinay-sur-Seine est majoritairement composée de grands ensembles.
-
-Des travaux d'urbanisme à réaliser à Épinay-sur-Seine ? Si ces chantiers touchent au bitume, sachez que vous êtes obligé de procéder au repérage de l'amiante et des HAP pouvant se trouver dans les enrobés routiers à Épinay-sur-Seine.
-
-La dégradation et le recyclage de ces enrobés impliquent un risque sanitaire et un risque environnemental s'ils contiennent de l'amiante et des HAP.
+Concrètement, le carottage à Épinay-sur-Seine consiste à extraire des cylindres de chaussée représentatifs de la zone de travaux. Les échantillons partent ensuite en laboratoire, et un rapport vous restitue la composition de chaque couche ainsi que les teneurs en HAP. France Carottage vous accompagne du prélèvement jusqu’à la remise des résultats : contactez-nous pour votre projet dans le 93.

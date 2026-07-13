@@ -1,30 +1,23 @@
 ---
 slug: anglet
-ville: Repérage  et    Anglet
+ville: Anglet
 codePostal: '64600'
 departement: '64'
-metaTitle: Repérage amiante et HAP enrobés routiers Anglet | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Anglet
+metaTitle: 'Carottage & amiante enrobés Anglet (64600)'
+metaDescription: 'Carottage d’enrobés et repérage amiante HAP à Anglet (64) : sondages balisés, analyses en laboratoire accrédité, rapport exploitable avant travaux.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-anglet-64600.html
 lat: 43.488004
 lng: -1.518997
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Anglet
+Station balnéaire posée entre Biarritz et Bayonne, Anglet entretient un réseau de voiries soumis à une fréquentation saisonnière intense. Dès qu’un chantier touche au revêtement — rabotage, tranchée, élargissement —, le maître d’ouvrage doit faire vérifier la composition des couches bitumineuses.
 
-![Repérage amiante et HAP enrobés routiers Anglet](images/logo.png)
+## Amiante et HAP : ce que peut cacher un enrobé
 
- [![Repérage amiante et HAP enrobés routiers Anglet](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Jusqu’à leur interdiction, des fibres d’amiante ont été incorporées à certains bitumes ; les liants à base de goudron, eux, concentrent des HAP. Aucun de ces polluants n’est repérable visuellement : seul un carottage à Anglet, suivi d’analyses en laboratoire accrédité, établit la réalité du risque couche par couche.
 
-![Repérage amiante et HAP enrobés routiers Anglet](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulé d’une campagne de sondage
 
-Ville balnéaire, Anglet est un spot apprécié des surfeurs.
+Nos opérateurs balisent la zone, extraient des carottes sur toute l’épaisseur de la structure, rebouchent chaque point puis expédient les échantillons pour recherche d’amiante et dosage des HAP. Le rapport final situe chaque prélèvement et attribue un résultat par couche.
 
-Ses multiples plages le long de l'océan Atlantique ainsi que sa situation géographique non loin de la chaîne des Pyrénées entre Biarritz et Bayonne en font un site plébiscité par les vacanciers.
-
-Pour tous vos travaux liés à une chaussée, n'omettez en aucun cas le repérage, dans les enrobés routiers, de l'amiante et/ou des HAP à Anglet.
-
-Ces substances ont de nombreux effets indésirables sur la santé, notamment sur le plan respiratoire.
-
-Il est donc impératif de vérifier la présence d'amiante et de HAP avant de travailler sur un enrobé routier.
+Ce document sécurise votre repérage amiante enrobés Anglet : il protège les équipes travaux, guide l’évacuation des fraisats et complète votre dossier de consultation. Contactez France Carottage dès la phase d’étude pour planifier l’intervention dans les Pyrénées-Atlantiques.

@@ -1,30 +1,23 @@
 ---
 slug: sevran
-ville: Repérage  et    Sevran
+ville: Sevran
 codePostal: '93270'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Sevran | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Sevran
+metaTitle: "Carottage routier Sevran : amiante enrobés et HAP (93270)"
+metaDescription: "Fibroses liées à l’amiante, HAP polluants : avant vos rénovations de voirie à Sevran, faites carotter et analyser les enrobés par nos équipes."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-sevran-93270.html
 lat: 48.93797
 lng: 2.531288
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Sevran
+Restée rurale jusqu’aux années 1960, Sevran s’est urbanisée en une décennie à peine. Les infrastructures issues de cette période arrivent aujourd’hui en fin de cycle et appellent des rénovations lourdes.
 
-![Repérage amiante et HAP enrobés routiers Sevran](images/logo.png)
+## Ce que risquent les équipes sans diagnostic
 
- [![Repérage amiante et HAP enrobés routiers Sevran](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les fibres d’amiante libérées par un fraisage provoquent des atteintes respiratoires graves, dont des fibroses pulmonaires ; les HAP, eux, contaminent durablement sols et eaux. Le repérage amiante enrobés à Sevran constitue la seule parade sérieuse à cette double menace.
 
-![Repérage amiante et HAP enrobés routiers Sevran](images/picto-mail.png) **contact @ france-carottage.fr**
+## Notre intervention en pratique
 
-Sevran se trouve dans le département de la Seine-Saint-Denis.
+France Carottage réalise le carottage à Sevran sur chaussées, trottoirs, cours d’immeubles et parkings : forages sur toute la hauteur du revêtement, échantillons scellés, analyses en laboratoire accrédité, puis rapport situant chaque sondage avec sa stratigraphie détaillée.
 
-Ville rurale jusque dans les années 1960, elle a été fortement urbanisée durant la décennie 1960-1970.
-
-Si vous êtes en charge d'un chantier de voirie, faites repérer l'amiante et les HAP dans les enrobés routiers à Sevran.
-
-Sachez que l'amiante est cause de nombreuses difficultés respiratoires, dont les fibroses pulmonaires.
-
-Les HAP, eux, entraînent des dégâts environnementaux.
+Responsable d’un chantier de voirie en Seine-Saint-Denis ? Contactez-nous : le devis est rapide et l’intervention se cale sur vos délais.

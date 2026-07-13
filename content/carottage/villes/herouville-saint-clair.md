@@ -1,28 +1,21 @@
 ---
 slug: herouville-saint-clair
-ville: Repérage  et    Hérouville-Saint-Clair
+ville: Hérouville-Saint-Clair
 codePostal: '14200'
 departement: '14'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair
+metaTitle: "Carottage amiante et HAP des enrobés à Hérouville-Saint-Clair"
+metaDescription: "Rénovation ou démolition de chaussée à Hérouville-Saint-Clair : le carottage amiante et HAP des enrobés est un préalable obligatoire au chantier."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-herouville-saint-clair-14200.html
 lat: 49.203411
 lng: -0.332375
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair
+Connue notamment pour le domaine de Beauregard et son château, Hérouville-Saint-Clair est aussi une commune où routes et parkings font l’objet d’entretiens réguliers. Aucun de ces travaux ne peut légalement démarrer sans carottage à Hérouville-Saint-Clair lorsque le revêtement doit être entamé.
 
-![Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair](images/logo.png)
+## Une exigence réglementaire, pas une option
 
- [![Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le maître d’ouvrage qui commande la rénovation ou la démolition d’une surface bitumée doit produire un repérage amiante enrobés à Hérouville-Saint-Clair avant le lancement de l’opération. Faire l’impasse sur ce document expose à des sanctions et engage sa responsabilité en cas d’exposition des travailleurs aux fibres ou aux HAP.
 
-![Repérage amiante et HAP enrobés routiers Hérouville-Saint-Clair](images/picto-mail.png) **contact @ france-carottage.fr**
+## Obtenir son rapport sans retarder le chantier
 
-Le domaine de Beauregard avec son château est un lieu majestueux pour les mariages mais accueille aussi des centres de loisirs pour les enfants d'Hérouville-Saint-Clair et environs.
-
-Des travaux de rénovation ou de démolition d'une surface bitumée ne peuvent être commencés que si le maitre d'ouvrage a fait pratiquer un diagnostic amiante et HAP enrobés routiers à Hérouville-Saint-Clair.
-
-Vous n'avez pas de document ? Appelez vite FRANCE CAROTTAGE pour la mise en œuvre de ce repérage amiante et HAP enrobés routiers pour vous éviter toutes sanctions.
+Concrètement, un opérateur vient carotter la chaussée aux emplacements définis avec vous, puis transmet les échantillons au laboratoire. Quelques jours plus tard, le rapport détaille la composition de chaque couche et les précautions associées. Le réseau France Carottage programme ces interventions rapidement pour que votre planning hérouvillais reste tenu, tout en vous mettant en conformité.

@@ -1,28 +1,21 @@
 ---
 slug: marmande
-ville: Repérage  et    Marmande
+ville: Marmande
 codePostal: '47200'
 departement: '47'
-metaTitle: Repérage amiante et HAP enrobés routiers Marmande | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Marmande
+metaTitle: "Carottage à Marmande : amiante enrobés routiers et HAP"
+metaDescription: "Réfection de voirie à Marmande : France Carottage prélève vos enrobés par carottage et repère amiante et HAP, rapport détaillé à l’appui."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-marmande-47200.html
 lat: 44.50184
 lng: 0.170988
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Marmande
+Sous-préfecture du Lot-et-Garonne bordée par la Garonne, Marmande mêle vestiges romains, monuments religieux, lac et foire dédiée aux produits locaux. Une ville vivante, dont les voiries font l’objet de réfections régulières qu’il convient de bien préparer.
 
-![Repérage amiante et HAP enrobés routiers Marmande](images/logo.png)
+## Ce qu’il faut vérifier avant de refaire une voirie
 
- [![Repérage amiante et HAP enrobés routiers Marmande](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les enrobés posés il y a plusieurs décennies peuvent contenir de l’amiante et des HAP. Identifier ces polluants en amont, c’est protéger les équipes, choisir le bon mode opératoire et savoir dès le départ où iront les matériaux retirés. Le repérage amiante enrobés à Marmande répond précisément à ces trois enjeux.
 
-![Repérage amiante et HAP enrobés routiers Marmande](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un partenaire pour vos chantiers lot-et-garonnais
 
-Sous-préfecture du Lot-et-Garonne, Marmande est attrayante et animée.
-
-Avec sa foire qui met en avant les produits locaux, ses vestiges romains, ses monuments religieux, son lac et la Garonne qui la traverse, cette ville est un lieu où se mêlent histoire, culture et nature.
-
-Dans le cadre d'une réfection de voirie, si vous recherchez un professionnel pouvant repérer l'amiante et les HAP dans les enrobés routiers de Marmande, contactez France Carottage.
-
-La société tourangelle experte en repérage d'amiante et de HAP est à votre service pour vous aider à réaliser vos travaux dans de bonnes conditions.
+France Carottage prend en charge le carottage à Marmande : prélèvements sur chaussée, analyses accréditées, rapport détaillé à la clé. Collectivité ou entreprise de travaux publics, vous bénéficiez d’un appui technique solide pour mener votre réfection dans de bonnes conditions. Demandez votre devis.

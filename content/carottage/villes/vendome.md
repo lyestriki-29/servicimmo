@@ -1,34 +1,21 @@
 ---
 slug: vendome
-ville: Repérage  et    Vendôme
+ville: Vendôme
 codePostal: '41100'
 departement: '41'
-metaTitle: Repérage amiante et HAP enrobés routiers Vendôme | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vendôme
+metaTitle: "Carottage à Vendôme : repérage amiante et HAP des enrobés"
+metaDescription: "À Vendôme, France Carottage recherche l’amiante et dose les HAP des enrobés routiers : un diagnostic fiable pour des chantiers maîtrisés."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vendome-41100.html
 lat: 47.795339
 lng: 1.064216
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vendôme
+Troisième ville du Loir-et-Cher, héritière d’un riche passé médiéval, Vendôme attire visiteurs et projets d’aménagement. Pour que ces derniers avancent sans accroc, le carottage à Vendôme constitue le point de départ de toute intervention sur chaussée.
 
-![Repérage amiante et HAP enrobés routiers Vendôme](images/logo.png)
+## La fiabilité du diagnostic avant tout
 
- [![Repérage amiante et HAP enrobés routiers Vendôme](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Un résultat d’analyse approximatif peut coûter cher : polluant manqué, filière de déchets mal choisie, personnel insuffisamment protégé. C’est pourquoi le repérage amiante enrobés à Vendôme doit reposer sur des prélèvements rigoureux et des laboratoires éprouvés. France Carottage fait de cette exigence sa marque de fabrique, au service de la sécurité et de l’environnement.
 
-![Repérage amiante et HAP enrobés routiers Vendôme](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du diagnostic à la conduite du chantier
 
-Commune française, Vendôme est la troisième plus grande ville du département du Loir-et-Cher.
-
-Vendôme a une histoire médiévale riche avec de nombreux monuments et d’illustres personnages.
-
-Le tourisme est un formidable vecteur d’attractivité et offre de nombreuses opportunités.
-
-Pour vos projets routiers, France Carottage est votre partenaire privilégié.
-
-Spécialiste du repérage amiante et des HAP sur les enrobés, France Carottage vous garantit un diagnostic fiable et exigeant pour que la sécurité et l’environnement restent au cœur du processus.
-
-Faites donc confiance à France Carottage pour effectuer une recherche amiante et HAP sur les enrobés routiers de Vendôme.
-
-Engagez-vous sur cette route !
+Le rapport d’analyse identifie les couches contenant de l’amiante et mesure les HAP présents dans les liants. Le maître d’ouvrage sait alors quelles portions de voirie exigent un traitement particulier et lesquelles peuvent être fraisées normalement. Les projets vendômois s’engagent ainsi sur une trajectoire claire, depuis l’étude jusqu’à l’évacuation des matériaux.

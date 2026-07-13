@@ -1,30 +1,21 @@
 ---
 slug: laon
-ville: Repérage  et    Laon
+ville: Laon
 codePostal: '02000'
 departement: '02'
-metaTitle: Repérage amiante et HAP enrobés routiers Laon | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Laon
+metaTitle: "Carottage à Laon : amiante et HAP dans les enrobés"
+metaDescription: "Routes, parkings, trottoirs ou pistes cyclables : à Laon, le carottage vérifie l’absence d’amiante et de HAP dans les enrobés avant travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-laon-02000.html
 lat: 49.570096
 lng: 3.614939
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Laon
+Dominée par sa cathédrale gothique et riche de sa chapelle des Templiers, Laon soigne également ses aménagements du quotidien : rues, trottoirs, pistes cyclables et parkings. Toutes ces surfaces bitumées relèvent du même préalable, le carottage à Laon.
 
-![Repérage amiante et HAP enrobés routiers Laon](images/logo.png)
+## Un contrôle qui dépasse la seule route
 
- [![Repérage amiante et HAP enrobés routiers Laon](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+On associe souvent l’amiante aux bâtiments ; il concerne pourtant aussi les revêtements de circulation, au même titre que les HAP hérités des goudrons. Le repérage amiante enrobés à Laon s’applique donc à tout espace revêtu appelé à être percé, fraisé ou démoli, du parvis au stationnement public.
 
-![Repérage amiante et HAP enrobés routiers Laon](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un document qui protège le donneur d’ordre
 
-Cathédrale gothique, chapelle des Templiers, Musée d'art et d'archéologie...
-
-Laon est une ville agréable à visiter.
-
-Avant de débuter un ouvrage consacré aux installations urbaines, il est fortement conseillé d'étudier les sols, qu'il s'agisse d'immeubles, de parkings, de trottoirs ou de pistes cyclables.
-
-Cette étude permet d'attester que l'amiante (ainsi que les HAP) sont bien absents des enrobés routiers de Laon.
-
-Cela protège les ordonnateurs en cas de litige avec un salarié ou un riverain.
+Au-delà de la santé des équipes, le rapport d’analyse constitue une pièce juridique. En cas de litige avec un salarié exposé ou un riverain inquiet, il atteste que l’ordonnateur des travaux a rempli ses obligations de vérification. Les carottes prélevées par France Carottage et analysées en laboratoire fournissent cette garantie noir sur blanc, avant même l’installation du chantier laonnois.

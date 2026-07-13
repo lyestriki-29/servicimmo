@@ -1,28 +1,23 @@
 ---
 slug: vincennes
-ville: Repérage  et    Vincennes
+ville: Vincennes
 codePostal: '94300'
 departement: '94'
-metaTitle: Repérage amiante et HAP enrobés routiers Vincennes | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vincennes
+metaTitle: 'Carottage & amiante enrobés Vincennes (94300)'
+metaDescription: 'Carottage d’enrobés à Vincennes (94) : repérage amiante, dosage HAP, prélèvements soignés et rapport localisé avant vos travaux de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vincennes-94300.html
 lat: 48.847279
 lng: 2.437785
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vincennes
+Mondialement identifiée à son château et à son bois, Vincennes n’en reste pas moins une ville dense où trottoirs, ronds-points et rues font l’objet de réfections régulières. Les ordonnateurs de ces travaux ont une obligation claire : faire diagnostiquer les voies avant le premier coup d’engin.
 
-![Repérage amiante et HAP enrobés routiers Vincennes](images/logo.png)
+## Les enrobés, réservoirs potentiels de polluants
 
- [![Repérage amiante et HAP enrobés routiers Vincennes](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Routes et trottoirs vincennois, comme partout, peuvent renfermer de l’amiante incorporé aux anciennes couches de roulement et des HAP issus des liants au goudron. Tant qu’aucune analyse n’a été menée, le risque doit être présumé — et le chantier ne peut être correctement préparé.
 
-![Repérage amiante et HAP enrobés routiers Vincennes](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du sondage au rapport localisé
 
-Vincennes est connue à travers le monde entier pour son château.
+France Carottage réalise le carottage à Vincennes en s’adaptant aux contraintes du tissu urbain : signalisation, forages ponctuels, remise en état rapide de la surface. L’analyse en laboratoire accrédité statue ensuite, pour chacune des couches rencontrées, sur la présence d’amiante et le taux de HAP.
 
-Toutefois, cette ville val-de-marnaise possède également un espace boisé, un grand parc qui accueille des événements culturels et un zoo.
-
-Dans le cadre de la réfection d'un trottoir, d'une route ou encore d'un rond-point, les ordonnateurs sont priés d'organiser le diagnostic des voies avant le commencement des travaux.
-
-Ce type d'infrastructure est susceptible de receler de l'amiante et des HAP, en particulier les enrobés routiers à Vincennes.
+Le rapport de diagnostic amiante enrobés Vincennes cartographie les points sondés et détaille la stratigraphie, pour un usage direct dans vos marchés et vos plans de prévention. Nos techniciens couvrent le Val-de-Marne dans son ensemble.

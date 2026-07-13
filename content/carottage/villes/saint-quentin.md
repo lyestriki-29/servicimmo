@@ -1,32 +1,23 @@
 ---
 slug: saint-quentin
-ville: Repérage  et    Saint-Quentin
+ville: Saint-Quentin
 codePostal: '02100'
 departement: '02'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Quentin | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Quentin
+metaTitle: "Amiante enrobés Saint-Quentin : carottage et HAP (02100)"
+metaDescription: "Appliquez le principe de précaution à Saint-Quentin : carottage d’enrobés, repérage amiante et mesure des HAP, conclusions datées et opposables."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-quentin-02100.html
 lat: 49.847398
 lng: 3.28745
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Quentin
+Traversée par la Somme, Saint-Quentin s’enorgueillit d’un hôtel de ville hérité de l’époque médiévale. Côté espace public, la commune comme les acteurs privés engagent régulièrement des réfections de voirie.
 
-![Repérage amiante et HAP enrobés routiers Saint-Quentin](images/logo.png)
+## Le principe de précaution appliqué au bitume
 
- [![Repérage amiante et HAP enrobés routiers Saint-Quentin](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Refaire une rue, un trottoir ou une aire de stationnement sans vérifier le revêtement, c’est prendre un risque inutile. Le repérage amiante enrobés à Saint-Quentin établit noir sur blanc la présence éventuelle de fibres et la concentration en HAP, avant que les engins n’arrivent.
 
-![Repérage amiante et HAP enrobés routiers Saint-Quentin](images/picto-mail.png) **contact @ france-carottage.fr**
+## Constater, mesurer, conclure
 
-Saint-Quentin est une ville de l'Aisne traversée par la Somme.
+Le carottage à Saint-Quentin prélève la structure sur toute sa hauteur, y compris les couches les plus profondes. Les échantillons sont examinés par un laboratoire accrédité, et les conclusions consignées dans un rapport daté, opposable et directement utilisable pour vos consultations d’entreprises.
 
-Son Hôtel de Ville qui date de l'ère médiévale est exceptionnel.
-
-Ses musées et son parc de loisirs font de Saint-Quentin un lieu pour toute la famille.
-
-Pour toute réfection de matériel urbain, appliquez le principe de précaution.
-
-Demandez l'expertise de France Carottage.
-
-Cette société constatera si amiante et HAP sont présents dans les enrobés routiers de Saint-Quentin.
+France Carottage se déplace dans l’Aisne et les départements limitrophes. Prenez contact dès la programmation de vos travaux.

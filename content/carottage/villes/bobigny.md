@@ -1,28 +1,21 @@
 ---
 slug: bobigny
-ville: Repérage  et    Bobigny
+ville: Bobigny
 codePostal: '93000'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Bobigny | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bobigny
+metaTitle: 'Carottage d’enrobés à Bobigny : repérage amiante et HAP'
+metaDescription: 'Diagnostic amiante et HAP des enrobés routiers à Bobigny : prélèvements par carottage, analyses et résultats exploitables pour vos travaux.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bobigny-93000.html
 lat: 48.907365
 lng: 2.443342
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bobigny
+Préfecture de la Seine-Saint-Denis, Bobigny mène une politique active d’urbanisme et de développement des transports en commun. Autant de chantiers qui touchent, tôt ou tard, aux revêtements routiers.
 
-![Repérage amiante et HAP enrobés routiers Bobigny](images/logo.png)
+## Pourquoi un repérage amiante et HAP à Bobigny ?
 
- [![Repérage amiante et HAP enrobés routiers Bobigny](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Avant de raboter ou de démolir une chaussée, la réglementation impose de vérifier la présence d’amiante et de HAP dans les couches d’enrobé. Ces substances, longtemps incorporées aux bitumes, libèrent des particules dangereuses lors des travaux. Le repérage amiante enrobés à Bobigny sécurise donc vos opérations de réfection.
 
-![Repérage amiante et HAP enrobés routiers Bobigny](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Bobigny avec France Carottage
 
-Préfecture de la Seine-Saint-Denis, Bobigny est une ville vivante sur le plan culturel.
-
-La municipalité est active concernant l'urbanisation de la commune et le développement des transports en commun.
-
-Un chantier de réfection des routes est prévu ? Alors, contactez rapidement France Carottage.
-
-Cette entreprise certifiée vous accompagne dans vos travaux en procédant au diagnostic d'amiante et de HAP des enrobés routiers à Bobigny.
+Entreprise certifiée, France Carottage réalise le carottage à Bobigny : extraction de carottes d’enrobé, envoi en laboratoire, puis restitution d’un rapport détaillé couche par couche. Vous savez exactement quels matériaux évacuer en filière adaptée et comment protéger vos équipes. Un chantier de voirie se prépare en Seine-Saint-Denis ? Demandez votre devis.

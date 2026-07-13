@@ -1,28 +1,21 @@
 ---
 slug: sables-d-olonne
-ville: Repérage  et    Sables-d'Olonne
+ville: Sables-d’Olonne
 codePostal: '85100'
 departement: '85'
-metaTitle: Repérage amiante et HAP enrobés routiers Sables-d'Olonne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Sables-d'Olonne
+metaTitle: "Carottage aux Sables-d’Olonne : amiante enrobés, HAP"
+metaDescription: "Carottage aux Sables-d’Olonne : repérage amiante et HAP des enrobés pour sécuriser les chantiers de voirie des collectivités et entreprises de Vendée."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-sables-d-olonne-85100.html
 lat: 46.524364
 lng: -1.765848
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Sables-d'Olonne
+Principale ville de la côte de Lumière, station balnéaire emblématique de la Vendée et port de départ du Vendée Globe, Les Sables-d’Olonne attirent des visiteurs toute l’année. La voirie y est fortement sollicitée et les projets d’aménagement s’y succèdent.
 
-![Repérage amiante et HAP enrobés routiers Sables-d'Olonne](images/logo.png)
+## Anticiper les polluants des enrobés
 
- [![Repérage amiante et HAP enrobés routiers Sables-d'Olonne](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Sous le bitume des rues et des parkings peuvent dormir de l’amiante et des HAP hérités des techniques d’autrefois. Mené avant travaux, un repérage amiante enrobés aux Sables-d’Olonne écarte le risque sanitaire pour les équipes et fixe la destination des matériaux fraisés.
 
-![Repérage amiante et HAP enrobés routiers Sables-d'Olonne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage aux Sables-d’Olonne en toute sérénité
 
-Commune de l’ouest de la France, Les Sables-d’Olonne se situent au cœur de l’arc atlantique dans la région des Pays de la Loire.
-
-Principale ville de la côte de Lumière et station balnéaire emblématique de la Vendée notamment grâce au Vendée Globe, Les Sables-d’Olonne offrent de grandes perspectives de constructions routières et d’infrastructures.
-
-Pour vous accompagner dans votre projet, France Carottage effectue des repérages amiante et HAP sur les enrobés des Sables-d’Olonne afin d’offrir les meilleures garanties de sécurité.
-
-Faites appel à France Carottage !
+France Carottage intervient sur votre emprise : carottes prélevées aux points convenus, analyses accréditées, préconisations utiles à la conduite du chantier. Collectivités et entreprises de Vendée y trouvent les meilleures garanties de sécurité pour leurs opérations de voirie. Faites appel à France Carottage !

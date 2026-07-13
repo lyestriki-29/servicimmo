@@ -1,32 +1,21 @@
 ---
 slug: evry
-ville: Repérage  et    Évry
+ville: Évry
 codePostal: '91000'
 departement: '91'
-metaTitle: Repérage amiante et HAP enrobés routiers Évry | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Évry
+metaTitle: "Carottage des enrobés à Évry : repérage amiante et HAP"
+metaDescription: "Repérage amiante et HAP sur les enrobés d’Évry : carottages ciblés et analyses en laboratoire pour des chantiers de voirie sans exposition."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-evry-91000.html
 lat: 48.62729
 lng: 2.43251
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Évry
+Préfecture de l’Essonne au développement fulgurant depuis les années 1950, Évry renouvelle sans cesse ses espaces publics. Chaque rénovation de voirie devrait s’ouvrir sur un carottage à Évry, seul moyen de connaître la composition réelle des chaussées.
 
-![Repérage amiante et HAP enrobés routiers Évry](images/logo.png)
+## Des polluants aux effets redoutables
 
- [![Repérage amiante et HAP enrobés routiers Évry](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les fibres d’amiante inhalées, même en très faible quantité, peuvent provoquer cancers, mésothéliomes ou fibroses pulmonaires des années après l’exposition. Les HAP, présents dans les liants à base de goudron, sont eux aussi classés cancérogènes. Le repérage amiante enrobés à Évry identifie ces substances avant qu’un rabotage ne les disperse.
 
-![Repérage amiante et HAP enrobés routiers Évry](images/picto-mail.png) **contact @ france-carottage.fr**
+## Rénovation comme démolition, un même préalable
 
-Préfecture du département 91, Évry est centrale pour la communauté d'agglomération et pour la gouvernance religieuse.
-
-Rurale jusqu'aux années 50, Évry a subi un développement intense depuis cette période.
-
-Les populations qui cohabitent à Évry en font une ville cosmopolite.
-
-Une rénovation dans cette ville ? Prévoyez un diagnostic des matières dangereuses comme l'amiante et les HAP  qui peuvent être contenus dans les enrobés routiers d'Évry.
-
-Même les plus petites poussières amiantées ont le pouvoir de causer des dégâts sur l'organisme humain si elles sont inhalées (cancer, mésothéliome, fibrose...).
-
-La destruction des ouvrages contaminés par l'amiante et les HAP nécessite également des mesures spécifiques.
+Qu’il s’agisse de refaire une avenue, de démolir un parking ou de reprendre un trottoir, le diagnostic s’impose au maître d’ouvrage. Les carottes prélevées sont analysées couche par couche, et le rapport précise les mesures à déployer : protection des intervenants, confinement, traçabilité des déchets amiantés. France Carottage met son expérience au service des chantiers évryens, de l’étude préalable à la remise des conclusions.

@@ -1,32 +1,21 @@
 ---
 slug: chateaudun
-ville: Repérage  et    Châteaudun
+ville: Châteaudun
 codePostal: '28200'
 departement: '28'
-metaTitle: Repérage amiante et HAP enrobés routiers Châteaudun | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Châteaudun
+metaTitle: "Carottage & amiante enrobés Châteaudun (28200)"
+metaDescription: "France Carottage intervient à Châteaudun (28) : carottage d’enrobés routiers, recherche d’amiante, dosage des HAP, rapport remis sous 24 à 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-chateaudun-28200.html
 lat: 48.074295
 lng: 1.323986
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Châteaudun
+Positionnée au sud-ouest du bassin parisien, Châteaudun voit passer un trafic soutenu et ses chaussées se refont par tranches successives. Avant chaque phase de rabotage, un contrôle s’impose : la recherche d’amiante et de HAP dans les couches bitumineuses.
 
-![Repérage amiante et HAP enrobés routiers Châteaudun](images/logo.png)
+## Ce qu’une carotte d’enrobé révèle de votre chaussée
 
- [![Repérage amiante et HAP enrobés routiers Châteaudun](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le carottage Châteaudun extrait un cylindre complet du revêtement, des enrobés de surface jusqu’aux couches d’assise. En laboratoire accrédité, chaque strate est examinée séparément : présence éventuelle de fibres d’amiante, concentration en hydrocarbures aromatiques polycycliques. Deux données qui déterminent à elles seules la filière d’évacuation des matériaux fraisés.
 
-![Repérage amiante et HAP enrobés routiers Châteaudun](images/picto-mail.png) **contact @ france-carottage.fr**
+## Anticiper pour ne pas bloquer le chantier
 
-Châteaudun est située au sud-ouest du bassin parisien en Eure-et-Loir.
-
-Fort de cette proximité avec la capitale, les opportunités de développement du réseau routier ne manquent pas.
-
-Dans cette optique, France Carottage réalise un repérage amiante et HAP sur les enrobés.
-
-Ce diagnostic obligatoire est une étape cruciale dans le bon déroulement de votre projet.
-
-Faites donc confiance à l’expertise de France Carottage pour les repérages amiante et HAP sur les enrobés routiers de Châteaudun.
-
-Avec France Carottage, tout roule !
+Un repérage amiante enrobés Châteaudun commandé tôt évite les mauvaises surprises : découvrir un enrobé pollué en cours de travaux arrête le chantier et fait déraper les coûts. En sollicitant France Carottage dès la phase d’étude, vous intégrez les résultats au dossier de consultation et verrouillez votre budget. Nos équipes couvrent Châteaudun et l’ensemble de l’Eure-et-Loir.

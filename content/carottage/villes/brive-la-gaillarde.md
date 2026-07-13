@@ -1,32 +1,23 @@
 ---
 slug: brive-la-gaillarde
-ville: Repérage  et    Brive-la-Gaillarde
+ville: Brive-la-Gaillarde
 codePostal: '19100'
 departement: '19'
-metaTitle: Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde
+metaTitle: 'Carottage & amiante enrobés Brive-la-Gaillarde'
+metaDescription: 'Diagnostic amiante et HAP sur enrobés à Brive-la-Gaillarde (19) : carottages localisés, analyses accréditées et résultats rendus couche par couche.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-brive-la-gaillarde-19100.html
 lat: 45.148038
 lng: 1.517353
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde
+Sous-préfecture de la Corrèze, Brive-la-Gaillarde concentre une part importante des chantiers de voirie du département. Responsable d’ouvrage, vous répondez du bon déroulement de ces opérations — y compris de leurs conséquences sanitaires pour les intervenants.
 
-![Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde](images/logo.png)
+## L’étape que la loi place avant le premier coup de fraise
 
- [![Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Toucher à un enrobé sans l’avoir sondé est proscrit : la réglementation exige la recherche préalable d’amiante, complétée par la caractérisation des HAP pour classer les matériaux sortants. Cette vérification détermine à la fois le mode opératoire du chantier et la destination des déblais.
 
-![Repérage amiante et HAP enrobés routiers Brive-la-Gaillarde](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des sondages ciblés, des analyses accréditées
 
-Brive-la-Gaillarde est la sous-préfecture de la Corrèze.
+Le carottage à Brive-la-Gaillarde s’organise à partir de vos plans : implantation des points, extraction des éprouvettes, rebouchage immédiat. Les analyses, confiées à un laboratoire accrédité COFRAC, identifient les fibres et quantifient les HAP au regard des seuils applicables.
 
-Cette commune est un point de départ privilégié pour visiter de nombreux sites du Périgord comme Lascaux, Rocamadour, Sarlat.
-
-Entre les musées, les distilleries, les virées shopping et les diverses activités sportives, la vie à Brive est dynamique.
-
-Pour tous vos travaux d'urbanisme, demandez les services de France Carottage.
-
-Cette société est spécialisée dans le repérage de l'amiante et des HAP dans les enrobés routiers à Brive-la-Gaillarde.
-
-En tant que responsable de l'ouvrage, vous êtes également le garant du bon déroulement du projet et de ses possibles conséquences sanitaires sur les ouvriers qui y prennent part.
+Vous disposez alors d’un diagnostic amiante enrobés Brive-la-Gaillarde opposable, qui cartographie chaque sondage et détaille la stratigraphie. Collectivités, entreprises de TP et bureaux d’études corréziens s’appuient sur ce document pour consulter, chiffrer et exécuter sereinement.

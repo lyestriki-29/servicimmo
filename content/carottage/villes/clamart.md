@@ -1,32 +1,21 @@
 ---
 slug: clamart
-ville: Repérage  et    Clamart
+ville: Clamart
 codePostal: '92140'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Clamart | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Clamart
+metaTitle: 'Diagnostic amiante HAP des enrobés routiers à Clamart'
+metaDescription: 'Carottage des enrobés à Clamart : recherche d’amiante et de HAP avant démolition ou réfection de voirie, avec rapport d’analyse détaillé.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-clamart-92140.html
 lat: 48.796102
 lng: 2.25475
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Clamart
+Commune des Hauts-de-Seine intégrée au Grand Paris, Clamart voit son territoire évoluer au fil des projets d’aménagement. Or, qui dit aménagement dit souvent ouverture des chaussées existantes.
 
-![Repérage amiante et HAP enrobés routiers Clamart](images/logo.png)
+## L’amiante ne se cache pas que dans les bâtiments
 
- [![Repérage amiante et HAP enrobés routiers Clamart](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Si la réglementation amiante est bien connue pour l’immobilier, elle concerne aussi la voirie : des résidus amiantifères subsistent dans certains bitumes anciens, tout comme des HAP issus des liants employés autrefois. Un repérage amiante enrobés à Clamart doit donc précéder tout fraisage ou toute démolition de surface bitumineuse.
 
-![Repérage amiante et HAP enrobés routiers Clamart](images/picto-mail.png) **contact @ france-carottage.fr**
+## Confier votre carottage à Clamart à un spécialiste
 
-Clamart, dans les Hauts-De-Seine, fait partie du Grand Paris.
-
-La population de Clamart est certes relativement aisée.
-
-Toutefois, le taux de logements sociaux dans cette ville est supérieur aux préconisations légales.
-
-Si le protocole concernant l'amiante dans l'immobilier est sévère, il l'est moins concernant les autres types de construction.
-
-Pourtant, des résidus amiantifères se trouvent aussi dans le béton utilisé pour l'ensemble des surfaces bitumineuses.
-
-Adressez-vous aux professionnels de France Carottage pour obtenir votre diagnostic amiante (et HAP) dans les enrobés routiers de Clamart.
+France Carottage effectue le carottage à Clamart : prélèvement d’échantillons sur l’emprise concernée, analyses en laboratoire et rapport détaillant la composition de chaque couche. Vous disposez ainsi d’une base fiable pour organiser le chantier, protéger les intervenants et trier les déchets. Sollicitez un devis pour votre diagnostic dans les Hauts-de-Seine.

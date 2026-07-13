@@ -1,30 +1,23 @@
 ---
 slug: biscarrosse
-ville: Repérage  et    Biscarrosse
+ville: Biscarrosse
 codePostal: '40600'
 departement: '40'
-metaTitle: Repérage amiante et HAP enrobés routiers Biscarrosse | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Biscarrosse
+metaTitle: "Carottage d’enrobés à Biscarrosse — amiante et HAP (40600)"
+metaDescription: "Maître d’ouvrage à Biscarrosse : faites analyser vos enrobés par carottage, recherche d’amiante et dosage des HAP, avant vos travaux de voirie."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-biscarrosse-40600.html
 lat: 44.430297
 lng: -1.187456
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Biscarrosse
+Station balnéaire des Landes proche du bassin d’Arcachon, Biscarrosse a aussi marqué l’histoire de l’hydraviation. Ses voiries et ses zones d’activités vieillissent comme partout : dès qu’un chantier touche au bitume, la question de l’amiante et des HAP se pose.
 
-![Repérage amiante et HAP enrobés routiers Biscarrosse](images/logo.png)
+## Maître d’ouvrage : ce que la réglementation attend de vous
 
- [![Repérage amiante et HAP enrobés routiers Biscarrosse](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Impossible de fraiser, scier ou décaper un revêtement sans en connaître la composition. Le repérage amiante enrobés à Biscarrosse détermine si les couches contiennent des fibres ou des liants riches en HAP, et dans quelles proportions. Ce document protège à la fois votre responsabilité et la santé des salariés qui manipuleront la matière.
 
-![Repérage amiante et HAP enrobés routiers Biscarrosse](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une campagne de sondages menée sans traîner
 
-La ville de Biscarrosse se situe dans les Landes, non loin du Bassin d'Arcachon.
+France Carottage programme le carottage à Biscarrosse selon votre emprise : forage au carottier diamanté, localisation exacte de chaque sondage, surface remise en état aussitôt. Les échantillons partent en laboratoire accrédité et les conclusions vous reviennent sous un format directement utilisable pour vos marchés.
 
-Site balnéaire réputé, Biscarrosse est aussi connue pour son rôle majeur dans le secteur de l'hydraviation.
-
-Vous êtes maître d'ouvrage sur une structure goudronnée de Biscarrosse ? Réalisez sans plus tarder une analyse des enrobés routiers à Biscarrosse avec France Carottage.
-
-Ainsi, vous saurez si les enrobés contiennent ou non de l'amiante et des HAP, et dans quelle mesure.
-
-En tant que responsable, vous serez protégé et la santé de vos employés sera préservée.
+Nous couvrons l’ensemble des Landes. Un plan ou une vue aérienne de la zone suffit pour établir un chiffrage.

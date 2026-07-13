@@ -1,26 +1,21 @@
 ---
 slug: chateau-gontier
-ville: Repérage  et    Château-Gontier
+ville: Château-Gontier
 codePostal: '53200'
 departement: '53'
-metaTitle: Repérage amiante et HAP enrobés routiers Château-Gontier | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Château-Gontier
+metaTitle: 'Carottage enrobés Château-Gontier : amiante et HAP'
+metaDescription: 'Le maître d’ouvrage doit repérer amiante et HAP avant travaux d’enrobés à Château-Gontier. Carottage et analyses pour sécuriser le chantier.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-chateau-gontier-53200.html
 lat: 47.819956
 lng: -0.694321
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Château-Gontier
+Depuis 2019, Château-Gontier forme avec deux communes voisines la commune nouvelle de Château-Gontier-sur-Mayenne. Cette réorganisation s’accompagne régulièrement de travaux sur les voiries du territoire.
 
-![Repérage amiante et HAP enrobés routiers Château-Gontier](images/logo.png)
+## Une obligation pour le maître d’ouvrage
 
- [![Repérage amiante et HAP enrobés routiers Château-Gontier](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Avant toute intervention sur un enrobé, le maître d’ouvrage doit disposer d’un diagnostic amiante et HAP. Cette exigence vise à préserver la santé des compagnons du chantier, celle des habitants proches et l’environnement. Le repérage amiante enrobés à Château-Gontier constitue donc le préalable indispensable à un rabotage, une démolition ou une réfection.
 
-![Repérage amiante et HAP enrobés routiers Château-Gontier](images/picto-mail.png) **contact @ france-carottage.fr**
+## Comment se déroule le carottage à Château-Gontier ?
 
-Château-Gontier va fusionnée avec deux autres communes proches pour donner naissance en 2019 à la Commune Nouvelle de Château-Gontier-sur-Mayenne.
-
-Afin de préserver la santé des travailleurs, des personnes et de l'environnement à proximité de travaux sur des enrobés routiers, il est obligatoire pour le maitre d'ouvrage de posséder un diagnostic amiante et HAP enrobés routiers à Château-Gontier.
-
-Pour le mettre en œuvre, contactez FRANCE CAROTTAGE.
+France Carottage procède par carottage à Château-Gontier : des cylindres d’enrobé sont extraits de la chaussée puis analysés en laboratoire, couche après couche. Les résultats indiquent la présence éventuelle d’amiante et le taux de HAP, et déterminent le devenir des matériaux fraisés. Pour mettre en œuvre ce diagnostic en Mayenne, contactez notre équipe et obtenez rapidement un devis.

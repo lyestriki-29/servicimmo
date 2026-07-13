@@ -1,26 +1,21 @@
 ---
 slug: boulogne-sur-mer
-ville: Repérage  et    Boulogne-sur-Mer
+ville: Boulogne-sur-Mer
 codePostal: '62200'
 departement: '62'
-metaTitle: Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer
+metaTitle: "Repérage amiante et HAP enrobés, carottage à Boulogne-sur-Mer"
+metaDescription: "Rabotage ou réfection de chaussée à Boulogne-sur-Mer ? Repérez d’abord amiante et HAP dans les enrobés grâce au carottage et aux analyses accréditées."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-boulogne-sur-mer-62200.html
 lat: 50.726334
 lng: 1.607492
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer
+Entre son port, sa basilique, son château et son aquarium, Boulogne-sur-Mer vit au rythme d’une activité soutenue. Ses chaussées, elles, s’usent : rabotages et réfections font partie du quotidien des services techniques comme des entreprises de travaux publics.
 
-![Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer](images/logo.png)
+## Avant de raboter, faites vérifier le revêtement
 
- [![Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Une chaussée doit être fraisée ou décaissée ? Il faut d’abord savoir ce que contient son enrobé. Les couches anciennes peuvent renfermer des fibres d’amiante et des HAP ; les travailler sans précaution disperse des poussières dangereuses et engage lourdement la responsabilité du maître d’ouvrage.
 
-![Repérage amiante et HAP enrobés routiers Boulogne-sur-Mer](images/picto-mail.png) **contact @ france-carottage.fr**
+## Repérage amiante enrobés à Boulogne-sur-Mer
 
-Boulogne-sur-Mer, située dans le nord de la France, dispose d'un centre-ville animé, d'un port, d'une basilique, d'un château et d'un aquarium.
-
-Ces installations font de Boulogne une ville ouverte à tous.
-
-Une route doit être rabotée dans cette commune ? Si vous n'avez pas encore fixé le rendez-vous pour le repérage de l'amiante et des HAP dans les enrobés routiers de Boulogne-sur-Mer, le moment est venu de le faire !
+France Carottage organise le carottage à Boulogne-sur-Mer : prélèvement d’échantillons sur la zone de travaux, analyse par un laboratoire accrédité, puis rapport détaillant la présence éventuelle d’amiante et la teneur en HAP. Vous fixez ensuite le mode opératoire et la destination des matériaux en toute connaissance de cause. Prenez rendez-vous dès la phase de préparation du chantier.

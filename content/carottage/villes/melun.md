@@ -1,34 +1,23 @@
 ---
 slug: melun
-ville: Repérage  et    Melun
+ville: Melun
 codePostal: '77000'
 departement: '77'
-metaTitle: Repérage amiante et HAP enrobés routiers Melun | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Melun
+metaTitle: 'Carottage enrobés Melun (77000) : amiante & HAP'
+metaDescription: 'Carottage réglementaire à Melun (77) : recherche d’amiante dans les enrobés, quantification des HAP, rapport clair pour vos marchés de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-melun-77000.html
 lat: 48.541332
 lng: 2.655743
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Melun
+Préfecture de Seine-et-Marne traversée par la Seine, Melun multiplie les chantiers destinés à fluidifier les déplacements et à moderniser l’espace public. Autant d’opérations qui, dès qu’elles entament une chaussée, requièrent un contrôle préalable des matériaux.
 
-![Repérage amiante et HAP enrobés routiers Melun](images/logo.png)
+## Les routes aussi stockent de l’amiante
 
- [![Repérage amiante et HAP enrobés routiers Melun](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+On associe spontanément l’amiante au bâti ; il concerne pourtant tout autant routes, trottoirs et parkings. Inhalées même à faible dose, ses fibres peuvent déclencher des troubles respiratoires sévères. Les HAP, présents dans les liants les plus anciens, complètent la liste des polluants à rechercher avant travaux.
 
-![Repérage amiante et HAP enrobés routiers Melun](images/picto-mail.png) **contact @ france-carottage.fr**
+## Votre campagne de sondage, étape par étape
 
-Préfecture seine-et-marnaise, Melun est sur le podium des communes les plus peuplées du 77.
+France Carottage organise le carottage à Melun en fonction de votre emprise : définition du maillage, forages à la couronne diamantée, référencement des échantillons, rebouchage. Un laboratoire accrédité COFRAC réalise ensuite l’identification de l’amiante et le dosage des HAP.
 
-Cette ville est traversée par la Seine qui la structure en trois zones.
-
-Les travaux se multiplient à Melun.
-
-L'objectif étant de dynamiser l'endroit, de faciliter l'accès aux services de santé et de le rendre plus sûr pour les habitants.
-
-Si le repérage de l'amiante ainsi que celui des HAP dans les enrobés routiers de Melun n'est pas encore fait, c'est le moment ! Il est de notoriété que les bâtis sont des réserves à amiante.
-
-C'est aussi le cas pour les routes, les trottoirs et les parkings, entre autres constructions.
-
-Même inhalé en faible dose, l'amiante peut causer de graves troubles respiratoires.
+Le rapport de repérage amiante enrobés Melun restitue la stratigraphie complète et situe chaque prélèvement : une pièce directement utilisable pour vos marchés, vos modes opératoires et la traçabilité des déchets. Intervention possible dans toute la Seine-et-Marne.

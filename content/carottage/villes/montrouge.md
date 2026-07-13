@@ -1,30 +1,21 @@
 ---
 slug: montrouge
-ville: Repérage  et    Montrouge
+ville: Montrouge
 codePostal: '92120'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Montrouge | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Montrouge
+metaTitle: "Carottage enrobés à Montrouge : repérage amiante et HAP"
+metaDescription: "En milieu urbain dense comme Montrouge, le repérage amiante et HAP des enrobés par carottage protège passants, riverains et équipes de chantier."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-montrouge-92120.html
 lat: 48.815929
 lng: 2.316207
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Montrouge
+Avec l’une des densités de population les plus fortes de France, Montrouge ne dispose d’aucune marge d’erreur lorsque des travaux touchent sa voirie : passants, commerces et logements bordent chaque rue. Le carottage à Montrouge devient alors un geste de prévention collective.
 
-![Repérage amiante et HAP enrobés routiers Montrouge](images/logo.png)
+## Chantier en ville dense, enjeu décuplé
 
- [![Repérage amiante et HAP enrobés routiers Montrouge](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Raboter un enrobé contenant de l’amiante ou des HAP en plein tissu urbain reviendrait à exposer bien plus que les seuls ouvriers. Le repérage amiante enrobés à Montrouge écarte ce scénario en identifiant les matériaux à risque avant toute émission de poussière, quand il est encore temps d’adapter le mode opératoire.
 
-![Repérage amiante et HAP enrobés routiers Montrouge](images/picto-mail.png) **contact @ france-carottage.fr**
+## S’adresser à une société habilitée
 
-Avec sa densité de population élevée, Montrouge est l'une des villes les plus importantes du territoire national.
-
-Les Montrougiens sont d'ailleurs assez jeunes et divers.
-
-Par ailleurs, Montrouge est une commune attractive pour les entreprises.
-
-En tant que spécialiste de la construction, vous êtes certainement au courant des risques potentiels engendrés par le maniement d'une chaussée.
-
-Si vous souhaitez demander un repérage de l'amiante et de HAP dans les enrobés routiers à Montrouge, appelez une société certifiée et agréée.
+La valeur du diagnostic dépend de celui qui le réalise. Prélèvements normés, chaîne de traçabilité des échantillons, laboratoire d’analyse reconnu : France Carottage réunit ces exigences et intervient sur les chaussées montrougiennes avec du matériel dédié. Le rapport final vous indique, zone par zone, la composition du bitume et la conduite à tenir pour vos travaux.

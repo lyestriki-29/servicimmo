@@ -1,30 +1,21 @@
 ---
 slug: saint-nazaire
-ville: Repérage  et    Saint-Nazaire
+ville: Saint-Nazaire
 codePostal: '44600'
 departement: '44'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Nazaire | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Nazaire
+metaTitle: "Amiante enrobés à Saint-Nazaire : carottage et HAP"
+metaDescription: "Emprises portuaires, industrielles ou routières à Saint-Nazaire : carottage et repérage amiante et HAP des enrobés dans le respect de la réglementation."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-nazaire-44600.html
 lat: 47.275247
 lng: -2.242494
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Nazaire
+Chef-lieu d’arrondissement de la Loire-Atlantique, Saint-Nazaire s’est imposée comme la grande place française de la construction navale : avec les Chantiers de l’Atlantique, elle figure parmi les rares sites au monde à assembler de très grands navires.
 
-![Repérage amiante et HAP enrobés routiers Saint-Nazaire](images/logo.png)
+## Des infrastructures denses, des contrôles indispensables
 
- [![Repérage amiante et HAP enrobés routiers Saint-Nazaire](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Zones portuaires, plateformes industrielles, axes routiers : toutes ces emprises bitumées peuvent renfermer de l’amiante ou des HAP dans leurs couches les plus anciennes. Avant d’y engager des travaux, un repérage amiante enrobés à Saint-Nazaire est incontournable pour respecter la réglementation et protéger les intervenants.
 
-![Repérage amiante et HAP enrobés routiers Saint-Nazaire](images/picto-mail.png) **contact @ france-carottage.fr**
+## France Carottage à vos côtés
 
-Chef-lieu d’arrondissement du département de la Loire-Atlantique, Saint-Nazaire s’impose comme le centre principal de la construction navale en France.
-
-Grâce aux chantiers de l’Atlantique, Saint-Nazaire compte parmi les six sites de construction de grands navires au monde.
-
-Les infrastructures portuaires, routières ou aéronautiques sont susceptibles de révéler de l’amiante ou des HAP.
-
-France Carottage réalise donc un repérage amiante et HAP sur les enrobés routiers à Saint-Nazaire en respectant toutes les réglementations en vigueur.
-
-Votre projet est sur la bonne route avec France Carottage !
+Nous menons le carottage à Saint-Nazaire dans le strict respect des règles en vigueur : prélèvements géoréférencés, analyses accréditées, rapport remis au maître d’ouvrage. Votre projet est sur la bonne route — contactez notre équipe pour obtenir un devis.

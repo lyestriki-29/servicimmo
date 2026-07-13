@@ -1,28 +1,21 @@
 ---
 slug: orvault
-ville: Repérage  et    Orvault
+ville: Orvault
 codePostal: '44700'
 departement: '44'
-metaTitle: Repérage amiante et HAP enrobés routiers Orvault | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Orvault
+metaTitle: "Carottage à Orvault : amiante et HAP des enrobés routiers"
+metaDescription: "Le réseau routier d’Orvault évolue : avant chaque chantier, un carottage détermine la présence d’amiante et la teneur en HAP des enrobés."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-orvault-44700.html
 lat: 47.270999
 lng: -1.619416
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Orvault
+Limitrophe de Nantes et forte de plus de 25 000 habitants, Orvault a vu son urbanisation s’accélérer depuis les années 1950, et son réseau routier poursuit son développement. Chaque extension ou requalification de voie justifie un carottage à Orvault avant travaux.
 
-![Repérage amiante et HAP enrobés routiers Orvault](images/logo.png)
+## Anticiper la composition des chaussées
 
- [![Repérage amiante et HAP enrobés routiers Orvault](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Les voies ouvertes ou rechargées au fil des décennies n’ont pas toutes reçu les mêmes matériaux : certaines couches anciennes peuvent receler de l’amiante ou des liants riches en HAP. Le repérage amiante enrobés à Orvault cartographie ces héritages avant que le chantier ne les remette en circulation sous forme de poussières.
 
-![Repérage amiante et HAP enrobés routiers Orvault](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un diagnostic au service de tous les acteurs
 
-Commune des Pays de la Loire de plus de 25 000 habitants, Orvault a connu une explosion démographique à partir des années 50 notamment grâce à la ville de Nantes dont elle est limitrophe.
-
-Orvault bénéficie d’un réseau routier qui ne cesse de se développer.
-
-Besoin d’un repérage amiante et HAP sur les enrobés routier d’Orvault ? Fort de son expertise, France Carottage réalise ces diagnostics amiante et HAP pour garantir la sécurité des différents acteurs sur les chantiers.
-
-Faites confiance à France Carottage pour mettre en route tous vos projets !
+Conducteurs de travaux, agents de voirie, riverains : chacun bénéficie d’une chaussée analysée avant intervention. Les prélèvements réalisés par France Carottage, puis expertisés en laboratoire, débouchent sur un rapport précis qui sécurise le déroulement du chantier orvaltais et le devenir des matériaux extraits. De quoi mettre en route vos projets sur des bases fiables.

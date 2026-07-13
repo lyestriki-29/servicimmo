@@ -1,34 +1,23 @@
 ---
 slug: bayonne
-ville: Repérage  et    Bayonne
+ville: Bayonne
 codePostal: '64100'
 departement: '64'
-metaTitle: Repérage amiante et HAP enrobés routiers Bayonne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bayonne
+metaTitle: 'Carottage enrobés Bayonne : amiante & HAP (64100)'
+metaDescription: 'Repérage amiante et dosage HAP des enrobés à Bayonne (64) : carottage réglementaire, analyses COFRAC et rapport détaillé pour vos chantiers de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bayonne-64100.html
 lat: 43.488544
 lng: -1.466564
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bayonne
+Un fraisage programmé sur une avenue, une tranchée de réseau à ouvrir, un giratoire à reprendre ? À Bayonne, ces opérations ne peuvent démarrer sans connaître la teneur des couches d’enrobé en amiante et en HAP.
 
-![Repérage amiante et HAP enrobés routiers Bayonne](images/logo.png)
+## Une obligation avant tout chantier de voirie
 
- [![Repérage amiante et HAP enrobés routiers Bayonne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le Code du travail exige du donneur d’ordre qu’il fasse rechercher l’amiante avant d’intervenir sur un revêtement existant ; l’analyse des HAP détermine ensuite le devenir des matériaux rabotés. La cité basque, très fréquentée l’été, programme régulièrement des rénovations de chaussée : chacune passe par cette étape préalable.
 
-![Repérage amiante et HAP enrobés routiers Bayonne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du prélèvement au rapport d’analyse
 
-Située dans le Pays basque français, Bayonne est une cité dans laquelle se mêlent tradition et modernité.
+France Carottage réalise le carottage à Bayonne à la couronne diamantée, référence chaque échantillon puis le confie à un laboratoire accrédité COFRAC. Vous recevez un document localisant les sondages, décrivant la stratigraphie et donnant, couche par couche, la conclusion amiante et le niveau de HAP.
 
-Outre ses vestiges médiévaux - dont sa cathédrale gothique -, ses plages et son jardin botanique japonisant, Bayonne est une terre de rugby et un pays festif.
-
-Largement fréquentée pendant les mois d'été, des travaux de rénovation peuvent être envisagés dans cette commune.
-
-Si c'est le cas, songez à effectuer le repérage d'amiante et de HAP dans les enrobés routiers à Bayonne.
-
-Amiante et HAP sont des composants que l'on retrouve très fréquemment dans le bitume.
-
-Néanmoins, ils ne sont pas sans danger pour les individus et pour la nature.
-
-Ils peuvent provoquer des maladies mortelles.
+Avec ce repérage amiante enrobés Bayonne en main, vous rédigez vos modes opératoires, choisissez la filière d’élimination adaptée et chiffrez l’évacuation sans mauvaise surprise. Nos équipes couvrent l’ensemble des Pyrénées-Atlantiques : sollicitez-nous dès la préparation de votre opération.

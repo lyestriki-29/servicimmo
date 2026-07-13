@@ -1,28 +1,21 @@
 ---
 slug: agen
-ville: Repérage  et    Agen
+ville: Agen
 codePostal: '47000'
 departement: '47'
-metaTitle: Repérage amiante et HAP enrobés routiers Agen | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Agen
+metaTitle: "Carottage à Agen : amiante et HAP dans les enrobés routiers"
+metaDescription: "Avant de raboter une chaussée à Agen, faites vérifier l’amiante et les HAP des enrobés par carottage : prélèvements, analyses et rapport détaillé."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-agen-47000.html
 lat: 44.202304
 lng: 0.631041
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Agen
+Préfecture du Lot-et-Garonne, Agen voit régulièrement ses rues et avenues passer en phase de travaux. Avant de raboter ou de creuser une chaussée, la réglementation demande de savoir ce qu’elle contient : c’est précisément le rôle du carottage à Agen.
 
-![Repérage amiante et HAP enrobés routiers Agen](images/logo.png)
+## Pourquoi analyser la chaussée avant le chantier
 
- [![Repérage amiante et HAP enrobés routiers Agen](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Des couches de bitume posées il y a plusieurs décennies peuvent renfermer des fibres d’amiante ou des liants chargés en HAP. Tant que la route reste intacte, ces substances demeurent piégées ; dès qu’une fraiseuse entame le revêtement, elles se dispersent et exposent les équipes comme les riverains à des maladies respiratoires graves. Le repérage amiante enrobés à Agen lève ce doute avant le premier coup d’engin.
 
-![Repérage amiante et HAP enrobés routiers Agen](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le déroulement de l’intervention
 
-Préfecture du Lot-et-Garonne, Agen se trouve dans le sud-ouest.
-
-Avec son parc d'attraction, son Musée des Beaux-Arts et son canal, Agen offre un cadre plaisant aux habitants et aux visiteurs.
-
-Si des projets de rénovation urbaine ont lieu dans cette ville, vous devez absolument faire contrôler la présence d'amiante et de HAP dans les enrobés routiers d'Agen.
-
-Les fibres d'amiante et les particules de HAP qui se dégagent lors de gros travaux sur une chaussée sont des causes importantes de maladies graves comme les cancers mortels des voies respiratoires (poumons, larynx, etc.).
+Un technicien prélève des carottes sur les zones visées par le projet, couche par couche. Les échantillons partent ensuite au laboratoire, qui recherche l’amiante et mesure la teneur en HAP. Le rapport remis au maître d’ouvrage oriente le mode de retrait des matériaux et leur filière d’élimination. Pour planifier ce diagnostic sur la voirie agenaise, France Carottage vous accompagne de la commande au rendu des résultats.

@@ -1,30 +1,23 @@
 ---
 slug: athis-mons
-ville: Repérage  et    Athis-Mons
+ville: Athis-Mons
 codePostal: '91200'
 departement: '91'
-metaTitle: Repérage amiante et HAP enrobés routiers Athis-Mons | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Athis-Mons
+metaTitle: "Amiante et HAP enrobés à Athis-Mons : carottage (91200)"
+metaDescription: "Réfection de voirie à Athis-Mons : carottage d’enrobés, analyse amiante et HAP en laboratoire accrédité, rapport clair pour protéger vos équipes."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-athis-mons-91200.html
 lat: 48.70896
 lng: 2.384591
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Athis-Mons
+Née de la réunion de deux bourgs, Athis-Mons s’est développée avec l’arrivée du chemin de fer puis de l’activité aéroportuaire. Son réseau de voirie, dense et sollicité, fait régulièrement l’objet de réfections.
 
-![Repérage amiante et HAP enrobés routiers Athis-Mons](images/logo.png)
+## Évaluer le risque avant d’envoyer les équipes
 
- [![Repérage amiante et HAP enrobés routiers Athis-Mons](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Maîtres d’œuvre et employeurs publics doivent mesurer le danger auquel seront exposés agents de voirie et compagnons dès qu’une intervention touche l’espace public. Seul un repérage amiante enrobés à Athis-Mons, mené dans les règles, apporte cette information : les couches bitumineuses posées avant les années 1990 peuvent contenir des fibres, et les liants les plus anciens des HAP.
 
-![Repérage amiante et HAP enrobés routiers Athis-Mons](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage encadré, des résultats exploitables
 
-Athis-Mons existe telle quelle depuis le 19ème siècle.
+Le carottage à Athis-Mons est confié à un opérateur formé : prélèvement traversant toutes les strates, rebouchage immédiat, acheminement vers un laboratoire accrédité. Vous recevez ensuite un rapport qui localise chaque sondage et détaille la présence éventuelle d’amiante ainsi que la teneur en HAP.
 
-Auparavant, il s'agissait de deux bourgs distincts.
-
-Athis-Mons s'est intensément agrandie et industrialisée avec la construction de la ligne de chemin de fer et l'installation de l'aéroport.
-
-Pour information, si une réfection doit avoir cours sous peu au sein de l'espace public, tous les maîtres d'œuvre (ou employeurs publics) doivent être capables d'évaluer le risque encouru par les agents de voirie et autres travailleurs.
-
-Seul un repérage de l'amiante et des HAP dans les enrobés routiers d'Athis-Mons, effectué en bonne et due forme par des professionnels, permet de connaître ce risque.
+France Carottage intervient dans toute l’Essonne. Décrivez-nous votre emprise : nous vous proposons un plan de sondage et un devis sans attendre.

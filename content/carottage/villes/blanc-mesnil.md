@@ -1,28 +1,21 @@
 ---
 slug: blanc-mesnil
-ville: Repérage  et    Blanc-Mesnil
+ville: Blanc-Mesnil
 codePostal: '93150'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Blanc-Mesnil | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Blanc-Mesnil
+metaTitle: "Carottage & amiante enrobés Blanc-Mesnil (93150)"
+metaDescription: "Diagnostic amiante et HAP des enrobés au Blanc-Mesnil (93) : sondages sur chaussée, analyse en laboratoire et conclusions livrées pour votre chantier."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-blanc-mesnil-93150.html
 lat: 48.936683
 lng: 2.457832
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Blanc-Mesnil
+Entre deux parcs départementaux et à proximité immédiate des pôles économiques du Bourget, Le Blanc-Mesnil concentre des voiries très circulées. Ces chaussées de Seine-Saint-Denis ont reçu, au fil des campagnes d’entretien, des enrobés dont certains mêlaient amiante ou liants chargés en HAP — deux composants dangereux pour les équipes autant que pour le milieu naturel.
 
-![Repérage amiante et HAP enrobés routiers Blanc-Mesnil](images/logo.png)
+## Identifier le risque avant d’engager les engins
 
- [![Repérage amiante et HAP enrobés routiers Blanc-Mesnil](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Un rabotage lancé à l’aveugle peut disperser des fibres ou envoyer des matériaux pollués vers une mauvaise filière. Le carottage au Blanc-Mesnil lève cette incertitude : chaque échantillon prélevé traverse la totalité de la structure et part en laboratoire accrédité, où l’on traque l’amiante et mesure les hydrocarbures aromatiques polycycliques.
 
-![Repérage amiante et HAP enrobés routiers Blanc-Mesnil](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du prélèvement au rapport
 
-Le Blanc-Mesnil, aire urbanisée de la Seine-Saint-Denis, se situe entre deux Parcs départementaux.
-
-Cette ville est aussi à quelques pas seulement de grandes zones économiques comme l'Aéroport du Bourget.
-
-En vue de travaux sur les voies publiques, faites réaliser votre diagnostic amiante et HAP dans les enrobés routiers du Blanc-Mesnil.
-
-Ces deux adjuvants très utilisés pour solidifier les surfaces goudronnées représentent un risque important pour la santé des travailleurs et pour l'environnement.
+France Carottage organise la campagne selon votre planning, reste discret sur site et rebouche chaque sondage immédiatement. Le rapport final cartographie les points, détaille la stratigraphie et classe les matériaux par destination. Collectivités et entreprises de travaux publics disposent ainsi d’un repérage amiante enrobés au Blanc-Mesnil directement exploitable dans leurs consultations.

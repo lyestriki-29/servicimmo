@@ -1,30 +1,23 @@
 ---
 slug: blois
-ville: Repérage  et    Blois
+ville: Blois
 codePostal: '41000'
 departement: '41'
-metaTitle: Repérage amiante et HAP enrobés routiers Blois | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Blois
+metaTitle: 'Amiante enrobés & carottage Blois (41000)'
+metaDescription: 'France Carottage sonde vos chaussées à Blois (41) : carottage d’enrobés, recherche d’amiante, mesure des HAP et rapport remis avant vos travaux.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-blois-41000.html
 lat: 47.581406
 lng: 1.316533
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Blois
+Chef-lieu du Loir-et-Cher dominé par son château, Blois poursuit l’aménagement de ses véloroutes et la requalification de ses rues. Or, entamer un revêtement existant sans en connaître la composition expose ouvriers et riverains à des poussières potentiellement toxiques.
 
-![Repérage amiante et HAP enrobés routiers Blois](images/logo.png)
+## Deux polluants invisibles dans le bitume
 
- [![Repérage amiante et HAP enrobés routiers Blois](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Certains enrobés anciens renferment des fibres d’amiante ; d’autres reposent sur des liants goudronneux chargés en HAP. Ni l’un ni l’autre ne se détecte à l’œil : le doute ne se lève qu’en prélevant la matière et en la faisant analyser.
 
-![Repérage amiante et HAP enrobés routiers Blois](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage mené dans les règles à Blois
 
-Chef-lieu du Loir-et-Cher, Blois est la commune la plus peuplée du département.
+France Carottage définit avec vous le maillage de sondage, extrait les carottes sur la hauteur totale de la structure, remet la chaussée en circulation puis transmet les échantillons à un laboratoire accrédité. Chaque couche reçoit sa conclusion : présence ou absence d’amiante, teneur en HAP.
 
-Anciennement résidence royale sous Louis XII, Blois jouit d’un patrimoine culturel exceptionnel notamment grâce à son célèbre château.
-
-Ville très touristique, la commune de Blois offre de nombreuses opportunités comme la construction de véloroutes ou le développement de voies publiques.
-
-Pour vous accompagner au mieux, France Carottage effectue vos repérages amiante et HAP sur les enrobés routiers de Blois.
-
-Mettez en route tous vos projets avec France Carottage !
+Le rapport de repérage amiante enrobés Blois qui vous est remis nourrit vos pièces de marché, vos modes opératoires et le tri des fraisats. Que vous prépariez une piste cyclable, une tranchée de réseau ou une réfection complète, programmez le carottage Blois en amont de votre planning.

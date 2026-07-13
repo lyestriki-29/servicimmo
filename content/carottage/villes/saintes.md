@@ -1,28 +1,21 @@
 ---
 slug: saintes
-ville: Repérage  et    Saintes
+ville: Saintes
 codePostal: '17100'
 departement: '17'
-metaTitle: Repérage amiante et HAP enrobés routiers Saintes | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saintes
+metaTitle: "Carottage & amiante enrobés Saintes (17100)"
+metaDescription: "Remise en état de chaussée à Saintes (17) : carottage d’enrobés, recherche d’amiante et contrôle des HAP en laboratoire avant le début des travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saintes-17100.html
 lat: 45.748804
 lng: -0.647217
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saintes
+Riche de monuments comme l’Arc de Germanicus, Saintes est aussi une ville où collectivités et entreprises pilotent régulièrement des remises en état de chaussée. Un préalable s’impose alors : s’assurer qu’amiante et HAP sont absents des enrobés, ces substances étant responsables de maladies graves, parfois mortelles.
 
-![Repérage amiante et HAP enrobés routiers Saintes](images/logo.png)
+## Mesurer le danger avant de raboter
 
- [![Repérage amiante et HAP enrobés routiers Saintes](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Ni l’amiante ni les hydrocarbures aromatiques polycycliques ne se repèrent à l’œil. Le carottage à Saintes fournit la preuve matérielle : un prélèvement de toute la structure bitumineuse, analysé en laboratoire accrédité pour identifier les fibres et quantifier les teneurs, couche par couche.
 
-![Repérage amiante et HAP enrobés routiers Saintes](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un partenaire pour la Charente-Maritime
 
-Située dans le sud-ouest de la France, Saintes est l'ancienne préfecture du département 17.
-
-Deuxième ville la plus importante, Saintes compte plusieurs grands monuments tels l'Arc de Germanicus, sa cathédrale Saint Pierre ou encore sa Basilique.
-
-Que vous soyez une collectivité ou une entreprise, si vous dirigez des travaux de remise en état d'une chaussée sur Saintes, n'omettez pas de faire vérifier la présence d'amiante et de HAP dans les enrobés routiers à Saintes.
-
-Rappelons que l'amiante et les HAP (ou hydrocarbures aromatiques polycycliques) sont responsables de maladies catastrophiques pouvant être mortelles.
+France Carottage planifie les sondages selon vos contraintes d’exploitation, rebouche chaque forage sans attendre et remet un rapport localisé. Ce repérage amiante enrobés à Saintes détermine les protections des équipes et la filière des matériaux évacués. Maîtres d’ouvrage publics ou privés : sollicitez-nous en amont pour caler la campagne sur votre calendrier.

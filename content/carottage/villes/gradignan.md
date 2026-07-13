@@ -1,28 +1,21 @@
 ---
 slug: gradignan
-ville: Repérage  et    Gradignan
+ville: Gradignan
 codePostal: '33170'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Gradignan | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Gradignan
+metaTitle: "Carottage & amiante enrobés Gradignan (33170)"
+metaDescription: "À Gradignan (Gironde), France Carottage réalise carottages d’enrobés et repérages amiante HAP : analyses accréditées et rapport clair avant vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-gradignan-33170.html
 lat: 44.7691
 lng: -0.616651
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Gradignan
+Commune girondine connue pour son salon « Lire en poche », Gradignan porte régulièrement des projets routiers et d’infrastructure. Chacun d’eux bute sur le même préalable : établir si les enrobés existants renferment amiante ou HAP avant d’y toucher.
 
-![Repérage amiante et HAP enrobés routiers Gradignan](images/logo.png)
+## Le sondage, première étape du projet
 
- [![Repérage amiante et HAP enrobés routiers Gradignan](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le carottage à Gradignan extrait un cylindre complet de la chaussée, conditionné puis expédié en laboratoire accrédité. L’examen révèle les fibres d’amiante éventuelles et mesure la teneur en hydrocarbures aromatiques polycycliques de chaque couche. Deux données sans lesquelles ni la protection des équipes ni la gestion des déblais ne peuvent être définies.
 
-![Repérage amiante et HAP enrobés routiers Gradignan](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un diagnostic au service de vos marchés
 
-Commune du sud-ouest de la France, Gradignan est située dans le département de la Gironde.
-
-Gradignan propose de nombreuses manifestations culturelles, notamment le salon du livre, « lire en poche ».
-
-Si vous êtes l’auteur d’un projet routier ou d’infrastructure, faites appel à France Carottage pour établir votre diagnostic amiante et HAP sur les enrobés routiers de Gradignan.
-
-Avec France Carottage, votre projet est à la page !
+Le rapport France Carottage situe chaque point de forage, décrit la stratigraphie et oriente les matériaux vers la filière adéquate. Ce repérage amiante enrobés à Gradignan alimente vos dossiers de consultation et prémunit le maître d’ouvrage contre les mauvaises surprises en cours de chantier. Parlez-nous de votre emprise en Gironde : le devis suit sous quelques jours.

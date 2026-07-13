@@ -1,32 +1,21 @@
 ---
 slug: mont-de-marsan
-ville: Repérage  et    Mont-de-Marsan
+ville: Mont-de-Marsan
 codePostal: '40000'
 departement: '40'
-metaTitle: Repérage amiante et HAP enrobés routiers Mont-de-Marsan | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Mont-de-Marsan
+metaTitle: "Carottage & amiante enrobés Mont-de-Marsan (40000)"
+metaDescription: "France Carottage analyse les enrobés de Mont-de-Marsan (40) : carottages sur voirie, recherche amiante, mesure des HAP, filière fraisats sécurisée."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-mont-de-marsan-40000.html
 lat: 43.891359
 lng: -0.500182
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Mont-de-Marsan
+Rénover ou déconstruire une chaussée à Mont-de-Marsan commence toujours par la même précaution : faire analyser l’enrobé en place avant d’engager les machines.
 
-![Repérage amiante et HAP enrobés routiers Mont-de-Marsan](images/logo.png)
+## Amiante et HAP : deux risques à traiter séparément
 
- [![Repérage amiante et HAP enrobés routiers Mont-de-Marsan](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+L’amiante, cancérogène avéré, interdit tout recyclage des matériaux qui en contiennent. Les hydrocarbures aromatiques polycycliques, eux, sont de puissants polluants dont la concentration détermine la filière d’évacuation. Le diagnostic amiante enrobés Mont-de-Marsan mesure les deux paramètres, couche par couche, à partir d’échantillons prélevés directement sur votre emprise.
 
-![Repérage amiante et HAP enrobés routiers Mont-de-Marsan](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un chantier préparé, un budget maîtrisé
 
-Mont-de-Marsan est une ville médiévale fortifiée.
-
-Mont-de-Marsan regroupe plusieurs centres d'intérêt : forêt, plage, montagne, activités culturelles, zoo.
-
-Si vous cherchez une société pour repérer l'amiante et les hydrocarbures aromatiques polycycliques contenus dans les enrobés de Mont-de-Marsan, France Carottage est l'entreprise qu'il vous faut.
-
-Sachez qu'un grand nombre de cancers sont provoqués par l'amiante.
-
-Quant aux HAP, ils sont extrêmement polluants.
-
-Pour toute rénovation ou pour toute destruction d'enrobés routiers, pensez à les faire analyser avant de commencer les travaux.
+En pratique, le carottage Mont-de-Marsan s’effectue par points de sondage répartis selon la surface et l’historique de la voirie. Les témoins rejoignent un laboratoire accrédité ; les résultats reviennent avec une lecture claire : matériaux réemployables, recyclables ou à éliminer. Vous intégrez ces données à vos pièces de marché et écartez tout risque de requalification de déchets en cours de chantier. Nos équipes rayonnent sur l’ensemble des Landes.

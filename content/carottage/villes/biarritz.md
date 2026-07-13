@@ -1,30 +1,21 @@
 ---
 slug: biarritz
-ville: Repérage  et    Biarritz
+ville: Biarritz
 codePostal: '64200'
 departement: '64'
-metaTitle: Repérage amiante et HAP enrobés routiers Biarritz | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Biarritz
+metaTitle: "Amiante et HAP des enrobés à Biarritz : carottage routier"
+metaDescription: "Repérage amiante et HAP des enrobés à Biarritz avant travaux de voirie : carottages sur chaussée, analyses en laboratoire et préconisations."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-biarritz-64200.html
 lat: 43.472166
 lng: -1.555076
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Biarritz
+Sur la côte basque, Biarritz vit au rythme d’une fréquentation touristique intense qui sollicite fortement sa voirie. Chaque opération de réfection soulève la même question : que contient l’enrobé que l’on s’apprête à découper ? Le carottage à Biarritz y répond avec précision.
 
-![Repérage amiante et HAP enrobés routiers Biarritz](images/logo.png)
+## Une ville balnéaire, des chaussées à contrôler
 
- [![Repérage amiante et HAP enrobés routiers Biarritz](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Amiante et HAP ont longtemps fait partie de la recette des revêtements routiers. Ces composants, inoffensifs tant que la chaussée dort, deviennent nocifs pour la santé et l’environnement dès que les travaux libèrent poussières et gravats. Un repérage amiante enrobés à Biarritz permet d’écarter ce risque avant d’engager les engins sur l’avenue ou le parking concerné.
 
-![Repérage amiante et HAP enrobés routiers Biarritz](images/picto-mail.png) **contact @ france-carottage.fr**
+## Ce que révèle l’analyse
 
-Idéalement placée sur la côte basque française, Biarritz est réputée pour sa grande plage.
-
-La mer est à l'honneur dans cette ville des Pyrénées-Atlantiques avec l'aquarium et la Cité de l'océan.
-
-Si des rénovations routières sont envisagées, vous devez penser au repérage de l'amiante et des HAP dans les enrobés routiers de Biarritz.
-
-Ces ingrédients qui font partie intégrante des constructions en goudron comportent des risques sanitaires.
-
-Ils ont notamment des propriétés cancérogènes et présentent une menace environnementale.
+Chaque carotte prélevée traverse toutes les strates du revêtement. Le laboratoire y recherche les fibres d’amiante et quantifie les HAP, deux familles de polluants classées cancérogènes. Les conclusions guident le choix des équipements de protection et la destination des matériaux retirés. France Carottage intervient à Biarritz et dans les Pyrénées-Atlantiques pour mener ces prélèvements dans les délais de votre chantier.

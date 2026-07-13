@@ -1,26 +1,21 @@
 ---
 slug: saint-malo
-ville: Repérage  et    Saint-Malo
+ville: Saint-Malo
 codePostal: '35400'
 departement: '35'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Malo | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Malo
+metaTitle: 'Carottage Saint-Malo : amiante et HAP dans les enrobés'
+metaDescription: 'Voiries, parkings, allées : diagnostic amiante et HAP des enrobés à Saint-Malo par carottage, pour protéger ouvriers, riverains et environnement.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-malo-35400.html
 lat: 48.642082
 lng: -1.988626
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Malo
+Chez les Malouins, les surfaces goudronnées ne se limitent pas aux grandes voiries : parkings, trottoirs et allées privées composent aussi le paysage bitumé de Saint-Malo. Toutes peuvent receler des substances indésirables.
 
-![Repérage amiante et HAP enrobés routiers Saint-Malo](images/logo.png)
+## Public ou privé : les mêmes précautions
 
- [![Repérage amiante et HAP enrobés routiers Saint-Malo](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Qu’il s’agisse d’une rue communale ou d’une allée de particulier, un enrobé ancien peut contenir de l’amiante et des HAP. Dès lors que des travaux les menacent, le repérage amiante enrobés à Saint-Malo concerne donc l’ensemble des surfaces goudronnées, publiques comme privées.
 
-![Repérage amiante et HAP enrobés routiers Saint-Malo](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage à Saint-Malo pour protéger hommes et environnement
 
-Les Malouins et les Malouines sont les citoyens de Saint-Malo.
-
-Les parkings ou les allées privées sont sujets à la présence d'amiante et de HAP tout comme les voiries, les parkings, les trottoirs et toute autres surfaces goudronnées publiques ou privées.
-
-Il est donc nécessaire de faire accomplir un diagnostic amiante et HAP enrobés routiers à Saint-Malo par FRANCE CAROTTAGE afin de ne pas mettre en péril la santé des hommes et de préserver l'environnement.
+Le carottage à Saint-Malo permet d’extraire des échantillons du revêtement et de les faire analyser en laboratoire. À la clé : un diagnostic fiable qui évite de mettre en péril la santé des intervenants et préserve l’environnement lors de l’évacuation des matériaux. France Carottage organise votre intervention en Ille-et-Vilaine : contactez l’équipe pour un devis.

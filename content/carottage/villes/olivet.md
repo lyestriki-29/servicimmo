@@ -1,32 +1,21 @@
 ---
 slug: olivet
-ville: Repérage  et    Olivet
+ville: Olivet
 codePostal: '45160'
 departement: '45'
-metaTitle: Repérage amiante et HAP enrobés routiers Olivet | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Olivet
+metaTitle: "Carottage à Olivet : repérage amiante enrobés et HAP"
+metaDescription: "À Olivet, dans le Val de Loire, France Carottage contrôle amiante et HAP de vos enrobés par carottage avant tout chantier routier ou d’infrastructure."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-olivet-45160.html
 lat: 47.859196
 lng: 1.889457
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Olivet
+Implantée dans le Val de Loire, inscrit au patrimoine mondial de l’UNESCO, Olivet protège sa flore et sa faune grâce à plusieurs zones naturelles dédiées. Membre d’Orléans Métropole, la commune du Loiret conjugue vitalité économique et attention portée à son environnement.
 
-![Repérage amiante et HAP enrobés routiers Olivet](images/logo.png)
+## Concilier travaux routiers et exigence écologique
 
- [![Repérage amiante et HAP enrobés routiers Olivet](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Dans un tel cadre, pas question de fraiser une chaussée sans connaître sa composition. Le repérage amiante enrobés à Olivet, associé à la recherche de HAP, garantit que le chantier ne dispersera pas de polluants et que les matériaux retirés suivront la filière appropriée.
 
-![Repérage amiante et HAP enrobés routiers Olivet](images/picto-mail.png) **contact @ france-carottage.fr**
+## France Carottage, la route à suivre
 
-Commune française située dans le département du Loiret, Olivet est implantée dans le Val de Loire qui appartient à la liste du patrimoine mondial de l’UNESCO.
-
-Olivet a de nombreux atouts, notamment sa flore et sa faune pour lesquelles des zones naturelles protégées ont été créées.
-
-Olivet fait partie d’Orléans Métropole et profite donc aussi de sa vitalité.
-
-Pour respecter cette harmonie écologique et économique, France Carottage est le parfait partenaire de tous vos projets routiers ou d’infrastructure sur le territoire.
-
-En effet, France Carottage effectue les repérages amiante et HAP sur les enrobés routiers à Olivet.
-
-C’est la route à suivre !
+Nous réalisons le carottage à Olivet : prélèvements localisés sur la voirie, analyses accréditées, rapport transmis au donneur d’ordre. Un projet routier ou d’infrastructure sur le territoire métropolitain ? Appuyez-vous sur des données vérifiées avant le premier coup d’engin. Contactez notre équipe.

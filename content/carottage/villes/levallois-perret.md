@@ -1,28 +1,23 @@
 ---
 slug: levallois-perret
-ville: Repérage  et    Levallois-Perret
+ville: Levallois-Perret
 codePostal: '92300'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Levallois-Perret | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Levallois-Perret
+metaTitle: 'Carottage enrobés Levallois-Perret : amiante HAP'
+metaDescription: 'Carottage d’enrobés à Levallois-Perret (92) : repérage amiante avant travaux de voirie, dosage HAP et rapport exploitable par vos équipes.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-levallois-perret-92300.html
 lat: 48.894215
 lng: 2.286846
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Levallois-Perret
+Peu de communes concentrent autant de projets au mètre carré que Levallois-Perret, limitrophe du nord-ouest parisien. Dans ce tissu urbain dense, la moindre intervention sur chaussée doit être préparée avec rigueur — à commencer par le contrôle des enrobés.
 
-![Repérage amiante et HAP enrobés routiers Levallois-Perret](images/logo.png)
+## Le préalable des professionnels de la construction
 
- [![Repérage amiante et HAP enrobés routiers Levallois-Perret](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les acteurs du BTP le savent : ouvrir un revêtement sans repérage expose à des fibres d’amiante et à des HAP hérités des anciennes formulations bitumineuses. Cette vérification, exigée par la réglementation, conditionne l’organisation du chantier et le traitement des matériaux extraits.
 
-![Repérage amiante et HAP enrobés routiers Levallois-Perret](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un diagnostic complet, du forage au rapport
 
-Levallois-Perret se trouve au nord-ouest de la capitale, avec laquelle la ville partage une frontière.
+Nos opérateurs conduisent le carottage à Levallois-Perret en limitant la gêne pour la circulation : sondages ponctuels, carottes prélevées sur l’intégralité de l’épaisseur, remise en état sans délai. L’analyse en laboratoire accrédité recherche l’amiante et quantifie les HAP, niveau par niveau.
 
-Dans cette commune très densément peuplée, les plans de constructions immobilières pleuvent abondamment, influençant les prix à la hausse.
-
-Si vous êtes un professionnel de la construction, vous n'êtes pas sans savoir que le repérage de l'amiante et des HAP dans les enrobés routiers de Levallois-Perret est fortement recommandé.
-
-Pour effectuer votre diagnostic, vous pouvez recourir à France Carottage.
+Le rapport de diagnostic amiante enrobés Levallois-Perret vous parvient avec la localisation des points et la stratigraphie détaillée. Il s’intègre directement à vos dossiers de consultation et à vos bordereaux de suivi des déchets. France Carottage rayonne sur l’ensemble des Hauts-de-Seine.

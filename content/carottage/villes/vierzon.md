@@ -1,30 +1,21 @@
 ---
 slug: vierzon
-ville: Repérage  et    Vierzon
+ville: Vierzon
 codePostal: '18100'
 departement: '18'
-metaTitle: Repérage amiante et HAP enrobés routiers Vierzon | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Vierzon
+metaTitle: 'Repérage amiante HAP des enrobés : carottage à Vierzon'
+metaDescription: 'Carottage d’enrobés à Vierzon, carrefour routier du Cher : repérage amiante et HAP avant vos chantiers d’infrastructure, résultats détaillés.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-vierzon-18100.html
 lat: 47.223215
 lng: 2.082045
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Vierzon
+Positionnée en carrefour routier au cœur du département du Cher, Vierzon voit transiter un trafic important sur ses axes. Un patrimoine de chaussées qui appelle des contrôles rigoureux avant chaque intervention.
 
-![Repérage amiante et HAP enrobés routiers Vierzon](images/logo.png)
+## Ce que révèle un repérage amiante et HAP
 
- [![Repérage amiante et HAP enrobés routiers Vierzon](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les enrobés posés au fil des décennies peuvent contenir des fibres d’amiante et des HAP. Couche par couche, le repérage amiante enrobés à Vierzon dresse l’inventaire de ces substances, condition indispensable pour raboter, recycler ou démolir sans exposer personne à des poussières toxiques.
 
-![Repérage amiante et HAP enrobés routiers Vierzon](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Vierzon, avec le savoir-faire France Carottage
 
-Commune française, appartenant au département du Cher, Vierzon se positionne comme un carrefour routier.
-
-Profitez de cette aubaine pour passer à l’action.
-
-Le réseau France Carottage apporte son savoir-faire à tous vos projets d’infrastructure.
-
-Faites donc confiance à France Carottage pour effectuer les repérages amiante et HAP sur les enrobés routiers de Vierzon.
-
-France Carottage vous souhaite bonne route !
+Pour vos projets d’infrastructure, France Carottage met son expérience au service du carottage à Vierzon : prélèvements ciblés sur la chaussée, analyses en laboratoire et rapport de synthèse remis dans les meilleurs délais. Vous engagez ensuite vos travaux sur des bases saines, dans le respect des obligations réglementaires. Contactez l’équipe pour un devis dans le Cher.

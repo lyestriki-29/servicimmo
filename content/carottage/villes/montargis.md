@@ -1,34 +1,21 @@
 ---
 slug: montargis
-ville: Repérage  et    Montargis
+ville: Montargis
 codePostal: '45200'
 departement: '45'
-metaTitle: Repérage amiante et HAP enrobés routiers Montargis | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Montargis
+metaTitle: "Amiante et HAP enrobés : carottage à Montargis (45200)"
+metaDescription: "Carottage à Montargis et repérage amiante et HAP des enrobés : préservez le cadre du Gâtinais et vos équipes avant vos travaux de voirie dans le Loiret."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-montargis-45200.html
 lat: 47.998342
 lng: 2.735445
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Montargis
+Traversée par le canal de Briare, Montargis doit à l’eau son surnom officieux de « Venise du Gâtinais ». Sa forêt, répertoriée zone naturelle d’intérêt écologique, faunistique et floristique, et sa gare reliée à Paris en font une ville du Loiret à la fois verte et bien connectée.
 
-![Repérage amiante et HAP enrobés routiers Montargis](images/logo.png)
+## Préserver ce cadre passe aussi par la voirie
 
- [![Repérage amiante et HAP enrobés routiers Montargis](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Travailler un enrobé chargé d’amiante ou de HAP sans le savoir, c’est disperser des polluants dans un environnement sensible et exposer les équipes. Réalisé en amont, le repérage amiante enrobés à Montargis évite ces écueils et conditionne le recyclage éventuel des fraisats.
 
-![Repérage amiante et HAP enrobés routiers Montargis](images/picto-mail.png) **contact @ france-carottage.fr**
+## Votre carottage à Montargis avec France Carottage
 
-Commune du Loiret, Montargis appartient à la région naturelle du Gâtinais.
-
-Montargis est traversée par le canal de Briare d’où elle tire son surnom officieux « Montargis, la Venise du Gâtinais ».
-
-La forêt de Montargis est répertoriée comme zone naturelle d’intérêt écologique, faunistique et floristique.
-
-Reliée à Paris par la gare de Montargis, la ville offre des opportunités de développement intéressantes.
-
-Pour vos projets de travaux routiers, France Carottage est le bon partenaire.
-
-France Carottage effectue les repérages amiante et HAP sur les enrobés routiers à Montargis.
-
-Bonne route !
+Nos techniciens prélèvent des carottes sur les sections à traiter ; chaque échantillon est ensuite confié à un laboratoire accrédité. Rénovation d’une rue, tranchée de réseau ou réfection complète : le rapport remis vous met sur de bons rails. Bonne route avec France Carottage !

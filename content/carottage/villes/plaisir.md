@@ -1,28 +1,21 @@
 ---
 slug: plaisir
-ville: Repérage  et    Plaisir
+ville: Plaisir
 codePostal: '78370'
 departement: '78'
-metaTitle: Repérage amiante et HAP enrobés routiers Plaisir | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Plaisir
+metaTitle: "Carottage à Plaisir (78370) : amiante enrobés et HAP"
+metaDescription: "Rénovation de chaussée à Plaisir : repérez l’amiante et les HAP encore présents dans les enrobés grâce au carottage et aux analyses en laboratoire."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-plaisir-78370.html
 lat: 48.812226
 lng: 1.946353
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Plaisir
+Voisine de Bois d’Arcy et d’Élancourt, Plaisir se compose pour moitié de terres agricoles et de forêts, tout en restant desservie par plusieurs grands axes. Dans cette commune des Yvelines, les chantiers de chaussée exigent une vigilance particulière face aux composés toxiques.
 
-![Repérage amiante et HAP enrobés routiers Plaisir](images/logo.png)
+## Amiante et HAP : toujours présents dans les revêtements
 
- [![Repérage amiante et HAP enrobés routiers Plaisir](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+L’amiante est interdite et les HAP font débat, mais ces substances subsistent dans de nombreux enrobés posés par le passé — et leur nocivité demeure. Quiconque pilote une rénovation de chaussée doit donc commander un repérage amiante enrobés à Plaisir avant de lancer les opérations.
 
-![Repérage amiante et HAP enrobés routiers Plaisir](images/picto-mail.png) **contact @ france-carottage.fr**
+## Sécurisez le chantier avec un carottage à Plaisir
 
-Ville du département des Yvelines (78), Plaisir est constituée pour moitié de terrains agricoles et de forêts.
-
-Voisine de Bois d'Arcy et d'Élancourt, Plaisir est accessible par plusieurs grandes routes.
-
-Vous avez la lourde charge d'assurer la rénovation de chaussées ? Soyez vigilant aux composés toxiques comme l'amiante et les HAP présents dans les enrobés routiers à Plaisir.
-
-Si l'amiante est interdit et les HAP sujets à polémique, ces matériaux demeurent encore dans les revêtements routiers et restent nocifs.
+France Carottage prélève des échantillons sur les sections concernées et les fait examiner par un laboratoire accrédité. Le rapport identifie les couches à risque, la teneur en HAP et les précautions à prévoir : vous protégez vos équipes et cadrez la gestion des matériaux. Devis rapide dans les Yvelines.

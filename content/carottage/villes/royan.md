@@ -1,34 +1,21 @@
 ---
 slug: royan
-ville: Repérage  et    Royan
+ville: Royan
 codePostal: '17200'
 departement: '17'
-metaTitle: Repérage amiante et HAP enrobés routiers Royan | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Royan
+metaTitle: 'Repérage amiante et HAP des enrobés routiers à Royan'
+metaDescription: 'Avant toute rénovation de chaussée à Royan, repérez amiante et HAP dans les enrobés grâce au carottage. Résultats fiables pour agir en sécurité.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-royan-17200.html
 lat: 45.634186
 lng: -1.017415
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Royan
+Station balnéaire du sud de la Charente-Maritime, Royan attire chaque été les vacanciers entre plages, casino et marché central. Pour rester accueillante, la ville entretient régulièrement rues et espaces publics.
 
-![Repérage amiante et HAP enrobés routiers Royan](images/logo.png)
+## Avant de démolir une chaussée royannaise
 
- [![Repérage amiante et HAP enrobés routiers Royan](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Toute destruction ou rénovation de voirie doit être précédée d’une étude des revêtements : certains bitumes anciens renferment de l’amiante et des HAP. Le repérage amiante enrobés à Royan identifie ces substances et permet de prendre les mesures qui s’imposent, pour les ouvriers comme pour les promeneurs.
 
-![Repérage amiante et HAP enrobés routiers Royan](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Royan, confié à un spécialiste
 
-Royan est une commune du sud de la Charente Maritime (département 17).
-
-Il s'agit d'un lieu de villégiature apprécié des vacanciers durant l'été.
-
-Entre ses plages, son casino et son marché central, Royan réunit tous les atouts pour séduire les touristes.
-
-Si des programmes de rénovation urbaine ont lieu à Royan, vous pouvez recourir à France Carottage.
-
-C'est la spécialiste du repérage de l'amiante et des HAP dans les enrobés routiers à Royan.
-
-Avant toute destruction de chaussée, étudiez les enrobés routiers afin de détecter une possible présence d'amiante et de HAP.
-
-Ainsi, vous pourrez prendre les mesures qui s'imposent.
+France Carottage réalise votre carottage à Royan : prélèvement de carottes dans la chaussée, analyses en laboratoire et rapport détaillé couche par couche. Vous connaissez ainsi la teneur en HAP et la présence éventuelle de fibres avant le premier coup de raboteuse. Demandez un rendez-vous pour vos programmes de rénovation urbaine en Charente-Maritime.

@@ -1,32 +1,21 @@
 ---
 slug: alfortville
-ville: Repérage  et    Alfortville
+ville: Alfortville
 codePostal: '94140'
 departement: '94'
-metaTitle: Repérage amiante et HAP enrobés routiers Alfortville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Alfortville
+metaTitle: "Carottage & amiante enrobés Alfortville (94140)"
+metaDescription: "Repérage amiante et HAP dans les enrobés à Alfortville (94) : carottage de chaussée, analyse en laboratoire accrédité et rapport prêt pour vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-alfortville-94140.html
 lat: 48.797176
 lng: 2.421524
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Alfortville
+Commune du Grand Paris distinguée par de nombreux labels, Alfortville voit ses voiries régulièrement sollicitées par les chantiers d’aménagement du Val-de-Marne. Or les couches bitumineuses posées autrefois abritent parfois fibres d’amiante et HAP, deux substances toxiques pour quiconque les respire.
 
-![Repérage amiante et HAP enrobés routiers Alfortville](images/logo.png)
+## Vérifier la chaussée avant de la travailler
 
- [![Repérage amiante et HAP enrobés routiers Alfortville](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Le carottage à Alfortville extrait un échantillon complet de la structure, de la couche de roulement jusqu’à l’assise. Un laboratoire accrédité y recherche l’amiante et chiffre la charge en hydrocarbures aromatiques polycycliques, strate par strate. Ce repérage amiante enrobés à Alfortville détermine si les ouvriers doivent porter des protections renforcées et vers quelle filière diriger les matériaux rabotés.
 
-![Repérage amiante et HAP enrobés routiers Alfortville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un déroulé pensé pour les voiries urbaines
 
-Alfortville est l'une des villes du Grand Paris, ambitieux plan d'agrandissement du métro parisien.
-
-Alfortville est aussi une municipalité aux multiples labels.
-
-Récompensée par l'UNICEF, elle détient également une distinction pour sa propreté, pour ses actions en faveur de l'innovation et pour son implication dans le numérique.
-
-Vous planifiez des travaux ? Amiante et HAP se trouvent peut-être dans les enrobés routiers d'Alfortville.
-
-Or, de nombreuses études ont démontré que l'amiante comme les HAP étaient des produits toxiques.  Les individus qui travaillent à leur contact doivent éviter de les inhaler.
-
-Pour savoir si les ouvriers doivent être équipés contre ces matières, un diagnostic doit être effectué.
+Nos techniciens implantent les points de sondage selon l’emprise de vos travaux, forent, rebouchent aussitôt et libèrent la voie. Vous recevez ensuite un rapport localisant chaque prélèvement, accompagné de la conclusion analytique correspondante. Maîtres d’ouvrage, entreprises de VRD ou syndics : transmettez le périmètre concerné à France Carottage et obtenez rapidement un devis pour votre diagnostic.

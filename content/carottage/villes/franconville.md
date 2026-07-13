@@ -1,30 +1,21 @@
 ---
 slug: franconville
-ville: Repérage  et    Franconville
+ville: Franconville
 codePostal: '95130'
 departement: '95'
-metaTitle: Repérage amiante et HAP enrobés routiers Franconville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Franconville
+metaTitle: "Carottage à Franconville : amiante et HAP des enrobés"
+metaDescription: "Routes, trottoirs et parkings à Franconville : carottage et repérage amiante et HAP des enrobés avant travaux publics, avec rapport de laboratoire."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-franconville-95130.html
 lat: 48.98921
 lng: 2.224145
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Franconville
+Connue aussi sous le nom de Franconville-la-Garenne, cette ville du Val-d’Oise située à une vingtaine de kilomètres de Paris affiche une population conséquente. Qui dit ville dense dit chantiers réguliers sur la voirie, les trottoirs ou les parkings — autant de surfaces à contrôler avant travaux.
 
-![Repérage amiante et HAP enrobés routiers Franconville](images/logo.png)
+## Des matériaux à risque bien au-delà des bâtiments
 
- [![Repérage amiante et HAP enrobés routiers Franconville](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+L’amiante et les HAP ne se cachent pas que dans l’immobilier : routes, aires de stationnement et cheminements bitumés peuvent en contenir, surtout lorsqu’ils datent de plusieurs décennies. Si votre secteur est cartographié comme sensible, le repérage amiante enrobés à Franconville devient un préalable indispensable à tous travaux publics.
 
-![Repérage amiante et HAP enrobés routiers Franconville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Confiez votre carottage à Franconville à nos équipes
 
-La commune val-d'Oisienne de Franconville est aussi connue sous le nom de Franconville-la-Garenne.
-
-C'est une ville relativement importante de par sa population.
-
-De plus, Franconville est à vingt kilomètres de la capitale française.
-
-Si votre commune est cartographiée en tant que zone  sensible concernant l'amiante, n'oubliez pas de demander, préalablement à des travaux publics, le repérage de l'amiante et des HAP dans les enrobés routiers de Franconville.
-
-Ces matériaux sont susceptibles de se trouver en grande quantité dans toutes les installations qui contiennent du béton : les bâtiments bien sûr, mais également les routes, les trottoirs, les parkings, etc.
+France Carottage prélève les échantillons, les soumet à l’analyse en laboratoire et vous remet un document localisant les couches concernées. Vous planifiez alors le chantier et orientez les matériaux vers la bonne filière. Demandez un devis pour votre opération dans le Val-d’Oise.

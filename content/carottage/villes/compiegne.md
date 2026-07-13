@@ -1,28 +1,21 @@
 ---
 slug: compiegne
-ville: Repérage  et    Compiègne
+ville: Compiègne
 codePostal: '60200'
 departement: '60'
-metaTitle: Repérage amiante et HAP enrobés routiers Compiègne | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Compiègne
+metaTitle: "Carottage routier à Compiègne : amiante enrobés et HAP"
+metaDescription: "Avant toute intervention sur la voirie de Compiègne, un carottage contrôle l’amiante et les HAP des enrobés pour protéger équipes et riverains."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-compiegne-60200.html
 lat: 49.405934
 lng: 2.844366
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Compiègne
+Entre l’Aisne, l’Oise et sa vaste forêt, Compiègne modernise progressivement ses infrastructures de déplacement. Toute transformation d’une voie existante appelle un préalable : le carottage à Compiègne, qui dresse l’inventaire des polluants du revêtement.
 
-![Repérage amiante et HAP enrobés routiers Compiègne](images/logo.png)
+## Des poussières à ne pas libérer
 
- [![Repérage amiante et HAP enrobés routiers Compiègne](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Lorsqu’une chaussée est sciée ou rabotée, les particules qu’elle contient se retrouvent en suspension dans l’air. Si l’enrobé renferme de l’amiante ou des HAP, ces poussières deviennent un danger direct pour les ouvriers, les passants et les habitations voisines. Le repérage amiante enrobés à Compiègne vérifie donc la composition du bitume avant l’ouverture du chantier.
 
-![Repérage amiante et HAP enrobés routiers Compiègne](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une méthode simple et normée
 
-Cernée par deux cours d'eau, l'Aisne et l'Oise, Compiègne héberge aussi une forêt.
-
-Afin de pallier les lacunes de la ville en matière de mobilité, la municipalité a mis en place un système de covoiturage.
-
-Dans le cadre de la modernisation de Compiègne, peut-être une voie va-t-elle subir des transformations.
-
-Le cas échéant, mettez-vous en relation avec France Carottage pour diagnostiquer l'amiante et les HAP qui pourraient être contenus dans les enrobés routiers de Compiègne.
+Des carottes sont extraites aux points stratégiques du tracé, puis expédiées vers un laboratoire d’analyse. Celui-ci statue sur la présence de fibres d’amiante et sur la concentration en HAP de chaque couche. Muni du rapport, le responsable des travaux ajuste protections, planning et évacuation des matériaux. France Carottage accompagne les projets compiégnois à chaque étape de ce diagnostic.

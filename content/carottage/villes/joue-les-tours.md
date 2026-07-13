@@ -1,28 +1,21 @@
 ---
 slug: joue-les-tours
-ville: Repérage  et    Joué-lès-Tours
+ville: Joué-lès-Tours
 codePostal: '37300'
 departement: '37'
-metaTitle: Repérage amiante et HAP enrobés routiers Joué-lès-Tours | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Joué-lès-Tours
+metaTitle: 'Carottage Joué-lès-Tours : amiante et HAP des enrobés'
+metaDescription: 'Carottage d’enrobés à Joué-lès-Tours : détection de l’amiante et des HAP avant vos projets routiers, avec un rapport simple à exploiter.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-joue-les-tours-37300.html
 lat: 47.336276
 lng: 0.657551
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Joué-lès-Tours
+Membre de Tours Métropole Val de Loire, qui regroupe près de trois cent mille habitants, Joué-lès-Tours affiche une démographie en progression constante. Cette vitalité s’accompagne de nouveaux besoins en infrastructures.
 
-![Repérage amiante et HAP enrobés routiers Joué-lès-Tours](images/logo.png)
+## Projets routiers : commencez par le diagnostic
 
- [![Repérage amiante et HAP enrobés routiers Joué-lès-Tours](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Toute opération sur une chaussée existante — élargissement, réfection, démolition — suppose de connaître la composition des revêtements. Le repérage amiante enrobés à Joué-lès-Tours détecte la présence de fibres d’amiante et mesure les HAP contenus dans les différentes couches bitumineuses.
 
-![Repérage amiante et HAP enrobés routiers Joué-lès-Tours](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Joué-lès-Tours par France Carottage
 
-Commune d’Indre-et-Loire, Joué-lès-Tours fait partie de Tours Métropole Val de Loire rassemblant près de trois cent mille habitants.
-
-En augmentation démographique constante, Joué-lès-Tours offre des opportunités liées à sa vitalité démographique et à ses manifestations culturelles.
-
-Si vous souhaitez développer des projets routiers, faites confiance à France Carottage qui effectue les repérages amiante et HAP sur les enrobés routiers de Joué-lès-Tours.
-
-En route !
+Pour votre carottage à Joué-lès-Tours, France Carottage extrait des carottes d’enrobé aux points stratégiques du chantier, les confie à un laboratoire, puis vous transmet un rapport directement utilisable par vos équipes. Ce document conditionne les protections à prévoir et le sort des matériaux rabotés. Un projet en Indre-et-Loire ? Parlons-en dès maintenant.

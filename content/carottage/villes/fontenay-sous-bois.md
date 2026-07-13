@@ -1,30 +1,21 @@
 ---
 slug: fontenay-sous-bois
-ville: Repérage  et    Fontenay-sous-Bois
+ville: Fontenay-sous-Bois
 codePostal: '94120'
 departement: '94'
-metaTitle: Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois
+metaTitle: 'Carottage enrobés Fontenay-sous-Bois : amiante, HAP'
+metaDescription: 'Identification de l’amiante et des HAP dans les enrobés de Fontenay-sous-Bois : carottage, analyse et rapport avant vos aménagements urbains.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fontenay-sous-bois-94120.html
 lat: 48.850022
 lng: 2.473494
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois
+Voisine de Paris et de la Seine-Saint-Denis, Fontenay-sous-Bois s’est transformée d’ancienne terre agricole en ville dense du Val-de-Marne, portée par l’arrivée du rail puis par l’industrialisation. Ses aménagements urbains se poursuivent encore aujourd’hui.
 
-![Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois](images/logo.png)
+## Où se niche l’amiante dans une chaussée ?
 
- [![Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+L’amiante a d’abord été incorporé aux couches de roulement, mais il a pu migrer vers d’autres strates au fil des rechargements successifs. Seul un repérage amiante enrobés à Fontenay-sous-Bois, complété par la recherche de HAP, révèle la composition réelle du revêtement et les précautions à prendre.
 
-![Repérage amiante et HAP enrobés routiers Fontenay-sous-Bois](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Fontenay-sous-Bois pour équiper vos équipes
 
-Fontenay-sous-Bois, dans le 94, est à la fois voisine de la Seine-Saint-Denis et de la capitale.
-
-Au départ terre agricole, Fontenay-sous-Bois s'est développée avec l'installation des voies ferrées d'abord, puis sous l'effet de l'industrialisation.
-
-Pour des travaux d'aménagements urbains, il est recommandé d'identifier l'amiante et les HAP dans les enrobés routiers de Fontenay-sous-Bois.
-
-Si, au départ, l'amiante a surtout été intégré aux couches de roulement, il a cependant pu se propager.
-
-Afin d'équiper les ouvriers en conséquence, il est nécessaire de s'informer sur les substances dangereuses contenues dans les infrastructures.
+Grâce au carottage à Fontenay-sous-Bois, chaque couche de la chaussée est échantillonnée puis analysée en laboratoire. Le rapport obtenu permet de doter les ouvriers des équipements de protection appropriés et d’orienter les enrobés fraisés vers la bonne filière. France Carottage planifie votre intervention dans le Val-de-Marne sur simple demande.

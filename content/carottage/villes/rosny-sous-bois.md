@@ -1,30 +1,23 @@
 ---
 slug: rosny-sous-bois
-ville: Repérage  et    Rosny-sous-Bois
+ville: Rosny-sous-Bois
 codePostal: '93110'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Rosny-sous-Bois | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Rosny-sous-Bois
+metaTitle: 'Carottage enrobés Rosny-sous-Bois : amiante HAP'
+metaDescription: 'Repérage amiante et HAP sur enrobés à Rosny-sous-Bois (93) : prélèvements par carottage, analyses accréditées et conclusions rendues par couche.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-rosny-sous-bois-93110.html
 lat: 48.873864
 lng: 2.487396
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Rosny-sous-Bois
+Fortement urbanisée, dotée de grands ensembles et d’un réseau de transports étoffé, Rosny-sous-Bois rénove régulièrement ses voiries. Rabotage ou réfection : ces travaux publics ne peuvent s’engager sans une étude préalable des matériaux en place.
 
-![Repérage amiante et HAP enrobés routiers Rosny-sous-Bois](images/logo.png)
+## Protéger les ouvriers, préserver l’environnement
 
- [![Repérage amiante et HAP enrobés routiers Rosny-sous-Bois](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Le repérage de l’amiante et des HAP répond à un double objectif : éviter l’exposition des équipes à des poussières toxiques et empêcher l’envoi de matériaux pollués vers de mauvaises filières. C’est une exigence impérative avant toute intervention sur une chaussée existante.
 
-![Repérage amiante et HAP enrobés routiers Rosny-sous-Bois](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le processus, de la rue au laboratoire
 
-D'origine gallo-romaine, Rosny-sous-Bois est aujourd'hui une commune fortement urbanisée.
+Nos opérateurs réalisent le carottage à Rosny-sous-Bois par points de sondage définis sur plan, avec extraction sur la hauteur complète du revêtement et rebouchage soigné. Les prélèvements rejoignent ensuite un laboratoire accrédité qui identifie les fibres et dose les HAP.
 
-On y recense notamment de grands ensembles immobiliers ainsi qu'un important réseau de transports en commun.
-
-En cas de rénovation ou de rabotage d'une chaussée, pensez au diagnostic amiante et HAP des enrobés routiers de Rosny-sous-Bois.
-
-Cette étude est impérative avant tout travaux publics.
-
-Cela permet de prendre les mesures nécessaires afin de préserver la santé des ouvriers ainsi que la planète.
+Chaque couche reçoit sa conclusion dans un rapport localisé : votre diagnostic amiante enrobés Rosny-sous-Bois est prêt à intégrer dossiers de consultation, modes opératoires et bordereaux de déchets. France Carottage se déplace dans toute la Seine-Saint-Denis et ajuste ses interventions à vos impératifs de circulation.

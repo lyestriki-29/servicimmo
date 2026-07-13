@@ -1,28 +1,21 @@
 ---
 slug: lisieux
-ville: Repérage  et    Lisieux
+ville: Lisieux
 codePostal: '14100'
 departement: '14'
-metaTitle: Repérage amiante et HAP enrobés routiers Lisieux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Lisieux
+metaTitle: "Repérage amiante enrobés à Lisieux : carottage et HAP"
+metaDescription: "Le maître d’ouvrage doit faire repérer amiante et HAP avant travaux sur bitume : carottage à Lisieux, analyses accréditées, lecture couche par couche."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lisieux-14100.html
 lat: 49.145761
 lng: 0.242246
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Lisieux
+À Lisieux, le marché anime la ville trois fois par semaine. Cette vie locale repose aussi sur des rues, des parkings et des trottoirs en bon état — des surfaces dont l’entretien obéit à des obligations précises dès qu’il faut toucher au bitume.
 
-![Repérage amiante et HAP enrobés routiers Lisieux](images/logo.png)
+## L’amiante ne concerne pas que les bâtiments
 
- [![Repérage amiante et HAP enrobés routiers Lisieux](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+On l’associe spontanément à l’immobilier, mais l’amiante s’est aussi glissée dans les revêtements routiers. Les goudrons et dérivés houillers employés autrefois peuvent, eux, contenir des HAP tout aussi cancérogènes. Avant tout chantier touchant à une aire bitumée, le maître d’ouvrage doit faire réaliser un repérage amiante enrobés à Lisieux.
 
-![Repérage amiante et HAP enrobés routiers Lisieux](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Lisieux, mode d’emploi
 
-Lisieux propose un marché trois fois par semaine.
-
-Vous avez certainement déjà entendu parler de l'amiante dans les bâtiments ? Mais saviez-vous que les routes, les trottoirs, les parkings, etc., peuvent aussi en comporter.
-
-Le goudron ou les dérivés houillers utilisés pour les enrobés routiers peuvent contenir quant à eux des HAP tout aussi cancérigène que l'amiante.
-
-Afin de préserver la santé des entreprises travaillant sur des enrobés routiers mais aussi les personnes aux alentours, le maitre d'ouvrage a l'obligation de faire un diagnostic amiante et HAP enrobés routiers à Lisieux avant toute opération sur une surface bitumée.
+France Carottage prélève des échantillons d’enrobé sur l’emprise du chantier, les confie à un laboratoire accrédité et vous livre une lecture couche par couche. Équipes protégées, riverains préservés, déchets correctement orientés : vos travaux démarrent sur des bases saines dans le Calvados. Contactez-nous pour un devis.

@@ -1,30 +1,23 @@
 ---
 slug: fleury-les-aubrais
-ville: Repérage  et    Fleury-les-Aubrais
+ville: Fleury-les-Aubrais
 codePostal: '45400'
 departement: '45'
-metaTitle: Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais
+metaTitle: 'Carottage & amiante enrobés Fleury-les-Aubrais'
+metaDescription: 'Repérage amiante et HAP des enrobés à Fleury-les-Aubrais (45) : carottage planifié, analyses fiables, rapport prêt pour vos dossiers travaux.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fleury-les-aubrais-45400.html
 lat: 47.933752
 lng: 1.918736
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais
+Dans l’agglomération orléanaise, Fleury-les-Aubrais conjugue engagement environnemental et renouvellement de ses espaces publics. Cette dynamique passe par des chantiers de voirie — et donc par la vérification préalable des enrobés en place.
 
-![Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais](images/logo.png)
+## Pourquoi sonder avant de rénover
 
- [![Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Percer, scier ou fraiser un revêtement dont on ignore la composition peut exposer les équipes à des fibres d’amiante ou à des HAP concentrés dans les liants anciens. La réglementation fait de cette recherche un préalable obligatoire, quel que soit l’âge supposé de la chaussée.
 
-![Repérage amiante et HAP enrobés routiers Fleury-les-Aubrais](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une campagne calibrée sur votre projet
 
-Commune du Loiret, Fleury-les-Aubrais est située dans l’aire urbaine d’Orléans.
+Le carottage Fleury-les-Aubrais commence par un échange technique : emprise, contraintes de circulation, destination envisagée des matériaux. Nos opérateurs prélèvent ensuite les carottes, les référencent et les expédient au laboratoire accrédité chargé de rechercher l’amiante et de quantifier les HAP.
 
-Fleury-les-Aubrais est plutôt bien nommée car elle a obtenu le grand prix du Concours des villes et villages fleuris.
-
-En 2009, Fleury-les-Aubrais a engagé une politique de développement durable.
-
-Pour vos futurs projets, France Carottage vous apporte son expertise et effectue les repérages amiante et HAP sur les enrobés routiers de Fleury-les-Aubrais.
-
-Faire confiance à France Carottage, c’est choisir la bonne route pour votre projet !
+Vous recevez un rapport qui situe chaque sondage et détaille la stratigraphie : votre repérage amiante enrobés Fleury-les-Aubrais est ainsi verrouillé pour le dossier de consultation comme pour le suivi des déchets. France Carottage couvre la commune et l’ensemble du Loiret ; plus la demande est anticipée, plus la campagne s’insère facilement dans votre planning.

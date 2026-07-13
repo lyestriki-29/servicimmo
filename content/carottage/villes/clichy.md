@@ -1,30 +1,21 @@
 ---
 slug: clichy
-ville: Repérage  et    Clichy
+ville: Clichy
 codePostal: '92110'
 departement: '92'
-metaTitle: Repérage amiante et HAP enrobés routiers Clichy | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Clichy
+metaTitle: "Amiante & HAP enrobés routiers Clichy (92110)"
+metaDescription: "Avant de raboter une chaussée à Clichy (92), faites rechercher amiante et HAP dans vos enrobés : carottage, analyse accréditée, résultats sous 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-clichy-92110.html
 lat: 48.90348
 lng: 2.305118
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Clichy
+Entre les chantiers du Grand Paris et l’entretien courant de ses rues, Clichy connaît une activité de travaux publics permanente. Toute opération qui entame la chaussée — tranchée de réseau, requalification, démolition — appelle au préalable un repérage amiante enrobés Clichy.
 
-![Repérage amiante et HAP enrobés routiers Clichy](images/logo.png)
+## Protéger les personnes, l’environnement et le maître d’ouvrage
 
- [![Repérage amiante et HAP enrobés routiers Clichy](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Ce contrôle poursuit plusieurs objectifs à la fois : préserver la santé des compagnons exposés aux poussières, éviter la dispersion de fibres vers les riverains, orienter correctement les déchets et mettre le donneur d’ordre à l’abri d’un contentieux. Les HAP, hérités des goudrons routiers anciens, font l’objet du même suivi que l’amiante.
 
-![Repérage amiante et HAP enrobés routiers Clichy](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une procédure rodée, du forage aux résultats
 
-Clichy est une ville des Hauts-de-Seine qui est aussi connue sous le nom de Clichy la Garenne.
-
-Les Clichois circulent aisément dans leur ville et en-dehors grâce aux dessertes des transports en commun : bus, métro, RER, train...
-
-D'ailleurs, dans le cadre du Grand Paris, Clichy devrait bénéficier de l'allongement d'une ligne de métro.
-
-Si une route doit être remaniée, on conseille de repérer, avant le début des travaux, l'amiante et les HAP se trouvant dans les enrobés routiers de Clichy.
-
-Ce repérage a plusieurs buts : protéger les ouvriers, protéger la population, protéger le maître d'ouvrage d'éventuelles attaques et préserver l'environnement.
+Nos opérateurs pratiquent le carottage Clichy en dehors des heures de pointe si nécessaire, avec signalisation temporaire et remise en circulation immédiate. Les échantillons sont acheminés vers un laboratoire accrédité ; les conclusions vous reviennent rapidement, cartographiées point par point. Un appui fiable pour tous les acteurs de la voirie des Hauts-de-Seine.

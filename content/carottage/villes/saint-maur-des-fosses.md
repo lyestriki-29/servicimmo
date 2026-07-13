@@ -1,32 +1,21 @@
 ---
 slug: saint-maur-des-fosses
-ville: Repérage  et    Saint-Maur-des-Fossés
+ville: Saint-Maur-des-Fossés
 codePostal: '94100'
 departement: '94'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés
+metaTitle: "Carottage & amiante enrobés Saint-Maur-des-Fossés (94100)"
+metaDescription: "Amiante et HAP dans les enrobés de Saint-Maur-des-Fossés (94) : carottages, analyses en laboratoire accrédité, conclusions rapides et opposables."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-maur-des-fosses-94100.html
 lat: 48.799943
 lng: 2.491801
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés
+Composée historiquement de huit villages, Saint-Maur-des-Fossés rénove son tissu urbain quartier par quartier. À chaque opération touchant la voirie correspond une vérification préalable : le repérage amiante enrobés Saint-Maur-des-Fossés.
 
-![Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés](images/logo.png)
+## Le réflexe à adopter avant d’ouvrir la chaussée
 
- [![Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Repérer tout type d’amiante et évaluer les HAP avant travaux n’est pas une simple précaution : ce contrôle conditionne le mode opératoire, les équipements de protection et la destination des matériaux fraisés. L’ignorer expose le maître d’ouvrage à des arrêts de chantier et à des surcoûts d’évacuation imprévus.
 
-![Repérage amiante et HAP enrobés routiers Saint-Maur-des-Fossés](images/picto-mail.png) **contact @ france-carottage.fr**
+## L’intérêt d’un opérateur spécialisé
 
-Saint-Maur-des-Fossés est constituée de huit villages.
-
-Il s'agit de l'une des communes les plus riches de la banlieue francilienne.
-
-Les rénovations urbaines s'y multiplient.
-
-Justement, nous vous rappelons qu'il est fortement préconisé de repérer tout type d'amiante et de HAP avant de possibles travaux sur les enrobés routiers à Saint-Maur-des-Fossés.
-
-Pour un diagnostic, passez par une société compétente et certifiée, comme France Carottage.
+Prélever une carotte représentative, préserver l’intégrité de l’échantillon, choisir le bon laboratoire : chaque maillon compte. France Carottage maîtrise l’ensemble de cette chaîne et réalise le carottage Saint-Maur-des-Fossés selon des protocoles éprouvés, avec analyses en laboratoire accrédité. Le rapport remis détaille les teneurs par couche et par point de sondage, pour la commune comme pour le reste du Val-de-Marne.

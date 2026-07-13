@@ -1,26 +1,23 @@
 ---
 slug: cholet
-ville: Repérage  et    Cholet
+ville: Cholet
 codePostal: '49300'
 departement: '49'
-metaTitle: Repérage amiante et HAP enrobés routiers Cholet | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Cholet
+metaTitle: 'Carottage & amiante enrobés Cholet (49300)'
+metaDescription: 'Étude documentaire puis carottage des enrobés à Cholet (49) : repérage amiante, analyse HAP et conclusions claires pour vos opérations de voirie.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cholet-49300.html
 lat: 47.036408
 lng: -0.875399
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Cholet
+À Cholet, aux confins du Maine-et-Loire, de la Vendée, de la Loire-Atlantique et des Deux-Sèvres, le diagnostic des chaussées se construit en deux temps : une phase d’étude, puis des prélèvements sur le terrain.
 
-![Repérage amiante et HAP enrobés routiers Cholet](images/logo.png)
+## D’abord comprendre l’historique de la voirie
 
- [![Repérage amiante et HAP enrobés routiers Cholet](images/picto-tel.png) **02 51 94 10 10**](<tel:02 51 94 10 10>)
+Le repérage débute par l’examen des données disponibles sur le tronçon concerné : dates de construction, rechargements successifs, travaux antérieurs. Cette lecture documentaire oriente le plan de sondage et évite de multiplier inutilement les forages.
 
-![Repérage amiante et HAP enrobés routiers Cholet](images/picto-mail.png) **contact @ france-carottage.fr**
+## Ensuite carotter, analyser, conclure
 
-Cholet en Maine-et-Loire est limitrophe avec la Vendée, la Loire-Atlantique et les Deux-Sèvres.
+Vient le carottage Cholet proprement dit : extraction d’échantillons sur toute l’épaisseur du revêtement, conditionnement individuel, envoi en laboratoire accrédité. L’identification de l’amiante et la mesure des HAP livrent un verdict couche par couche, consigné dans un rapport localisé.
 
-L'accomplissement du diagnostic amiante et HAP enrobés routiers à Cholet se fait en deux temps.
-
-Il y a d'abord une forte documentation sur le tronçon de la voirie qui va être soumis à des travaux puis ensuite des prélèvements in-situ si cette partie est définie comme contenant de l'amiante et/ou des HAP.
+Ce rapport amiante enrobés Cholet éclaire toutes vos décisions : protections à prévoir pour les compagnons, filière d’évacuation des fraisats, incidence budgétaire à intégrer au marché. France Carottage accompagne collectivités, entreprises de travaux publics et maîtres d’œuvre du Choletais, de la première esquisse du projet jusqu’à la remise des conclusions d’analyse.

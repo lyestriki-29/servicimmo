@@ -1,32 +1,21 @@
 ---
 slug: perigueux
-ville: Repérage  et    Périgueux
+ville: Périgueux
 codePostal: '24000'
 departement: '24'
-metaTitle: Repérage amiante et HAP enrobés routiers Périgueux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Périgueux
+metaTitle: 'Amiante enrobés Périgueux : carottage et repérage HAP'
+metaDescription: 'Maître d’ouvrage à Périgueux : faites repérer amiante et HAP dans vos enrobés routiers par carottage avant d’engager vos travaux d’urbanisme.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-perigueux-24000.html
 lat: 45.193072
 lng: 0.711299
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Périgueux
+Préfecture de la Dordogne et capitale du Périgord blanc, Périgueux multiplie les projets d’urbanisme pour renforcer son attractivité. Autour de sa cathédrale et de ses musées, la voirie évolue elle aussi.
 
-![Repérage amiante et HAP enrobés routiers Périgueux](images/logo.png)
+## Maître d’ouvrage : votre responsabilité est engagée
 
- [![Repérage amiante et HAP enrobés routiers Périgueux](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+La santé des ouvriers qui interviennent sur une chaussée relève de la responsabilité du maître d’ouvrage. Or, amiante et HAP ont longtemps été employés dans les revêtements routiers. Un repérage amiante enrobés à Périgueux s’impose donc avant chaque opération de rabotage, de recyclage ou de démolition.
 
-![Repérage amiante et HAP enrobés routiers Périgueux](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Périgueux, mode d’emploi
 
-Préfecture de la Dordogne, Périgueux est également la capitale du Périgord Blanc.
-
-Remarquable pour sa cathédrale, Périgueux compte aussi deux musées.
-
-Afin de dynamiser la ville et d'augmenter son pouvoir d'attraction, de nombreux projets d'urbanisme sont en cours.
-
-Dans ce contexte, en qualité de maître d'ouvrage, pensez bien à faire repérer les substances telles que l’amiante et les HAP utilisées dans les enrobés routiers de Périgueux.
-
-Ces substances sont nocives.
-
-La santé des ouvriers engage votre responsabilité.
+Concrètement, le carottage à Périgueux consiste à extraire des échantillons de chaussée sur toute leur épaisseur, puis à les faire analyser. France Carottage vous restitue un rapport précis : présence de fibres d’amiante, taux de HAP, préconisations pour la suite du chantier. Demandez votre devis pour un diagnostic en Dordogne.

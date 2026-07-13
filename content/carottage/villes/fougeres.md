@@ -1,26 +1,21 @@
 ---
 slug: fougeres
-ville: Repérage  et    Fougères
+ville: Fougères
 codePostal: '35133'
 departement: '35'
-metaTitle: Repérage amiante et HAP enrobés routiers Fougères | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Fougères
+metaTitle: "Amiante enrobés & carottage Fougères (35133)"
+metaDescription: "Carottage d’enrobés routiers à Fougères (35) : recherche d’amiante en laboratoire accrédité, dosage des HAP et rapport détaillé pour vos travaux."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-fougeres-35133.html
 lat: 48.3525
 lng: -1.1986
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Fougères
+Vous programmez des travaux sur la voirie de Fougères ? Le passage obligé s’appelle diagnostic amiante et HAP : sans lui, ni le fraisage ni l’évacuation des matériaux ne peuvent être correctement organisés.
 
-![Repérage amiante et HAP enrobés routiers Fougères](images/logo.png)
+## Une analyse en deux temps
 
- [![Repérage amiante et HAP enrobés routiers Fougères](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Au laboratoire, la recherche d’amiante enrobés Fougères précède toujours le dosage des HAP : la présence de fibres détermine à elle seule le statut de déchet dangereux, tandis que la teneur en hydrocarbures aromatiques polycycliques départage ensuite les matériaux recyclables de ceux à éliminer. Cette hiérarchie d’analyse, conduite par un organisme accrédité, garantit un classement fiable de chaque couche de chaussée.
 
-![Repérage amiante et HAP enrobés routiers Fougères](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des sondages exécutés proprement
 
-Visitez le splendide château de Fougères à l'aide d'un audioguide ou d'un guide physique.
-
-FRANCE CAROTTAGE recherchera les divers types d'amiante dans les enrobés routiers en réalisant des carottages sur les enrobés routiers soumis à travaux qui seront ensuite envoyés en laboratoire pour analyse.
-
-Lors de la réalisation de ce diagnostic amiante et HAP enrobés routiers à Fougères, la teneur en HAP, néfaste pour l'homme, ne sera évaluée que si l'enrobé ne contient pas d'amiante puisqu'il pourra être recyclé sous certaines conditions.
+Sur site, le carottage Fougères mobilise un matériel compact : forage à l’eau, extraction du témoin, rebouchage à froid, chaussée rendue à la circulation dans la foulée. Chaque point est photographié et positionné avec précision. Le rapport final rassemble stratigraphie, résultats et préconisations — un document directement exploitable par les collectivités et les entreprises d’Ille-et-Vilaine.

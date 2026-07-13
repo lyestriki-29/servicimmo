@@ -1,30 +1,21 @@
 ---
 slug: chateauroux
-ville: Repérage  et    Châteauroux
+ville: Châteauroux
 codePostal: '36000'
 departement: '36'
-metaTitle: Repérage amiante et HAP enrobés routiers Châteauroux | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Châteauroux
+metaTitle: "Carottage Châteauroux – amiante enrobés routiers et HAP"
+metaDescription: "France Carottage effectue le carottage à Châteauroux et le repérage amiante et HAP des enrobés routiers : un rapport fiable pour vos chantiers dans l’Indre."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-chateauroux-36000.html
 lat: 46.804353
 lng: 1.692994
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Châteauroux
+Ville de l’Indre, en région Centre-Val de Loire, Châteauroux est notamment connue pour La Berrichonne, son club de football. Son territoire est irrigué par de nombreuses routes départementales, autant d’axes qui appellent entretien, rénovation, parfois même de nouvelles infrastructures.
 
-![Repérage amiante et HAP enrobés routiers Châteauroux](images/logo.png)
+## L’analyse des enrobés, préalable incontournable
 
- [![Repérage amiante et HAP enrobés routiers Châteauroux](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Impossible aujourd’hui de raboter ou de découper une chaussée sans s’être assuré de l’absence d’amiante et de HAP dans ses couches. Le repérage amiante enrobés à Châteauroux répond à cette exigence : il sécurise les équipes, encadre la gestion des déchets et couvre la responsabilité du maître d’ouvrage.
 
-![Repérage amiante et HAP enrobés routiers Châteauroux](images/picto-mail.png) **contact @ france-carottage.fr**
+## Faites route avec un réseau d’experts
 
-Châteauroux est une ville de l’Indre en région Centre-Val de Loire.
-
-Elle est connue entre autres pour son club de football, La Berrichonne de Châteauroux.
-
-Les nombreuses routes départementales et les transports en commun offrent des opportunités que ce soit pour la rénovation ou pour la construction de nouvelles infrastructures.
-
-Pour vos projets, France Carottage est le partenaire idéal car ce réseau d’experts effectue pour vous les repérages amiante et HAP sur les enrobés routiers de Châteauroux.
-
-Faites route avec France Carottage !
+France Carottage effectue le carottage à Châteauroux dans les règles de l’art, avec analyses confiées à un laboratoire accrédité et restitution claire des résultats. Rénovation de voirie, tranchée de réseau ou aménagement neuf : appuyez-vous sur des données solides pour lancer vos travaux dans l’Indre.

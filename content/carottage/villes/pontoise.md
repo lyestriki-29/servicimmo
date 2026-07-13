@@ -1,36 +1,21 @@
 ---
 slug: pontoise
-ville: Repérage  et    Pontoise
+ville: Pontoise
 codePostal: '95000'
 departement: '95'
-metaTitle: Repérage amiante et HAP enrobés routiers Pontoise | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Pontoise
+metaTitle: 'Carottage d’enrobés à Pontoise : amiante et HAP'
+metaDescription: 'Carottage des enrobés à Pontoise pour identifier amiante et HAP avant travaux sur routes, trottoirs ou parkings. Demandez votre rendez-vous.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pontoise-95000.html
 lat: 49.047592
 lng: 2.099968
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Pontoise
+Chef-lieu du Val-d’Oise labellisé ville d’Art et d’Histoire, Pontoise conjugue abbaye, cathédrale et musées avec un tissu urbain contrasté, des grands ensembles aux zones semi-rurales. Ses cinq ponts et ses axes routiers structurent les déplacements du secteur.
 
-![Repérage amiante et HAP enrobés routiers Pontoise](images/logo.png)
+## L’amiante, un héritage des zones urbaines
 
- [![Repérage amiante et HAP enrobés routiers Pontoise](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Les secteurs urbains et périurbains figurent parmi ceux où l’amiante a été le plus répandu, dans le bâtiment comme dans les enrobés. Classée cancérogène, cette fibre pourtant naturelle doit être détectée avant d’être dérangée : c’est l’objet du repérage amiante enrobés à Pontoise, associé à la mesure des HAP.
 
-![Repérage amiante et HAP enrobés routiers Pontoise](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Pontoise, première étape de vos travaux
 
-Chef-lieu de son département (95), Pontoise est labellisée ville d'Art et d'Histoire.
-
-Cette distinction est notamment due à son abbaye, à sa cathédrale et à ses musées.
-
-Cernée par Cergy et Saint-Ouen-l'Aumône entre autres, Pontoise compte cinq ponts et est constituée de zones variées : plusieurs grands ensembles, un quartier résidentiel et des zones semi-rurales.
-
-Outre les routes qui traversent Pontoise, les Pontoisiens ont accès à plusieurs lignes de transport en commun.
-
-Les zones urbaines et péri-urbaines font partie des lieux où l'amiante a été répandu, pour les constructions immobilières et pour les enrobés.
-
-Aujourd'hui reconnue cancérogène, cette substance pourtant naturelle doit être neutralisée.
-
-Afin d'identifier la présence d'amiante et des HAP dans les enrobés routiers à Pontoise, n'attendez pas.
-
-Contactez-nous !
+Avec un carottage à Pontoise, France Carottage échantillonne la chaussée en profondeur et fait analyser chaque strate en laboratoire. Résultat : un rapport fiable pour planifier fraisage, évacuation et protection des équipes. Routes, trottoirs ou parkings : contactez-nous avant d’intervenir dans le Val-d’Oise.

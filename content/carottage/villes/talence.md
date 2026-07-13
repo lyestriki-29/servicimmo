@@ -1,30 +1,23 @@
 ---
 slug: talence
-ville: Repérage  et    Talence
+ville: Talence
 codePostal: '33400'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Talence | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Talence
+metaTitle: 'Carottage & amiante enrobés Talence (33400)'
+metaDescription: 'France Carottage intervient à Talence (33) : carottage de chaussée, détection d’amiante dans les enrobés, mesure des HAP, rapport avant travaux.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-talence-33400.html
 lat: 44.806418
 lng: -0.592018
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Talence
+Commune girondine réputée pour ses écoles d’ingénieurs et de commerce, Talence gère un réseau viaire sollicité au quotidien. Tout projet routier y suppose une connaissance préalable des matériaux constituant la chaussée.
 
-![Repérage amiante et HAP enrobés routiers Talence](images/logo.png)
+## Ce que la chaussée peut receler
 
- [![Repérage amiante et HAP enrobés routiers Talence](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Sous la surface de roulement s’empilent des générations d’enrobés aux formulations variées : certaines intègrent des fibres d’amiante, d’autres des liants riches en HAP. Ces polluants ne se devinent pas ; ils se mesurent, sur des échantillons prélevés dans les règles de l’art.
 
-![Repérage amiante et HAP enrobés routiers Talence](images/picto-mail.png) **contact @ france-carottage.fr**
+## Rigueur du prélèvement, fiabilité du résultat
 
-Commune du sud-ouest de la France, Talence est située dans le département de la Gironde.
+France Carottage conduit le carottage à Talence avec un protocole constant : implantation des sondages validée avec vous, extraction à la couronne diamantée, traçabilité de chaque carotte, analyses en laboratoire accrédité. Le rapport final détaille la stratigraphie et affecte à chaque couche son résultat amiante et sa teneur en HAP.
 
-Talence abrite de nombreuses écoles d’enseignement technologique, d’ingénieurs et de commerce.
-
-Si vous avez des projets routiers à réaliser, le réseau France Carottage est là pour apporter son expertise et sa rigueur.
-
-France Carottage est à votre service pour tous les repérages amiante et HAP sur les enrobés routiers de Talence.
-
-Avec France Carottage, vos projets se mettent en route !
+Ce repérage amiante enrobés Talence devient la pièce maîtresse de votre préparation de chantier : choix des équipements de protection, rédaction des consultations, orientation des fraisats. Nos équipes se déplacent à Talence et dans toute la Gironde, selon votre calendrier.

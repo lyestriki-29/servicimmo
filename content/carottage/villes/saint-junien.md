@@ -1,30 +1,23 @@
 ---
 slug: saint-junien
-ville: Repérage  et    Saint-Junien
+ville: Saint-Junien
 codePostal: '87200'
 departement: '87'
-metaTitle: Repérage amiante et HAP enrobés routiers Saint-Junien | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Saint-Junien
+metaTitle: 'Carottage & amiante enrobés Saint-Junien (87200)'
+metaDescription: 'Diagnostic de chaussée à Saint-Junien (87) : carottage d’enrobés, recherche d’amiante, dosage des HAP et rapport utilisable en consultation.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-saint-junien-87200.html
 lat: 45.897594
 lng: 0.884171
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Saint-Junien
+Deuxième ville de la Haute-Vienne, célèbre pour sa tradition gantière, Saint-Junien porte régulièrement des projets d’aménagement de la voie publique. Pour chacun, une précaution s’impose : rechercher les substances dangereuses avant de toucher aux infrastructures.
 
-![Repérage amiante et HAP enrobés routiers Saint-Junien](images/logo.png)
+## Limiter les risques sanitaires et environnementaux
 
- [![Repérage amiante et HAP enrobés routiers Saint-Junien](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Amiante et HAP comptent parmi les polluants les plus problématiques du patrimoine routier. Leur mise en suspension lors d’un fraisage menace la santé des intervenants ; leur présence dans les déblais impose des filières de traitement spécifiques. Identifier ces substances en amont, c’est maîtriser le chantier de bout en bout.
 
-![Repérage amiante et HAP enrobés routiers Saint-Junien](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des prélèvements aux conclusions d’analyse
 
-Commune du centre-ouest de la France, Saint-Junien appartient à la Haute-Vienne.
+France Carottage exécute le carottage à Saint-Junien selon un maillage adapté à votre emprise : forage, référencement, remise en état. Un laboratoire accrédité prend ensuite le relais : recherche d’amiante puis quantification des HAP, pour chaque couche rencontrée.
 
-Saint-Junien, deuxième ville du département par sa population, s’est érigée en place forte dans le secteur de la mode avec ses ateliers de tannage et sa ganterie.
-
-Pour tout projet d’aménagement de la voie publique ou d’infrastructure, faites établir un diagnostic pour rechercher la présence de substances dangereuses et polluantes et ainsi limiter les risques sanitaires et environnementaux.
-
-France Carottage et ses équipes sont vos spécialistes des repérages amiante et HAP sur les enrobés routiers de Saint-Junien.
-
-Relevez le gant !
+Le rapport de repérage amiante enrobés Saint-Junien vous livre localisation, stratigraphie et verdicts exploitables. Collectivités et entreprises de travaux publics de la Haute-Vienne peuvent s’appuyer sur ce document pour consulter, planifier et exécuter sans découverte tardive.

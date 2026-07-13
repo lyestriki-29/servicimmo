@@ -1,30 +1,21 @@
 ---
 slug: cherbourg-octeville
-ville: Repérage  et    Cherbourg-Octeville
+ville: Cherbourg-Octeville
 codePostal: '50100'
 departement: '50'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Cherbourg-Octeville | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Cherbourg-Octeville
+metaTitle: "Carottage & amiante enrobés Cherbourg-Octeville (50100)"
+metaDescription: "Parkings, rues, trottoirs : à Cherbourg-Octeville (50), carottage et analyse d’enrobés pour détecter amiante et HAP avant toute intervention au bitume."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cherbourg-octeville-50100.html
 lat: 49.628684
 lng: -1.63324
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Cherbourg-Octeville
+Née de la fusion de deux communes en 2000 puis rattachée à Cherbourg-en-Cotentin en 2016, Cherbourg-Octeville cumule des voiries d’âges très différents. Rues, parkings, trottoirs : toute surface bitumée posée au fil de ces décennies est susceptible de contenir de l’amiante ou des HAP, nocifs en cas d’inhalation.
 
-![Repérage amiante et HAP enrobés routiers Cherbourg-Octeville](images/logo.png)
+## Un diagnostic qui concerne tous les donneurs d’ordre
 
- [![Repérage amiante et HAP enrobés routiers Cherbourg-Octeville](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Particulier, entreprise ou collectivité : dès qu’une portion goudronnée doit être percée, rabotée ou démolie, la composition de l’enrobé doit être connue au préalable. Le carottage à Cherbourg-Octeville en apporte la preuve matérielle, avec un échantillon représentatif de chacune des couches de la structure.
 
-![Repérage amiante et HAP enrobés routiers Cherbourg-Octeville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Analyses accréditées, conclusions actionnables
 
-Cherbourg-Octeville est née de la fusion de deux communes en 2000 et appartient depuis 2016 à la nouvelle commune de Cherbourg-en-Cotentin.
-
-Les diverses routes de Cherbourg-Octeville sont susceptibles de comporter de l'amiante et des HAP qui sont dangereux pour la santé de l'homme en cas d'inhalation.
-
-Les parkings, trottoirs et n'importe quelles surfaces bitumées sont également concernés par ce risque.
-
-Que vous soyez un particulier, une entreprise ou une collectivité souhaitant entreprendre des travaux sur une portion goudronnée, il vous est impératif de faire pratiquer un diagnostic amiante et HAP enrobés routiers à Cherbourg-Octeville au préalable.
+Les carottes prélevées par France Carottage sont conditionnées individuellement puis analysées en laboratoire accrédité, qui y recherche les fibres d’amiante et y dose les hydrocarbures aromatiques polycycliques. Le rapport qui vous revient précise ce que contient chaque strate et guide la gestion des déchets. Votre repérage amiante enrobés à Cherbourg-Octeville devient alors une pièce solide de votre dossier travaux, dans toute la Manche.

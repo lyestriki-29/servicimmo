@@ -1,30 +1,23 @@
 ---
 slug: rochefort
-ville: Repérage  et    Rochefort
+ville: Rochefort
 codePostal: '17300'
 departement: '17'
-metaTitle: Repérage amiante et HAP enrobés routiers Rochefort | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Rochefort
+metaTitle: "Carottage d’enrobés Rochefort : amiante et HAP (17300)"
+metaDescription: "La détection d’amiante et de HAP dans les enrobés est notre spécialité : carottage à Rochefort, analyses accréditées, rapport localisé et opposable."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-rochefort-17300.html
 lat: 45.94403
 lng: -0.967748
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Rochefort
+Entre Charente et océan, Rochefort — que beaucoup associent à l’Hermione — mène régulièrement des opérations d’entretien sur ses rues, ses quais et ses esplanades.
 
-![Repérage amiante et HAP enrobés routiers Rochefort](images/logo.png)
+## Détecter avant de déconstruire
 
- [![Repérage amiante et HAP enrobés routiers Rochefort](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Toute intervention qui entame un revêtement bitumineux nécessite d’en connaître la composition exacte. Le repérage amiante enrobés à Rochefort identifie fibres et HAP avant le lancement des travaux, protégeant les compagnons comme les riverains du chantier.
 
-![Repérage amiante et HAP enrobés routiers Rochefort](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une spécialité, pas une prestation annexe
 
-Rochefort est une commune de la Charente-Maritime.
+Détecter amiante et HAP au sein des matériaux routiers constitue le cœur de métier de France Carottage. Le carottage à Rochefort suit un protocole éprouvé : implantation des forages, prélèvements traversants, analyses en laboratoire accrédité, rapport localisé remis dans des délais courts.
 
-Aussi connue sous le nom de Rochefort-sur-Mer, cette ville doit sa célébrité à l'Hermione.
-
-Rochefort est également une cité thermale où l'on peut visiter des musées, se balader, profiter de l'océan et du fleuve Charente.
-
-Pour vos repérages d'amiante et de HAP dans les enrobés routiers de Rochefort, faites appel aux services de France Carottage.
-
-Cette entreprise, basée à Tours, a fait de la détection de l'amiante et des HAP sa spécialité.
+Nous couvrons la Charente-Maritime dans son ensemble. Sollicitez-nous tôt : un diagnostic anticipé, c’est un chantier qui démarre à l’heure.

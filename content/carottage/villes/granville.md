@@ -1,28 +1,23 @@
 ---
 slug: granville
-ville: Repérage  et    Granville
+ville: Granville
 codePostal: '50400'
 departement: '50'
-metaTitle: Repérage amiante et HAP enrobés routiers Granville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Granville
+metaTitle: 'Carottage enrobés Granville (50400) : amiante HAP'
+metaDescription: 'Carottage de chaussée à Granville (50) : recherche d’amiante dans les enrobés, mesure des HAP et rapport d’analyse pour préparer vos chantiers.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-granville-50400.html
 lat: 48.83071
 lng: -1.57398
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Granville
+Surnommée « Monaco du Nord » pour son site et son front de mer, Granville programme comme toute commune des reprises de voirie. Avant d’attaquer un revêtement existant, une étape s’impose : déterminer ce que contient réellement le bitume.
 
-![Repérage amiante et HAP enrobés routiers Granville](images/logo.png)
+## HAP et amiante : deux recherches complémentaires
 
- [![Repérage amiante et HAP enrobés routiers Granville](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les enrobés formulés à partir de goudron ou de dérivés houillers peuvent concentrer des HAP, dont certaines molécules sont reconnues dangereuses ; d’autres couches renferment parfois des fibres d’amiante. Le dosage des HAP présente un intérêt supplémentaire : il conditionne les possibilités de recyclage des matériaux non amiantés.
 
-![Repérage amiante et HAP enrobés routiers Granville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le prélèvement, clef d’un résultat fiable
 
-La situation géographique et la présence d'hôtels de luxe vaut à Granville le surnom de "Monaco du Nord".
+Par un carottage à Granville couvrant toute l’épaisseur de la structure, France Carottage obtient des échantillons représentatifs, analysés ensuite en laboratoire accrédité. Le rapport attribue à chaque couche sa conclusion et trace la localisation des sondages.
 
-Les enrobés routiers faits à partir de goudron ou de dérivés houillers, peuvent contenir des HAP dont certaines molécules s'évèrent dangereuses pour l'homme.
-
-Ces HAP sont recherchés dans les enrobés routiers ne contenant pas d'amiante afin de mieux pouvoir les recycler.
-
-Les HAP, tout comme l'amiante, sont mis en avant par le diagnostic amiante et HAP enrobés routiers à Granville indispensable avant toute exécution de travaux sur une surface bitumée.
+Ce diagnostic amiante enrobés Granville, exigé avant toute exécution de travaux sur surface bitumée, sécurise vos équipes et votre gestion des déblais. Nos techniciens interviennent dans toute la Manche ; contactez-nous dès la définition de votre emprise de chantier.

@@ -1,30 +1,21 @@
 ---
 slug: bressuire
-ville: Repérage  et    Bressuire
+ville: Bressuire
 codePostal: '79300'
 departement: '79'
-metaTitle: Repérage amiante et HAP enrobés routiers Bressuire | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bressuire
+metaTitle: "Carottage & amiante enrobés Bressuire (79300)"
+metaDescription: "Carottage d’enrobés à Bressuire (Deux-Sèvres) : recherche d’amiante et dosage des HAP en laboratoire accrédité avant vos travaux de voirie ou de VRD."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bressuire-79300.html
 lat: 46.85769
 lng: -0.478366
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bressuire
+Sous-préfecture des Deux-Sèvres au tissu industriel diversifié, Bressuire entretient un réseau routier sollicité par l’activité de ses zones économiques. Quand vient l’heure de raboter, de terrasser ou de recycler une chaussée, une question précède tout le reste : que contiennent réellement ces enrobés ?
 
-![Repérage amiante et HAP enrobés routiers Bressuire](images/logo.png)
+## Amiante et HAP, deux inconnues à lever
 
- [![Repérage amiante et HAP enrobés routiers Bressuire](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Jusqu’au milieu des années 1990, certains bitumes incorporaient des fibres d’amiante ; les liants plus anciens concentraient des HAP. Impossible de trancher visuellement : seuls un carottage à Bressuire et une analyse en laboratoire accrédité apportent une réponse opposable, couche par couche.
 
-![Repérage amiante et HAP enrobés routiers Bressuire](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une prestation complète de France Carottage
 
-Située au centre-ouest de la France, la ville de Bressuire appartient au département des Deux-Sèvres dont elle est l’une des deux sous-préfectures.
-
-En 2017, elle a reçu le label « deux fleurs » attribué par le Conseil national des villes et villages fleuris de France.
-
-Territoire dynamique avec un faible taux de chômage, Bressuire peut compter sur sa zone industrielle dans des secteurs d’activité très divers.
-
-France Carottage est là pour vous établir tous les repérages amiante et HAP sur les enrobés routiers de Bressuire.
-
-Votre projet ne se brisera pas !
+Nous établissons le plan de sondage, réalisons les prélèvements avec un rebouchage immédiat, puis vous transmettons un rapport détaillé : localisation des carottes, résultats analytiques et orientation des futurs fraisats. Ce diagnostic amiante enrobés à Bressuire sécurise vos équipes, votre calendrier et votre responsabilité de producteur de déchets. Collectivité, bureau d’études ou entreprise de travaux : votre projet démarre sur des bases saines.

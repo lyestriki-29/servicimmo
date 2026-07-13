@@ -1,30 +1,21 @@
 ---
 slug: poissy
-ville: Repérage  et    Poissy
+ville: Poissy
 codePostal: '78300'
 departement: '78'
-metaTitle: Repérage amiante et HAP enrobés routiers Poissy | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Poissy
+metaTitle: "Carottage & amiante enrobés Poissy (78300)"
+metaDescription: "Travaux de voirie à Poissy (78) ? France Carottage recherche amiante et HAP dans vos enrobés : prélèvements maîtrisés et rapport d’analyse détaillé."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-poissy-78300.html
 lat: 48.930299
 lng: 2.033457
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Poissy
+Cité royale devenue terre d’industrie automobile, Poissy conjugue un riche passé et des infrastructures qui vivent au rythme des chantiers. Pour qui dirige des travaux de voirie dans les Yvelines, l’étude du contenu des chaussées n’est pas une option : la santé des personnels en dépend directement.
 
-![Repérage amiante et HAP enrobés routiers Poissy](images/logo.png)
+## Une recherche confiée à des professionnels
 
- [![Repérage amiante et HAP enrobés routiers Poissy](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Détecter l’amiante et quantifier les HAP requiert des opérateurs formés et des analyses accréditées. Le carottage à Poissy suit un protocole précis : implantation raisonnée des sondages, extraction de la structure complète, conditionnement individuel des échantillons et envoi en laboratoire.
 
-![Repérage amiante et HAP enrobés routiers Poissy](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des résultats qui structurent votre chantier
 
-Parmi les villes des Yvelines, celle de Poissy détient un riche passé.
-
-D'abord cité des rois, elle devient ensuite éminemment religieuse avant d'abriter plusieurs grandes entreprises de l'industrie automobile.
-
-Si vous êtes chargé de travaux de voirie, une étude du contenu des enrobés routiers est requise afin de garantir la sécurité et la santé des personnels travaillant sur la chaussée.
-
-La recherche d'amiante et des HAP doit être effectuée par des professionnels certifiés.
-
-Recourez à France Carottage pour vos recherches d'amiante et de HAP dans les enrobés routiers de Poissy et de ses environs.
+Le rapport France Carottage décrit couche par couche la composition des enrobés et conclut sur la présence de fibres comme sur les teneurs en hydrocarbures aromatiques polycycliques. Ce repérage amiante enrobés à Poissy définit les protections à déployer et la destination des fraisats, dans la commune comme aux alentours. Contactez-nous pour dimensionner votre campagne de prélèvements.

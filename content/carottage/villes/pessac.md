@@ -1,30 +1,21 @@
 ---
 slug: pessac
-ville: Repérage  et    Pessac
+ville: Pessac
 codePostal: '33600'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Pessac | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Pessac
+metaTitle: "Carottage d’enrobés & amiante HAP Pessac (33600)"
+metaDescription: "Projets de voirie à Pessac (33) : France Carottage réalise sondages d’enrobés, analyses amiante et HAP accréditées, rapport détaillé sous 48 h."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-pessac-33600.html
 lat: 44.787469
 lng: -0.675933
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Pessac
+La croissance démographique de Pessac nourrit un flux constant de projets : extensions de quartiers, aménagements de voies publiques, réfections d’axes existants. Chaque fois qu’un revêtement doit être raboté ou déposé, la question de sa composition se pose.
 
-![Repérage amiante et HAP enrobés routiers Pessac](images/logo.png)
+## Sécuriser le chantier dès la phase d’études
 
- [![Repérage amiante et HAP enrobés routiers Pessac](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le diagnostic amiante enrobés Pessac apporte la réponse avant l’arrivée des engins : présence de fibres, niveaux de HAP, épaisseurs concernées. Ces informations conditionnent le plan de retrait éventuel, la protection des équipes et le devenir des matériaux — trois postes qu’il vaut mieux arbitrer sur plan qu’en urgence.
 
-![Repérage amiante et HAP enrobés routiers Pessac](images/picto-mail.png) **contact @ france-carottage.fr**
+## Trois étapes, un seul interlocuteur
 
-Commune du sud-ouest de la France, Pessac et située dans le département de la Gironde.
-
-La ville jouit d’une renommée internationale grâce ses vins d’appellation d’origine protégée, Pessac Léognan.
-
-En constante augmentation, la vitalité démographique de Pessac est un atout pour vos projets d’infrastructure ou d’aménagement des voies publiques.
-
-Afin de garantir la sécurisation du chantier, France Carottage est votre spécialiste des repérages amiante et HAP sur les enrobés routiers de Pessac.
-
-Avec France Carottage, vos projets sont sur la bonne route !
+D’abord un échange technique pour dimensionner la campagne. Ensuite le carottage Pessac proprement dit : forages référencés, rebouchage soigné, envoi des témoins en laboratoire accrédité. Enfin la restitution : un rapport cartographié, assorti de préconisations de filière pour chaque zone sondée. France Carottage accompagne ainsi collectivités et entreprises à Pessac et dans toute la Gironde.

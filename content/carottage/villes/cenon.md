@@ -1,28 +1,21 @@
 ---
 slug: cenon
-ville: Repérage  et    Cenon
+ville: Cenon
 codePostal: '33150'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Cenon | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Cenon
+metaTitle: "Carottage & repérage amiante enrobés Cenon (33150)"
+metaDescription: "Diagnostic amiante et HAP sur enrobés à Cenon (33) : plan de sondage, carottages, analyses en laboratoire accrédité et conclusions livrées rapidement."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cenon-33150.html
 lat: 44.854935
 lng: -0.523227
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Cenon
+Engagée dans une démarche de développement durable, Cenon se rééquipe et transforme ses espaces publics. Cette dynamique implique de nombreux chantiers de voirie — et donc de savoir, avant d’intervenir, si les revêtements en place contiennent de l’amiante ou des HAP.
 
-![Repérage amiante et HAP enrobés routiers Cenon](images/logo.png)
+## Un tri des matériaux qui commence par l’analyse
 
- [![Repérage amiante et HAP enrobés routiers Cenon](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Impossible de trier des fraisats à l’œil nu. Seul un diagnostic amiante enrobés Cenon, appuyé sur des analyses en laboratoire accrédité, permet de classer les matériaux : recyclables en centrale d’enrobage, admissibles en installation de stockage ou relevant des déchets dangereux. Ce classement pèse directement sur le coût et le calendrier de votre opération.
 
-![Repérage amiante et HAP enrobés routiers Cenon](images/picto-mail.png) **contact @ france-carottage.fr**
+## Des prélèvements calibrés sur votre emprise
 
-Commune du sud-ouest de la France, Cenon est située dans le département de la Gironde.
-
-Depuis 2008, la ville de Cenon a engagé une politique de développement durable.
-
-Cenon profite du dynamisme économique de Bordeaux et du surplus de population qu'il génère pour se transformer et se doter de nouveaux équipements.
-
-France Carottage réalise le diagnostic amiante et HAP sur les enrobés routiers de Cenon pour la sécurité de votre chantier.
+Chaque campagne de carottage Cenon débute par l’étude de vos plans : linéaire concerné, nature des travaux, historique connu de la chaussée. Nous définissons ensuite la maille de sondage, forons, référençons et expédions les échantillons. Le rapport final cartographie les résultats point par point, pour vos projets dans l’agglomération bordelaise comme dans le reste de la Gironde.

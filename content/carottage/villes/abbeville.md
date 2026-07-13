@@ -1,28 +1,21 @@
 ---
 slug: abbeville
-ville: Repérage  et    Abbeville
+ville: Abbeville
 codePostal: '80100'
 departement: '80'
-metaTitle: Repérage amiante et HAP enrobés routiers Abbeville | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Abbeville
+metaTitle: "Carottage et amiante enrobés à Abbeville (80100)"
+metaDescription: "Repérage amiante et HAP sur enrobés routiers à Abbeville : carottage, analyses en laboratoire accrédité et rapport avant vos travaux de voirie dans la Somme."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-abbeville-80100.html
 lat: 50.105799
 lng: 1.828902
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Abbeville
+À une quarantaine de kilomètres d’Amiens et une centaine de Lille, Abbeville bénéficie d’une desserte routière solide, portée notamment par deux autoroutes. Ce maillage suppose un entretien régulier des chaussées — et des précautions avant chaque chantier.
 
-![Repérage amiante et HAP enrobés routiers Abbeville](images/logo.png)
+## Pourquoi analyser les enrobés avant travaux
 
- [![Repérage amiante et HAP enrobés routiers Abbeville](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Les couches de bitume posées il y a plusieurs décennies peuvent renfermer de l’amiante, ainsi que des HAP (hydrocarbures aromatiques polycycliques) issus des liants. Raboter ou découper une chaussée sans vérification expose les équipes à des poussières nocives et complique l’évacuation des matériaux.
 
-![Repérage amiante et HAP enrobés routiers Abbeville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Le carottage à Abbeville avec France Carottage
 
-Abbeville, dans la Somme, se situe approximativement à quarante kilomètres d'Amiens et à une centaine de kilomètres de Lille.
-
-Ville accessible, Abbeville est notamment desservie par deux autoroutes.
-
-Pour vos travaux routiers, faites appel à France Carottage.
-
-Professionnel agréé, cet expert procédera à l'identification de l'amiante et des HAP dans les enrobés routiers d'Abbeville.
+Un technicien prélève des carottes d’enrobé aux points définis avec vous ; les échantillons partent ensuite vers un laboratoire accrédité. Le rapport de repérage amiante enrobés à Abbeville indique quelles couches contiennent des fibres ou des HAP, et oriente aussi bien le mode opératoire du chantier que la filière d’élimination. Contactez France Carottage pour planifier une intervention dans la Somme.

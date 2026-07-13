@@ -1,32 +1,21 @@
 ---
 slug: massy
-ville: Repérage  et    Massy
+ville: Massy
 codePostal: '91300'
 departement: '91'
-metaTitle: Repérage amiante et HAP enrobés routiers Massy | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Massy
+metaTitle: "Carottage à Massy : détection amiante et HAP des enrobés"
+metaDescription: "Carottage des enrobés à Massy par un opérateur certifié : détection de l’amiante, dosage des HAP et rapport remis au maître d’ouvrage."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-massy-91300.html
 lat: 48.728133
 lng: 2.269556
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Massy
+Premier pôle économique de l’Essonne, doté d’une gare grandes lignes et d’un opéra, Massy voit transiter un trafic soutenu qui use ses chaussées. Avant chaque campagne de réfection, un carottage à Massy s’impose pour sonder les revêtements.
 
-![Repérage amiante et HAP enrobés routiers Massy](images/logo.png)
+## Confier le prélèvement à un opérateur qualifié
 
- [![Repérage amiante et HAP enrobés routiers Massy](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Extraire des carottes conformes, préserver l’intégrité des échantillons, les faire examiner par un laboratoire compétent : la fiabilité du diagnostic tient à la rigueur de chaque maillon. France Carottage, entreprise certifiée et couverte par une assurance professionnelle, applique ce protocole sur l’ensemble des recherches amiante enrobés à Massy.
 
-![Repérage amiante et HAP enrobés routiers Massy](images/picto-mail.png) **contact @ france-carottage.fr**
+## Ce que contient le rapport remis
 
-Parmi toutes les villes de l'Essonne, Massy est la plus importante dans le domaine économique.
-
-C'est là qu'ont élu domicile de prestigieux établissement de formation.
-
-En outre, à Massy, on trouve une gare dédiée aux grandes lignes et un opéra.
-
-Afin de réaliser un prélèvement dans les structures bitumineuses, adressez-vous à France Carottage.
-
-Cette société est compétente pour identifier l'amiante et les HAP dans les enrobés routiers de Massy.
-
-Qui plus est, l'entreprise France Carottage détient une certification ainsi qu'une assurance professionnelle.
+Pour chaque point de prélèvement, le document liste les couches rencontrées, la présence éventuelle de fibres d’amiante et la concentration en HAP mesurée. Le maître d’ouvrage y trouve de quoi organiser son chantier : protection des équipes, tri des fraisats, choix des filières d’élimination. Une base solide pour engager les travaux massicois en toute conformité.

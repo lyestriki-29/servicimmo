@@ -1,30 +1,21 @@
 ---
 slug: gueret
-ville: Repérage  et    Guéret
+ville: Guéret
 codePostal: '23000'
 departement: '23'
-metaTitle: Repérage amiante et HAP enrobés routiers Guéret | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Guéret
+metaTitle: 'Repérage amiante HAP enrobés à Guéret : carottage routier'
+metaDescription: 'Travaux de voirie à Guéret ? Pensez au repérage amiante et HAP des enrobés routiers : carottage, analyses et restitution rapide des résultats.'
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-gueret-23000.html
 lat: 46.171794
 lng: 1.874985
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Guéret
+Préfecture de la Creuse, Guéret cultive un cadre de vie à taille humaine, entre base de loisirs, jardins et parc animalier. Ses voiries, elles, réclament la même vigilance que celles des grandes agglomérations.
 
-![Repérage amiante et HAP enrobés routiers Guéret](images/logo.png)
+## Responsable de travaux de voirie à Guéret ?
 
- [![Repérage amiante et HAP enrobés routiers Guéret](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Avant d’engager un chantier routier, le repérage amiante enrobés à Guéret est un passage obligé. Amiante et HAP, longtemps mêlés aux bitumes, sont à l’origine de pathologies graves, dont des cancers du poumon et du larynx. Les identifier en amont protège les compagnons du chantier comme les habitants.
 
-![Repérage amiante et HAP enrobés routiers Guéret](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un carottage à Guéret pour lever le doute
 
-Guéret est la préfecture de le Creuse.
-
-Ville à taille humaine, Guéret est un espace de jeu géant avec sa base de loisirs, ses rivières, ses monts, ses jardins, son labyrinthe géant et son parc animalier.
-
-Vous êtes responsable de travaux de voirie dans cette ville ? Alors n'oubliez pas d'effectuer le repérage amiante et HAP dans les enrobés routiers de Guéret.
-
-Pour ce faire, vous pouvez contacter la société France Carottage.
-
-Amiante et HAP sont causes de graves maladies, dont les cancers des poumons et du larynx.
+Le carottage à Guéret prélève des échantillons d’enrobé sur toute l’épaisseur de la chaussée. Après analyse en laboratoire, France Carottage vous remet un rapport indiquant la présence éventuelle de fibres d’amiante et les teneurs en HAP. Vous pouvez alors adapter le mode opératoire et le traitement des déchets. Contactez-nous pour obtenir un devis dans la Creuse.

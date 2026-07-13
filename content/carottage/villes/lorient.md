@@ -1,26 +1,23 @@
 ---
 slug: lorient
-ville: Repérage  et    Lorient
+ville: Lorient
 codePostal: '56100'
 departement: '56'
-metaTitle: Repérage amiante et HAP enrobés routiers Lorient | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Lorient
+metaTitle: "Lorient : amiante enrobés, HAP et carottage routier (56100)"
+metaDescription: "Autour des cinq ports de Lorient, sécurisez vos interventions sur bitume : carottage d’enrobés, recherche d’amiante, quantification des HAP."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-lorient-56100.html
 lat: 47.750364
 lng: -3.378025
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Lorient
+Commerce, pêche, plaisance, marine nationale, transport de voyageurs : les cinq ports de Lorient irriguent toute l’économie locale. Autour d’eux, quais, voiries et plateformes bitumées encaissent un trafic soutenu.
 
-![Repérage amiante et HAP enrobés routiers Lorient](images/logo.png)
+## Santé et environnement, un double enjeu
 
- [![Repérage amiante et HAP enrobés routiers Lorient](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Intervenir sur ces surfaces sans contrôle expose les équipes aux fibres d’amiante et disperse des HAP dans le milieu naturel. Le repérage amiante enrobés à Lorient précède donc obligatoirement tout fraisage, toute découpe et toute démolition de chaussée.
 
-![Repérage amiante et HAP enrobés routiers Lorient](images/picto-mail.png) **contact @ france-carottage.fr**
+## Notre méthode de prélèvement
 
-Commerce, pêche, plaisance, militaire ou voyageurs, ces cinq ports font partie de l'activité économique de Lorient.
+Le carottage à Lorient s’effectue par forages ciblés sur l’emprise de votre projet. Chaque échantillon, identifié et conditionné individuellement, rejoint un laboratoire accrédité qui statue sur l’amiante et chiffre les HAP. Les conclusions vous sont restituées dans un rapport localisé, prêt à joindre au dossier de consultation des entreprises.
 
-Les voiries de la commune peuvent comporter de l'amiante ou des HAP dans les revêtements routiers.
-
-Au préalable de toute intervention sur l'une d'elles, il est essentiel de faire pratiquer un diagnostic amiante et HAP enrobés routiers à Lorient pour éviter tout risque pour la santé des personnes et sur l'environnement.
+France Carottage se déplace dans tout le Morbihan. Contactez-nous en amont pour caler l’intervention sur votre programmation de travaux.

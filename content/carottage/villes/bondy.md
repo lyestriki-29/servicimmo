@@ -1,30 +1,21 @@
 ---
 slug: bondy
-ville: Repérage  et    Bondy
+ville: Bondy
 codePostal: '93140'
 departement: '93'
-metaTitle: Repérage amiante et HAP enrobés routiers Bondy | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bondy
+metaTitle: "Carottage enrobés & amiante HAP Bondy (93140)"
+metaDescription: "Repérage amiante et HAP dans les enrobés routiers à Bondy (93) : carottages normés, analyses accréditées, rapport rapide pour vos chantiers de voirie."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-bondy-93140.html
 lat: 48.903653
 lng: 2.48526
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bondy
+Les programmes de renouvellement urbain s’enchaînent à Bondy, et chaque tranchée ouverte dans une rue existante soulève la même question : que contient l’enrobé ? Amiante incorporé aux liants pendant des décennies, HAP hérités des goudrons anciens — deux familles de polluants que la réglementation impose de rechercher avant travaux.
 
-![Repérage amiante et HAP enrobés routiers Bondy](images/logo.png)
+## À qui s’adresse le repérage amiante enrobés Bondy
 
- [![Repérage amiante et HAP enrobés routiers Bondy](images/picto-tel.png) **06 95 56 92 52**](<tel:06 95 56 92 52>)
+Maîtres d’ouvrage publics, bailleurs, concessionnaires de réseaux, entreprises de VRD : dès qu’une intervention attaque la structure de la chaussée, le donneur d’ordre doit produire un diagnostic. Ce document conditionne le mode opératoire du chantier, la protection des compagnons et l’orientation des déblais.
 
-![Repérage amiante et HAP enrobés routiers Bondy](images/picto-mail.png) **contact @ france-carottage.fr**
+## Du forage au rapport d’analyse
 
-Bondy est une commune de la Seine-Saint-Denis, au nord-est de Paris.
-
-Dans cette ville, les plans d'urbanisme se succèdent, les logements se multiplient et les rendez-vous culturels sont divers.
-
-Maître d'ouvrage, collectivité, entreprise, employeur, n'oubliez pas que tous les travaux de réhabilitation des routes sont désormais soumis à un diagnostic préalable.
-
-Ce document doit faire état de la présence d'amiante et de HAP dans les enrobés routiers à Bondy.
-
-Le but étant d'en connaître la teneur et de préserver la santé des ouvriers.
+Notre équipe réalise le carottage Bondy à la couronne diamantée, repère chaque prélèvement sur plan et rebouche aussitôt. Les carottes partent en laboratoire accrédité pour recherche de fibres et dosage des HAP. Sous quelques jours, vous disposez de conclusions opposables, utilisables telles quelles dans vos dossiers de consultation en Seine-Saint-Denis.

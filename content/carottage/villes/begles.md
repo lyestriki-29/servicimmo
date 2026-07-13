@@ -1,32 +1,21 @@
 ---
 slug: begles
-ville: Repérage  et    Bègles
+ville: Bègles
 codePostal: '33130'
 departement: '33'
-metaTitle: Repérage amiante et HAP enrobés routiers Bègles | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Bègles
+metaTitle: "Amiante enrobés & carottage Bègles (33130)"
+metaDescription: "Avant vos travaux de voirie à Bègles (33), France Carottage prélève et fait analyser vos enrobés : amiante, HAP, filières d’évacuation des fraisats."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-begles-33130.html
 lat: 44.802062
 lng: -0.551187
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Bègles
+Des vignes d’autrefois aux quartiers réhabilités d’aujourd’hui, Bègles s’est transformée en profondeur — et sa voirie a suivi. Or les enrobés posés au fil des décennies peuvent contenir des liants amiantés ou riches en HAP, à identifier impérativement avant fraisage ou terrassement.
 
-![Repérage amiante et HAP enrobés routiers Bègles](images/logo.png)
+## Identifier l’amiante et les HAP avant de raboter
 
- [![Repérage amiante et HAP enrobés routiers Bègles](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+La recherche d’amiante enrobés Bègles repose sur un principe simple : prélever la chaussée en profondeur, puis laisser parler le laboratoire. L’analyse, réalisée par un organisme accrédité, distingue chaque couche du revêtement et quantifie les polluants présents. Le résultat détermine le devenir des matériaux : réemploi, recyclage en centrale ou élimination contrôlée.
 
-![Repérage amiante et HAP enrobés routiers Bègles](images/picto-mail.png) **contact @ france-carottage.fr**
+## Une campagne de carottage menée sans perturber la ville
 
-Ville du sud-ouest de la France, Bègles est située en Gironde.
-
-Territoire de vignes jusqu'au XVIIIe siècle, elle développe ensuite une industrie de sécherie de morue.
-
-Bègles subit le déclin de son industrie au XXe siècle.
-
-La ville a depuis développé une spécialisation en technologies éco-durables.
-
-Pour accompagner vos projets routiers, faites confiance à France Carottage, le spécialiste du repérage amiante et HAP sur les enrobés routiers de Bègles.
-
-Avec France Carottage, vos projets prennent la bonne route !
+Nos techniciens interviennent sur rue circulée, parking ou zone d’activité, avec un balisage adapté et un rebouchage immédiat des points de forage. Le carottage Bègles s’organise en concertation avec vos services : nombre de sondages, dates, contraintes d’accès. Vous recevez ensuite un rapport directement exploitable pour vos marchés de travaux, à Bègles comme partout en Gironde.

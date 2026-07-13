@@ -1,34 +1,21 @@
 ---
 slug: cognac
-ville: Repérage  et    Cognac
+ville: Cognac
 codePostal: '16100'
 departement: '16'
-metaTitle: Repérage amiante et HAP enrobés routiers Cognac | France Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Cognac
+metaTitle: "Amiante enrobés à Cognac : carottage et analyse HAP"
+metaDescription: "Réfection de route à Cognac : identifiez amiante et HAP dans les enrobés avant le chantier grâce au carottage et à un rapport précisant chaque couche."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-cognac-16100.html
 lat: 45.694905
 lng: -0.337146
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Cognac
+L’eau-de-vie de Cognac a fait le tour du monde, mais la ville charentaise vit aussi du pineau, de son château, de son musée et de son jardin public, sans oublier son concert annuel de jazz et blues. Une commune animée, dont la voirie doit suivre le rythme.
 
-![Repérage amiante et HAP enrobés routiers Cognac](images/logo.png)
+## Réfection de route : gare aux polluants du bitume
 
- [![Repérage amiante et HAP enrobés routiers Cognac](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Avant de refaire une chaussée, encore faut-il savoir ce que cache son enrobé. Fibres d’amiante et HAP logés dans certaines couches anciennes représentent un danger concret pour les ouvriers qui fraisent, découpent ou terrassent. Un repérage amiante enrobés à Cognac lève le doute avant le premier passage de raboteuse.
 
-![Repérage amiante et HAP enrobés routiers Cognac](images/picto-mail.png) **contact @ france-carottage.fr**
+## Ce que France Carottage vous apporte
 
-Cognac est connue dans le monde entier pour son alcool : le cognac.
-
-Mais à Cognac, on produit aussi du pineau, on peut visiter un château, un musée, un jardin public.
-
-Cognac, c'est aussi des événements artistiques comme le concert annuel de jazz et blues.
-
-Pour toute réfection de route, songez à procéder à un repérage de l'amiante et des HAP sur les enrobés routiers à Cognac.
-
-Pour vous aider, France Carottage est l'experte en la matière.
-
-Les professionnels détecteront amiante et HAP.
-
-Ils pourront vous indiquer s'ils représentent un danger réel pour les ouvriers.
+Nos techniciens réalisent le carottage à Cognac, envoient chaque échantillon au laboratoire, et le rapport final précise la nature des couches rencontrées. Vous savez alors si les matériaux présentent un risque réel pour les intervenants, et comment les gérer. Demandez votre devis pour un chantier en Charente.

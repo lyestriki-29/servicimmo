@@ -1,28 +1,21 @@
 ---
 slug: equeurdreville-hainneville
-ville: Repérage  et    Équeurdreville-Hainneville
+ville: Équeurdreville-Hainneville
 codePostal: '50120'
 departement: '50'
-metaTitle: >-
-  Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville | France
-  Carottage
-metaDescription: Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville
+metaTitle: "Carottage & amiante enrobés Équeurdreville-Hainneville"
+metaDescription: "Amiante et HAP dans les enrobés à Équeurdreville-Hainneville (50) : France Carottage prélève, fait analyser et vous oriente vers la bonne filière."
 anciennesUrls:
   - /amiante-hap-enrobes-routiers-equeurdreville-hainneville-50120.html
 lat: 49.6486
 lng: -1.6537
-brut: true
 ---
-# Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville
+Longtemps, l’amiante a été incorporé aux enrobés routiers pour renforcer leur tenue et limiter la formation de nids-de-poule. Ce qui passait pour un progrès technique impose aujourd’hui une vigilance stricte : à Équeurdreville-Hainneville comme ailleurs, aucune intervention sur chaussée ne devrait démarrer sans contrôle préalable.
 
-![Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville](images/logo.png)
+## Voirie, parking, trottoir : tout revêtement est concerné
 
- [![Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville](images/picto-tel.png) **02 47 77 08 79**](<tel:02 47 77 08 79>)
+Le repérage amiante enrobés Équeurdreville-Hainneville s’applique à toutes les surfaces bitumées : rues, aires de stationnement, cheminements piétons, cours et plateformes. Nos techniciens y réalisent des prélèvements par forage, référencés sur plan, avant expédition vers un laboratoire accrédité qui recherche les fibres et mesure les HAP.
 
-![Repérage amiante et HAP enrobés routiers Équeurdreville-Hainneville](images/picto-mail.png) **contact @ france-carottage.fr**
+## Un résultat qui engage la suite du chantier
 
-Les nombreux espaces verts d'Équeurdreville-Hainneville sont majoritairement dus à des installations de défense marine interdisant toutes constructions aux alentours.
-
-L'amiante a été employé dans les infrastructures de voiries pour limiter entre autres les nids de poule.
-
-Aujourd'hui, c'est un fléau sanitaire, et cela oblige chaque maitre d'ouvrage de demander un diagnostic amiante et HAP enrobés routiers à Équeurdreville-Hainneville avant toute opération sur une voirie, un parking, un trottoir, etc.
+Selon les teneurs relevées, les matériaux fraisés partiront en recyclage ou vers une filière de déchets dangereux, et le mode opératoire du chantier sera ajusté en conséquence. Le carottage Équeurdreville-Hainneville livre ainsi bien plus qu’une mesure : une véritable feuille de route pour votre opération, valable dans toute la Manche.
