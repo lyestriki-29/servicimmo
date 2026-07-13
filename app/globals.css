@@ -426,3 +426,30 @@
 .fc-prose strong {
   color: var(--fc-noir);
 }
+
+/* Marquee des références France Carottage (deux groupes identiques, le 2e aria-hidden) */
+@keyframes fc-defile {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.fc-marquee-track {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  animation: fc-defile 38s linear infinite;
+}
+.fc-marquee:hover .fc-marquee-track {
+  animation-play-state: paused;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fc-marquee-track {
+    animation: none;
+    width: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .fc-marquee-track > [aria-hidden] {
+    display: none;
+  }
+}
