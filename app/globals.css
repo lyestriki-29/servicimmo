@@ -184,6 +184,22 @@
   --color-devis-muted: #606a50;
 }
 
+/* ────────────────────────────────────────────────────────────────────────
+   France Carottage (segment app/carottage/) — identité rouge/noir/blanc
+   DISTINCTE de Servicimmo. Préfixe --fc- réservé à ce segment ; ne jamais
+   utiliser un token --color-si-* dans app/carottage/ ou components/carottage/.
+   Rouge #B32024 à re-pipeter sur le logo réel avant mise en prod (cf.
+   lib/clients/francecarottage/branding.ts). Déclarés en avance sur FC2.1
+   (socle FC1) pour que le placeholder de app/carottage/page.tsx s'affiche
+   déjà avec l'identité FC.
+   ──────────────────────────────────────────────────────────────────────── */
+:root {
+  --fc-rouge: #b32024;
+  --fc-noir: #111113;
+  --fc-blanc-casse: #f5f4f2;
+  --fc-gris: #6b6e73;
+}
+
 /* ────────────────────────────────────────────────────────────────────
    Branch colors (5 bifurcations du parcours devis) — déclarées en
    `:root` plutôt qu'en `@theme` car elles ne sont consommées qu'à

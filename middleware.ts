@@ -1,7 +1,13 @@
 /**
- * Middleware Next.js 16 — sécurité et rafraîchissement de session Supabase.
+ * Middleware Next.js 16 — routage multi-domaines + sécurité/session Supabase.
  *
- * Responsabilités (Sprint 1) :
+ * Responsabilités :
+ *   0. (France Carottage) Réécrit les requêtes dont le host ∈
+ *      NEXT_PUBLIC_CAROTTAGE_HOSTS vers le segment `/carottage/...` (URLs
+ *      propres côté navigateur) et bloque l'accès direct à `/carottage/*`
+ *      depuis un host non-FC (anti-duplicate SEO). N'affecte AUCUN host
+ *      Servicimmo : ce bloc est un fast-path qui `return`, la logique
+ *      Sprint 1 ci-dessous n'est jamais atteinte pour un host FC.
  *   1. Rafraîchit la session Supabase (cookies) sur chaque requête.
  *   2. Protège les routes `/app/**` : redirection vers `/login` si non connecté.
  *   3. Redirige un utilisateur connecté qui visite `/login` vers `/app`.
@@ -15,6 +21,8 @@
 
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient, type CookieOptions } from "@supabase/ssr";
+
+import { estHostCarottage } from "@/lib/carottage/hosts";
 
 // Chemins à protéger (route group `(app)` = toute URL /app/...).
 const APP_PREFIXES = ["/app"];
@@ -32,6 +40,29 @@ function isAuthPath(pathname: string): boolean {
 
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
+  const host = request.headers.get("host");
+
+  // ── Fast-path France Carottage : réécriture host FC → segment /carottage ──
+  // N'entre en jeu QUE si le host appartient à NEXT_PUBLIC_CAROTTAGE_HOSTS ;
+  // pour tout autre host (Servicimmo, localhost sans override, previews…),
+  // ce bloc est ignoré et l'exécution continue exactement comme avant.
+  if (estHostCarottage(host)) {
+    // Déjà réécrit (évite la boucle de rewrite) : laisser passer tel quel.
+    if (pathname.startsWith("/carottage")) return NextResponse.next();
+    const urlCarottage = request.nextUrl.clone();
+    urlCarottage.pathname = pathname === "/" ? "/carottage" : `/carottage${pathname}`;
+    return NextResponse.rewrite(urlCarottage);
+  }
+
+  // Anti-duplicate cross-domaine : /carottage/* n'est pas servi depuis un host
+  // Servicimmo — on redirige (308) vers l'équivalent sur le domaine FC.
+  if (pathname.startsWith("/carottage")) {
+    const cibleCarottage = process.env.NEXT_PUBLIC_CAROTTAGE_URL ?? "https://www.france-carottage.fr";
+    const chemin = pathname.replace(/^\/carottage/, "") || "/";
+    return NextResponse.redirect(new URL(chemin, cibleCarottage), 308);
+  }
+
+  // ── Logique Servicimmo existante (inchangée à partir d'ici) ──
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
