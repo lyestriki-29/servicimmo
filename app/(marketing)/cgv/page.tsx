@@ -60,8 +60,7 @@ export default function CGVPage() {
         <h2 className="text-xl font-semibold">Article 4 — Modalités de paiement</h2>
         <p className="text-muted-foreground text-sm leading-relaxed">
           Le règlement s&apos;effectue selon les modalités précisées sur la facture (virement,
-          chèque ou carte bancaire). [à compléter : délai de paiement standard et éventuelle
-          plateforme de paiement en ligne à confirmer avec Servicimmo]. Sauf accord contraire
+          chèque ou carte bancaire). Sauf accord contraire
           écrit, tout retard de paiement entraîne de plein droit l&apos;application de pénalités
           au taux d&apos;intérêt légal en vigueur majoré de 10 points, ainsi qu&apos;une indemnité
           forfaitaire de recouvrement de 40 €, conformément à l&apos;article L441-10 du Code de
