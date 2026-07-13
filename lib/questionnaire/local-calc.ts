@@ -8,7 +8,9 @@
  * `/api/calculate` — voir RecapScreen.
  */
 
-import { estimatePrice } from "@/lib/core/diagnostics/pricing";
+// Import du cœur PUR (pas `pricing.ts`) : ce module tourne côté client, il ne
+// doit pas tirer le chargement de grille Supabase (`next/headers`) dans le bundle.
+import { estimatePrice } from "@/lib/core/diagnostics/pricing-core";
 import { calculateRequiredDiagnostics } from "@/lib/core/diagnostics/rules";
 import type { QuoteFormData } from "@/lib/core/diagnostics/types";
 import { distanceFromToursKm } from "@/lib/geo/distance";
