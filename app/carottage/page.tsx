@@ -1,16 +1,28 @@
-/** Placeholder socle FC1 — remplacé par la home réelle en FC2. */
-export default function CarottageHomePlaceholder() {
+import type { Metadata } from "next";
+
+import { CtaDevisFC } from "@/components/carottage/CtaDevisFC";
+import { HeroFC } from "@/components/carottage/HeroFC";
+import { ChiffresFC } from "@/components/carottage/home/ChiffresFC";
+import { MetierFC } from "@/components/carottage/home/MetierFC";
+import { ProcessFC } from "@/components/carottage/home/ProcessFC";
+import { ReseauNationalFC } from "@/components/carottage/home/ReseauNationalFC";
+
+export const metadata: Metadata = {
+  title: "France Carottage — Carottage routier & repérage amiante/HAP sur enrobés",
+  description:
+    "Carottage d'enrobés et repérage amiante/HAP avant travaux de voirie, réseaux et bâtiment. Réseau national, laboratoire accrédité, devis sous 24 h. France Carottage.",
+  alternates: { canonical: "/" },
+};
+
+export default function CarottageHomePage() {
   return (
-    <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-24 md:px-8">
-      <p className="font-[family-name:var(--font-sora)] text-[13px] font-semibold uppercase tracking-[0.18em] text-[color:var(--fc-rouge)]">
-        France Carottage
-      </p>
-      <h1 className="mt-3 font-[family-name:var(--font-sora)] text-[40px] font-extrabold leading-[1.05] text-[color:var(--fc-noir)] sm:text-[56px]">
-        Socle multi-domaines en place.
-      </h1>
-      <p className="mt-4 max-w-xl text-[15.5px] leading-relaxed text-[color:var(--fc-gris)]">
-        Home, expertises et zones arrivent dans les tranches suivantes.
-      </p>
-    </section>
+    <>
+      <HeroFC />
+      <ChiffresFC />
+      <MetierFC />
+      <ProcessFC />
+      <ReseauNationalFC />
+      <CtaDevisFC />
+    </>
   );
 }
