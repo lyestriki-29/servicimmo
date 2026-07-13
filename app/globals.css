@@ -195,9 +195,11 @@
    ──────────────────────────────────────────────────────────────────────── */
 :root {
   --fc-rouge: #b32024;
+  --fc-rouge-fonce: #8c161a;
   --fc-noir: #111113;
   --fc-blanc-casse: #f5f4f2;
   --fc-gris: #6b6e73;
+  --fc-gris-clair: #e4e3e0;
 }
 
 /* ────────────────────────────────────────────────────────────────────
@@ -397,4 +399,30 @@
 }
 .article-prose strong {
   color: var(--color-home-ink);
+}
+
+/* Corps d'article France Carottage (expertises, zones) — noir/blanc + rouge accent */
+.fc-prose {
+  font-size: 15.5px;
+  line-height: 1.78;
+  color: #2b2c2f;
+}
+.fc-prose h2,
+.fc-prose h3 {
+  font-family: var(--font-sora);
+  color: var(--fc-noir);
+  letter-spacing: -0.01em;
+}
+.fc-prose h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--fc-gris-clair);
+}
+.fc-prose a {
+  color: var(--fc-rouge);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.fc-prose strong {
+  color: var(--fc-noir);
 }
