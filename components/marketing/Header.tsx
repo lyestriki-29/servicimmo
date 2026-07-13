@@ -17,9 +17,6 @@ const NAV_LINKS: { label: string; href: string }[] = [
   { label: "Accueil", href: "/" },
   { label: "Diagnostics", href: "/services" },
   { label: "Zones", href: "/zones" },
-  { label: "À propos", href: "/#apropos" },
-  { label: "Références", href: "/#references" },
-  { label: "Équipe", href: "/#equipe" },
   { label: "Actualités", href: "/actualites" },
   { label: "Contact", href: "/contact" },
 ];

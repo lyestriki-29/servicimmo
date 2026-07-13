@@ -6,11 +6,10 @@ import { loadServices, loadVilles } from "@/lib/content/load";
 
 const NAV_LINKS = [
   { label: "Accueil", href: "/" },
-  { label: "À propos", href: "/#apropos" },
   { label: "Nos diagnostics", href: "/services" },
-  { label: "Références", href: "/#references" },
-  { label: "Notre équipe", href: "/#equipe" },
+  { label: "Zones d'intervention", href: "/zones" },
   { label: "Actualités", href: "/actualites" },
+  { label: "Contact", href: "/contact" },
 ];
 
 const DIAGNOSTICS = [
