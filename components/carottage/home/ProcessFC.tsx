@@ -11,7 +11,7 @@ const ETAPES = [
 /** Section process FC — bande noire, grands numéros rouges (langage éditorial FC). */
 export function ProcessFC() {
   return (
-    <section className="bg-[color:var(--fc-noir)]">
+    <section className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)]">
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-20 md:px-8">
         <SurtitreFC>Comment ça marche</SurtitreFC>
         <h2 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[30px] font-extrabold leading-tight tracking-[-0.02em] text-white sm:text-[38px]">
