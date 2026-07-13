@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArrowRightIcon } from "lucide-react";
 
 import { SurtitreFC } from "@/components/carottage/SurtitreFC";
+import { Reveal } from "@/components/marketing/Reveal";
 import { loadDepartementsFC, loadVillesFC } from "@/lib/content/load-carottage";
 
 /**
@@ -28,7 +29,7 @@ export async function ReseauNationalFC() {
   return (
     <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-20 md:px-8">
       <div className="grid items-center gap-12 lg:grid-cols-2">
-        <div>
+        <Reveal direction="left">
           <SurtitreFC>Réseau national</SurtitreFC>
           <h2 className="mt-4 font-[family-name:var(--font-sora)] text-[30px] font-extrabold leading-tight tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[38px]">
             Une équipe qui se déplace partout en France.
@@ -40,13 +41,20 @@ export async function ReseauNationalFC() {
           </p>
           <Link
             href="/zones"
-            className="mt-7 inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[14px] font-bold text-[color:var(--fc-rouge)] hover:gap-3"
+            className="group mt-7 inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[14px] font-bold text-[color:var(--fc-rouge)]"
           >
             Voir toutes les zones
-            <ArrowRightIcon className="h-4 w-4 transition-all" aria-hidden />
+            <ArrowRightIcon
+              className="h-4 w-4 transition-transform duration-[250ms] group-hover:translate-x-1"
+              aria-hidden
+            />
           </Link>
-        </div>
-        <div className="relative mx-auto aspect-[4/5] w-full max-w-[420px]">
+        </Reveal>
+        <Reveal
+          direction="right"
+          delay={0.12}
+          className="relative mx-auto aspect-[4/5] w-full max-w-[420px]"
+        >
           <Image
             src="/img/carottage/france-silhouette.svg"
             alt="Carte de France — zone d'intervention nationale"
@@ -62,7 +70,7 @@ export async function ReseauNationalFC() {
               aria-hidden
             />
           ))}
-        </div>
+        </Reveal>
       </div>
     </section>
   );

@@ -92,7 +92,7 @@ export async function FooterFC() {
         </div>
       </div>
       <div className="border-t border-white/10">
-        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-5 text-[12px] text-white/45 md:px-8">
+        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-5 text-[12px] text-white/55 md:px-8">
           © {new Date().getFullYear()} {francecarottageConfig.raisonSociale}. Tous droits réservés.
         </div>
       </div>
