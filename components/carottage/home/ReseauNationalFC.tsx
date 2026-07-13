@@ -35,7 +35,7 @@ export async function ReseauNationalFC() {
             Une équipe qui se déplace partout en France.
           </h2>
           <p className="mt-4 max-w-lg text-[15px] leading-relaxed text-[color:var(--fc-gris)]">
-            Basés à Tours, nous intervenons sur l'ensemble du territoire : {villes.length} villes et{" "}
+            Basés à Tours, nous intervenons sur l’ensemble du territoire : {villes.length} villes et{" "}
             {departements.length} départements couverts, avec des délais maîtrisés pour ne pas bloquer
             vos chantiers.
           </p>

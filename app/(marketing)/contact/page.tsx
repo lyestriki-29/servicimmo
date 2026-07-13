@@ -67,7 +67,7 @@ export default async function ContactPage() {
       </section>
       <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-4 md:px-8">
         <h2 className="mb-5 font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--color-home-ink)]">
-          Notre zone d'intervention
+          Notre zone d’intervention
         </h2>
         <CarteZone villes={villes.map(({ slug, ville, lat, lng }) => ({ slug, ville, lat, lng }))} hauteur={360} />
       </section>

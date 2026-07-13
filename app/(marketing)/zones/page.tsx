@@ -30,7 +30,7 @@ export default async function ZonesIndexPage() {
       </section>
       <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-10 md:px-8">
         <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--color-home-ink)]">
-          Toutes nos villes d'intervention
+          Toutes nos villes d’intervention
         </h2>
         <ul className="mt-5 grid gap-x-6 gap-y-2 sm:grid-cols-2 lg:grid-cols-4">
           {villes.map((v) => (
