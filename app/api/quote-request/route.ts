@@ -15,14 +15,38 @@ import type { QuoteRequestRow } from "@/lib/supabase/types";
 import { step1Schema, step2Schema, step3Schema } from "@/lib/validation/schemas";
 import { z } from "zod";
 
-// Schéma accepté par ce endpoint : les 3 premières étapes + tracking optionnel.
-const createDraftSchema = step1Schema.merge(step2Schema).merge(step3Schema).extend({
+// Tracking optionnel commun aux deux variantes.
+const trackingSchema = z.object({
   source: z.string().optional(),
   medium: z.string().optional(),
   campaign: z.string().optional(),
   referer: z.string().optional(),
   user_agent: z.string().optional(),
 });
+
+// Schéma draft classique : 3 premières étapes + contact enrichi + tracking.
+const createDraftSchema = step1Schema
+  .merge(step2Schema)
+  .merge(step3Schema)
+  .merge(trackingSchema)
+  .extend({
+    first_name: z.string().max(100).optional(),
+    phone: z.string().max(30).optional(),
+  });
+
+// Branche « autre » : chemin ultra-court, soumission directe sans calcul.
+const otherRequestSchema = z
+  .object({
+    project_type: z.literal("other"),
+    email: z.string().email("Format email invalide"),
+    first_name: z.string().min(1, "Prénom requis").max(100),
+    phone: z
+      .string()
+      .refine((v) => v.replace(/\D/g, "").length >= 8, "Téléphone trop court (≥ 8 chiffres)"),
+    notes: z.string().min(10, "Décrivez votre besoin (10 caractères minimum)").max(2000),
+    consent_rgpd: z.boolean().refine((v) => v === true, { message: "Consentement RGPD requis" }),
+  })
+  .merge(trackingSchema);
 
 export async function POST(request: Request): Promise<NextResponse> {
   const supabase = getSupabaseServiceClient();
@@ -38,6 +62,45 @@ export async function POST(request: Request): Promise<NextResponse> {
     raw = await request.json();
   } catch {
     return badRequest("Corps JSON invalide");
+  }
+
+  // Branche « autre » : soumission directe (description libre, pas de calcul).
+  const isOther =
+    typeof raw === "object" &&
+    raw !== null &&
+    (raw as Record<string, unknown>).project_type === "other";
+
+  if (isOther) {
+    const parsedOther = otherRequestSchema.safeParse(raw);
+    if (!parsedOther.success) return fromZodError(parsedOther.error);
+
+    const nowOther = new Date().toISOString();
+    const { data: otherData, error: otherError } = await supabase
+      .from("quote_requests")
+      .insert({
+        status: "submitted" as const,
+        project_type: "other" as const,
+        email: parsedOther.data.email,
+        email_captured_at: nowOther,
+        first_name: parsedOther.data.first_name,
+        phone: parsedOther.data.phone,
+        notes: parsedOther.data.notes,
+        consent_rgpd: true,
+        consent_at: nowOther,
+        source: parsedOther.data.source ?? null,
+        medium: parsedOther.data.medium ?? null,
+        campaign: parsedOther.data.campaign ?? null,
+        referer: parsedOther.data.referer ?? null,
+        user_agent: parsedOther.data.user_agent ?? null,
+      })
+      .select("id")
+      .single<Pick<QuoteRequestRow, "id">>();
+
+    if (otherError) {
+      console.error("[/api/quote-request] insert (other) error", otherError);
+      return serverError("Impossible d'enregistrer la demande.");
+    }
+    return ok({ id: otherData.id }, { status: 201 });
   }
 
   const parsed = createDraftSchema.safeParse(raw);
@@ -56,6 +119,8 @@ export async function POST(request: Request): Promise<NextResponse> {
     is_coownership: parsed.data.is_coownership,
     email: parsed.data.email,
     email_captured_at: now,
+    first_name: parsed.data.first_name ?? null,
+    phone: parsed.data.phone ?? null,
     source: parsed.data.source ?? null,
     medium: parsed.data.medium ?? null,
     campaign: parsed.data.campaign ?? null,
