@@ -55,7 +55,7 @@ export function Services() {
   return (
     <section
       id="services"
-      className="bg-[color:var(--color-home-bg)] py-11"
+      className="bg-[color:var(--color-home-bg)] py-14"
     >
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 md:px-8">
 

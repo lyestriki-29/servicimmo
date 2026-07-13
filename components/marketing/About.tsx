@@ -33,7 +33,7 @@ export function About() {
   return (
     <section
       id="apropos"
-      className="bg-[color:var(--color-home-bg)] py-[52px]"
+      className="bg-[color:var(--color-home-bg)] py-14"
     >
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 md:px-8">
         <div className="grid items-center gap-16 md:grid-cols-[.92fr_1.08fr]">

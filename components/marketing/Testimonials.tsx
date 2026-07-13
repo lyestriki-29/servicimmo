@@ -17,7 +17,7 @@ export function Testimonials() {
   return (
     <section
       id="avis"
-      className="py-9 [background:linear-gradient(180deg,var(--color-home-bg)_0%,var(--color-home-saf-bg)_18%,var(--color-home-saf-bg)_82%,var(--color-home-bg)_100%)]"
+      className="py-[72px] [background:linear-gradient(180deg,var(--color-home-bg)_0%,var(--color-home-saf-bg)_18%,var(--color-home-saf-bg)_82%,var(--color-home-bg)_100%)]"
     >
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 md:px-8">
 

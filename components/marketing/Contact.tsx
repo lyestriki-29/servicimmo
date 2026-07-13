@@ -9,7 +9,7 @@ export function Contact() {
   return (
     <section
       id="contact"
-      className="bg-[color:var(--color-home-bg)] py-[52px]"
+      className="bg-[color:var(--color-home-bg)] py-14"
     >
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 md:px-8">
         <div className="grid items-stretch gap-0 overflow-hidden rounded-[24px] shadow-[0_24px_80px_rgba(15,30,58,.16)] md:grid-cols-2">

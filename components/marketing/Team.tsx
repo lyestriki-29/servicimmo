@@ -8,7 +8,7 @@ const TEAM_PHOTO = "/img/si/equipe.jpg";
 /** Section Notre équipe — photo immersive pleine largeur (une seule photo de groupe). */
 export function Team() {
   return (
-    <section id="equipe" className="bg-[color:var(--color-home-bg)] py-9">
+    <section id="equipe" className="bg-[color:var(--color-home-bg)] py-14">
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 md:px-8">
 
         {/* En-tête */}
