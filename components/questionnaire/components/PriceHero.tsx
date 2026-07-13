@@ -40,7 +40,7 @@ export function PriceHero({ min, max, appliedModulators }: PriceHeroProps) {
           ) : null}
         </div>
         <div className="max-w-[220px] text-[12px] leading-snug text-[var(--color-devis-muted)] sm:text-right">
-          Tarifs au 01/01/2026. Devis définitif sous{" "}
+          Estimation indicative — devis définitif sous{" "}
           <strong className="font-medium text-[var(--color-devis-ink)]">2 h ouvrées</strong>.
         </div>
       </div>
