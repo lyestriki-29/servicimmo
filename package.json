@@ -18,7 +18,8 @@
     "test:e2e": "playwright test",
     "test:e2e:install": "playwright install --with-deps chromium",
     "scrape": "tsx scripts/scrape-ancien-site.ts",
-    "build:departements": "tsx scripts/build-departements-carottage.ts"
+    "build:departements": "tsx scripts/build-departements-carottage.ts",
+    "build:regions": "tsx scripts/build-regions-carottage.ts"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

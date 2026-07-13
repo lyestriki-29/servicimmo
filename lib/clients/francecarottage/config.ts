@@ -21,6 +21,24 @@ export const francecarottageConfig = {
   },
   zoneIntervention: "France entière",
   certifications: ["Repérage amiante avant travaux", "HAP / enrobés routiers"],
+  /** Contacts régionaux du réseau, repris du site actuel — à confirmer avec Etienne avant prod. */
+  antennes: [
+    {
+      zone: "Siège — Centre · Île-de-France · Nord & Ouest",
+      telephone: "02 47 47 01 23",
+      telephoneHref: "tel:+33247470123",
+    },
+    {
+      zone: "Auvergne-Rhône-Alpes",
+      telephone: "04 76 61 96 67",
+      telephoneHref: "tel:+33476619667",
+    },
+    {
+      zone: "Pays de la Loire",
+      telephone: "02 51 94 10 10",
+      telephoneHref: "tel:+33251941010",
+    },
+  ],
 } as const;
 
 export type FranceCarottageConfig = typeof francecarottageConfig;
