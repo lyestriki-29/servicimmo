@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Sora, Inter } from "next/font/google";
 
+import { FooterFC } from "@/components/carottage/FooterFC";
+import { HeaderFC } from "@/components/carottage/HeaderFC";
 import { carottageUrl } from "@/lib/clients/francecarottage/urls";
 
 const sora = Sora({
@@ -31,10 +33,11 @@ export const metadata: Metadata = {
 export default function CarottageLayout({ children }: { children: ReactNode }) {
   return (
     <div
-      className={`${sora.variable} ${inter.variable} min-h-dvh bg-[color:var(--fc-blanc-casse)] font-[family-name:var(--font-inter)] text-[color:var(--fc-noir)]`}
+      className={`${sora.variable} ${inter.variable} flex min-h-dvh flex-col bg-[color:var(--fc-blanc-casse)] font-[family-name:var(--font-inter)] text-[color:var(--fc-noir)]`}
     >
-      {/* HeaderFC / FooterFC branchés en FC2 — chrome minimal en FC1. */}
-      <main>{children}</main>
+      <HeaderFC />
+      <main className="flex-1">{children}</main>
+      <FooterFC />
     </div>
   );
 }
