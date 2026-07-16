@@ -10,7 +10,12 @@ const HOSTS_CAROTTAGE = (process.env.NEXT_PUBLIC_CAROTTAGE_HOSTS ?? "")
   .filter(Boolean);
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    // AVIF d'abord : ~20-30 % plus leger que le WebP a qualite egale, sur un
+    // site ou les heros sont des photos. Next retombe sur WebP puis sur le
+    // format d'origine selon ce que le navigateur accepte.
+    formats: ["image/avif", "image/webp"],
+  },
 
   // Redirections 301 des anciennes URLs (ex-sites) vers les nouvelles pages.
   async redirects() {

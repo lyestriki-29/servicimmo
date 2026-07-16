@@ -2,6 +2,7 @@
   /* CONTENU À FAIRE VALIDER PAR SERVICIMMO avant bascule du domaine (v. spec §9 tranche 5). */
 }
 import type { Metadata } from "next";
+import Link from "next/link";
 
 import {
   LegalDocument,
@@ -106,7 +107,7 @@ export default function CGVPage() {
       content: (
         <p>
           Servicimmo est couvert par une assurance Responsabilité Civile Professionnelle souscrite
-          auprès d&apos;Allianz (voir <a href="/mentions-legales">mentions légales</a>). Les
+          auprès d&apos;Allianz (voir <Link href="/mentions-legales">mentions légales</Link>). Les
           diagnostics sont réalisés dans le respect des normes en vigueur au jour de la visite, dans
           la limite des éléments visibles et accessibles sans destruction ni sondage destructif,
           sauf mission spécifique contraire prévue au devis.

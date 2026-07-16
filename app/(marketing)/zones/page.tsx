@@ -5,7 +5,7 @@ import { ZonesExperience } from "@/components/marketing/pages/ZonesExperience";
 import { loadVilles } from "@/lib/content/load";
 
 export const metadata: Metadata = {
-  title: "Zones d'intervention en Indre-et-Loire (37) | Servicimmo",
+  title: "Zones d'intervention en Indre-et-Loire (37)",
   description:
     "Servicimmo intervient à Tours et dans toute l'Indre-et-Loire : Amboise, Joué-lès-Tours, Chambray, Fondettes… Trouvez votre ville et obtenez un devis en 2 minutes.",
   alternates: { canonical: "/zones" },

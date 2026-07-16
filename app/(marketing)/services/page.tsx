@@ -6,7 +6,7 @@ import { ServicesCatalogHero, ServicesProjectExperience } from "@/components/mar
 import { loadServices } from "@/lib/content/load";
 
 export const metadata: Metadata = {
-  title: "Diagnostics immobiliers : nos services | Servicimmo",
+  title: "Diagnostics immobiliers : nos services",
   description:
     "DPE, amiante, plomb, termites, gaz, électricité, Carrez, ERP… tous les diagnostics immobiliers réalisés par Servicimmo à Tours et en Indre-et-Loire.",
   alternates: { canonical: "/services" },

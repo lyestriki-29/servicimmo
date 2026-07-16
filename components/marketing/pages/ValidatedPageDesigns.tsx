@@ -64,6 +64,7 @@ export function ServicesCatalogHero({ count }: { count: number }) {
             alt="Immeuble résidentiel contemporain"
             width={800}
             height={1067}
+            sizes="(min-width:1280px) 1280px, 100vw"
             className="h-[220px] w-full object-cover opacity-75 sm:h-[300px]"
             priority
           />
@@ -699,11 +700,18 @@ export function ContactLocalHero() {
     <section className="bg-[color:var(--color-si-creme)]">
       <div className="mx-auto grid max-w-[var(--container,1280px)] lg:grid-cols-[.8fr_1.2fr]">
         <div className="relative min-h-[320px] lg:min-h-[520px]">
+          {/* equipe.jpg est un panorama 2000x508 (ratio 3,94) affiche dans un
+              cadre presque carre. `object-cover` le met donc a l'echelle par la
+              HAUTEUR, pas par la largeur : a 520 px de haut il lui faut ~2050 px
+              de large. L'ancien `sizes` annoncait 40vw (512 px), Next servait une
+              variante 640 px et le navigateur l'agrandissait 3,2x — d'ou le flou.
+              NB : le cadre ne laisse voir que ~25 % du panorama (2 personnes sur
+              5, vehicules coupes) — recadrage a arbitrer, cf. rapport de session. */}
           <Image
             src="/img/si/equipe.jpg"
             alt="Équipe Servicimmo à Tours"
             fill
-            sizes="(min-width:1024px) 40vw, 100vw"
+            sizes="(min-width:1024px) 2050px, 1300px"
             className="object-cover"
             priority
           />

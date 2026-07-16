@@ -8,7 +8,7 @@ import { NewsLocalHero } from "@/components/marketing/pages/ValidatedPageDesigns
 import { loadArticles } from "@/lib/content/load";
 
 export const metadata: Metadata = {
-  title: "Actualités du diagnostic immobilier | Servicimmo",
+  title: "Actualités du diagnostic immobilier",
   description:
     "Veille réglementaire depuis 2017 : DPE, amiante, plomb, termites, copropriété… Suivez les évolutions du diagnostic immobilier avec Servicimmo.",
   alternates: { canonical: "/actualites" },

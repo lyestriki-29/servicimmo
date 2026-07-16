@@ -16,7 +16,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { n } = await params;
   return {
-    title: `Actualités du diagnostic immobilier — page ${n} | Servicimmo`,
+    title: `Actualités du diagnostic immobilier — page ${n}`,
     alternates: { canonical: `/actualites/page/${n}` },
   };
 }
