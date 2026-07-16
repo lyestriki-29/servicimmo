@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 import { Ariane } from "@/components/marketing/pages/Ariane";
 import { CtaDevis } from "@/components/marketing/pages/CtaDevis";
 import { ListeArticles } from "@/components/marketing/pages/ListeArticles";
-import { PageHero } from "@/components/marketing/pages/PageHero";
+import { NewsLocalHero } from "@/components/marketing/pages/ValidatedPageDesigns";
+import { loadArticles } from "@/lib/content/load";
 
 export const metadata: Metadata = {
   title: "Actualités du diagnostic immobilier | Servicimmo",
@@ -12,17 +14,15 @@ export const metadata: Metadata = {
   alternates: { canonical: "/actualites" },
 };
 
-export default function ActualitesIndexPage() {
+export default async function ActualitesIndexPage() {
+  const [featured] = await loadArticles();
+  if (!featured) notFound();
   return (
     <>
-      <PageHero
-        surtitre="Actualités"
-        titre="La veille réglementaire du diagnostic"
-        description="Depuis 2017, nous décryptons les évolutions réglementaires pour les propriétaires, bailleurs et professionnels de l'immobilier."
-      />
+      <NewsLocalHero featured={featured} />
       <Ariane segments={[{ label: "Actualités", href: "/actualites" }]} />
-      <ListeArticles page={1} />
-      <CtaDevis />
+      <ListeArticles page={1} excludeSlug={featured.slug} />
+      <CtaDevis titre="Une règle change pour votre bien ?" sousTitre="Décrivez votre situation : un diagnostiqueur vous répond clairement." libelleBouton="Vérifier ma situation" />
     </>
   );
 }

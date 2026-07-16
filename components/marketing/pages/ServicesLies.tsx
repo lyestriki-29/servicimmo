@@ -12,14 +12,14 @@ export async function ServicesLies({ slugActuel }: { slugActuel: string }) {
       <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--color-home-ink)]">
         Autres diagnostics
       </h2>
-      <div className="mt-5 grid gap-4 sm:grid-cols-3">
+      <div className="mt-5 divide-y divide-[color:var(--color-home-line)] border-y border-[color:var(--color-home-line)] sm:grid sm:grid-cols-3 sm:divide-x sm:divide-y-0">
         {services.map((s) => {
           const Icone = iconeOuDefaut(s.icone);
           return (
             <Link
               key={s.slug}
               href={`/services/${s.slug}`}
-              className="flex items-start gap-3 rounded-[12px] border border-[color:var(--color-home-line)] bg-white p-4 transition-shadow hover:shadow-[0_10px_24px_rgba(15,30,58,.07)]"
+              className="flex min-h-20 items-start gap-3 bg-white p-4 transition-colors hover:bg-[color:var(--color-home-saf-bg)]"
             >
               <Icone className="mt-[2px] h-5 w-5 shrink-0 text-[color:var(--color-si-petrole)]" aria-hidden />
               <span className="font-[family-name:var(--font-sora)] text-[14.5px] font-semibold text-[color:var(--color-home-ink)]">

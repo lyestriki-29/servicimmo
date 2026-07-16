@@ -25,12 +25,12 @@ export async function VillesVoisines({ villeActuelle }: { villeActuelle: Ville }
       <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--color-home-ink)]">
         Nous intervenons aussi à proximité
       </h2>
-      <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="mt-5 divide-y divide-[color:var(--color-home-line)] border-y border-[color:var(--color-home-line)] sm:grid sm:grid-cols-2 sm:divide-x sm:divide-y-0 lg:grid-cols-4">
         {voisines.map((v) => (
           <Link
             key={v.slug}
             href={`/zones/${v.slug}`}
-            className="rounded-[12px] border border-[color:var(--color-home-line)] bg-white p-4 font-[family-name:var(--font-sora)] text-[14.5px] font-semibold text-[color:var(--color-home-ink)] transition-shadow hover:shadow-[0_10px_24px_rgba(15,30,58,.07)]"
+            className="flex min-h-16 items-center bg-white p-4 font-[family-name:var(--font-sora)] text-[14.5px] font-semibold text-[color:var(--color-home-ink)] transition-colors hover:bg-[color:var(--color-home-saf-bg)]"
           >
             {v.ville} ({v.codePostal})
           </Link>

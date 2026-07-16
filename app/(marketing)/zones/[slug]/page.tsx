@@ -1,12 +1,10 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { Ariane } from "@/components/marketing/pages/Ariane";
 import { CtaDevis } from "@/components/marketing/pages/CtaDevis";
-import { PageHero } from "@/components/marketing/pages/PageHero";
 import { VillesVoisines } from "@/components/marketing/pages/VillesVoisines";
-import { iconeOuDefaut } from "@/components/marketing/pages/icones";
+import { CityLocalContent, CityLocalHero } from "@/components/marketing/pages/ValidatedPageDesigns";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getVille, loadServices, loadVilles } from "@/lib/content/load";
 
@@ -36,47 +34,20 @@ export default async function VillePage({ params }: Props) {
 
   return (
     <>
-      <PageHero
-        surtitre="Zone d'intervention"
-        titre={`Diagnostic immobilier à ${ville.ville} (${ville.codePostal})`}
-        description={`Vente, location, travaux : nos techniciens certifiés interviennent à ${ville.ville} sous 48 h.`}
-      />
+      <CityLocalHero ville={ville} />
       <Ariane
         segments={[
           { label: "Zones d'intervention", href: "/zones" },
           { label: ville.ville, href: `/zones/${ville.slug}` },
         ]}
       />
-      <article
-        className="article-prose mx-auto max-w-3xl px-6 pb-4 md:px-8"
-        dangerouslySetInnerHTML={{ __html: ville.html }}
-      />
-      <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-10 md:px-8">
-        <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--color-home-ink)]">
-          Nos diagnostics à {ville.ville}
-        </h2>
-        <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {services.map((s) => {
-            const Icone = iconeOuDefaut(s.icone);
-            return (
-              <Link
-                key={s.slug}
-                href={`/services/${s.slug}`}
-                className="flex items-start gap-3 rounded-[12px] border border-[color:var(--color-home-line)] bg-white p-4 transition-shadow hover:shadow-[0_10px_24px_rgba(15,30,58,.07)]"
-              >
-                <Icone className="mt-[2px] h-5 w-5 shrink-0 text-[color:var(--color-si-petrole)]" aria-hidden />
-                <span className="font-[family-name:var(--font-sora)] text-[14.5px] font-semibold text-[color:var(--color-home-ink)]">
-                  {s.titre}
-                </span>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
+      <CityLocalContent ville={ville} services={services} />
       <VillesVoisines villeActuelle={ville} />
       <CtaDevis
-        titre={`Un diagnostic à ${ville.ville} ?`}
-        sousTitre="Décrivez votre bien en 2 minutes, recevez votre devis sous 2 h ouvrées."
+        titre={`Un bien à ${ville.ville} ?`}
+        sousTitre="Obtenez un créneau avec une équipe qui connaît le secteur."
+        libelleBouton="Demander un créneau"
+        ton="anis"
       />
       <JsonLd
         data={{
