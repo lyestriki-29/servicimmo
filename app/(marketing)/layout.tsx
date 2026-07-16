@@ -5,6 +5,7 @@ import { Header } from "@/components/marketing/Header";
 import { Footer } from "@/components/marketing/Footer";
 import { SplashIntro } from "@/components/marketing/SplashIntro";
 import { QuoteModalProvider } from "@/components/questionnaire/QuoteModalProvider";
+import { MapConsentProvider } from "@/components/rgpd/MapConsentProvider";
 import { JsonLd } from "@/components/seo/JsonLd";
 
 const sora = Sora({
@@ -56,11 +57,13 @@ export default function MarketingLayout({ children }: { children: ReactNode }) {
           openingHours: ["Mo-Fr 09:00-12:00", "Mo-Fr 14:00-19:00"],
         }}
       />
-      <QuoteModalProvider>
-        <Header />
-        <main className="min-h-[calc(100dvh-3.5rem)] flex-1">{children}</main>
-        <Footer />
-      </QuoteModalProvider>
+      <MapConsentProvider>
+        <QuoteModalProvider>
+          <Header />
+          <main className="min-h-[calc(100dvh-3.5rem)] flex-1">{children}</main>
+          <Footer />
+        </QuoteModalProvider>
+      </MapConsentProvider>
     </div>
   );
 }
