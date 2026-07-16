@@ -43,7 +43,9 @@ const INTENTS = [
 ] as const;
 
 export function ContactExperience() {
-  const [intent, setIntent] = useState<(typeof INTENTS)[number]["id"]>("devis");
+  // On garde le motif entier, pas seulement son id : son libellé et son détail
+  // partent avec la demande. `as const` fait de INTENTS un tuple, donc [0] est sûr.
+  const [intent, setIntent] = useState<(typeof INTENTS)[number]>(INTENTS[0]);
   const { open } = useQuoteModal();
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
@@ -56,24 +58,31 @@ export function ContactExperience() {
     const city = String(form.get("city") ?? "").trim();
     const message = String(form.get("message") ?? "").trim();
 
+    // Le motif voyage avec la demande. Sans lui, Servicimmo recevait la même
+    // chose pour « je prépare une vente » et « je connais déjà les diagnostics
+    // nécessaires » — deux situations qui n'appellent pas le même traitement.
+    const motif = `Motif indiqué au formulaire de contact : ${intent.label} — ${intent.detail}`;
+
     // Les champs déjà saisis suivent l'internaute dans le parcours devis.
-    if (intent === "devis" || intent === "rendez-vous") {
+    if (intent.id === "devis" || intent.id === "rendez-vous") {
       open({
         ...(name && { first_name: name }),
         ...(phone && { phone }),
         ...(email && { email }),
         ...(city && { city }),
-        ...(message && { notes: message }),
+        notes: message ? `${motif}\n\n${message}` : motif,
       });
       return;
     }
 
     const subject =
-      intent === "rapport"
+      intent.id === "rapport"
         ? "Question concernant un rapport Servicimmo"
         : "Demande de contact Servicimmo";
     // `null` = ligne à retirer ; "" = ligne vide volontaire séparant l'en-tête du message.
     const body = [
+      motif,
+      "",
       `Nom : ${name}`,
       `Téléphone : ${phone}`,
       `E-mail : ${email}`,
@@ -106,8 +115,8 @@ export function ContactExperience() {
                     type="radio"
                     name="contact-intent"
                     value={item.id}
-                    checked={intent === item.id}
-                    onChange={() => setIntent(item.id)}
+                    checked={intent.id === item.id}
+                    onChange={() => setIntent(item)}
                     className="h-4 w-4 accent-[color:var(--color-si-petrole)]"
                   />
                   <Icon
@@ -203,6 +212,10 @@ export function ContactExperience() {
               name="message"
               rows={4}
               required
+              // `notes` est plafonné à 2000 caractères côté schéma, et le motif
+              // en consomme ~110 : on borne ici pour que l'ajout ne fasse jamais
+              // échouer la validation du devis en aval.
+              maxLength={1800}
               className="mt-3 w-full resize-none border border-[color:var(--color-home-line)] bg-[color:var(--color-home-bg)] p-4 text-[14px] font-normal transition-colors outline-none focus:border-[color:var(--color-si-petrole)]"
             />
           </label>
@@ -214,9 +227,7 @@ export function ContactExperience() {
               type="submit"
               className="inline-flex min-h-12 items-center gap-2 bg-[color:var(--color-home-saf)] px-5 text-[13px] font-bold text-[color:var(--color-home-ink)] transition-colors hover:bg-[color:var(--color-home-saf-soft)] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[color:var(--color-si-petrole)]"
             >
-              {intent === "devis" || intent === "rendez-vous"
-                ? "Continuer mon devis"
-                : "Préparer mon e-mail"}
+              Continuer ma demande
               <SendIcon className="h-4 w-4" />
             </button>
           </div>
