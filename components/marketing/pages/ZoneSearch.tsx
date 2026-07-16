@@ -1,27 +1,39 @@
 "use client";
 
 import Link from "next/link";
-import { useState, type FormEvent } from "react";
+import { Fragment, useState, type FormEvent } from "react";
 import { CheckCircle2Icon, SearchIcon } from "lucide-react";
 
 type SearchCity = { slug: string; ville: string; codePostal: string };
 
+/**
+ * Communes correspondant à une saisie (nom ou code postal).
+ *
+ * Renvoie TOUTES les correspondances, jamais la première seule : plusieurs
+ * communes partagent un même code postal (37230 = Fondettes ET Luynes), et une
+ * version précédente renvoyait donc systématiquement un habitant de Luynes vers
+ * la page de Fondettes. Fonction pure — filet dans `__tests__/zone-search.test.ts`.
+ */
+export function chercherCommunes(villes: SearchCity[], query: string): SearchCity[] {
+  const term = normalize(query);
+  if (!term) return [];
+  return villes.filter(
+    (ville) => normalize(ville.ville).includes(term) || ville.codePostal.startsWith(term)
+  );
+}
+
 export function ZoneSearch({ villes }: { villes: SearchCity[] }) {
   const [query, setQuery] = useState("");
-  const [result, setResult] = useState<SearchCity | null | undefined>(undefined);
+  /** `undefined` = pas encore cherché ; `[]` = aucune commune trouvée. */
+  const [results, setResults] = useState<SearchCity[] | undefined>(undefined);
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    const term = normalize(query);
-    if (!term) {
-      setResult(undefined);
+    if (!normalize(query)) {
+      setResults(undefined);
       return;
     }
-    setResult(
-      villes.find(
-        (ville) => normalize(ville.ville).includes(term) || ville.codePostal.startsWith(term)
-      ) ?? null
-    );
+    setResults(chercherCommunes(villes, query));
   }
 
   return (
@@ -53,19 +65,30 @@ export function ZoneSearch({ villes }: { villes: SearchCity[] }) {
         </button>
       </form>
       <div aria-live="polite" className="min-h-8 pt-3 text-[12.5px] font-semibold text-white/86">
-        {result && (
-          <p className="flex flex-wrap items-center gap-2">
-            <CheckCircle2Icon className="h-4 w-4 text-[color:var(--color-home-saf)]" /> Nous
-            intervenons à {result.ville}.{" "}
-            <Link
-              href={`/zones/${result.slug}`}
-              className="font-bold text-[color:var(--color-home-saf)] underline underline-offset-4"
-            >
-              Voir la page locale
-            </Link>
+        {results && results.length > 0 && (
+          <p className="flex flex-wrap items-start gap-2">
+            <CheckCircle2Icon
+              className="mt-0.5 h-4 w-4 shrink-0 text-[color:var(--color-home-saf)]"
+              aria-hidden
+            />
+            <span>
+              Nous intervenons à{" "}
+              {results.map((ville, index) => (
+                <Fragment key={ville.slug}>
+                  {index > 0 && (index === results.length - 1 ? " et " : ", ")}
+                  <Link
+                    href={`/zones/${ville.slug}`}
+                    className="font-bold text-[color:var(--color-home-saf)] underline underline-offset-4"
+                  >
+                    {ville.ville}
+                  </Link>
+                </Fragment>
+              ))}
+              .
+            </span>
           </p>
         )}
-        {result === null && (
+        {results?.length === 0 && (
           <p>
             Votre commune n’apparaît pas encore ? Appelez-nous au 02 47 47 01 23 pour confirmer
             l’intervention.
