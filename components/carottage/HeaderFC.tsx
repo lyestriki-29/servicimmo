@@ -45,6 +45,7 @@ export function HeaderFC() {
             Interventions {francecarottageConfig.zoneIntervention}
           </span>
           <span className="inline-flex items-center gap-3">
+            <LienServicimmo />
             <a
               href={francecarottageConfig.contact.telephoneHref}
               className="inline-flex items-center gap-[7px] font-bold text-white transition-colors hover:text-[color:var(--fc-rouge)]"
@@ -52,7 +53,6 @@ export function HeaderFC() {
               <PhoneIcon className="h-[14px] w-[14px]" aria-hidden />
               {francecarottageConfig.contact.telephone}
             </a>
-            <LienServicimmo />
           </span>
         </div>
       </div>
