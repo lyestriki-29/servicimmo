@@ -2,7 +2,6 @@
   /* CONTENU À FAIRE VALIDER PAR SERVICIMMO avant bascule du domaine (v. spec §9 tranche 5). */
 }
 import type { Metadata } from "next";
-import Link from "next/link";
 
 import {
   LegalDocument,
@@ -131,12 +130,13 @@ export default function MentionsLegalesPage() {
       title: "Cookies et traceurs",
       content: (
         <p>
-          Ce site n&apos;utilise ni outil de mesure d&apos;audience, ni régie publicitaire, ni
-          traceur tiers. Les polices d&apos;écriture sont servies depuis notre propre serveur. Seules
-          les cartes Google Maps font appel à un tiers, et elles ne se chargent qu&apos;après votre
-          accord explicite : tant que vous ne l&apos;avez pas donné, aucune donnée n&apos;est
-          transmise à Google. Le détail de ce qui est déposé et le moyen de revenir sur votre choix
-          se trouvent sur la page <Link href="/cookies">Cookies et cartes</Link>.
+          Ce site n&apos;utilise ni outil de mesure d&apos;audience, ni régie publicitaire, ni bouton
+          de réseau social traçant. Les polices d&apos;écriture sont servies depuis notre propre
+          serveur. Un cookie de session, strictement nécessaire au fonctionnement du parcours de
+          devis, peut être déposé par notre domaine. Nos pages Zones, Contact et nos pages communes
+          affichent une carte fournie par Google Maps : son affichage transmet votre adresse IP à
+          Google, qui peut déposer ses propres cookies sur votre appareil, selon ses règles. Vous
+          pouvez vous y opposer en bloquant les cookies tiers dans les réglages de votre navigateur.
         </p>
       ),
     },
