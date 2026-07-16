@@ -581,7 +581,10 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
         className="object-cover opacity-55"
         priority
       />
-      <div className="absolute inset-0 bg-[color:var(--color-home-ink)]/30" />
+      {/* Voile à 50 % (et non 30 %) : hero2 est une photo très claire, et sous
+          l'ancien voile le titre anis tombait à 2,33:1 — sous le seuil AA de 3:1
+          même pour du grand texte. À 50 %, le titre remonte à 3,38:1. */}
+      <div className="absolute inset-0 bg-[color:var(--color-home-ink)]/50" />
       <div className="relative mx-auto flex min-h-[520px] max-w-[var(--container,1280px)] flex-col justify-between px-6 py-10 text-white md:px-8 lg:py-12">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <p className="inline-flex items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
@@ -601,9 +604,11 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
               Des techniciens certifiés qui connaissent le secteur et interviennent sous 48 h pour
               vos ventes, locations et travaux.
             </p>
+            {/* Blanc souligné, pas anis : à 13 px il faut 4,5:1, que l'anis
+                n'atteint pas sur cette photo même voilée à 50 % (3,38:1). */}
             <a
               href="#ville-diagnostics"
-              className="inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-[color:var(--color-home-saf)]"
+              className="inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-white underline underline-offset-4"
             >
               Voir les diagnostics à {ville.ville} <ArrowRightIcon className="h-4 w-4" />
             </a>

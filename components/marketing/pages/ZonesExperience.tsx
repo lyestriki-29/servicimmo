@@ -108,13 +108,13 @@ export function ZonesExperience({ villes }: { villes: ZoneCity[] }) {
 
             <div className="mt-12 grid gap-5 border-t border-white/25 pt-6 sm:grid-cols-2">
               <div>
-                <p className="text-[11px] font-semibold text-white/58">POINT DE DÉPART</p>
+                <p className="text-[11px] font-semibold text-white/72">POINT DE DÉPART</p>
                 <p className="mt-2 font-[family-name:var(--font-sora)] text-[15px] font-bold">
                   58 rue de la Chevalerie · Tours
                 </p>
               </div>
               <div>
-                <p className="text-[11px] font-semibold text-white/58">DÉLAI HABITUEL</p>
+                <p className="text-[11px] font-semibold text-white/72">DÉLAI HABITUEL</p>
                 <p className="mt-2 inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[15px] font-bold">
                   <Clock3Icon className="h-4 w-4 text-[color:var(--color-home-saf)]" aria-hidden />{" "}
                   Intervention sous 48 h

@@ -158,7 +158,14 @@
   --color-home-slate-2: #2a4f7a;
   --color-home-saf: #a4c425;
   --color-home-saf-soft: #e5efba;
-  --color-home-saf-dark: #6a8a10;
+  /* Anis foncé — texte sur fonds CLAIRS (blanc, crème, saf-bg).
+     Assombri de #6a8a10 le 2026-07-16 : l'ancienne valeur plafonnait à 4,00:1
+     sur blanc et 3,67:1 sur crème, sous le seuil AA de 4,5:1 exigé pour les
+     micro-labels 11-13 px qui l'utilisent partout. #5a7500 → 5,28 / 4,84. */
+  --color-home-saf-dark: #5a7500;
+  /* Anis clair — texte sur fond PÉTROLE, où --color-home-saf ne donne que
+     4,10:1. Ne pas utiliser sur fond clair (contraste insuffisant). */
+  --color-home-saf-on-petrole: #b8d63f;
   --color-home-saf-bg: #f3f7e0;
   --color-home-bg: #f5f7f8;
   --color-home-bg-2: #eef2f4;

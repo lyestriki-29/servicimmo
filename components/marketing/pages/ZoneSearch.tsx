@@ -55,7 +55,7 @@ export function ZoneSearch({ villes }: { villes: SearchCity[] }) {
           value={query}
           onChange={(event) => setQuery(event.target.value)}
           placeholder="Commune ou code postal"
-          className="min-h-11 min-w-0 flex-1 bg-transparent px-3 text-[14px] outline-none placeholder:text-[color:var(--color-home-muted-2)]"
+          className="min-h-11 min-w-0 flex-1 bg-transparent px-3 text-[14px] outline-none focus-visible:outline-2 focus-visible:outline-[color:var(--color-si-petrole)] placeholder:text-[color:var(--color-home-muted-2)]"
         />
         <button
           type="submit"
@@ -78,7 +78,7 @@ export function ZoneSearch({ villes }: { villes: SearchCity[] }) {
                   {index > 0 && (index === results.length - 1 ? " et " : ", ")}
                   <Link
                     href={`/zones/${ville.slug}`}
-                    className="font-bold text-[color:var(--color-home-saf)] underline underline-offset-4"
+                    className="font-bold text-[color:var(--color-home-saf-on-petrole)] underline underline-offset-4"
                   >
                     {ville.ville}
                   </Link>
