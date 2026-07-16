@@ -8,7 +8,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [services, villes, articles] = await Promise.all([
     loadServices(), loadVilles(), loadArticles(),
   ]);
-  const statiques = ["", "/services", "/zones", "/actualites", "/contact", "/devis", "/mentions-legales", "/cgv"];
+  const statiques = ["", "/services", "/zones", "/actualites", "/contact", "/devis", "/mentions-legales", "/cgv", "/cookies"];
   return [
     ...statiques.map((p) => ({ url: `${BASE}${p}`, changeFrequency: "monthly" as const })),
     ...services.map((s) => ({ url: `${BASE}/services/${s.slug}`, changeFrequency: "monthly" as const })),

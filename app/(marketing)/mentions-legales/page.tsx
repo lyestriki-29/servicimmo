@@ -2,6 +2,7 @@
   /* CONTENU À FAIRE VALIDER PAR SERVICIMMO avant bascule du domaine (v. spec §9 tranche 5). */
 }
 import type { Metadata } from "next";
+import Link from "next/link";
 
 import {
   LegalDocument,
@@ -101,10 +102,41 @@ export default function MentionsLegalesPage() {
       title: "Données personnelles",
       content: (
         <p>
-          Les données collectées via le formulaire de devis sont utilisées exclusivement pour
-          traiter votre demande. Conformément au RGPD, vous disposez d&apos;un droit d&apos;accès,
-          de rectification et de suppression que vous pouvez exercer à{" "}
-          <a href="mailto:info@servicimmo.fr">info@servicimmo.fr</a>.
+          Les données que vous transmettez via le formulaire de devis ou le formulaire de contact
+          (identité, coordonnées, informations sur le bien) sont traitées par Servicimmo dans le seul
+          but d&apos;établir votre devis et d&apos;assurer le suivi de la prestation. La base légale
+          est l&apos;exécution de mesures précontractuelles prises à votre demande, puis le contrat
+          lui-même. Elles sont destinées aux seuls salariés habilités de Servicimmo et à nos
+          sous-traitants techniques (hébergement, envoi d&apos;e-mails), qui n&apos;y accèdent que
+          pour les besoins du service. {/* DURÉES À VALIDER PAR SERVICIMMO — valeurs proposées
+          d'après les usages CNIL (3 ans prospect) et le Code de commerce (10 ans comptable). Le
+          délai de conservation des rapports de diagnostic relève du Code de la construction et
+          doit être confirmé par Etienne avant mise en production. */}
+          Une demande restée sans suite est conservée trois ans à compter de notre dernier échange ;
+          lorsqu&apos;une prestation est réalisée, les pièces comptables associées sont conservées
+          dix ans, conformément aux obligations légales. Conformément au RGPD, vous disposez
+          d&apos;un droit d&apos;accès, de rectification, d&apos;effacement, de limitation et
+          d&apos;opposition, que
+          vous pouvez exercer à <a href="mailto:info@servicimmo.fr">info@servicimmo.fr</a>. Vous
+          pouvez également introduire une réclamation auprès de la CNIL (
+          <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer">
+            www.cnil.fr
+          </a>
+          ).
+        </p>
+      ),
+    },
+    {
+      id: "cookies",
+      title: "Cookies et traceurs",
+      content: (
+        <p>
+          Ce site n&apos;utilise ni outil de mesure d&apos;audience, ni régie publicitaire, ni
+          traceur tiers. Les polices d&apos;écriture sont servies depuis notre propre serveur. Seules
+          les cartes Google Maps font appel à un tiers, et elles ne se chargent qu&apos;après votre
+          accord explicite : tant que vous ne l&apos;avez pas donné, aucune donnée n&apos;est
+          transmise à Google. Le détail de ce qui est déposé et le moyen de revenir sur votre choix
+          se trouvent sur la page <Link href="/cookies">Cookies et cartes</Link>.
         </p>
       ),
     },

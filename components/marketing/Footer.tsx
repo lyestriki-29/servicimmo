@@ -153,6 +153,12 @@ export async function Footer() {
             >
               CGV
             </Link>
+            <Link
+              href="/cookies"
+              className="text-[#a9bccf] no-underline transition-colors hover:text-[color:var(--color-home-saf)]"
+            >
+              Cookies et cartes
+            </Link>
           </p>
           <p className="m-0 text-[13.5px] text-[#8295ab] md:justify-self-center">
             Fait avec passion par{" "}
