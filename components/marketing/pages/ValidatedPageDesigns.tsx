@@ -61,9 +61,9 @@ export function ServicesCatalogHero({ count }: { count: number }) {
         <div className="relative mt-10 overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)]">
           <Image
             src="/img/si/proj2.jpg"
-            alt="Immeuble résidentiel diagnostiqué par Servicimmo"
-            width={1400}
-            height={560}
+            alt="Immeuble résidentiel contemporain"
+            width={800}
+            height={1067}
             className="h-[220px] w-full object-cover opacity-75 sm:h-[300px]"
             priority
           />
@@ -196,10 +196,12 @@ export function ServicesProjectExperience({ services }: { services: Service[] })
 }
 
 export function ServiceAtlasHero({ service }: { service: Service }) {
-  const image =
+  // Photos d'illustration : aucune ne montre de technicien Servicimmo ni de
+  // diagnostic en cours. L'alternative décrit donc ce qu'on voit réellement.
+  const visuel =
     service.slug.includes("amiante") || service.slug.includes("plomb")
-      ? "/img/si/proj4.jpg"
-      : "/img/si/proj3.jpg";
+      ? { src: "/img/si/proj4.jpg", alt: "Travaux de découpe dans un logement en rénovation" }
+      : { src: "/img/si/proj3.jpg", alt: "Séjour meublé d’un logement" };
   return (
     <section className="bg-white">
       <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-16">
@@ -241,8 +243,8 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
         </div>
         <div className="relative order-3 min-h-[300px] overflow-hidden rounded-[16px] lg:min-h-[440px]">
           <Image
-            src={image}
-            alt={`Technicien Servicimmo réalisant un ${service.titre.toLocaleLowerCase("fr")}`}
+            src={visuel.src}
+            alt={visuel.alt}
             fill
             sizes="(min-width:1024px) 300px, 100vw"
             className="object-cover"
@@ -365,9 +367,9 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
         <article className="mt-8 grid overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] text-white lg:grid-cols-[1.2fr_.8fr]">
           <Image
             src="/img/si/blog1.jpg"
-            alt="Dossier d’actualité du diagnostic immobilier"
-            width={1000}
-            height={680}
+            alt="Thermostat programmable d’un logement, réglé sur 19 °C"
+            width={800}
+            height={600}
             className="h-[280px] w-full object-cover lg:h-[360px]"
             priority
           />
@@ -437,14 +439,14 @@ export function ArticleExpertHero({ article }: { article: Article }) {
         <figure className="relative min-h-[360px] overflow-hidden lg:min-h-[570px]">
           <Image
             src="/img/si/blog2.jpg"
-            alt="Technicien consultant un rapport de diagnostic"
+            alt="Signature d’un document immobilier autour d’une table"
             fill
             sizes="(min-width:1024px) 410px, 100vw"
             className="object-cover"
             priority
           />
           <figcaption className="absolute right-0 bottom-0 left-0 bg-[color:var(--color-home-ink)]/92 px-5 py-4 text-[11.5px] leading-relaxed text-white/80">
-            Lecture et contrôle d’un rapport de diagnostic immobilier.
+            Les diagnostics accompagnent chaque signature.
           </figcaption>
         </figure>
       </div>
@@ -573,7 +575,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
     <section className="relative min-h-[520px] overflow-hidden bg-[color:var(--color-home-ink)]">
       <Image
         src="/img/si/hero2.jpg"
-        alt={`Habitat du Val de Loire près de ${ville.ville}`}
+        alt="Remise des clés d’un logement"
         fill
         sizes="100vw"
         className="object-cover opacity-55"
