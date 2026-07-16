@@ -135,8 +135,24 @@ export async function Footer() {
       {/* Bottom */}
       <div className="border-t border-white/10">
         <div className="grid grid-cols-1 items-center gap-3 px-6 py-[22px] text-center md:grid-cols-[1fr_auto_1fr] md:px-10 lg:px-16">
-          <p className="m-0 text-[13.5px] text-[#8295ab] md:justify-self-start md:text-left">
-            © 2026 Servicimmo
+          {/* Les liens legaux vivent ici : la LCEN (art. 6-III) impose un acces
+              « facile, direct et permanent ». Le portage React de v2.html les
+              avait perdus, rendant /mentions-legales et /cgv injoignables a la
+              navigation — seule l'URL directe y menait. */}
+          <p className="m-0 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-[13.5px] text-[#8295ab] md:justify-start md:justify-self-start md:text-left">
+            <span>© 2026 Servicimmo</span>
+            <Link
+              href="/mentions-legales"
+              className="text-[#a9bccf] no-underline transition-colors hover:text-[color:var(--color-home-saf)]"
+            >
+              Mentions légales
+            </Link>
+            <Link
+              href="/cgv"
+              className="text-[#a9bccf] no-underline transition-colors hover:text-[color:var(--color-home-saf)]"
+            >
+              CGV
+            </Link>
           </p>
           <p className="m-0 text-[13.5px] text-[#8295ab] md:justify-self-center">
             Fait avec passion par{" "}

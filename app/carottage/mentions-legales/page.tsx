@@ -13,7 +13,13 @@ export const metadata: Metadata = {
 
 /* CONTENU À FAIRE VALIDER PAR ETIENNE avant bascule DNS (spec §13).
    Données reprises des mentions légales du site actuel : responsable de
-   publication Jacques-Alexandre Lhotellier, SIREN, adresse, email. */
+   publication Jacques-Alexandre Lhotellier, SIREN, adresse, email.
+
+   Éditeur = SERVICIMMO, pas « France Carottage » : les deux sites publient le
+   MÊME SIREN 433 994 563, le même dirigeant et le même téléphone. France
+   Carottage est donc un nom commercial de la SASU Servicimmo, pas une personne
+   morale distincte — et la LCEN impose de nommer la personne morale.
+   Vérifié le 2026-07-16 sur france-carottage.fr et servicimmo.fr. */
 export default function MentionsLegalesFC() {
   const c = francecarottageConfig;
   return (
@@ -30,7 +36,13 @@ export default function MentionsLegalesFC() {
       <article className="fc-prose mx-auto max-w-3xl px-6 py-8 md:px-8">
         <h2>Éditeur</h2>
         <p>
-          {c.raisonSociale} — SIREN 433 994 563. {c.adresse.ligne1}, {c.adresse.codePostal}{" "}
+          SERVICIMMO, société par actions simplifiée unipersonnelle au capital de 52 000 €, exerçant
+          sous le nom commercial « {c.raisonSociale} ». Siège social : 58 rue de la Chevalerie,
+          37100 Tours. SIREN : 433 994 563 — RCS 433 994 563. N° TVA intracommunautaire :
+          FR37 433994563.
+        </p>
+        <p>
+          Établissement {c.raisonSociale} : {c.adresse.ligne1}, {c.adresse.codePostal}{" "}
           {c.adresse.ville}. Téléphone : {c.contact.telephone}. Email : {c.contact.email}.
           Responsable de publication : Jacques-Alexandre Lhotellier.
         </p>
