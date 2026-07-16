@@ -22,6 +22,7 @@ import {
 } from "lucide-react";
 
 import type { Article, Service, Ville } from "@/lib/content/schemas";
+import { haversineKm } from "@/lib/geo/distance";
 
 import { GoogleMapEmbed } from "./GoogleMapEmbed";
 import { iconeOuDefaut } from "./icones";
@@ -571,7 +572,7 @@ export function ArticleExpertContent({
 }
 
 export function CityLocalHero({ ville }: { ville: Ville }) {
-  const distance = Math.round(distanceKm({ lat: 47.3941, lng: 0.6848 }, ville));
+  const distance = distanceDepuisAgence(ville);
   return (
     <section className="relative min-h-[520px] overflow-hidden bg-[color:var(--color-home-ink)]">
       <Image
@@ -592,7 +593,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
             <MapPinIcon className="h-4 w-4" /> Diagnostic immobilier local
           </p>
           <p className="text-[13px] font-semibold text-white/82">
-            À {distance} km de notre agence de Tours
+            {distance === null ? "Notre agence est ici" : `À ${distance} km de notre agence de Tours`}
           </p>
         </div>
         <div className="max-w-[960px]">
@@ -621,7 +622,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
 }
 
 export function CityLocalContent({ ville, services }: { ville: Ville; services: Service[] }) {
-  const distance = Math.round(distanceKm({ lat: 47.3941, lng: 0.6848 }, ville));
+  const distance = distanceDepuisAgence(ville);
   return (
     <section id="ville-diagnostics" className="scroll-mt-32 bg-[color:var(--color-home-bg)]">
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16">
@@ -681,7 +682,7 @@ export function CityLocalContent({ ville, services }: { ville: Ville; services: 
             </p>
           </div>
           <div className="grid bg-[color:var(--color-home-ink)] text-white sm:grid-cols-3">
-            <LocalFact label="Depuis Tours" value={`${distance} km`} />
+            <LocalFact label="Depuis Tours" value={distance === null ? "Sur place" : `${distance} km`} />
             <LocalFact label="Créneau possible" value="Sous 48 h" />
             <LocalFact label="Couverture" value={`${ville.ville} et communes voisines`} />
           </div>
@@ -947,11 +948,15 @@ function prepareHeadings(html: string) {
   return { html: withIds, headings };
 }
 
-function distanceKm(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
-  const rad = (value: number) => (value * Math.PI) / 180;
-  const dLat = rad(b.lat - a.lat);
-  const dLng = rad(b.lng - a.lng);
-  const h =
-    Math.sin(dLat / 2) ** 2 + Math.cos(rad(a.lat)) * Math.cos(rad(b.lat)) * Math.sin(dLng / 2) ** 2;
-  return 6371 * 2 * Math.asin(Math.sqrt(h));
+/** Agence Servicimmo — 58 rue de la Chevalerie, Tours. */
+const AGENCE_TOURS = { lat: 47.3941, lng: 0.6848 };
+
+/**
+ * Distance d'une commune à l'agence, en km arrondis.
+ * `null` quand la commune EST celle de l'agence (Tours) : afficher « 0 km de
+ * notre agence de Tours » sur la page Tours n'aurait aucun sens.
+ */
+function distanceDepuisAgence(ville: { lat: number; lng: number }): number | null {
+  const km = Math.round(haversineKm(AGENCE_TOURS.lat, AGENCE_TOURS.lng, ville.lat, ville.lng));
+  return km === 0 ? null : km;
 }

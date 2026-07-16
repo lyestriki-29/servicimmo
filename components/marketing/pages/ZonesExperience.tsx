@@ -49,6 +49,7 @@ export type SectorId = (typeof SECTORS)[number]["id"];
  */
 export const SECTEUR_PAR_SLUG: Record<string, SectorId> = {
   // Tours Métropole Val de Loire
+  tours: "metropole",
   "chambray-les-tours": "metropole",
   fondettes: "metropole",
   "joue-les-tours": "metropole",
