@@ -44,11 +44,20 @@ export default function MentionsLegalesPage() {
       title: "Hébergeur",
       content: (
         <p>
-          Site hébergé sur une infrastructure Coolify opérée par Propul&apos;seo (Lyes Triki &amp;
-          Etienne Guimbard), prestataire technique de Servicimmo.
+          OVH SAS, société par actions simplifiée au capital de 50 000 000 €.
           <br />
-          [À compléter avant mise en production : raison sociale, SIRET et adresse légale du
-          fournisseur serveur sous-jacent.]
+          2 rue Kellermann, 59100 Roubaix, France.
+          <br />
+          RCS Lille Métropole 424 761 419 — N° TVA intracommunautaire : FR 22 424 761 419.
+          <br />
+          Site web :{" "}
+          <a href="https://www.ovhcloud.com" target="_blank" rel="noopener noreferrer">
+            www.ovhcloud.com
+          </a>
+          .
+          <br />
+          L&apos;infrastructure est administrée pour le compte de Servicimmo par Propul&apos;seo
+          (Lyes Triki &amp; Etienne Guimbard), prestataire technique.
         </p>
       ),
     },

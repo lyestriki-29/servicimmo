@@ -47,7 +47,11 @@ export default function MentionsLegalesFC() {
           Responsable de publication : Jacques-Alexandre Lhotellier.
         </p>
         <h2>Hébergeur</h2>
-        <p>Site hébergé sur l’infrastructure Coolify de Propul’seo (à préciser avant mise en prod).</p>
+        <p>
+          OVH SAS, société par actions simplifiée au capital de 50 000 000 €, 2 rue Kellermann,
+          59100 Roubaix, France. RCS Lille Métropole 424 761 419. Infrastructure administrée par
+          Propul’seo, prestataire technique.
+        </p>
         <h2>Propriété intellectuelle</h2>
         <p>
           L’ensemble des contenus (textes, visuels, logos) est la propriété de {c.raisonSociale},
