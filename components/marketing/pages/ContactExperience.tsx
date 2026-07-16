@@ -50,20 +50,38 @@ export function ContactExperience() {
     event.preventDefault();
     const form = new FormData(event.currentTarget);
 
+    const name = String(form.get("name") ?? "").trim();
+    const phone = String(form.get("phone") ?? "").trim();
+    const email = String(form.get("email") ?? "").trim();
+    const city = String(form.get("city") ?? "").trim();
+    const message = String(form.get("message") ?? "").trim();
+
+    // Les champs déjà saisis suivent l'internaute dans le parcours devis.
     if (intent === "devis" || intent === "rendez-vous") {
-      open();
+      open({
+        ...(name && { first_name: name }),
+        ...(phone && { phone }),
+        ...(email && { email }),
+        ...(city && { city }),
+        ...(message && { notes: message }),
+      });
       return;
     }
 
-    const name = String(form.get("name") ?? "").trim();
-    const city = String(form.get("city") ?? "").trim();
-    const message = String(form.get("message") ?? "").trim();
     const subject =
       intent === "rapport"
         ? "Question concernant un rapport Servicimmo"
         : "Demande de contact Servicimmo";
-    const body = [`Nom : ${name}`, city ? `Commune : ${city}` : "", "", message]
-      .filter(Boolean)
+    // `null` = ligne à retirer ; "" = ligne vide volontaire séparant l'en-tête du message.
+    const body = [
+      `Nom : ${name}`,
+      `Téléphone : ${phone}`,
+      `E-mail : ${email}`,
+      city ? `Commune : ${city}` : null,
+      "",
+      message,
+    ]
+      .filter((line) => line !== null)
       .join("\n");
     window.location.href = `mailto:info@servicimmo.fr?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   }

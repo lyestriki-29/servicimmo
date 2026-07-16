@@ -24,7 +24,7 @@ export function CtaDevis({
         </div>
         <button
           type="button"
-          onClick={open}
+          onClick={() => open()}
           className={`inline-flex min-h-12 items-center rounded-[9px] px-5 font-[family-name:var(--font-sora)] text-[13px] font-bold transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 ${isAnis ? "bg-[color:var(--color-home-ink)] text-white focus-visible:outline-[color:var(--color-si-petrole)]" : "bg-[color:var(--color-home-saf)] text-[color:var(--color-home-ink)] hover:bg-[color:var(--color-home-saf-soft)] focus-visible:outline-white"}`}
         >
           {libelleBouton}

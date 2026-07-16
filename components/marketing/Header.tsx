@@ -107,7 +107,7 @@ export function Header() {
           <div className="flex items-center gap-[18px]">
             <button
               type="button"
-              onClick={openModal}
+              onClick={() => openModal()}
               className="inline-flex items-center gap-2 whitespace-nowrap rounded-[6px] bg-[color:var(--color-home-saf)] px-[22px] py-[13px] font-[family-name:var(--font-sora)] text-[14px] font-semibold text-[color:var(--color-home-ink)] transition-opacity hover:opacity-90"
             >
               Demander un devis

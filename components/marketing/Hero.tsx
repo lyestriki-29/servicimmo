@@ -49,7 +49,7 @@ export function Hero() {
             <div className="mb-6 flex flex-wrap items-center gap-[18px]">
               <button
                 type="button"
-                onClick={openModal}
+                onClick={() => openModal()}
                 className="inline-flex items-center gap-2 rounded-[10px] border border-[color:var(--color-home-line)] bg-[color:var(--color-si-creme)] px-6 py-3.5 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-si-petrole)] shadow-[0_2px_10px_rgba(15,30,58,.06)] transition-colors hover:bg-white"
               >
                 Commencer mon devis
