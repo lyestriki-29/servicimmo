@@ -1,6 +1,14 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from "react";
+import {
+  createContext,
+  useCallback,
+  useContext,
+  useMemo,
+  useState,
+  useSyncExternalStore,
+  type ReactNode,
+} from "react";
 
 /**
  * Consentement au chargement des cartes Google.
@@ -14,6 +22,10 @@ import { createContext, useCallback, useContext, useEffect, useState, type React
  * strictement nécessaires ; polices next/font/google = servies depuis notre
  * domaine ; aucun analytics). D'où un consentement ciblé plutôt qu'un bandeau
  * global. Cf. docs/superpowers/specs/2026-07-16-consentement-google-maps-design.md
+ *
+ * Le choix vit dans le localStorage, lu via `useSyncExternalStore` : c'est le
+ * contrat React pour s'abonner à une source extérieure au rendu serveur, sans
+ * écrire d'état dans un effet.
  */
 
 /** Clé localStorage — pas un cookie : rien à déposer pour mémoriser un refus. */
@@ -23,7 +35,7 @@ const STORAGE_KEY = "si-consent-maps";
 const VALIDITY_MONTHS = 6;
 
 type MapConsentValue = {
-  /** `null` = pas encore lu (rendu serveur et avant hydratation) → on n'affiche rien de Google. */
+  /** `null` = pas encore lu (rendu serveur et hydratation) → on n'affiche rien de Google. */
   granted: boolean | null;
   grant: () => void;
   revoke: () => void;
@@ -47,14 +59,51 @@ function readStoredConsent(): boolean {
   }
 }
 
-export function MapConsentProvider({ children }: { children: ReactNode }) {
-  // Volontairement `null` au premier rendu : le serveur ne peut pas lire le
-  // localStorage, et démarrer à `true` monterait l'iframe avant vérification.
-  const [granted, setGranted] = useState<boolean | null>(null);
+const listeners = new Set<() => void>();
 
-  useEffect(() => {
-    setGranted(readStoredConsent());
-  }, []);
+/** Réveille les abonnés : ils reliront le stockage au rendu suivant. */
+function publish() {
+  for (const listener of listeners) listener();
+}
+
+function subscribe(listener: () => void) {
+  listeners.add(listener);
+  // `storage` ne notifie que les AUTRES onglets : garde le choix cohérent partout.
+  const onStorage = (event: StorageEvent) => {
+    if (event.key === null || event.key === STORAGE_KEY) listener();
+  };
+  window.addEventListener("storage", onStorage);
+  return () => {
+    listeners.delete(listener);
+    window.removeEventListener("storage", onStorage);
+  };
+}
+
+/**
+ * Relit le stockage à chaque rendu, sans mémoriser : la valeur est un booléen,
+ * donc React la compare par valeur et ne re-rend que si le choix a changé.
+ * (Un cache au niveau du module survivrait à tout démontage et rendrait un
+ * consentement révoqué ou expiré indétectable.)
+ */
+function getSnapshot(): boolean {
+  return readStoredConsent();
+}
+
+/** Le serveur ne peut pas lire le localStorage : `null` = « pas encore su ». */
+function getServerSnapshot(): null {
+  return null;
+}
+
+export function MapConsentProvider({ children }: { children: ReactNode }) {
+  const stored = useSyncExternalStore<boolean | null>(subscribe, getSnapshot, getServerSnapshot);
+
+  /**
+   * Navigation privée : l'écriture dans le stockage échoue, mais le choix
+   * exprimé doit valoir au moins pour la visite en cours — il prime alors sur
+   * ce que dit (ou ne dit pas) le stockage.
+   */
+  const [choixDeSession, setChoixDeSession] = useState<boolean | null>(null);
+  const granted = stored === null ? null : (choixDeSession ?? stored);
 
   const grant = useCallback(() => {
     try {
@@ -63,25 +112,25 @@ export function MapConsentProvider({ children }: { children: ReactNode }) {
         JSON.stringify({ granted: true, date: new Date().toISOString() })
       );
     } catch {
-      // Navigation privée : le choix vaut au moins pour la visite en cours.
+      // Le choix de session ci-dessous prend le relais.
     }
-    setGranted(true);
+    setChoixDeSession(true);
+    publish();
   }, []);
 
   const revoke = useCallback(() => {
     try {
       window.localStorage.removeItem(STORAGE_KEY);
     } catch {
-      // Idem : l'état React fait foi pour la visite en cours.
+      // Idem : le choix de session fait foi pour la visite.
     }
-    setGranted(false);
+    setChoixDeSession(false);
+    publish();
   }, []);
 
-  return (
-    <MapConsentContext.Provider value={{ granted, grant, revoke }}>
-      {children}
-    </MapConsentContext.Provider>
-  );
+  const value = useMemo(() => ({ granted, grant, revoke }), [granted, grant, revoke]);
+
+  return <MapConsentContext.Provider value={value}>{children}</MapConsentContext.Provider>;
 }
 
 export function useMapConsent(): MapConsentValue {
