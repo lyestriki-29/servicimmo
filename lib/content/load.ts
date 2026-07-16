@@ -59,7 +59,12 @@ export async function getVille(slug: string, baseDir?: string): Promise<Ville | 
 
 export async function loadArticles(baseDir?: string): Promise<Article[]> {
   const articles = await loadCollection("articles", ArticleFrontmatterSchema, baseDir);
-  return articles.sort((a, b) => b.date.localeCompare(a.date));
+  // Départage par slug : 22 articles portent la même date. Sans second critère,
+  // l'ordre retombe sur l'ordre de lecture du disque et diffère donc entre la
+  // machine de dev (Windows) et le build de prod (Linux) — pagination instable.
+  return articles.sort(
+    (a, b) => b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug, "fr")
+  );
 }
 
 export async function getArticle(slug: string, baseDir?: string): Promise<Article | null> {

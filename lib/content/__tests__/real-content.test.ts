@@ -34,4 +34,29 @@ describe("contenu réel content/", () => {
       expect(a.html.length).toBeGreaterThan(0);
     }
   });
+
+  /**
+   * 22 articles portent la même date. Un tri sur la seule date laisse leur ordre
+   * dépendre de l'ordre de lecture du disque : la pagination differait donc entre
+   * la machine de dev (Windows) et le build de prod (Linux), et un article
+   * pouvait changer de page d'un build à l'autre. Le départage par slug fige
+   * l'ordre — ce filet interdit d'y revenir.
+   */
+  it("trie les articles de façon totalement déterministe", async () => {
+    const articles = await loadArticles();
+
+    for (let i = 1; i < articles.length; i += 1) {
+      const precedent = articles[i - 1]!;
+      const courant = articles[i]!;
+      const memeDate = precedent.date === courant.date;
+
+      if (memeDate) {
+        // À date égale, l'ordre est alphabétique par slug : aucune place au hasard.
+        expect(precedent.slug.localeCompare(courant.slug, "fr")).toBeLessThan(0);
+      } else {
+        // Sinon, du plus récent au plus ancien.
+        expect(precedent.date.localeCompare(courant.date)).toBeGreaterThan(0);
+      }
+    }
+  });
 });
