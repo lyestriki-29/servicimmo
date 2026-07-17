@@ -9,6 +9,20 @@ icone: gauge
 extrait: Le diagnostic énergétique obligatoire à l'échelle de l'immeuble en copropriété.
 obligatoirePour: []
 dureeValidite: 10 ans
+titreAccent: "collectif (copropriété)"
+deroule:
+  - temps: "J0"
+    titre: "Cadrage avec le syndic"
+    detail: "Périmètre de l'immeuble et accès aux communs."
+  - temps: "J1"
+    titre: "Visite de l'immeuble"
+    detail: "Communs, chaufferie, échantillon de logements."
+  - temps: "J1"
+    titre: "Relevés et documents"
+    detail: "Consommations collectives et plans de l'immeuble."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "DPE collectif présentable en assemblée générale."
 ---
 
 ## Qu'est-ce que le DPE collectif ?

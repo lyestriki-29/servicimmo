@@ -9,6 +9,20 @@ icone: shield-alert
 extrait: Le suivi de l'amiante dans les parties communes d'un immeuble en copropriété.
 obligatoirePour: []
 dureeValidite: sans échéance fixe, mise à jour après travaux ou contrôle périodique
+titreAccent: "Amiante (DTA)"
+deroule:
+  - temps: "J0"
+    titre: "Étude documentaire"
+    detail: "Reprise des repérages et travaux déjà réalisés."
+  - temps: "J1"
+    titre: "Repérage sur site"
+    detail: "Matériaux des listes A et B dans les parties communes."
+  - temps: "J1"
+    titre: "Évaluation de l'état"
+    detail: "Cotation des matériaux et suites à donner."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "DTA constitué, avec sa fiche récapitulative."
 ---
 
 ## Qu'est-ce que le DTA ?

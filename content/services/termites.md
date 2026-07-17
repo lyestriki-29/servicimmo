@@ -10,6 +10,20 @@ extrait: L'état parasitaire obligatoire dans tout le département avant une ven
 obligatoirePour:
   - vente
 dureeValidite: 6 mois
+titreAccent: "termites"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Examen du bâti"
+    detail: "Sondage des bois et des zones humides accessibles."
+  - temps: "J1"
+    titre: "Recherche d'indices"
+    detail: "Cordonnets, galeries, dégradations caractéristiques."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "État parasitaire valable 6 mois."
 ---
 
 ## Qu'est-ce que le diagnostic termites ?

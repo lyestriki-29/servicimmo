@@ -10,6 +10,20 @@ extrait: Le document contradictoire qui protège bailleur et locataire à chaque
 obligatoirePour:
   - location
 dureeValidite: sans objet, réalisé à chaque entrée et sortie de locataire
+titreAccent: "locatif"
+deroule:
+  - temps: "J0"
+    titre: "Rendez-vous avec les parties"
+    detail: "Créneau fixé avec le bailleur et le locataire."
+  - temps: "J1"
+    titre: "Visite contradictoire"
+    detail: "Pièce par pièce, équipement par équipement."
+  - temps: "J1"
+    titre: "Relevés et photos"
+    detail: "Compteurs, clés, état daté de chaque élément."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "État des lieux signé, remis aux deux parties."
 ---
 
 ## Qu'est-ce que l'état des lieux ?

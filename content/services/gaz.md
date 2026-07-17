@@ -11,6 +11,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 3 ans (vente), 6 ans (location)
+titreAccent: "gaz"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Contrôle de l'installation"
+    detail: "Tuyauteries, raccordements, appareils, ventilation."
+  - temps: "J1"
+    titre: "Test d'étanchéité"
+    detail: "Recherche de fuite et contrôle de la combustion."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Anomalies classées par niveau de danger."
 ---
 
 ## Qu'est-ce que le diagnostic gaz ?

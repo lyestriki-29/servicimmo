@@ -11,6 +11,20 @@ extrait: Le repérage obligatoire de l'amiante avant tout chantier sur un bâtim
 obligatoirePour:
   - travaux
 dureeValidite: propre à l'opération de travaux visée
+titreAccent: "avant travaux"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Repérage de la zone"
+    detail: "Périmètre exact des travaux, sondages destructifs."
+  - temps: "J1"
+    titre: "Prélèvements"
+    detail: "Analyse en laboratoire accrédité."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Rapport RAT remis à l'entreprise de travaux."
 ---
 
 ## Qu'est-ce que le repérage amiante avant travaux ?

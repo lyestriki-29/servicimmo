@@ -10,6 +10,20 @@ extrait: Le repérage obligatoire de l'amiante avant toute vente ou location d'u
 obligatoirePour:
   - vente
 dureeValidite: illimitée si absence, 3 ans si présence
+titreAccent: "amiante"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Repérage visuel"
+    detail: "Inspection des matériaux des listes A et B."
+  - temps: "J1"
+    titre: "Prélèvements si besoin"
+    detail: "Analyse en laboratoire accrédité si doute."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Conclusions par matériau, transmis sous 48 h."
 ---
 
 ## Qu'est-ce que le diagnostic amiante ?

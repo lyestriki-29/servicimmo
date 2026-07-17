@@ -11,6 +11,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 6 mois
+titreAccent: "Risques et Pollutions"
+deroule:
+  - temps: "J0"
+    titre: "Localisation du bien"
+    detail: "Parcelle et commune identifiées précisément."
+  - temps: "J0"
+    titre: "Consultation des arrêtés"
+    detail: "Risques naturels, miniers, technologiques, radon, RGA."
+  - temps: "J0"
+    titre: "Historique des sinistres"
+    detail: "Sinistres indemnisés déclarés par le propriétaire."
+  - temps: "J1"
+    titre: "Formulaire remis"
+    detail: "ERP daté, valable 6 mois, à joindre au dossier."
 ---
 
 ## Qu'est-ce que l'ERP ?

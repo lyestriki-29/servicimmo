@@ -12,6 +12,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 10 ans
+titreAccent: "tertiaire / commerce"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Visite des locaux"
+    detail: "Durée selon la surface et le nombre de zones."
+  - temps: "J1"
+    titre: "Relevés techniques"
+    detail: "Enveloppe, chauffage, éclairage, usages spécifiques."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "DPE tertiaire commenté, valable 10 ans."
 ---
 
 ## Qu'est-ce que le DPE tertiaire ?

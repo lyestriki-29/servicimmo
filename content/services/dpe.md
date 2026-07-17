@@ -29,6 +29,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 10 ans
+titreAccent: "Énergétique"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Visite du bien"
+    detail: "45 min à 2 h selon la surface. Accès complet nécessaire."
+  - temps: "J1"
+    titre: "Mesures et relevés"
+    detail: "Isolation, chauffage, ventilation, consommations."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Envoyé au format PDF, commenté par le technicien."
 ---
 
 ## Qu'est-ce que le DPE ?

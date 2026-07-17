@@ -10,6 +10,20 @@ extrait: Le diagnostic plomb spécifique exigé avant tout chantier sur un bâti
 obligatoirePour:
   - travaux
 dureeValidite: propre à l'opération de travaux visée
+titreAccent: "avant travaux"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Mesures sur la zone"
+    detail: "Fluorescence X sur le périmètre des travaux."
+  - temps: "J1"
+    titre: "Évaluation du risque"
+    detail: "Identification des supports à traiter avant chantier."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Rapport transmis à l'entreprise et au maître d'ouvrage."
 ---
 
 ## Qu'est-ce que le diagnostic plomb avant travaux ?

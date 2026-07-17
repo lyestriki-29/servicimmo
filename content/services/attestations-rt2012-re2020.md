@@ -9,6 +9,20 @@ icone: file-text
 extrait: L'attestation de conformité thermique exigée pour toute construction neuve.
 obligatoirePour: []
 dureeValidite: sans objet, document ponctuel lié à la déclaration d'achèvement
+titreAccent: "RT2012 / RE2020"
+deroule:
+  - temps: "J0"
+    titre: "Collecte des pièces"
+    detail: "Étude thermique, plans et récépissé de dépôt."
+  - temps: "J1"
+    titre: "Visite de fin de chantier"
+    detail: "Contrôle de la conformité à l'étude thermique."
+  - temps: "J1"
+    titre: "Test d'étanchéité à l'air"
+    detail: "Mesure de la perméabilité de l'enveloppe."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Attestation à joindre à la déclaration d'achèvement."
 ---
 
 ## Qu'est-ce que l'attestation RT2012 / RE2020 ?

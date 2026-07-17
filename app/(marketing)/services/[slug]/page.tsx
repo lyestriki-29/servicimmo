@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Ariane } from "@/components/marketing/pages/Ariane";
 import { CtaDevis } from "@/components/marketing/pages/CtaDevis";
+import { ServiceDeroule } from "@/components/marketing/pages/ServiceDeroule";
 import { ServicesLies } from "@/components/marketing/pages/ServicesLies";
 import { ServiceAtlasHero, ServiceMissionContent } from "@/components/marketing/pages/ValidatedPageDesigns";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -33,6 +34,7 @@ export default async function ServicePage({ params }: Props) {
   return (
     <>
       <ServiceAtlasHero service={service} />
+      <ServiceDeroule service={service} />
       <Ariane
         segments={[
           { label: "Services", href: "/services" },

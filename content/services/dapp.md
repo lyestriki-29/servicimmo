@@ -10,6 +10,20 @@ extrait: Le repérage amiante spécifique aux parties privatives d'un logement l
 obligatoirePour:
   - location
 dureeValidite: illimitée si absence, sans échéance fixée si présence
+titreAccent: "amiante parties privatives"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Repérage des privatifs"
+    detail: "Matériaux de la liste A dans le logement."
+  - temps: "J1"
+    titre: "Prélèvements si besoin"
+    detail: "Analyse en laboratoire accrédité si doute."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "DAPP remis au propriétaire bailleur."
 ---
 
 ## Qu'est-ce que le DAPP ?

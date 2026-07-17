@@ -10,6 +10,20 @@ extrait: Le certificat de mesurage exigé pour vendre un lot en copropriété.
 obligatoirePour:
   - vente
 dureeValidite: illimitée, sauf travaux modifiant la surface
+titreAccent: "Loi Carrez"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Métrage du lot"
+    detail: "Mesure pièce par pièce, hors surfaces sous 1,80 m."
+  - temps: "J1"
+    titre: "Vérification du règlement"
+    detail: "Confrontation au règlement de copropriété."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Attestation de surface privative, valable sans limite."
 ---
 
 ## Qu'est-ce que le métrage Loi Carrez ?

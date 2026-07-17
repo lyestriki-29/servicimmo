@@ -11,6 +11,20 @@ extrait: Le repérage complet exigé par la loi avant tout chantier de démoliti
 obligatoirePour:
   - demolition
 dureeValidite: propre à chaque diagnostic composant, sans délai unique
+titreAccent: "avant démolition"
+deroule:
+  - temps: "J0"
+    titre: "Cadrage du chantier"
+    detail: "Périmètre à démolir et contraintes d'accès."
+  - temps: "J1"
+    titre: "Repérage exhaustif"
+    detail: "Sondages destructifs sur toute la structure."
+  - temps: "J1"
+    titre: "Prélèvements"
+    detail: "Analyses en laboratoire accrédité."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Rapport remis avant l'ouverture du chantier."
 ---
 
 ## Qu'est-ce que le diagnostic avant démolition ?

@@ -11,6 +11,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 1 an (vente) à 6 ans (location) si plomb détecté, illimitée sinon
+titreAccent: "plomb"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Mesures au plomb"
+    detail: "Appareil à fluorescence X, unité par unité."
+  - temps: "J1"
+    titre: "Relevé des dégradations"
+    detail: "Classement des revêtements par état de conservation."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "CREP complet, avec les obligations qui en découlent."
 ---
 
 ## Qu'est-ce que le CREP ?

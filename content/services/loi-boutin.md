@@ -10,6 +10,20 @@ extrait: Le mesurage de la surface habitable exigé pour toute location vide.
 obligatoirePour:
   - location
 dureeValidite: illimitée, sauf modification du logement
+titreAccent: "Loi Boutin"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Mesure du logement"
+    detail: "Surface habitable, hors annexes et combles non aménagés."
+  - temps: "J1"
+    titre: "Contrôle des exclusions"
+    detail: "Vérification des surfaces à déduire du calcul."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Attestation à annexer au bail."
 ---
 
 ## Qu'est-ce que la surface habitable Loi Boutin ?

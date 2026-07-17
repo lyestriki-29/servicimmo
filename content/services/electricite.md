@@ -11,6 +11,20 @@ obligatoirePour:
   - vente
   - location
 dureeValidite: 3 ans (vente), 6 ans (location)
+titreAccent: "électricité"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Contrôle de l'installation"
+    detail: "Tableau, mise à la terre, protections, circuits."
+  - temps: "J1"
+    titre: "Points de sécurité"
+    detail: "Vérification des 87 points de contrôle réglementaires."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Anomalies détaillées, avec leur localisation."
 ---
 
 ## Qu'est-ce que le diagnostic électricité ?

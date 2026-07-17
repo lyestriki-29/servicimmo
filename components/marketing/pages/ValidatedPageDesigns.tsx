@@ -3,6 +3,9 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { format } from "date-fns";
 import { fr } from "date-fns/locale";
+
+import { BoutonDevisPilule } from "@/components/marketing/pages/BoutonDevisPilule";
+import { stripHtml } from "@/lib/content/html";
 import {
   ArrowRightIcon,
   BadgeCheckIcon,
@@ -211,9 +214,7 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
       {/* Page CONTENU (une fiche pratique) : en-tête compact, on vient lire. */}
       <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-16 ecran-court:lg:gap-6 ecran-court:lg:py-7">
         <aside className="order-2 border-t border-[color:var(--color-home-line)] pt-6 lg:order-1 lg:border-t-0 lg:border-r lg:pt-0 lg:pr-8">
-          <p className="inline-flex items-center gap-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
-            <MapPinIcon className="h-4 w-4" /> Fiche pratique
-          </p>
+          <KickerMono>Fiche pratique</KickerMono>
           <div className="mt-8 space-y-7">
             <AtlasFact
               label="Projet"
@@ -228,22 +229,26 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
           </div>
         </aside>
         <div className="order-1 lg:order-2">
-          <p className="text-[12px] font-bold text-[color:var(--color-home-saf-dark)]">
-            Diagnostic réglementaire
-          </p>
+          <KickerMono>Diagnostic réglementaire</KickerMono>
           <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.01] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.6vw,46px)]">
-            {service.titre}
+            <TitreAccentue titre={service.titre} accent={service.titreAccent} />
           </h1>
           <p className="mt-6 max-w-[60ch] text-[17px] leading-[1.7] text-[color:var(--color-home-muted-2)]">
             {service.extrait}
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <span className="inline-flex items-center gap-2 rounded-full bg-[color:var(--color-home-saf-bg)] px-4 py-2 text-[12px] font-bold text-[color:var(--color-home-saf-dark)]">
-              <CheckCircle2Icon className="h-4 w-4" /> Intervention certifiée
+              <CheckCircle2Icon className="h-4 w-4" /> Obligatoire
             </span>
             <span className="inline-flex items-center gap-2 rounded-full bg-[color:var(--color-home-bg-2)] px-4 py-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
               <FileCheck2Icon className="h-4 w-4" /> Rapport expliqué
             </span>
+          </div>
+          <div className="mt-9 flex flex-wrap items-center gap-5">
+            <BoutonDevisPilule />
+            <p className="text-[12.5px] font-semibold text-[color:var(--color-home-muted-2)]">
+              Estimation immédiate · devis sous 2 h ouvrées
+            </p>
           </div>
         </div>
         <div className="relative order-3 min-h-[300px] overflow-hidden rounded-[16px] lg:min-h-[440px]">
@@ -717,7 +722,11 @@ export function CityLocalContent({ ville, services }: { ville: Ville; services: 
 export function ContactLocalHero() {
   return (
     <section className="bg-[color:var(--color-si-creme)] lg:h-[var(--hero-max-h)]">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:h-full lg:grid-cols-[.8fr_1.2fr]">
+      {/* `grid-rows-[minmax(0,1fr)]` borne la ligne a la hauteur de la section :
+          sans lui, le contenu de la colonne droite (texte + padding) etire la
+          ligne au-dela de --hero-max-h, la photo suit, mais le creme — porte par
+          la section — s'arrete au plafond. D'ou une bande blanche sous le creme. */}
+      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:h-full lg:grid-cols-[.8fr_1.2fr] lg:grid-rows-[minmax(0,1fr)]">
         <div className="relative min-h-[320px] lg:min-h-0">
           {/* equipe.jpg est un panorama 2000x508 (ratio 3,94) affiche dans un
               cadre presque carre. `object-cover` le met donc a l'echelle par la
@@ -738,22 +747,22 @@ export function ContactLocalHero() {
             L’équipe Servicimmo · Tours
           </p>
         </div>
-        <div className="flex flex-col justify-center px-6 py-12 md:px-8 lg:py-16">
+        <div className="flex flex-col justify-center px-6 py-12 md:px-8 lg:min-h-0 lg:py-10 ecran-court:lg:py-6">
           <p className="text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             Parlons de votre projet
           </p>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.4vw,46px)]">
             Une question ?{" "}
             <span className="text-[color:var(--color-si-petrole)]">On vous répond vraiment</span>
           </h1>
-          <p className="mt-5 max-w-[54ch] text-[16px] leading-[1.7] text-[color:var(--color-home-muted-2)]">
+          <p className="mt-5 max-w-[54ch] text-[16px] leading-[1.7] text-[color:var(--color-home-muted-2)] ecran-court:mt-3 ecran-court:text-[15px]">
             Appelez directement l’équipe ou décrivez votre besoin en ligne. Une réponse claire, sans
             transfert inutile.
           </p>
-          <div className="mt-8 divide-y divide-[color:var(--color-home-line)] border-y border-[color:var(--color-home-line)]">
+          <div className="mt-8 divide-y divide-[color:var(--color-home-line)] border-y border-[color:var(--color-home-line)] ecran-court:mt-5">
             <a
               href="tel:+33247470123"
-              className="flex min-h-16 items-center justify-between gap-4 py-4 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-home-ink)]"
+              className="flex min-h-16 items-center justify-between gap-4 py-4 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-home-ink)] ecran-court:py-3"
             >
               <span>
                 <span className="block text-[11px] font-semibold text-[color:var(--color-home-saf-dark)]">
@@ -765,7 +774,7 @@ export function ContactLocalHero() {
             </a>
             <a
               href="mailto:info@servicimmo.fr"
-              className="flex min-h-16 items-center justify-between gap-4 py-4 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-home-ink)]"
+              className="flex min-h-16 items-center justify-between gap-4 py-4 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-home-ink)] ecran-court:py-3"
             >
               <span>
                 <span className="block text-[11px] font-semibold text-[color:var(--color-home-saf-dark)]">
@@ -776,7 +785,7 @@ export function ContactLocalHero() {
               <ArrowRightIcon className="h-4 w-4 text-[color:var(--color-si-petrole)]" />
             </a>
           </div>
-          <p className="mt-5 inline-flex items-center gap-2 text-[12px] font-semibold text-[color:var(--color-home-saf-dark)]">
+          <p className="mt-5 inline-flex items-center gap-2 text-[12px] font-semibold text-[color:var(--color-home-saf-dark)] ecran-court:mt-3">
             <Clock3Icon className="h-4 w-4" /> Réponse sous 2 h ouvrées
           </p>
         </div>
@@ -922,6 +931,37 @@ function AtlasFact({ label, value }: { label: string; value: string }) {
   );
 }
 
+/** Sur-titre mono des fiches services. Repris de la direction G du labo.
+ *  `clair` = posé sur fond encre. */
+export function KickerMono({ children, clair = false }: { children: ReactNode; clair?: boolean }) {
+  return (
+    <p
+      className={`font-mono text-[10.5px] font-bold tracking-[.2em] uppercase ${
+        clair ? "text-white/60" : "text-[color:var(--color-home-muted)]"
+      }`}
+    >
+      {children}
+    </p>
+  );
+}
+
+/**
+ * Colore `accent` là où il apparaît dans `titre` (1re occurrence).
+ * Le schéma garantit déjà que le fragment est présent — sans accent, ou si le
+ * fragment a disparu du titre, on rend le titre entier plutôt que rien.
+ */
+function TitreAccentue({ titre, accent }: { titre: string; accent?: string }) {
+  const i = accent ? titre.indexOf(accent) : -1;
+  if (!accent || i === -1) return <>{titre}</>;
+  return (
+    <>
+      {titre.slice(0, i)}
+      <span className="text-[color:var(--color-home-saf-dark)]">{accent}</span>
+      {titre.slice(i + accent.length)}
+    </>
+  );
+}
+
 function MissionFact({ label, value }: { label: string; value: string }) {
   return (
     <div className="border-b border-[color:var(--color-home-ink)]/18 px-6 py-6 last:border-b-0 md:border-r md:border-b-0 md:last:border-r-0">
@@ -946,13 +986,6 @@ function LocalFact({ label, value }: { label: string; value: string }) {
 
 function capitalize(value: string) {
   return value.charAt(0).toLocaleUpperCase("fr") + value.slice(1);
-}
-
-function stripHtml(value: string) {
-  return value
-    .replace(/<[^>]*>/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
 }
 
 function prepareHeadings(html: string) {

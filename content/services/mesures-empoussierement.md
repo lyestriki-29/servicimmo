@@ -11,6 +11,20 @@ obligatoirePour:
   - travaux
   - demolition
 dureeValidite: sans échéance fixe, propre à chaque phase de chantier
+titreAccent: "amiante"
+deroule:
+  - temps: "J0"
+    titre: "Définition de la stratégie"
+    detail: "Points de prélèvement selon la phase de chantier."
+  - temps: "J1"
+    titre: "Pompage sur site"
+    detail: "Prélèvement d'air sur la durée réglementaire."
+  - temps: "J1"
+    titre: "Analyse META"
+    detail: "Comptage des fibres en laboratoire accrédité."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Résultats comparés au seuil réglementaire."
 ---
 
 ## Qu'est-ce qu'une mesure d'empoussièrement ?

@@ -10,6 +10,20 @@ extrait: Le bilan complet exigé pour vendre un logement énergivore, avec scén
 obligatoirePour:
   - vente
 dureeValidite: 5 ans
+titreAccent: "réglementaire"
+deroule:
+  - temps: "J0"
+    titre: "Prise de rendez-vous"
+    detail: "Créneau confirmé sous 48 h, souvent moins."
+  - temps: "J1"
+    titre: "Visite complète"
+    detail: "Relevé détaillé de l'enveloppe et des équipements."
+  - temps: "J1"
+    titre: "Scénarios de travaux"
+    detail: "Étude des bouquets de travaux et des gains de classe."
+  - temps: "J2"
+    titre: "Rapport expliqué"
+    detail: "Audit commenté, avec les priorités de rénovation."
 ---
 
 ## Qu'est-ce que l'audit énergétique ?
