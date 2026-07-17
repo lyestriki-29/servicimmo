@@ -4,6 +4,7 @@ titre: >-
   Un diagnostic indispensable pour tous les logements antérieurs au 1er juillet
   1997
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: 'Diagnostic amiante obligatoire : logements avant juillet 1997'
 metaDescription: >-
   Tous les logements dont le permis de construire est antérieur au 1er juillet

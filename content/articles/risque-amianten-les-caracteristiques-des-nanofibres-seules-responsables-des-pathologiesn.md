@@ -3,6 +3,7 @@ slug: >-
   risque-amianten-les-caracteristiques-des-nanofibres-seules-responsables-des-pathologiesn
 titre: "Risque amiante : les caractéristiques des nanofibres seules responsables des pathologies ?"
 date: '2024-01-31'
+categorie: "Amiante"
 metaTitle: "Amiante : les nanofibres seules responsables des pathologies ?"
 metaDescription: "Une étude franco-chinoise révèle que la taille des nanofibres inertes, et non leur composition, provoque des pathologies pulmonaires. Le point avec Servicimmo."
 anciennesUrls:

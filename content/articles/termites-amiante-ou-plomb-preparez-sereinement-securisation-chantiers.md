@@ -4,6 +4,7 @@ titre: >-
   Termites, amiante ou plomb : préparez sereinement la sécurisation de vos
   chantiers
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: 'Termites, amiante, plomb : sécurisez vos chantiers'
 metaDescription: >-
   Avant travaux ou démolition, repérez plomb, amiante et termites pour

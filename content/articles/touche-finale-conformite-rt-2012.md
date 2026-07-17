@@ -2,6 +2,7 @@
 slug: touche-finale-conformite-rt-2012
 titre: La touche finale pour votre conformité avec la RT 2012
 date: '2017-01-01'
+categorie: "DPE & énergie"
 metaTitle: DPE dans le neuf et conformité RT 2012
 metaDescription: >-
   Le DPE dans le neuf s'appuie sur l'audit RT 2012 pour modéliser la

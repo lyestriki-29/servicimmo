@@ -2,6 +2,7 @@
 slug: qualite-des-dpen-un-arrete-paru-le-1er-aout-2025-instaure-un-controle-preventif-inedit
 titre: "Qualité des DPE : un arrêté paru le 1er août 2025 instaure un contrôle préventif inédit"
 date: '2025-08-20'
+categorie: "DPE & énergie"
 metaTitle: "DPE : un contrôle préventif inédit dès octobre 2025"
 metaDescription: "Un arrêté du 28 juillet 2025 instaure une surveillance préventive des opérateurs DPE par intelligence artificielle, applicable à compter du 1er octobre 2025."
 anciennesUrls:

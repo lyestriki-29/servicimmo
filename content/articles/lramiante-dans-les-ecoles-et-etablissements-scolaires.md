@@ -2,6 +2,7 @@
 slug: lramiante-dans-les-ecoles-et-etablissements-scolaires
 titre: "L'amiante dans les écoles et établissements scolaires"
 date: '2020-02-24'
+categorie: "Amiante"
 metaTitle: "Amiante dans les écoles : quelles obligations ?"
 metaDescription: "Le DTA (dossier technique amiante) est obligatoire dans les établissements scolaires bâtis avant 1997. Qui est responsable et comment consulter ce dossier ?"
 anciennesUrls:

@@ -3,6 +3,7 @@ slug: >-
   carto-amiante-2025n-des-avancees-majeures-dans-la-caracterisation-des-expositions
 titre: "Carto Amiante 2025\_: des avancées majeures dans la caractérisation des expositions"
 date: '2025-09-25'
+categorie: "Amiante"
 metaTitle: "Carto Amiante 2025\_: de nouvelles données d'exposition"
 metaDescription: "Le rapport Carto Amiante 2025 de l'OPPBTP documente trois nouvelles configurations d'intervention et neuf valeurs de référence sur l'exposition à l'amiante."
 anciennesUrls:

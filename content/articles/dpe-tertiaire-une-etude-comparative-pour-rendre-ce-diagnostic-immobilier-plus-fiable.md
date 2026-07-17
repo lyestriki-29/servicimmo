@@ -4,6 +4,7 @@ slug: >-
 titre: >-
   DPE tertiaire : une étude comparative pour un diagnostic plus fiable
 date: '2024-12-31'
+categorie: "DPE & énergie"
 metaTitle: "DPE tertiaire : vers une méthode de calcul plus fiable"
 metaDescription: "Les ministères ont lancé une étude comparant deux méthodes de calcul du DPE tertiaire, pour préparer la transposition de la directive européenne DPEB."
 anciennesUrls:

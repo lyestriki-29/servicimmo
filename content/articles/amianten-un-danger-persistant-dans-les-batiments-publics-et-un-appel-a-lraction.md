@@ -3,6 +3,7 @@ slug: >-
   amianten-un-danger-persistant-dans-les-batiments-publics-et-un-appel-a-lraction
 titre: "Amiante\_: un danger persistant dans les bâtiments publics et un appel à l’action"
 date: '2024-03-31'
+categorie: "Amiante"
 metaTitle: "Amiante\_: le DTA, une obligation trop souvent négligée"
 metaDescription: "Un documentaire de France 5 pointe l'absence ou le défaut de mise à jour du dossier technique amiante (DTA) dans de nombreux bâtiments publics et écoles."
 anciennesUrls:

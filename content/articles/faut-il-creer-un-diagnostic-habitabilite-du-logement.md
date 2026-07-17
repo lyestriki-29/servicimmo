@@ -2,6 +2,7 @@
 slug: faut-il-creer-un-diagnostic-habitabilite-du-logement
 titre: Faut-il créer un diagnostic habitabilité du logement ?
 date: '2019-10-23'
+categorie: "Location & vente"
 metaTitle: Faut-il créer un diagnostic habitabilité du logement ?
 metaDescription: Un rapport parlementaire propose un diagnostic unique d'habitabilité pour lutter contre le logement indigne. Décryptage de cette piste de réforme.
 anciennesUrls:

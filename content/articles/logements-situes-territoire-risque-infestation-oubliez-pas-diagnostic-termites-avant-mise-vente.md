@@ -5,6 +5,7 @@ titre: >-
   Logements situés dans un territoire à risque d’infestation : n’oubliez pas le
   diagnostic termites avant sa mise en vente
 date: '2017-01-01'
+categorie: "Termites"
 metaTitle: >-
   Diagnostic termites : obligatoire en zone à risque avant vente
 metaDescription: >-

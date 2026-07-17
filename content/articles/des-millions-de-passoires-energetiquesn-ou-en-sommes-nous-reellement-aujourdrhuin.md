@@ -3,6 +3,7 @@ slug: >-
   des-millions-de-passoires-energetiquesn-ou-en-sommes-nous-reellement-aujourdrhuin
 titre: "Des millions de passoires énergétiques\_: où en sommes-nous réellement aujourd’hui\_?"
 date: '2025-11-27'
+categorie: "DPE & énergie"
 metaTitle: "Passoires énergétiques : combien en reste-t-il en France ?"
 metaDescription: "Fin 2025, la France comptait 5,4 millions de passoires énergétiques, en baisse de 400 000 logements en un an grâce au DPE et aux rénovations."
 anciennesUrls:

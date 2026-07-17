@@ -2,6 +2,7 @@
 slug: performance-energetique-diagnostic-desormais-obligatoire-coproprietes
 titre: "Performance énergétique : un diagnostic désormais obligatoire pour certaines copropriétés"
 date: '2017-01-01'
+categorie: "DPE & énergie"
 metaTitle: "DPE collectif : diagnostic obligatoire en copropriété"
 metaDescription: "Depuis 2017, certaines copropriétés doivent réaliser un DPE collectif. Découvrez qui est concerné, le contenu de ce diagnostic et qui peut le réaliser."
 anciennesUrls:

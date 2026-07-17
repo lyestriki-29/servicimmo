@@ -2,6 +2,7 @@
 slug: nouveau-diagnostic-decence-synthese-des-diagnostics-immobiliers
 titre: 'Diagnostic décence : vers une synthèse des diagnostics immobiliers'
 date: '2021-04-15'
+categorie: "Location & vente"
 metaTitle: 'Diagnostic décence : une synthèse des diagnostics'
 metaDescription: 'Un projet de diagnostic décence pourrait regrouper plusieurs diagnostics immobiliers obligatoires en un seul document. Découvrez ce que prévoyait cette proposition.'
 anciennesUrls:

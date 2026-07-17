@@ -4,6 +4,7 @@ titre: >-
   Performance énergétique : le DPE est aussi obligatoire pour les locaux
   tertiaires
 date: '2017-01-01'
+categorie: "DPE & énergie"
 metaTitle: >-
   DPE des locaux tertiaires : une obligation à connaître
 metaDescription: >-

@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import { loadArticles, loadServices, loadVilles } from "@/lib/content/load";
+import { CATEGORIES_ARTICLE } from "@/lib/content/schemas";
 
 /**
  * Charge le VRAI contenu de `content/` (pas les fixtures) — filet contre les
@@ -32,6 +33,27 @@ describe("contenu réel content/", () => {
     for (const a of articles) {
       expect(a.date).toMatch(/^\d{4}-\d{2}-\d{2}$/);
       expect(a.html.length).toBeGreaterThan(0);
+    }
+  });
+
+  /**
+   * Chaque article porte une categorie de la taxonomie fermee : c'est elle qui
+   * alimente le filtre de /actualites et le tag des cartes d'accueil. Un article
+   * ajoute sans categorie doit casser le build, pas s'afficher sans etiquette.
+   */
+  it("classe chaque article dans la taxonomie", async () => {
+    const articles = await loadArticles();
+    for (const a of articles) {
+      expect(CATEGORIES_ARTICLE).toContain(a.categorie);
+    }
+  });
+
+  /** Une categorie vide rendrait son filtre inutile : la taxonomie doit coller au corpus. */
+  it("n'a aucune catégorie vide", async () => {
+    const articles = await loadArticles();
+    const utilisees = new Set(articles.map((a) => a.categorie));
+    for (const c of CATEGORIES_ARTICLE) {
+      expect(utilisees).toContain(c);
     }
   });
 

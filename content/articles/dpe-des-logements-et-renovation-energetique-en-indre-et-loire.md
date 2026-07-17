@@ -2,6 +2,7 @@
 slug: dpe-des-logements-et-renovation-energetique-en-indre-et-loire
 titre: DPE des logements et rénovation énergétique en Indre-et-Loire
 date: '2019-09-26'
+categorie: "DPE & énergie"
 metaTitle: DPE et rénovation énergétique en Indre-et-Loire
 metaDescription: Le DPE révèle des logements énergivores en Indre-et-Loire, notamment ceux des années 1960-1970, et les aides à la rénovation annoncées pour 2020.
 anciennesUrls:

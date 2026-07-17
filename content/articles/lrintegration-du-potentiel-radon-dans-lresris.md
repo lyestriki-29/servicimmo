@@ -2,6 +2,7 @@
 slug: lrintegration-du-potentiel-radon-dans-lresris
 titre: L'intégration du potentiel radon dans l'ESRIS
 date: '2018-07-18'
+categorie: "Risques naturels"
 metaTitle: L'intégration du potentiel radon dans l'ESRIS
 metaDescription: Depuis juillet 2018, le risque radon est intégré à l'ESRIS. Découvrez ce que cela signifie pour votre bien, notamment en Indre-et-Loire.
 anciennesUrls:

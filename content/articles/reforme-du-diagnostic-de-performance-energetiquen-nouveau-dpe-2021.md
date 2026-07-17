@@ -2,6 +2,7 @@
 slug: reforme-du-diagnostic-de-performance-energetiquen-nouveau-dpe-2021
 titre: "Réforme du diagnostic de performance énergétique : nouveau DPE 2021"
 date: '2021-01-12'
+categorie: "DPE & énergie"
 metaTitle: "Réforme du DPE 2021 : ce qui change pour vendeurs et bailleurs"
 metaDescription: >-
   Opposabilité du DPE, nouvelles règles d'affichage, durée de validité

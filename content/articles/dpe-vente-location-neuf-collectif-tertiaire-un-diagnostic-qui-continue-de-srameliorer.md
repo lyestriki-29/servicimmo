@@ -5,6 +5,7 @@ titre: >-
   DPE vente, location, neuf, collectif, tertiaire : un diagnostic qui continue
   de s'améliorer
 date: '2023-09-28'
+categorie: "DPE & énergie"
 metaTitle: "DPE vente, location, tertiaire : un diagnostic renforcé"
 metaDescription: >-
   Un nouvel arrêté 2023 muscle la formation et le contrôle des diagnostiqueurs

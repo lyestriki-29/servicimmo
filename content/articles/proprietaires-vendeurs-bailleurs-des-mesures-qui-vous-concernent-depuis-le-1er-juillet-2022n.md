@@ -3,6 +3,7 @@ slug: >-
   proprietaires-vendeurs-bailleurs-des-mesures-qui-vous-concernent-depuis-le-1er-juillet-2022n
 titre: "Propriétaires, vendeurs, bailleurs\_: les mesures qui vous concernent depuis le 1er juillet 2022"
 date: '2022-07-21'
+categorie: "Location & vente"
 metaTitle: "Diagnostics immobiliers\_: les nouveautés du 1er juillet 2022"
 metaDescription: "Gaz, annonces locatives, RE2020, aides à la rénovation\_: le point sur les mesures réglementaires entrées en vigueur le 1er juillet 2022 pour propriétaires et bailleurs."
 anciennesUrls:

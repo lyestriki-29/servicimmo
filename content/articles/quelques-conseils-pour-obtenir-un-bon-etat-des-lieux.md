@@ -2,6 +2,7 @@
 slug: quelques-conseils-pour-obtenir-un-bon-etat-des-lieux
 titre: Quelques conseils pour obtenir un bon état des lieux
 date: '2019-06-11'
+categorie: "Location & vente"
 metaTitle: Nos conseils pour un bon état des lieux
 metaDescription: Nos conseils pratiques pour réussir votre état des lieux à Tours et éviter les litiges entre bailleurs et locataires lors d'une mise en location.
 anciennesUrls:

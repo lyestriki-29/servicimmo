@@ -2,6 +2,7 @@
 slug: faut-il-toujours-faire-appel-a-un-diagnostiqueur-certifie
 titre: Faut-il toujours faire appel à un diagnostiqueur certifié ?
 date: '2018-05-15'
+categorie: "Profession & marché"
 metaTitle: Faut-il toujours faire appel à un diagnostiqueur certifié ?
 metaDescription: Certification, assurance, indépendance, sanctions... ce que la loi impose au diagnostiqueur immobilier et pourquoi ces garanties vous protègent.
 anciennesUrls:

@@ -4,6 +4,7 @@ titre: >-
   Plomb : une expertise des peintures anciennes obligatoire pour tous les
   logements antérieurs à 1949
 date: '2017-01-01'
+categorie: "Plomb"
 metaTitle: >-
   Diagnostic plomb (CREP) : obligatoire avant 1949
 metaDescription: >-

@@ -4,6 +4,7 @@ titre: >-
   DPE des logements de moins de 40 m2 : une mesure pour les rendre plus
   équitables
 date: '2024-02-24'
+categorie: "DPE & énergie"
 metaTitle: >-
   DPE des logements de moins de 40 m² : une mesure plus équitable
 metaDescription: >-

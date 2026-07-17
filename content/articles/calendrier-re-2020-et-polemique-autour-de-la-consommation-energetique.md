@@ -2,6 +2,7 @@
 slug: calendrier-re-2020-et-polemique-autour-de-la-consommation-energetique
 titre: Calendrier RE 2020 et polémique autour de la consommation énergétique
 date: '2020-03-27'
+categorie: "DPE & énergie"
 metaTitle: "Calendrier RE 2020 : la polémique sur l'énergie"
 metaDescription: "Le calendrier prévisionnel de la RE 2020, future réglementation des bâtiments neufs, et la polémique sur l'avantage donné à l'électricité face au gaz."
 anciennesUrls:

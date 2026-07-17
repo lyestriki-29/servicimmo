@@ -2,6 +2,7 @@
 slug: dpe-et-confort-drete-des-logements-neufs-non-adaptes-aux-fortes-chaleurs
 titre: 'DPE et confort d’été : des logements neufs non adaptés aux fortes chaleurs ?'
 date: '2024-08-29'
+categorie: "DPE & énergie"
 metaTitle: 'DPE et confort d’été : logements neufs mal préparés au chaud'
 metaDescription: 'Malgré la RE 2020, moins de 10 % des logements neufs assurent un confort d’été suffisant. Pourquoi le DPE peine encore à bien l’évaluer.'
 anciennesUrls:

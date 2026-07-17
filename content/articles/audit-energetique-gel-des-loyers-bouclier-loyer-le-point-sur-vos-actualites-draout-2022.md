@@ -5,6 +5,7 @@ titre: >-
   Audit énergétique, gel des loyers, bouclier loyer, le point sur vos actualités
   d’août 2022
 date: '2022-08-25'
+categorie: "DPE & énergie"
 metaTitle: "Audit énergétique, gel des loyers, bouclier loyer : août 2022"
 metaDescription: >-
   Gel des loyers des passoires énergétiques, report de l’audit énergétique

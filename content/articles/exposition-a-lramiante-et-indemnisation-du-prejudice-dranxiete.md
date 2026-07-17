@@ -2,6 +2,7 @@
 slug: exposition-a-lramiante-et-indemnisation-du-prejudice-dranxiete
 titre: Exposition à l'amiante et indemnisation du préjudice d'anxiété
 date: '2019-05-15'
+categorie: "Amiante"
 metaTitle: >-
   Amiante : indemnisation du préjudice d'anxiété
 metaDescription: >-

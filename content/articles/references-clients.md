@@ -2,6 +2,7 @@
 slug: references-clients
 titre: Nos références clients
 date: '2017-01-01'
+categorie: "Profession & marché"
 metaTitle: Nos références clients en diagnostic immobilier
 metaDescription: >-
   Collectivités, bailleurs, promoteurs, notaires, entreprises : découvrez les

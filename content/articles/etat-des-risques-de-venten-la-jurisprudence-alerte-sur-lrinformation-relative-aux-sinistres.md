@@ -3,6 +3,7 @@ slug: >-
   etat-des-risques-de-venten-la-jurisprudence-alerte-sur-lrinformation-relative-aux-sinistres
 titre: "État des risques de vente\_: la jurisprudence alerte sur l'information relative aux sinistres"
 date: '2023-11-27'
+categorie: "Risques naturels"
 metaTitle: "État des risques\_: la jurisprudence sur les sinistres"
 metaDescription: >-
   Une décision de cour d'appel rappelle qu'omettre un sinistre indemnisé dans

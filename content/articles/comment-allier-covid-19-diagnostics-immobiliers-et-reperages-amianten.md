@@ -2,6 +2,7 @@
 slug: comment-allier-covid-19-diagnostics-immobiliers-et-reperages-amianten
 titre: "Comment allier covid-19 diagnostics immobiliers et repérages amiante\_?"
 date: '2020-04-14'
+categorie: "Amiante"
 metaTitle: "Covid-19 : diagnostic immobilier et repérage amiante à Tours"
 metaDescription: "Découvrez le guide de préconisations sanitaires publié en 2020 pour concilier Covid-19, diagnostics immobiliers et repérages amiante en toute sécurité."
 anciennesUrls:

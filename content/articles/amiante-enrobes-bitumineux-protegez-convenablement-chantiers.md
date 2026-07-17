@@ -2,6 +2,7 @@
 slug: amiante-enrobes-bitumineux-protegez-convenablement-chantiers
 titre: 'Amiante dans les enrobés bitumineux : protégez convenablement vos chantiers !'
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: "Amiante dans les enrobés bitumineux : protégez vos chantiers"
 metaDescription: "Amiante et HAP dans les enrobés bitumineux : repérage obligatoire avant travaux, carottages et analyse en laboratoire COFRAC pour sécuriser le chantier."
 anciennesUrls:

@@ -3,6 +3,7 @@ slug: >-
   dpen-une-nouvelle-reforme-pour-mieux-proteger-les-proprietaires-et-les-rapports
 titre: "DPE\_: une nouvelle réforme pour mieux protéger les propriétaires et les rapports"
 date: '2025-06-30'
+categorie: "DPE & énergie"
 metaTitle: "DPE\_: une réforme pour mieux protéger propriétaires et rapports"
 metaDescription: >-
   L'arrêté DPE du 16 juin 2025 renforce la sécurité des transactions : QR

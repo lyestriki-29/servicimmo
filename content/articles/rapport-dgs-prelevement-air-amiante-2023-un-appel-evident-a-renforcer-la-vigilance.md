@@ -5,6 +5,7 @@ titre: >-
   Rapport DGS prélèvement air amiante 2023 : un appel évident à renforcer la
   vigilance
 date: '2025-02-26'
+categorie: "Amiante"
 metaTitle: "Rapport DGS 2023 sur l'air amiante : la vigilance s'impose"
 metaDescription: Le rapport annuel de la DGS sur les mesures d'air amiante en 2023 révèle une hausse des dépassements de seuil. Décryptage des chiffres et des enjeux.
 anciennesUrls:

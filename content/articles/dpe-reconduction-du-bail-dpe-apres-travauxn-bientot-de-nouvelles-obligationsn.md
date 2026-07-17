@@ -2,6 +2,7 @@
 slug: dpe-reconduction-du-bail-dpe-apres-travauxn-bientot-de-nouvelles-obligationsn
 titre: "DPE reconduction du bail, DPE après travaux : de nouvelles obligations en vue"
 date: '2026-03-27'
+categorie: "DPE & énergie"
 metaTitle: "DPE reconduction de bail et après travaux : ce qui change"
 metaDescription: "Un projet de loi prévoit d'imposer un DPE lors de la reconduction de bail et après une rénovation importante : ce que prévoit ce texte en discussion."
 anciennesUrls:

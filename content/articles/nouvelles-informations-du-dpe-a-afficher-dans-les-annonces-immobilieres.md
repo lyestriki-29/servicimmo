@@ -2,6 +2,7 @@
 slug: nouvelles-informations-du-dpe-a-afficher-dans-les-annonces-immobilieres
 titre: Nouvelles informations du DPE à afficher dans les annonces immobilières
 date: '2022-02-09'
+categorie: "DPE & énergie"
 metaTitle: Nouvelles obligations d'affichage du DPE dans les annonces
 metaDescription: Depuis 2022, les annonces immobilières doivent afficher classe énergie, dépenses théoriques et mention passoire thermique. Le point sur ces obligations.
 anciennesUrls:

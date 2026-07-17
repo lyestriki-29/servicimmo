@@ -5,6 +5,7 @@ titre: >-
   RAT : dans un document de prévention au risque amiante, l'INRS rappelle
   cette expertise
 date: '2022-06-01'
+categorie: "Amiante"
 metaTitle: "RAT amiante : ce que rappelle le dépliant de l'INRS"
 metaDescription: >-
   Le dépliant de prévention amiante de l'INRS rappelle l'obligation du RAT

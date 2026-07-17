@@ -5,6 +5,7 @@ titre: >-
   Obligation d'amélioration de la performance énergétique des bâtiments
   tertiaires
 date: '2017-06-06'
+categorie: "DPE & énergie"
 metaTitle: "Performance énergétique des bâtiments tertiaires : l'obligation"
 metaDescription: >-
   Bâtiments tertiaires de plus de 2000 m² : découvrez le champ d'application

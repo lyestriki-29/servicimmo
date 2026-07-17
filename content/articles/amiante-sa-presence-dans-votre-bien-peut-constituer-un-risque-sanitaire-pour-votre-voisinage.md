@@ -5,6 +5,7 @@ titre: >-
   Amiante : sa présence dans votre bien peut constituer un risque sanitaire pour
   votre voisinage
 date: '2023-03-30'
+categorie: "Amiante"
 metaTitle: "Amiante\_: un risque sanitaire pour le voisinage"
 metaDescription: "Une pollution amiante non traitée après un sinistre peut engager votre responsabilité envers vos voisins, comme le montre une décision de justice récente."
 anciennesUrls:

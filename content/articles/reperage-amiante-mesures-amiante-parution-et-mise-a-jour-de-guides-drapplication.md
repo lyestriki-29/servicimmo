@@ -5,6 +5,7 @@ titre: >-
   Repérage amiante, mesures amiante : parution et mise à jour de guides
   d'application
 date: '2023-08-28'
+categorie: "Amiante"
 metaTitle: >-
   Amiante : nouveaux guides pour le repérage et les mesures
 metaDescription: >-

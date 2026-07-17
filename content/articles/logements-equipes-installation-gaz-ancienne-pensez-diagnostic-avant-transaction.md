@@ -5,6 +5,7 @@ titre: >-
   Logements équipés d’une installation de gaz ancienne : pensez à votre
   diagnostic avant transaction
 date: '2017-01-01'
+categorie: "Électricité & gaz"
 metaTitle: "Diagnostic gaz : obligatoire avant vente ou location"
 metaDescription: >-
   Installation de gaz de plus de 15 ans : ce diagnostic obligatoire protège

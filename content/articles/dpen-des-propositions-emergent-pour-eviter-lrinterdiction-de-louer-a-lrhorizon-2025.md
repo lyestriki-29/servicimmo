@@ -3,6 +3,7 @@ slug: >-
   dpen-des-propositions-emergent-pour-eviter-lrinterdiction-de-louer-a-lrhorizon-2025
 titre: "DPE\_: des propositions émergent pour éviter l'interdiction de louer à l'horizon 2025"
 date: '2023-12-30'
+categorie: "DPE & énergie"
 metaTitle: "DPE\_: des pistes pour éviter l'interdiction de louer 2025"
 metaDescription: >-
   En 2023, plusieurs pistes émergeaient pour assouplir le DPE avant

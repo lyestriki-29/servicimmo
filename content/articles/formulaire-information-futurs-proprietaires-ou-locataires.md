@@ -2,6 +2,7 @@
 slug: formulaire-information-futurs-proprietaires-ou-locataires
 titre: Un formulaire d’information pour les futurs propriétaires ou locataires
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: 'L’ERNMT, un formulaire d’information essentiel'
 metaDescription: 'Comprenez le rôle de l’État des risques naturels, miniers et technologiques (ERNMT) pour informer futurs propriétaires et locataires.'
 anciennesUrls:

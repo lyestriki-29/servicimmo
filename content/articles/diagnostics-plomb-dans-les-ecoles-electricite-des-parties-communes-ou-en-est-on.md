@@ -5,6 +5,7 @@ titre: >-
   Diagnostics plomb dans les écoles, électricité des parties communes : où en
   est-on ?
 date: '2024-11-29'
+categorie: "Plomb"
 metaTitle: >-
   Diagnostic plomb dans les écoles, électricité parties communes
 metaDescription: >-

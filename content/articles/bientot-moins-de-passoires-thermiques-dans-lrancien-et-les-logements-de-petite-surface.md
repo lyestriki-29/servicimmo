@@ -5,6 +5,7 @@ titre: >-
   Bientôt moins de passoires thermiques dans l’ancien et les logements de petite
   surface ?
 date: '2023-07-25'
+categorie: "DPE & énergie"
 metaTitle: >-
   DPE : vers moins de passoires thermiques dans l’ancien ?
 metaDescription: >-

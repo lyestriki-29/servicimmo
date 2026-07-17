@@ -2,6 +2,7 @@
 slug: projet-de-loi-energie-climat-et-performance-energetique-des-logements
 titre: "Projet de loi Énergie climat et performance énergétique des logements"
 date: '2019-07-15'
+categorie: "DPE & énergie"
 metaTitle: "Projet de loi Énergie climat et DPE des logements"
 metaDescription: "L'Assemblée nationale a adopté le projet de loi Énergie climat : audit énergétique et travaux de rénovation pour les logements classés F ou G au DPE."
 anciennesUrls:

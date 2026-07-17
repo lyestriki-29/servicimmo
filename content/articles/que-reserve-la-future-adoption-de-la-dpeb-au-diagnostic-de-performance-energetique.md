@@ -2,6 +2,7 @@
 slug: que-reserve-la-future-adoption-de-la-dpeb-au-diagnostic-de-performance-energetique
 titre: "Que réserve la future adoption de la DPEB au diagnostic de performance énergétique ?"
 date: '2022-04-28'
+categorie: "DPE & énergie"
 metaTitle: "DPEB européenne : quel avenir pour le DPE ?"
 metaDescription: "Le projet européen de refonte de la DPEB pourrait réviser les classes du DPE, élargir son champ d'application et raccourcir sa durée de validité en France."
 anciennesUrls:

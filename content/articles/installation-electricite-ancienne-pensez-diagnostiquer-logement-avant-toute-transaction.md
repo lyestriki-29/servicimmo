@@ -5,6 +5,7 @@ titre: >-
   Installation d’électricité ancienne : pensez à diagnostiquer votre logement
   avant toute transaction
 date: '2017-01-01'
+categorie: "Électricité & gaz"
 metaTitle: 'Installation électrique ancienne : le diagnostic obligatoire'
 metaDescription: >-
   Logement de plus de 15 ans : découvrez pourquoi le diagnostic électrique est

@@ -3,6 +3,7 @@ slug: >-
   dpe-et-decence-lrenergie-finale-consommee-par-metre-carre-par-an-bientot-sur-le-rapportn
 titre: "DPE et décence : l’énergie finale consommée par mètre carré par an bientôt sur le rapport\_?"
 date: '2022-11-25'
+categorie: "DPE & énergie"
 metaTitle: "DPE et décence : l’énergie finale par m² bientôt sur le rapport\_?"
 metaDescription: "Dès le 1er janvier 2023, la décence énergétique se juge sur l’énergie finale consommée par m² et par an, une donnée bientôt affichée en page 1 du DPE."
 anciennesUrls:

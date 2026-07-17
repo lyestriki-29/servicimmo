@@ -5,6 +5,7 @@ titre: >-
   Repérage amiante avant travaux : l'arrêté relatif au RAT sur enrobés routiers
   est paru
 date: '2024-07-31'
+categorie: "Amiante"
 metaTitle: >-
   RAT amiante enrobés routiers : le nouvel arrêté est paru
 metaDescription: >-

@@ -3,6 +3,7 @@ slug: >-
   diagnostic-termitesn-un-diagnostiqueur-consciencieux-et-des-acheteurs-negligents
 titre: "Diagnostic termites : un diagnostiqueur consciencieux et des acheteurs négligents"
 date: '2023-10-28'
+categorie: "Termites"
 metaTitle: "Diagnostic termites : la responsabilité du diagnostiqueur écartée"
 metaDescription: "Une cour d'appel confirme la rigueur d'un diagnostic termites : le diagnostiqueur avait bien signalé la présence d'insectes xylophages aux acheteurs."
 anciennesUrls:

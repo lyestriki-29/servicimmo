@@ -4,6 +4,7 @@ titre: >-
   Location de logements G : le DPE collectif pourrait prévaloir sur le DPE
   individuel
 date: '2025-04-30'
+categorie: "DPE & énergie"
 metaTitle: "DPE collectif vs DPE individuel : quelles règles ?"
 metaDescription: "Une proposition de loi envisage de faire prévaloir le DPE collectif sur le DPE individuel pour la location. Décryptage des mesures à l'étude en 2025."
 anciennesUrls:

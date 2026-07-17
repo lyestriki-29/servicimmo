@@ -2,6 +2,7 @@
 slug: chantiers-en-presence-dramianten-nouvelles-publications
 titre: "Chantiers en présence d’amiante\_: nouvelles publications"
 date: '2020-10-19'
+categorie: "Amiante"
 metaTitle: "Chantiers en présence d’amiante\_: nouvelles publications"
 metaDescription: "Le Ministère du Travail et l’Assurance Maladie publient de nouveaux guides sur les obligations de repérage amiante avant travaux de démolition."
 anciennesUrls:

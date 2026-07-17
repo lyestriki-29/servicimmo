@@ -4,6 +4,7 @@ titre: >-
   Vente de lots de copropriété : assurez-vous de détenir un certificat de
   métrage de la surface privative
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: "Vente en copropriété : le certificat de métrage Carrez"
 metaDescription: >-
   Vente d'un lot de copropriété : découvrez pourquoi le certificat de métrage

@@ -2,6 +2,7 @@
 slug: nouvel-arrete-relatif-a-lretat-des-risques-avant-location-ou-vente
 titre: Nouvel arrêté relatif à l'état des risques avant location ou vente
 date: '2021-07-16'
+categorie: "Risques naturels"
 metaTitle: 'Nouvel arrêté sur l''état des risques avant vente ou location'
 metaDescription: 'Un nouvel arrêté fait évoluer l''état des risques avant location ou vente : quels supports sont désormais acceptés et quelles obligations pour les propriétaires ?'
 anciennesUrls:

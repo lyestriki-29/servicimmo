@@ -5,6 +5,7 @@ titre: >-
   Performance énergétique : une information obligatoire pour vendre ou louer un
   bien immobilier
 date: '2017-01-01'
+categorie: "DPE & énergie"
 metaTitle: >-
   DPE : une obligation pour vendre ou louer un bien
 metaDescription: >-

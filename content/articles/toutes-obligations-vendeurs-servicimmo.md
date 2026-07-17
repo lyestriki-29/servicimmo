@@ -2,6 +2,7 @@
 slug: toutes-obligations-vendeurs-servicimmo
 titre: Toutes les obligations des vendeurs avec Servicimmo
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: "Obligations des vendeurs : les diagnostics à connaître"
 metaDescription: "Vente immobilière : découvrez la liste des diagnostics obligatoires à fournir selon l'âge et la situation de votre logement."
 anciennesUrls:

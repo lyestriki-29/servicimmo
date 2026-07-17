@@ -5,6 +5,7 @@ titre: >-
   Amiante : publication par l’INRS de la révision de la fiche toxicologique
   amiante
 date: '2025-05-30'
+categorie: "Amiante"
 metaTitle: >-
   Amiante : révision de la fiche toxicologique INRS n°145
 metaDescription: >-

@@ -2,6 +2,7 @@
 slug: le-dpe-va-t-il-etre-opposable
 titre: Le DPE va-t-il devenir opposable ?
 date: '2018-09-25'
+categorie: "DPE & énergie"
 metaTitle: Le DPE va-t-il devenir opposable ?
 metaDescription: En 2018, le Sénat repoussait l'opposabilité du DPE prévue par la loi Élan. Retour sur les enjeux de fiabilité qui freinaient cette réforme attendue.
 anciennesUrls:

@@ -2,6 +2,7 @@
 slug: loi-climatn-calendrier-des-obligations-des-proprietaires-de-logements
 titre: "Loi Climat : calendrier des obligations des propriétaires de logements"
 date: '2021-08-03'
+categorie: "DPE & énergie"
 metaTitle: "Loi Climat : calendrier des obligations des propriétaires"
 metaDescription: "Passoires thermiques, audit énergétique, plan pluriannuel de travaux : retrouvez le calendrier complet des obligations issues de la loi Climat et Résilience."
 anciennesUrls:

@@ -2,6 +2,7 @@
 slug: le-nouveau-diagnostic-de-performance-energetique-dpe
 titre: Le nouveau diagnostic de performance énergétique (DPE) 2021
 date: '2021-03-25'
+categorie: "DPE & énergie"
 metaTitle: "Nouveau DPE 2021 : la réforme expliquée"
 metaDescription: "Découvrez la réforme du DPE entrée en vigueur en juillet 2021 : nouvelle méthode de calcul, étiquette énergie-climat et opposabilité juridique."
 anciennesUrls:

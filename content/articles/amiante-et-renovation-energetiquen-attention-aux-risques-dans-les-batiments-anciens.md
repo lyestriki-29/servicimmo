@@ -3,6 +3,7 @@ slug: >-
   amiante-et-renovation-energetiquen-attention-aux-risques-dans-les-batiments-anciens
 titre: "Amiante et rénovation énergétique\_: attention aux risques dans les bâtiments anciens"
 date: '2026-01-29'
+categorie: "Amiante"
 metaTitle: >-
   Amiante et rénovation énergétique : les risques à connaître
 metaDescription: >-

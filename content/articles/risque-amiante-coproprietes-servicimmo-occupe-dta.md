@@ -2,6 +2,7 @@
 slug: risque-amiante-coproprietes-servicimmo-occupe-dta
 titre: "Risque amiante dans les copropriétés : SERVICIMMO s'occupe de votre DTA"
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: >-
   Risque amiante en copropriété : SERVICIMMO gère votre DTA
 metaDescription: >-

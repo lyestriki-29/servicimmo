@@ -2,6 +2,7 @@
 slug: construction-attestation-rt-2012-obligatoire
 titre: 'Construction : l’attestation RT 2012 est obligatoire !'
 date: '2017-01-01'
+categorie: "DPE & énergie"
 metaTitle: 'Attestation RT 2012 obligatoire pour votre construction'
 metaDescription: 'Vous construisez et devez déposer votre DAACT ? Découvrez pourquoi l’attestation de conformité RT 2012 est obligatoire et comment SERVICIMMO vous accompagne.'
 anciennesUrls:

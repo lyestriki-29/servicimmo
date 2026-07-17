@@ -2,6 +2,7 @@
 slug: la-loi-elan-et-diagnostics-location
 titre: "Loi ÉLAN : quels changements pour les diagnostics location ?"
 date: '2018-11-21'
+categorie: "Location & vente"
 metaTitle: "Loi ÉLAN : ce qui change pour les diagnostics location"
 metaDescription: "Encadrement des loyers, locations saisonnières, punaises de lit : découvrez ce que la loi ÉLAN change pour les diagnostics avant une location à Tours."
 anciennesUrls:

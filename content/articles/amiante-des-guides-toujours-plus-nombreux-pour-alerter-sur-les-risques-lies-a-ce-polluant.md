@@ -5,6 +5,7 @@ titre: >-
   Amiante : des guides toujours plus nombreux pour alerter sur les risques
   liés à ce polluant
 date: '2022-09-14'
+categorie: "Amiante"
 metaTitle: >-
   Amiante : de nouveaux guides pour alerter sur les risques
 metaDescription: >-

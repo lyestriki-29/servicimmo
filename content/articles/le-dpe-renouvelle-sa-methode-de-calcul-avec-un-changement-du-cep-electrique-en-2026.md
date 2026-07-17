@@ -5,6 +5,7 @@ titre: >-
   Le DPE renouvelle sa méthode de calcul avec un changement du CEP électrique en
   2026
 date: '2025-07-22'
+categorie: "DPE & énergie"
 metaTitle: 'DPE 2026 : nouvelle méthode de calcul du CEP électrique'
 metaDescription: >-
   Dès le 1er janvier 2026, le DPE change de méthode de calcul avec un nouveau

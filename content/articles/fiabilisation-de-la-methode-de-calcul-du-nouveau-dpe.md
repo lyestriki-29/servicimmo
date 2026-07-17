@@ -2,6 +2,7 @@
 slug: fiabilisation-de-la-methode-de-calcul-du-nouveau-dpe
 titre: Fiabilisation de la méthode de calcul du nouveau DPE
 date: '2021-10-12'
+categorie: "DPE & énergie"
 metaTitle: Fiabilisation de la méthode de calcul du nouveau DPE
 metaDescription: Le nouveau DPE 2021 a été corrigé après avoir surestimé les passoires thermiques dans l'ancien bâti. Retour sur cette révision de la méthode 3CL.
 anciennesUrls:

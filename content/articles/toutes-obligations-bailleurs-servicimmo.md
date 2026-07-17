@@ -2,6 +2,7 @@
 slug: toutes-obligations-bailleurs-servicimmo
 titre: Toutes les obligations des bailleurs avec SERVICIMMO
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: Toutes les obligations des bailleurs en diagnostics
 metaDescription: >-
   Diagnostic plomb, DPE, gaz, électricité, état des risques, surface

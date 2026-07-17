@@ -5,6 +5,7 @@ titre: >-
   Repérage amiante avant travaux : ce que la polémique sur l'indépendance
   change pour les propriétaires et copropriétaires
 date: '2026-05-27'
+categorie: "Amiante"
 metaTitle: "RAT amiante : la polémique sur l'indépendance des opérateurs"
 metaDescription: >-
   Un débat agite le repérage amiante avant travaux (RAT) sur l'indépendance

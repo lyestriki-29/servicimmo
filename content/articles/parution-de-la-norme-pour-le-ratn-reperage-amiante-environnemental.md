@@ -2,6 +2,7 @@
 slug: parution-de-la-norme-pour-le-ratn-reperage-amiante-environnemental
 titre: "Parution de la norme pour le RAT : repérage amiante environnemental"
 date: '2021-12-14'
+categorie: "Amiante"
 metaTitle: "Norme NF P94-001 : le repérage amiante environnemental"
 metaDescription: La norme NF P94-001 encadre le repérage amiante avant travaux dans les sols et roches en place. Comment se déroule ce repérage environnemental ?
 anciennesUrls:

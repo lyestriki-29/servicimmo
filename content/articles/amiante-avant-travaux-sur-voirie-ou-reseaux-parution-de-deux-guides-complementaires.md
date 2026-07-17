@@ -5,6 +5,7 @@ titre: >-
   Amiante avant travaux sur voirie ou réseaux : parution de deux guides
   complémentaires
 date: '2026-04-27'
+categorie: "Amiante"
 metaTitle: >-
   Amiante avant travaux sur voirie : deux nouveaux guides CEREMA
 metaDescription: >-

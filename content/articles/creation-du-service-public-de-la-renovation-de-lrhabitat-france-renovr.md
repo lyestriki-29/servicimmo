@@ -2,6 +2,7 @@
 slug: creation-du-service-public-de-la-renovation-de-lrhabitat-france-renovr
 titre: Création du service public de la rénovation de l’habitat France Rénov’
 date: '2021-11-12'
+categorie: "DPE & énergie"
 metaTitle: "France Rénov’ : le nouveau service public de la rénovation"
 metaDescription: Dès le 1er janvier 2022, France Rénov’ devient le guichet unique gratuit pour informer et accompagner les ménages dans leurs travaux de rénovation énergétique.
 anciennesUrls:

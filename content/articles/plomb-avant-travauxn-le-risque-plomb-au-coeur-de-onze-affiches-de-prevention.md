@@ -2,6 +2,7 @@
 slug: plomb-avant-travauxn-le-risque-plomb-au-coeur-de-onze-affiches-de-prevention
 titre: "Plomb avant travaux : le risque plomb au cœur de onze affiches de prévention"
 date: '2026-02-25'
+categorie: "Plomb"
 metaTitle: >-
   Risque plomb : onze affiches de prévention sur les chantiers
 metaDescription: >-

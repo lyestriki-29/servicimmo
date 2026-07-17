@@ -2,6 +2,7 @@
 slug: lancement-de-lraide-a-la-renovation-energetique-maprimerenov
 titre: Lancement de l'aide à la rénovation énergétique MaPrimeRénov
 date: '2020-01-21'
+categorie: "DPE & énergie"
 metaTitle: "MaPrimeRénov : le lancement de la nouvelle aide"
 metaDescription: MaPrimeRénov remplace le CITE pour financer vos travaux de rénovation énergétique. Découvrez son fonctionnement, ses avantages et les bénéficiaires 2020.
 anciennesUrls:

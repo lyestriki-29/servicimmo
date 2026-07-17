@@ -2,6 +2,7 @@
 slug: locations-energivores-en-copropriete-un-sursis-pour-leurs-proprietaires
 titre: 'Locations énergivores en copropriété : un sursis pour leurs propriétaires ?'
 date: '2024-10-22'
+categorie: "DPE & énergie"
 metaTitle: 'Copropriété énergivore : quel sursis pour les bailleurs ?'
 metaDescription: 'Interdiction de location des logements classe G en copropriété : le gouvernement envisage d''assouplir le calendrier. Explications.'
 anciennesUrls:

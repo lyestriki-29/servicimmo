@@ -2,6 +2,7 @@
 slug: nouvelle-reglementation-thermique-attestations-re2020
 titre: "Nouvelle réglementation thermique : les attestations RE2020"
 date: '2022-01-26'
+categorie: "DPE & énergie"
 metaTitle: "RE2020 : les attestations de performance énergétique"
 metaDescription: "La RE2020 remplace la RT2012 depuis le 1er janvier 2022 : textes réglementaires et attestations à fournir au permis de construire et à l'achèvement des travaux."
 anciennesUrls:

@@ -2,6 +2,7 @@
 slug: location-logements-vides-assurez-connaitre-surface-habitable
 titre: 'Location de logements vides : assurez-vous de connaitre sa surface habitable !'
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: 'Location vide : connaître sa surface habitable'
 metaDescription: 'Loi Boutin, calcul de la surface habitable, écart de 5% : ce qu''un bailleur doit savoir avant de louer un logement non meublé.'
 anciennesUrls:

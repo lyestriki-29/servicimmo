@@ -2,6 +2,7 @@
 slug: report-de-lrentree-en-vigueur-de-la-re-2020-et-de-la-reforme-du-dpe
 titre: Report de l'entrée en vigueur de la RE 2020 et de la réforme du DPE
 date: '2020-05-18'
+categorie: "DPE & énergie"
 metaTitle: >-
   2020 : report du nouveau DPE et de la RE 2020
 metaDescription: >-

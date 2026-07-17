@@ -2,6 +2,7 @@
 slug: loi-climat-et-resiliencen-quels-changements-pour-les-proprietairesn
 titre: "Loi Climat et Résilience : quels changements pour les propriétaires ?"
 date: '2021-05-14'
+categorie: "DPE & énergie"
 metaTitle: "Loi Climat et Résilience : ce qui change pour les propriétaires"
 metaDescription: "Passoires thermiques, audit énergétique, DPE collectif : découvrez le calendrier des obligations issues de la loi Climat et Résilience pour les propriétaires."
 anciennesUrls:

@@ -3,6 +3,7 @@ slug: >-
   simulateur-dpe-2026-gratuitn-verifiez-des-maintenant-si-la-classe-de-votre-bien-evolue
 titre: "Simulateur DPE 2026 gratuit : vérifiez dès maintenant si la classe de votre bien évolue"
 date: '2025-10-23'
+categorie: "DPE & énergie"
 metaTitle: "Simulateur DPE 2026 : vérifiez si la classe évolue"
 metaDescription: "Le facteur de conversion de l'électricité change en 2026 : certains DPE voient leur étiquette s'améliorer sans travaux. Testez le simulateur gratuit de l'ADEME avec Servicimmo."
 anciennesUrls:

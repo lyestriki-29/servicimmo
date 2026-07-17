@@ -2,6 +2,7 @@
 slug: peut-on-faire-realiser-les-diagnostics-immobiliers-en-confinementn
 titre: "Peut-on faire réaliser les diagnostics immobiliers en confinement ?"
 date: '2020-11-19'
+categorie: "Profession & marché"
 metaTitle: >-
   Diagnostics immobiliers en confinement : c'est possible
 metaDescription: >-

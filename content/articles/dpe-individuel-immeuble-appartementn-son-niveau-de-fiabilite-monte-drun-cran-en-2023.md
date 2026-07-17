@@ -3,6 +3,7 @@ slug: >-
   dpe-individuel-immeuble-appartementn-son-niveau-de-fiabilite-monte-drun-cran-en-2023
 titre: "DPE individuel, immeuble, appartement\_: son niveau de fiabilité monte d’un cran en 2023"
 date: '2023-01-18'
+categorie: "DPE & énergie"
 metaTitle: "DPE individuel, immeuble : la fiabilité progresse en 2023"
 metaDescription: "En 2023, une feuille de route ministérielle renforce la fiabilité du DPE grâce à une meilleure préparation documentaire et des formations renforcées."
 anciennesUrls:

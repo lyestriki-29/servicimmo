@@ -2,6 +2,7 @@
 slug: faut-il-mettre-en-place-une-interdiction-de-louer-un-logement-energivore
 titre: Faut-il mettre en place une interdiction de louer un logement énergivore ?
 date: '2019-03-13'
+categorie: "DPE & énergie"
 metaTitle: Interdire la location des logements énergivores ?
 metaDescription: Un rapport parlementaire envisageait d'interdire la location des passoires énergétiques dès 2020. Retour sur cette proposition et son contexte.
 anciennesUrls:

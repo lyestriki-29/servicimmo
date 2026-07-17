@@ -2,6 +2,7 @@
 slug: quelles-sont-les-aides-a-la-renovation-energetique-en-indre-et-loire-en-2019
 titre: Quelles sont les aides à la rénovation énergétique en Indre-et-Loire en 2019 ?
 date: '2019-02-14'
+categorie: "DPE & énergie"
 metaTitle: Aides à la rénovation énergétique en Indre-et-Loire
 metaDescription: "Panorama 2019 des aides à la rénovation énergétique en Indre-et-Loire : programme Habiter Mieux de l'ANAH, CITE et nouveaux dispositifs annoncés."
 anciennesUrls:

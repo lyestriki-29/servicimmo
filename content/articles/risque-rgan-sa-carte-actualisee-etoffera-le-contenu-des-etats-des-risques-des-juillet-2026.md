@@ -3,6 +3,7 @@ slug: >-
   risque-rgan-sa-carte-actualisee-etoffera-le-contenu-des-etats-des-risques-des-juillet-2026
 titre: "Risque RGA : sa carte actualisée étoffera le contenu des états des risques dès juillet 2026"
 date: '2025-12-23'
+categorie: "Risques naturels"
 metaTitle: "Risque RGA : la carte actualisée dès juillet 2026"
 metaDescription: "La cartographie du risque RGA doit être révisée en juillet 2026 et élargit fortement les zones concernées par l'état des risques. Le point avec Servicimmo, en Indre-et-Loire."
 anciennesUrls:

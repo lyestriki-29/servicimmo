@@ -2,6 +2,7 @@
 slug: publication-de-la-norme-du-reperage-amiante-sur-enrobes-routiers
 titre: "Publication de la norme du repérage amiante sur enrobés routiers"
 date: '2020-12-18'
+categorie: "Amiante"
 metaTitle: "Norme NF X 46-102 : repérage amiante enrobés routiers"
 metaDescription: "La norme NF X 46-102 encadre le repérage amiante sur les enrobés routiers, les ouvrages de génie civil et les infrastructures de transport."
 anciennesUrls:

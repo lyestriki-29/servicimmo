@@ -5,6 +5,7 @@ titre: >-
   État des risques et pollutions : un nouveau regard sur ce formulaire à compter
   de janvier 2023
 date: '2022-10-31'
+categorie: "Risques naturels"
 metaTitle: >-
   État des risques et pollutions (ERP) : ce qui change
 metaDescription: >-

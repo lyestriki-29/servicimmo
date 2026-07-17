@@ -3,6 +3,7 @@ slug: >-
   dpe-location-logement-dpe-vente-tertiaire-bailleurs-vendeurs-que-retenir-en-avril-2023n
 titre: "DPE location logement, DPE vente tertiaire : ce qu'il faut retenir en avril 2023"
 date: '2023-04-26'
+categorie: "DPE & énergie"
 metaTitle: "DPE location et DPE tertiaire : nouveautés d'avril 2023"
 metaDescription: "Reconduction de bail et DPE : ce que rappelle le ministère du Logement, et depuis le 22 avril 2023, un arrêté qui modifie le DPE tertiaire de vente."
 anciennesUrls:

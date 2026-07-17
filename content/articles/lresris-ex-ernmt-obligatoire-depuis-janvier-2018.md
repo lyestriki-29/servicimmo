@@ -2,6 +2,7 @@
 slug: lresris-ex-ernmt-obligatoire-depuis-janvier-2018
 titre: L'ESRIS (ex-ERNMT), obligatoire depuis janvier 2018
 date: '2018-03-16'
+categorie: "Risques naturels"
 metaTitle: L'ESRIS (ex-ERNMT), obligatoire depuis janvier 2018
 metaDescription: Depuis janvier 2018, l'ERNMT a laissé place à l'ESRIS. Découvrez ce que ce nouveau document change pour les ventes et locations immobilières.
 anciennesUrls:

@@ -5,6 +5,7 @@ titre: >-
   Amiante sur enrobés routiers : un fascicule de la DGT pour rappeler les
   obligations
 date: '2025-01-29'
+categorie: "Amiante"
 metaTitle: "Amiante sur enrobés routiers : obligations du donneur d'ordre"
 metaDescription: "L'arrêté du 4 juin 2024 précise les obligations du donneur d'ordre pour le repérage amiante avant travaux sur enrobés routiers et infrastructures anciennes."
 anciennesUrls:

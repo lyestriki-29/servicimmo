@@ -5,6 +5,7 @@ titre: >-
   Diagnostic immobilier : vers des changements importants pour les particuliers
   après les Assises du secteur
 date: '2026-06-23'
+categorie: "Profession & marché"
 metaTitle: >-
   Diagnostic immobilier : ce qui va changer pour les particuliers
 metaDescription: >-

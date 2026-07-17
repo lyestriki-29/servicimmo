@@ -34,10 +34,29 @@ export function contraintesContenuModernise(
   }
 }
 
+/**
+ * Une étape du déroulé d'intervention affiché sur la fiche service.
+ * ⚠️ CONTENU MÉTIER NON VALIDÉ : les jalons et durées actuels sont des
+ * propositions, pas des engagements de Servicimmo. À faire confirmer avant
+ * prod (cf. .planning/BLOCKERS.md) — ce sont des promesses faites au client.
+ */
+export const EtapeDerouleSchema = z.object({
+  /** Jalon relatif : "J0", "J1"… Jamais une date absolue. */
+  temps: z.string().min(1).max(6),
+  titre: z.string().min(1).max(40),
+  detail: z.string().min(1).max(90),
+});
+
 export const ServiceFrontmatterSchema = z
   .object({
     slug,
     titre: z.string().min(1),
+    /**
+     * Fragment du titre mis en couleur d'accent. Doit apparaître TEL QUEL dans
+     * `titre` : la vue découpe la chaîne dessus. Un fragment absent laisserait
+     * le titre sans accent en silence, d'où le refine ci-dessous.
+     */
+    titreAccent: z.string().min(1).optional(),
     ...meta,
     ordre: z.number().int().positive(),
     /** Nom d'icône du mapping components/marketing/pages/icones.ts */
@@ -47,8 +66,19 @@ export const ServiceFrontmatterSchema = z
       .array(z.enum(["vente", "location", "travaux", "demolition"]))
       .default([]),
     dureeValidite: z.string().optional(),
+    /** 3 ou 4 étapes : la grille de la fiche service s'appuie dessus. */
+    deroule: z.array(EtapeDerouleSchema).min(3).max(4).optional(),
   })
-  .superRefine(contraintesContenuModernise);
+  .superRefine(contraintesContenuModernise)
+  .superRefine((data, ctx) => {
+    if (data.titreAccent && !data.titre.includes(data.titreAccent)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        path: ["titreAccent"],
+        message: `titreAccent "${data.titreAccent}" est absent du titre "${data.titre}"`,
+      });
+    }
+  });
 
 export const VilleFrontmatterSchema = z
   .object({
@@ -61,6 +91,26 @@ export const VilleFrontmatterSchema = z
   })
   .superRefine(contraintesContenuModernise);
 
+/**
+ * Taxonomie des actualités, sur l'axe DIAGNOSTIC (celui des services), et non
+ * sur la situation (vente/location) : les deux axes se chevauchaient sur la
+ * moitié du corpus. Un article « DPE en location » parle du DPE.
+ * Liste FERMÉE : elle alimente le filtre de /actualites, donc une valeur libre
+ * y créerait une rubrique fantôme. Ordre = ordre d'affichage du filtre.
+ */
+export const CATEGORIES_ARTICLE = [
+  "DPE & énergie",
+  "Amiante",
+  "Location & vente",
+  "Risques naturels",
+  "Électricité & gaz",
+  "Profession & marché",
+  "Plomb",
+  "Termites",
+] as const;
+
+export type CategorieArticle = (typeof CATEGORIES_ARTICLE)[number];
+
 export const ArticleFrontmatterSchema = z
   .object({
     slug,
@@ -69,7 +119,7 @@ export const ArticleFrontmatterSchema = z
     date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
     ...meta,
     extrait: z.string().min(10).max(200),
-    categorie: z.string().optional(),
+    categorie: z.enum(CATEGORIES_ARTICLE),
     archive: z.boolean().default(false),
     /** Une phrase affichée dans l'encadré archive, si archive: true. */
     archiveNote: z.string().optional(),

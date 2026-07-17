@@ -4,6 +4,7 @@ titre: >-
   Mesures d'empoussièrement : un contrôle de la qualité de l'air indispensable
   en présence d'amiante
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: "Mesure d'empoussièrement amiante : le contrôle de l'air"
 metaDescription: >-
   Découvrez quand et pourquoi réaliser une mesure d'empoussièrement en

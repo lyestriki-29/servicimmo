@@ -2,6 +2,7 @@
 slug: le-dpe-des-logements-prend-de-lrimportance-pour-les-acquereurs
 titre: Le DPE des logements prend de l’importance pour les acquéreurs
 date: '2021-06-14'
+categorie: "DPE & énergie"
 metaTitle: Le DPE des logements prend de l’importance pour les acquéreurs
 metaDescription: Une étude OpinionWay pour SeLoger révèle que le DPE pèse de plus en plus lourd dans la décision des acquéreurs immobiliers. Découvrez les chiffres clés.
 anciennesUrls:

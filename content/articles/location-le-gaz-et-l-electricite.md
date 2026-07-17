@@ -2,6 +2,7 @@
 slug: location-le-gaz-et-l-electricite
 titre: 'LOCATION : Le Gaz et l''Electricité'
 date: '2017-12-27'
+categorie: "Électricité & gaz"
 metaTitle: 'Location : diagnostics gaz et électricité obligatoires'
 metaDescription: 'Depuis le 1er janvier 2018, les diagnostics gaz et électricité intègrent le DDT en location. Validité, équivalences : ce qu''il faut savoir.'
 anciennesUrls:

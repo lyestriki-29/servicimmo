@@ -2,6 +2,7 @@
 slug: mesure-drempoussierement-amianten-une-methode-qui-fait-appel-a-lrintelligence-artificielle
 titre: "Mesure d'empoussièrement amiante : l'IA entre en jeu"
 date: '2022-03-25'
+categorie: "Amiante"
 metaTitle: "Mesure d'empoussièrement amiante : l'IA entre en jeu"
 metaDescription: L'intelligence artificielle s'invite dans les mesures d'empoussièrement amiante. Découvrez cette nouvelle méthode et ses bénéfices concrets.
 anciennesUrls:

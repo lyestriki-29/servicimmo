@@ -2,6 +2,7 @@
 slug: projets-urbains-en-2019-a-tours-renovation-de-8-sites
 titre: "Projets urbains en 2019 à Tours : rénovation de 8 sites"
 date: '2019-01-14'
+categorie: "Profession & marché"
 metaTitle: "Projets urbains 2019 à Tours : rénovation de 8 sites"
 metaDescription: "La ville de Tours a lancé un appel à projets urbains innovants pour rénover 8 sites : logements sociaux, transition écologique et programmes mixtes."
 anciennesUrls:

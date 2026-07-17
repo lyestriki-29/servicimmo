@@ -2,6 +2,7 @@
 slug: nouvel-arrete-reperage-amiante-avant-travaux-en-milieu-industriel
 titre: 'Nouvel arrêté : repérage amiante avant travaux en milieu industriel'
 date: '2021-09-17'
+categorie: "Amiante"
 metaTitle: 'Arrêté repérage amiante avant travaux industriels'
 metaDescription: 'Un arrêté encadre le repérage amiante avant travaux dans les installations industrielles, selon la norme NF X46-100. Détails des obligations à connaître.'
 anciennesUrls:

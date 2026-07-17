@@ -2,6 +2,7 @@
 slug: fin-chantier-desamiantage-pensez-au-constat-visuel-apres-travaux
 titre: 'Fin de chantier de désamiantage : pensez au constat visuel après travaux'
 date: '2017-01-01'
+categorie: "Amiante"
 metaTitle: 'Désamiantage : le constat visuel après travaux'
 metaDescription: 'Fin de chantier de désamiantage : comprenez le rôle du constat visuel après travaux, une étape obligatoire avant la restitution des locaux.'
 anciennesUrls:

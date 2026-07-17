@@ -2,6 +2,7 @@
 slug: le-point-sur-la-reforme-du-dpe-bientot-opposable
 titre: Le point sur la réforme du DPE bientôt opposable
 date: '2019-12-12'
+categorie: "DPE & énergie"
 metaTitle: "Réforme du DPE : vers un diagnostic opposable"
 metaDescription: "Point d'étape 2019 sur la réforme du DPE : fiabilisation du diagnostic, nouvelle méthode de calcul et opposabilité juridique attendue en janvier 2021."
 anciennesUrls:

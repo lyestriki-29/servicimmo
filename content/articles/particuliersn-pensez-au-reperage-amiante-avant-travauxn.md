@@ -2,6 +2,7 @@
 slug: particuliersn-pensez-au-reperage-amiante-avant-travauxn
 titre: "Particuliers : pensez au repérage amiante avant travaux !"
 date: '2019-08-12'
+categorie: "Amiante"
 metaTitle: "Particuliers : pensez au repérage amiante avant travaux"
 metaDescription: Depuis 2019, les particuliers doivent aussi faire réaliser un repérage amiante avant travaux. Amende jusqu'à 18 000 € en cas de manquement.
 anciennesUrls:

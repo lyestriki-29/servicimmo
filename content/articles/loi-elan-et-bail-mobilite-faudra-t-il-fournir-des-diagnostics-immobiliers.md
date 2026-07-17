@@ -2,6 +2,7 @@
 slug: loi-elan-et-bail-mobilite-faudra-t-il-fournir-des-diagnostics-immobiliers
 titre: 'Loi Elan et bail mobilité : faudra-t-il fournir des diagnostics immobiliers ?'
 date: '2018-06-18'
+categorie: "Location & vente"
 metaTitle: "Loi Elan et bail mobilité : quels diagnostics fournir ?"
 metaDescription: "Le bail mobilité, instauré par la loi Elan, n'exonère pas les bailleurs des diagnostics immobiliers obligatoires. Servicimmo fait le point."
 anciennesUrls:

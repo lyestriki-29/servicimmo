@@ -2,6 +2,7 @@
 slug: juin-2020-information-sur-le-plan-drexposition-au-bruit-dans-le-ddt
 titre: 'Juin 2020 : information sur le plan d’exposition au bruit dans le DDT'
 date: '2020-06-05'
+categorie: "Risques naturels"
 metaTitle: 'Plan d’exposition au bruit : nouveauté dans le DDT'
 metaDescription: 'Depuis juin 2020, le plan d’exposition au bruit intègre le DDT. Découvrez les biens concernés et ce que cela change pour vendeurs et bailleurs.'
 anciennesUrls:

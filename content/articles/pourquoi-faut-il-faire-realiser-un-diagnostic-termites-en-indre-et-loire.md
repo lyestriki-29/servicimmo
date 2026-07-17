@@ -2,6 +2,7 @@
 slug: pourquoi-faut-il-faire-realiser-un-diagnostic-termites-en-indre-et-loire
 titre: Pourquoi faut-il faire réaliser un diagnostic termites en Indre-et-Loire ?
 date: '2018-04-17'
+categorie: "Termites"
 metaTitle: >-
   Diagnostic termites en Indre-et-Loire : est-il obligatoire ?
 metaDescription: >-

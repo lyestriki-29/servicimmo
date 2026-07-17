@@ -73,6 +73,7 @@ describe("schemas de contenu", () => {
         "Le point complet sur les évolutions du DPE en 2026 : audit énergétique, interdictions de location, calendrier et obligations.",
       anciennesUrls: ["/dpe-2026-i42.html"],
       extrait: "Le point sur le DPE 2026.",
+      categorie: "DPE & énergie",
     });
     expect(a.archive).toBe(false);
     expect(a.brut).toBe(false);
@@ -88,6 +89,41 @@ describe("schemas de contenu", () => {
         metaDescription: "d".repeat(120),
         anciennesUrls: [],
         extrait: "x",
+        categorie: "Amiante",
+      }),
+    ).toThrow();
+  });
+
+  /**
+   * Le filtre de /actualites se construit sur ces valeurs : une categorie libre
+   * y ouvrirait une rubrique fantôme, et une faute de frappe passerait inaperçue
+   * jusqu'en prod. La liste fermee fait echouer le BUILD, pas le visiteur.
+   */
+  it("refuse une catégorie hors taxonomie", () => {
+    const base = {
+      slug: "x",
+      titre: "x",
+      date: "2026-01-15",
+      metaTitle: "Un titre correct pour le SEO",
+      metaDescription: "d".repeat(120),
+      anciennesUrls: [],
+      extrait: "Un extrait de test.",
+    };
+    expect(() => ArticleFrontmatterSchema.parse({ ...base, categorie: "Bricolage" })).toThrow();
+    // faute d'accent : proche mais fausse — doit echouer aussi
+    expect(() => ArticleFrontmatterSchema.parse({ ...base, categorie: "DPE & energie" })).toThrow();
+  });
+
+  it("refuse un article sans catégorie", () => {
+    expect(() =>
+      ArticleFrontmatterSchema.parse({
+        slug: "x",
+        titre: "x",
+        date: "2026-01-15",
+        metaTitle: "Un titre correct pour le SEO",
+        metaDescription: "d".repeat(120),
+        anciennesUrls: [],
+        extrait: "Un extrait de test.",
       }),
     ).toThrow();
   });

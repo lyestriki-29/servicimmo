@@ -3,6 +3,7 @@ slug: >-
   seuil-de-performance-energetique-minimal-avant-locationseuil-de-performance-energetique-minimal-avant-location-immobiliere-immobiliere
 titre: "Seuil de performance énergétique minimal avant location"
 date: '2021-02-09'
+categorie: "DPE & énergie"
 metaTitle: "Seuil de performance énergétique minimal avant location"
 metaDescription: "Depuis 2021, un décret fixe un seuil de consommation énergétique maximal pour qu'un logement soit décent en location. Explications avec Servicimmo, diagnostiqueur DPE à Tours."
 anciennesUrls:

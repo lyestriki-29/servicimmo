@@ -2,6 +2,7 @@
 slug: attention-les-dpe-qui-ont-10-ans-sont-a-refaire
 titre: ATTENTION les DPE qui ont 10 ans sont à refaire..
 date: '2017-06-14'
+categorie: "DPE & énergie"
 metaTitle: "DPE de plus de 10 ans : renouvellement obligatoire"
 metaDescription: "Les DPE réalisés en 2006-2007 fêtent leurs dix ans : découvrez pourquoi ce diagnostic doit être renouvelé et dans quelles situations il reste obligatoire."
 anciennesUrls:

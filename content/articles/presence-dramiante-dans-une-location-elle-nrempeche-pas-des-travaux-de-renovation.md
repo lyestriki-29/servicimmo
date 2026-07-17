@@ -5,6 +5,7 @@ titre: >-
   Présence d'amiante dans une location : elle n'empêche pas des travaux de
   rénovation
 date: '2023-06-28'
+categorie: "Amiante"
 metaTitle: >-
   Amiante en location : les travaux de rénovation restent possibles
 metaDescription: >-

@@ -3,6 +3,7 @@ slug: >-
   location-immobilieren-les-regles-de-decence-srappliquent-pendant-toute-la-duree-du-bail
 titre: "Location immobilière\_: les règles de décence s’appliquent pendant toute la durée du bail"
 date: '2022-06-23'
+categorie: "Location & vente"
 metaTitle: "Location : la décence s'applique pendant tout le bail"
 metaDescription: "Un logement loué doit rester décent du début à la fin du bail. Découvrez ce que la loi impose aux bailleurs et le rôle du diagnostiqueur."
 anciennesUrls:

@@ -2,6 +2,7 @@
 slug: les-francais-et-lrachat-immobilier-en-2024n-une-reprise-moderee-mais-prometteuse
 titre: "Les Français et l'achat immobilier en 2024\_: une reprise modérée, mais prometteuse"
 date: '2024-05-28'
+categorie: "Profession & marché"
 metaTitle: "Achat immobilier en 2024 : une reprise modérée"
 metaDescription: "Enquête YouGov 2024 : les Français toujours motivés pour devenir propriétaires malgré la hausse des taux. Découvrez les tendances du marché immobilier."
 anciennesUrls:

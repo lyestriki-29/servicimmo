@@ -4,6 +4,7 @@ titre: >-
   L'état des lieux : un document indispensable pour gérer sereinement votre
   location
 date: '2017-01-01'
+categorie: "Location & vente"
 metaTitle: >-
   État des lieux : le document clé de votre location
 metaDescription: >-

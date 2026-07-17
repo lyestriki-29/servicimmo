@@ -2,6 +2,7 @@
 slug: acces-aux-donnees-dpe-des-logements-et-batiments-publics
 titre: Accès aux données DPE des logements et bâtiments publics
 date: '2020-09-23'
+categorie: "DPE & énergie"
 metaTitle: Accès aux données DPE des logements et bâtiments publics
 metaDescription: Depuis 2013, l'Ademe centralise les données des diagnostics de performance énergétique (DPE) des logements et bâtiments publics, en open data.
 anciennesUrls:

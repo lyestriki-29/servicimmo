@@ -2,6 +2,7 @@
 slug: que-sait-on-de-la-nouvelle-reglementation-re2020
 titre: Que sait-on de la nouvelle réglementation RE2020 ?
 date: '2019-11-22'
+categorie: "DPE & énergie"
 metaTitle: "RE2020 : ce que l'on sait de la future réglementation"
 metaDescription: Découvrez ce que l'on savait, fin 2019, du calendrier et des objectifs de la future réglementation environnementale RE2020 avant son entrée en vigueur.
 anciennesUrls:

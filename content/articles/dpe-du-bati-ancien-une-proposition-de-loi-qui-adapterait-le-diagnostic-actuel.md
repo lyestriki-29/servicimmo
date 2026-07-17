@@ -4,6 +4,7 @@ titre: >-
   DPE du bâti ancien : une proposition de loi qui adapterait le diagnostic
   actuel
 date: '2025-03-31'
+categorie: "DPE & énergie"
 metaTitle: "DPE du bâti ancien : une proposition de loi pour l'adapter"
 metaDescription: "Le Sénat a adopté une proposition de loi pour un DPE plus juste du bâti ancien, avec des recommandations de travaux respectueuses du patrimoine."
 anciennesUrls:

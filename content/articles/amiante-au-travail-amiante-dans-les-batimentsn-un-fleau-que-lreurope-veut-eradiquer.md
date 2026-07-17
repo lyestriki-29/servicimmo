@@ -3,6 +3,7 @@ slug: >-
   amiante-au-travail-amiante-dans-les-batimentsn-un-fleau-que-lreurope-veut-eradiquer
 titre: "Amiante au travail, amiante dans les bâtiments\_: un fléau que l’Europe veut éradiquer"
 date: '2022-12-26'
+categorie: "Amiante"
 metaTitle: "Amiante\_: l’Europe renforce sa lutte au travail et au bâtiment"
 metaDescription: "Locaux professionnels et bâtiments\_: l’Europe prépare de nouvelles mesures pour mieux détecter et éliminer l’amiante, polluant cancérogène du bâtiment."
 anciennesUrls:
