@@ -5,16 +5,19 @@ import { ArrowRightIcon, NewspaperIcon } from "lucide-react";
 
 import { Pagination } from "@/components/marketing/pages/Pagination";
 import { loadArticlesPage } from "@/lib/content/load";
+import { CATEGORIES_ARTICLE } from "@/lib/content/schemas";
 
 export async function ListeArticles({ page, excludeSlug }: { page: number; excludeSlug?: string }) {
   const { articles, totalPages } = await loadArticlesPage(page);
   const visibles = articles.filter((article) => article.slug !== excludeSlug);
-  const categories = ["Tous les sujets", ...new Set(visibles.map((article) => article.categorie).filter(Boolean))];
+  // La taxonomie est fixe : elle ne doit pas dependre des 12 articles de la page
+  // courante, sinon les rubriques changent en paginant.
+  const categories = ["Tous les sujets", ...CATEGORIES_ARTICLE];
   return (
     <section className="bg-[color:var(--color-home-bg)]">
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16">
         <nav aria-label="Catégories d’actualités" className="flex flex-wrap gap-2 border-b border-[color:var(--color-home-line)] pb-6">
-          {categories.slice(0, 6).map((category, index) => <span key={category} className={`inline-flex min-h-11 items-center rounded-full px-4 text-[12.5px] font-semibold ${index === 0 ? "bg-[color:var(--color-home-ink)] text-white" : "bg-white text-[color:var(--color-home-ink)]"}`}>{category}</span>)}
+          {categories.map((category, index) => <span key={category} className={`inline-flex min-h-11 items-center rounded-full px-4 text-[12.5px] font-semibold ${index === 0 ? "bg-[color:var(--color-home-ink)] text-white" : "bg-white text-[color:var(--color-home-ink)]"}`}>{category}</span>)}
         </nav>
         <div className="mt-10 grid gap-12 lg:grid-cols-[minmax(0,1fr)_320px]">
           <div>
