@@ -1,55 +1,41 @@
 import Image from "next/image";
 import Link from "next/link";
-import { BugIcon, ZapIcon, DropletIcon, CalendarIcon, ArrowRightIcon } from "lucide-react";
+import { format } from "date-fns";
+import { fr } from "date-fns/locale";
+import {
+  BugIcon, CalendarIcon, ArrowRightIcon, FileTextIcon, GaugeIcon, HardHatIcon,
+  HouseIcon, MapPinnedIcon, ShieldAlertIcon, ZapIcon, type LucideIcon,
+} from "lucide-react";
 
 import { Reveal } from "@/components/marketing/Reveal";
+import { loadArticles } from "@/lib/content/load";
+import type { CategorieArticle } from "@/lib/content/schemas";
 
-type Article = {
-  img: string;
-  imgAlt: string;
-  tagIcon: React.ReactNode;
-  tag: string;
-  date: string;
-  title: string;
-  excerpt: string;
-  href: string;
+/**
+ * Habillage par catégorie. Les 3 photos disponibles sont des images d'AMBIANCE
+ * (un thermostat, une signature, un chantier) : aucune ne montre un diagnostic.
+ * On les rattache donc au thème le plus proche — jamais l'inverse. L'ancienne
+ * version collait le thermostat sur « Amiante » avec un alt qui le prétendait.
+ * `alt=""` car la vignette est décorative : le titre, juste dessous, porte
+ * l'information. Un alt qui décrit une photo hors sujet ne fait que du bruit
+ * dans un lecteur d'écran.
+ * À remplacer par un `image:` propre au frontmatter quand la banque photo existera.
+ */
+const HABILLAGE: Record<CategorieArticle, { img: string; icone: LucideIcon }> = {
+  "DPE & énergie": { img: "/img/si/blog1.jpg", icone: GaugeIcon },
+  "Location & vente": { img: "/img/si/blog2.jpg", icone: FileTextIcon },
+  "Profession & marché": { img: "/img/si/blog2.jpg", icone: HardHatIcon },
+  "Risques naturels": { img: "/img/si/blog2.jpg", icone: MapPinnedIcon },
+  Amiante: { img: "/img/si/blog3.jpg", icone: ShieldAlertIcon },
+  Plomb: { img: "/img/si/blog3.jpg", icone: HouseIcon },
+  Termites: { img: "/img/si/blog3.jpg", icone: BugIcon },
+  "Électricité & gaz": { img: "/img/si/blog3.jpg", icone: ZapIcon },
 };
 
-const ARTICLES: Article[] = [
-  {
-    img: "/img/si/blog1.jpg",
-    imgAlt: "Amiante avant travaux",
-    tagIcon: <BugIcon className="h-3 w-3" aria-hidden />,
-    tag: "Amiante",
-    date: "Mai 2026",
-    title: "Amiante avant travaux : ce que la polémique sur l'indépendance change pour les propriétaires",
-    excerpt: "Indépendance des opérateurs, fiabilité des repérages : on fait le point sur ce qui évolue et vos obligations avant le moindre chantier.",
-    href: "#",
-  },
-  {
-    img: "/img/si/blog2.jpg",
-    imgAlt: "DPE et bail",
-    tagIcon: <ZapIcon className="h-3 w-3" aria-hidden />,
-    tag: "DPE",
-    date: "Avril 2026",
-    title: "DPE, reconduction de bail et après travaux : vers de nouvelles obligations ?",
-    excerpt: "Renouvellement de location, fin de chantier : zoom sur les cas qui pourraient bientôt exiger un nouveau diagnostic de performance.",
-    href: "#",
-  },
-  {
-    img: "/img/si/blog3.jpg",
-    imgAlt: "Plomb avant travaux",
-    tagIcon: <DropletIcon className="h-3 w-3" aria-hidden />,
-    tag: "Plomb",
-    date: "Avril 2026",
-    title: "Plomb avant travaux : la prévention au cœur de onze affiches",
-    excerpt: "Une campagne de sensibilisation rappelle les bons réflexes face au plomb dans le bâti ancien. Ce qu'il faut en retenir.",
-    href: "#",
-  },
-];
-
 /** Section Actualités & conseils (v-actualites-1) — home.html:306-359 */
-export function Actualites() {
+export async function Actualites() {
+  // Les 3 dernières publications réelles : `loadArticles` trie par date puis slug.
+  const recents = (await loadArticles()).slice(0, 3);
   return (
     <section
       id="actualites"
@@ -73,44 +59,59 @@ export function Actualites() {
 
         {/* Grille articles */}
         <div className="grid grid-cols-1 gap-[30px] md:grid-cols-3">
-          {ARTICLES.map((a, i) => (
-            <Reveal key={a.title} direction="up" delay={i * 0.07}>
+          {recents.map((a, i) => {
+            const habillage = HABILLAGE[a.categorie];
+            const Icone = habillage.icone;
+            const href = `/actualites/${a.slug}`;
+            return (
+            <Reveal key={a.slug} direction="up" delay={i * 0.07}>
               <article className="group flex flex-col overflow-hidden rounded-[14px] border border-[color:var(--color-home-line)] bg-[color:var(--color-home-bg)] shadow-[0_2px_12px_rgba(15,30,58,.06)] transition-all duration-[350ms] hover:-translate-y-2 hover:border-transparent hover:shadow-[0_20px_60px_rgba(15,30,58,.14)]">
 
-                {/* Vignette */}
-                <Link href={a.href} className="relative block aspect-[16/10] overflow-hidden">
+                {/* Vignette — `aria-hidden` + `tabIndex={-1}` : lien redondant avec
+                    celui du titre, on evite de le servir 2x au clavier et au lecteur. */}
+                <Link
+                  href={href}
+                  aria-hidden
+                  tabIndex={-1}
+                  className="relative block aspect-[16/10] overflow-hidden"
+                >
                   <Image
-                    src={a.img}
-                    alt={a.imgAlt}
+                    src={habillage.img}
+                    alt=""
                     fill
+                    sizes="(min-width:768px) 33vw, 100vw"
                     loading="lazy"
                     className="object-cover transition-transform duration-[600ms] ease-[cubic-bezier(.22,.61,.36,1)] group-hover:scale-[1.07]"
                   />
                   <span className="absolute left-[14px] top-[14px] inline-flex items-center gap-[7px] rounded-full bg-white/90 px-[13px] py-[7px] font-[family-name:var(--font-sora)] text-[12px] font-bold tracking-[0.04em] text-[color:var(--color-home-saf-dark)] shadow-[0_2px_8px_rgba(15,30,58,.1)] backdrop-blur-[4px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
-                    {a.tagIcon}
-                    {a.tag}
+                    <Icone className="h-3 w-3" aria-hidden />
+                    {a.categorie}
                   </span>
                 </Link>
 
                 {/* Corps */}
                 <div className="flex flex-1 flex-col px-6 py-6">
-                  <span className="mb-[13px] inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[12.5px] font-semibold uppercase tracking-[0.04em] text-[color:var(--color-home-muted)] [&_svg]:text-[color:var(--color-home-saf-dark)]">
+                  <time
+                    dateTime={a.date}
+                    className="mb-[13px] inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[12.5px] font-semibold uppercase tracking-[0.04em] text-[color:var(--color-home-muted)] [&_svg]:text-[color:var(--color-home-saf-dark)]"
+                  >
                     <CalendarIcon className="h-3 w-3" aria-hidden />
-                    {a.date}
-                  </span>
+                    {format(new Date(a.date), "MMMM yyyy", { locale: fr })}
+                  </time>
                   <h3 className="mb-3 font-[family-name:var(--font-sora)] text-[18.5px] font-bold leading-[1.32] text-[color:var(--color-home-ink)]">
                     <Link
-                      href={a.href}
+                      href={href}
                       className="transition-colors hover:text-[color:var(--color-home-saf-dark)]"
                     >
-                      {a.title}
+                      {a.titre}
                     </Link>
                   </h3>
                   <p className="mb-5 font-[family-name:var(--font-inter)] text-[14.5px] leading-[1.65] text-[color:var(--color-home-muted)]">
-                    {a.excerpt}
+                    {a.extrait}
                   </p>
                   <Link
-                    href={a.href}
+                    href={href}
+                    aria-label={`Lire l’article : ${a.titre}`}
                     className="mt-auto inline-flex items-center gap-[9px] font-[family-name:var(--font-sora)] text-[14px] font-bold text-[color:var(--color-home-saf-dark)] transition-[gap] hover:gap-[14px]"
                   >
                     Lire l&apos;article
@@ -119,13 +120,14 @@ export function Actualites() {
                 </div>
               </article>
             </Reveal>
-          ))}
+            );
+          })}
         </div>
 
         {/* Pied */}
         <Reveal direction="up" className="mt-[50px] text-center">
           <Link
-            href="#"
+            href="/actualites"
             className="inline-flex items-center gap-2 rounded-[10px] border border-[color:var(--color-home-line)] bg-transparent px-6 py-3.5 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-home-ink)] transition-all hover:border-[color:var(--color-home-saf)] hover:bg-[color:var(--color-home-saf-bg)]"
           >
             Toutes les actualités
