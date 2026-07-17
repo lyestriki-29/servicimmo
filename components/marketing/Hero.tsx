@@ -14,15 +14,17 @@ export function Hero() {
   const { open: openModal } = useQuoteModal();
 
   return (
-    <section className="relative overflow-hidden bg-[color:var(--color-home-bg)]">
+    // Page vitrine : le hero EST le message, il occupe donc exactement l'écran
+    // moins le header (à partir de `lg`). On ne voit que lui en arrivant.
+    <section className="relative overflow-hidden bg-[color:var(--color-home-bg)] lg:h-[var(--hero-max-h)]">
       {/* Deco blob */}
       <div
         aria-hidden
         className="pointer-events-none absolute top-[-12%] right-[-6%] z-0 h-[62%] w-[46%] rounded-[48%_52%_60%_40%/55%_48%_52%_45%] bg-[color:var(--color-home-saf-bg)] opacity-70 blur-[2px]"
       />
 
-      <div className="relative z-[1] mx-auto max-w-[var(--container,1280px)] px-6 pt-10 pb-16 md:px-8">
-        <div className="grid items-center gap-12 md:grid-cols-[1.05fr_.95fr]">
+      <div className="relative z-[1] mx-auto max-w-[var(--container,1280px)] px-6 pt-10 pb-16 md:px-8 lg:flex lg:h-full lg:flex-col lg:justify-center lg:py-8 ecran-court:lg:py-5">
+        <div className="grid items-center gap-12 md:grid-cols-[1.05fr_.95fr] ecran-court:lg:gap-6">
 
           {/* ── Colonne gauche : copy ── */}
           <Reveal direction="left">
@@ -30,7 +32,9 @@ export function Hero() {
               Diagnostic immobilier · Tours depuis 1998
             </span>
 
-            <h1 className="mt-4 mb-6 font-[family-name:var(--font-sora)] text-[clamp(40px,5.4vw,76px)] font-extrabold leading-[1.02] tracking-[-0.03em] text-[color:var(--color-home-ink)]">
+            {/* 3 lignes forcées par les <br/> : à 76px le titre pèse ~210px à lui
+                seul. Sous 800px de haut il descend à 52px pour tenir. */}
+            <h1 className="mt-4 mb-6 font-[family-name:var(--font-sora)] text-[clamp(40px,5.4vw,76px)] font-extrabold leading-[1.02] tracking-[-0.03em] text-[color:var(--color-home-ink)] ecran-court:mt-2 ecran-court:mb-4 ecran-court:text-[clamp(34px,3.6vw,52px)]">
               Vos diagnostics<br />
               obligatoires{" "}
               <em className="relative inline-block not-italic text-[color:var(--color-home-saf-dark)] after:absolute after:bottom-[0.08em] after:left-0 after:right-0 after:z-[-1] after:h-[0.34em] after:rounded-[3px] after:bg-[color:var(--color-home-saf)] after:opacity-30 after:content-['']">
@@ -40,7 +44,7 @@ export function Hero() {
               en 2&nbsp;minutes
             </h1>
 
-            <p className="mb-7 max-w-[480px] font-[family-name:var(--font-inter)] text-[18.5px] leading-[1.6] text-[color:var(--color-home-muted)]">
+            <p className="mb-7 max-w-[480px] font-[family-name:var(--font-inter)] text-[18.5px] leading-[1.6] text-[color:var(--color-home-muted)] ecran-court:mb-4 ecran-court:text-[16px]">
               Vente, location, travaux : on cible précisément les diagnostics réglementaires de votre
               bien, puis on intervient vite. Devis sous 2&nbsp;h, rendez-vous sous 48&nbsp;h.
             </p>

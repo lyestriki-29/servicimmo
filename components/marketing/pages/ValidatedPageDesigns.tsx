@@ -30,14 +30,16 @@ import { PrintButton } from "./PrintButton";
 
 export function ServicesCatalogHero({ count }: { count: number }) {
   return (
+    // Page CONTENU (un catalogue) : l'en-tête est une porte. Il ne remplit pas
+    // l'écran — on doit voir que le catalogue commence.
     <section className="bg-[color:var(--color-si-creme)]">
-      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16">
-        <div className="grid gap-8 lg:grid-cols-[1.15fr_.85fr] lg:items-end">
+      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16 ecran-court:lg:py-6">
+        <div className="grid gap-8 lg:grid-cols-[1.15fr_.85fr] lg:items-end ecran-court:lg:gap-5">
           <div>
             <p className="inline-flex items-center gap-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
               <ClipboardCheckIcon className="h-4 w-4" /> Nos expertises
             </p>
-            <h1 className="mt-4 max-w-[820px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.5vw,72px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
+            <h1 className="mt-4 max-w-[820px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.5vw,72px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.4vw,44px)]">
               Tous vos diagnostics,{" "}
               <span className="text-[color:var(--color-si-petrole)]">un seul interlocuteur</span>
             </h1>
@@ -59,14 +61,14 @@ export function ServicesCatalogHero({ count }: { count: number }) {
             </div>
           </div>
         </div>
-        <div className="relative mt-10 overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)]">
+        <div className="relative mt-10 overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] ecran-court:mt-5">
           <Image
             src="/img/si/proj2.jpg"
             alt="Immeuble résidentiel contemporain"
             width={800}
             height={1067}
             sizes="(min-width:1280px) 1280px, 100vw"
-            className="h-[220px] w-full object-cover opacity-75 sm:h-[300px]"
+            className="h-[220px] w-full object-cover opacity-75 sm:h-[300px] ecran-court:sm:h-[170px]"
             priority
           />
           <div className="absolute inset-y-0 left-0 flex w-full max-w-[390px] items-end bg-[color:var(--color-home-ink)]/88 p-6 text-white sm:p-8">
@@ -206,7 +208,8 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
       : { src: "/img/si/proj3.jpg", alt: "Séjour meublé d’un logement" };
   return (
     <section className="bg-white">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-16">
+      {/* Page CONTENU (une fiche pratique) : en-tête compact, on vient lire. */}
+      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-16 ecran-court:lg:gap-6 ecran-court:lg:py-7">
         <aside className="order-2 border-t border-[color:var(--color-home-line)] pt-6 lg:order-1 lg:border-t-0 lg:border-r lg:pt-0 lg:pr-8">
           <p className="inline-flex items-center gap-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <MapPinIcon className="h-4 w-4" /> Fiche pratique
@@ -228,7 +231,7 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
           <p className="text-[12px] font-bold text-[color:var(--color-home-saf-dark)]">
             Diagnostic réglementaire
           </p>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.01] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.01] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.6vw,46px)]">
             {service.titre}
           </h1>
           <p className="mt-6 max-w-[60ch] text-[17px] leading-[1.7] text-[color:var(--color-home-muted-2)]">
@@ -351,8 +354,12 @@ export function ServiceMissionContent({ service }: { service: Service }) {
 export function NewsLocalHero({ featured }: { featured: Article }) {
   return (
     <section className="bg-white">
-      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16">
-        <div className="border-y border-[color:var(--color-home-line)] py-5">
+      {/* Page CONTENU (une liste d'articles) : l'en-tête est une porte, pas le
+          message. Il ne remplit donc PAS l'écran — on doit voir que la liste
+          commence, sinon il faudrait scroller pour atteindre le 1er article,
+          soit la frustration qu'on corrige, déplacée d'un cran. */}
+      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16 ecran-court:lg:py-6">
+        <div className="border-y border-[color:var(--color-home-line)] py-5 ecran-court:py-3">
           <div className="flex flex-wrap items-baseline justify-between gap-3">
             <p className="text-[12px] font-bold text-[color:var(--color-si-petrole)]">
               Veille réglementaire
@@ -361,34 +368,39 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
               Une veille locale depuis 2017
             </p>
           </div>
-          <h1 className="mt-5 max-w-[1000px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.4vw,70px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
+          <h1 className="mt-5 max-w-[1000px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.4vw,70px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.4vw,42px)]">
             Ce qui change pour{" "}
             <span className="text-[color:var(--color-home-saf-dark)]">votre bien immobilier</span>
           </h1>
         </div>
-        <article className="mt-8 grid overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] text-white lg:grid-cols-[1.2fr_.8fr]">
+        <article className="mt-8 grid overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] text-white lg:grid-cols-[1.2fr_.8fr] ecran-court:mt-5">
           <Image
             src="/img/si/blog1.jpg"
             alt="Thermostat programmable d’un logement, réglé sur 19 °C"
             width={800}
             height={600}
-            className="h-[280px] w-full object-cover lg:h-[360px]"
+            className="h-[280px] w-full object-cover lg:h-[360px] ecran-court:lg:h-[210px]"
             priority
           />
-          <div className="flex flex-col justify-between p-6 sm:p-8">
+          <div className="flex flex-col justify-between p-6 sm:p-8 ecran-court:lg:p-5">
             <div>
               <p className="flex items-center gap-2 text-[12px] font-semibold text-[color:var(--color-home-saf)]">
                 <CalendarDaysIcon className="h-4 w-4" />{" "}
                 {format(new Date(featured.date), "d MMMM yyyy", { locale: fr })}
               </p>
-              <h2 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(24px,3vw,38px)] leading-[1.12] font-bold text-balance">
+              {/* C'est CE titre qui dicte la hauteur de la carte, pas l'image :
+                  à 38px dans une colonne étroite il casse en 6 lignes (255px
+                  mesurés). D'où la réduction et le `line-clamp` sur écran court. */}
+              <h2 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(24px,3vw,38px)] leading-[1.12] font-bold text-balance ecran-court:mt-3 ecran-court:line-clamp-3 ecran-court:text-[clamp(20px,2vw,24px)]">
                 {featured.titre}
               </h2>
-              <p className="mt-4 text-[14px] leading-relaxed text-white/74">{featured.extrait}</p>
+              <p className="mt-4 text-[14px] leading-relaxed text-white/74 ecran-court:mt-3 ecran-court:line-clamp-2">
+                {featured.extrait}
+              </p>
             </div>
             <Link
               href={`/actualites/${featured.slug}`}
-              className="mt-8 inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-[color:var(--color-home-saf)]"
+              className="mt-8 inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-[color:var(--color-home-saf)] ecran-court:mt-4"
             >
               Lire le décryptage <ArrowRightIcon className="h-4 w-4" />
             </Link>
