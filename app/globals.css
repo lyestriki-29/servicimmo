@@ -437,6 +437,39 @@
   font-family: var(--font-sora);
   color: var(--color-si-petrole);
 }
+
+/* Rythme vertical du corps injecté (`dangerouslySetInnerHTML`).
+   Indispensable : le reset Tailwind remet à 0 les marges de `p`, `h2`, `ul`…
+   et ce HTML-là ne porte aucune classe utilitaire. Sans ces règles, tout le
+   texte se touche. Chaque page ajoutait sa rustine (`[&_h2]:mt-9`) en oubliant
+   les paragraphes — d'où la correction ici, à la source, pour les 3 familles
+   de pages d'un coup.
+   Les intertitres sont LOIN du texte qui précède et PRÈS de celui qu'ils
+   introduisent : c'est ce qui donne à l'œil ses points d'entrée. */
+.article-prose > * + * {
+  margin-top: 1.15rem;
+}
+.article-prose > * + h2 {
+  margin-top: 2.6rem;
+}
+.article-prose > * + h3 {
+  margin-top: 2rem;
+}
+.article-prose > h2 + *,
+.article-prose > h3 + * {
+  margin-top: 0.7rem;
+}
+.article-prose ul,
+.article-prose ol {
+  padding-left: 1.3rem;
+  list-style: disc;
+}
+.article-prose ol {
+  list-style: decimal;
+}
+.article-prose li + li {
+  margin-top: 0.4rem;
+}
 .article-prose a {
   color: var(--color-si-petrole);
   text-decoration: underline;
