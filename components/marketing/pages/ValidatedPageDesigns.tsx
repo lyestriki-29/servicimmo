@@ -402,9 +402,12 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
 export function ArticleExpertHero({ article }: { article: Article }) {
   const minutes = Math.max(3, Math.ceil(stripHtml(article.html).split(/\s+/).length / 220));
   return (
-    <section className="bg-[color:var(--color-si-creme)]">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:grid-cols-[minmax(0,1fr)_410px]">
-        <div className="flex flex-col justify-between px-6 py-10 md:px-8 lg:py-14">
+    <section className="bg-[color:var(--color-si-creme)] lg:h-[var(--hero-max-h)]">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:h-full lg:grid-cols-[minmax(0,1fr)_410px]">
+        {/* `overflow-y-auto` = filet, pas béquille : la hauteur étant fixe, un
+            titre d'article exceptionnellement long scrolle ici au lieu d'être
+            rogné. En temps normal le contenu tient — d'où le py resserré. */}
+        <div className="flex min-w-0 flex-col justify-between overflow-y-auto px-6 py-10 md:px-8 lg:py-14 ecran-court:lg:py-6">
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <span>
               {article.categorie ?? "Décryptage"} ·{" "}
@@ -438,7 +441,7 @@ export function ArticleExpertHero({ article }: { article: Article }) {
             </a>
           </div>
         </div>
-        <figure className="relative min-h-[360px] overflow-hidden lg:min-h-[570px]">
+        <figure className="relative min-h-[360px] overflow-hidden lg:min-h-0">
           <Image
             src="/img/si/blog2.jpg"
             alt="Signature d’un document immobilier autour d’une table"
@@ -574,7 +577,10 @@ export function ArticleExpertContent({
 export function CityLocalHero({ ville }: { ville: Ville }) {
   const distance = distanceDepuisAgence(ville);
   return (
-    <section className="relative min-h-[520px] overflow-hidden bg-[color:var(--color-home-ink)]">
+    // Hauteur = exactement l'écran moins le header (à partir de `lg`) : on ne
+    // voit que le hero en arrivant, rien de la section suivante. En dessous de
+    // `lg`, hauteur naturelle avec un plancher.
+    <section className="relative min-h-[440px] overflow-hidden bg-[color:var(--color-home-ink)] lg:h-[var(--hero-max-h)]">
       <Image
         src="/img/si/hero2.jpg"
         alt="Remise des clés d’un logement"
@@ -587,7 +593,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
           l'ancien voile le titre anis tombait à 2,33:1 — sous le seuil AA de 3:1
           même pour du grand texte. À 50 %, le titre remonte à 3,38:1. */}
       <div className="absolute inset-0 bg-[color:var(--color-home-ink)]/50" />
-      <div className="relative mx-auto flex min-h-[520px] max-w-[var(--container,1280px)] flex-col justify-between px-6 py-10 text-white md:px-8 lg:py-12">
+      <div className="relative mx-auto flex min-h-[440px] max-w-[var(--container,1280px)] flex-col justify-between px-6 py-10 text-white md:px-8 lg:h-full lg:min-h-0 lg:py-12">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <p className="inline-flex items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <MapPinIcon className="h-4 w-4" /> Diagnostic immobilier local
@@ -698,9 +704,9 @@ export function CityLocalContent({ ville, services }: { ville: Ville; services: 
 
 export function ContactLocalHero() {
   return (
-    <section className="bg-[color:var(--color-si-creme)]">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:grid-cols-[.8fr_1.2fr]">
-        <div className="relative min-h-[320px] lg:min-h-[520px]">
+    <section className="bg-[color:var(--color-si-creme)] lg:h-[var(--hero-max-h)]">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:h-full lg:grid-cols-[.8fr_1.2fr]">
+        <div className="relative min-h-[320px] lg:min-h-0">
           {/* equipe.jpg est un panorama 2000x508 (ratio 3,94) affiche dans un
               cadre presque carre. `object-cover` le met donc a l'echelle par la
               HAUTEUR, pas par la largeur : a 520 px de haut il lui faut ~2050 px

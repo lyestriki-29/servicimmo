@@ -89,25 +89,36 @@ export function ZonesExperience({ villes }: { villes: ZoneCity[] }) {
 
   return (
     <>
-      <section className="overflow-hidden bg-[color:var(--color-si-petrole)] text-white">
-        <div className="grid lg:grid-cols-[.78fr_1.22fr]">
-          <div className="flex flex-col justify-between px-6 py-12 sm:px-8 lg:min-h-[570px] lg:px-12 lg:py-14 xl:px-16">
+      {/* Hero plein écran : sa hauteur vaut EXACTEMENT l'écran moins le header,
+          pour qu'on ne voie que lui en arrivant — rien de la section suivante.
+          Seulement à partir de `lg` : en dessous, la grille s'empile (texte PUIS
+          carte) et les enfermer dans une hauteur d'écran les écraserait. */}
+      <section className="overflow-hidden bg-[color:var(--color-si-petrole)] text-white lg:flex lg:h-[var(--hero-max-h)] lg:flex-col">
+        <div className="grid lg:min-h-0 lg:flex-1 lg:grid-cols-[.78fr_1.22fr]">
+          {/* Les variantes `ecran-court:` compactent le hero sous 800px de haut,
+              où il débordait de la ligne de flottaison. Au-dessus, rien ne change. */}
+          <div className="flex flex-col justify-between px-6 py-12 sm:px-8 lg:min-h-0 lg:px-12 lg:py-14 ecran-court:lg:py-7 xl:px-16">
             <div>
               <p className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[12px] font-bold text-[color:var(--color-home-saf)]">
                 <LocateFixedIcon className="h-4 w-4" aria-hidden /> Servicimmo · Tours
               </p>
-              <h1 className="mt-6 max-w-[680px] font-[family-name:var(--font-sora)] text-[clamp(44px,6vw,82px)] leading-[.94] font-extrabold tracking-[-0.04em] text-balance">
+              {/* Le titre casse en 3 lignes (colonne étroite) : à 82px il pesait
+                  217px à lui seul, le poste le plus lourd du hero. */}
+              <h1 className="mt-6 max-w-[680px] font-[family-name:var(--font-sora)] text-[clamp(44px,6vw,82px)] leading-[.94] font-extrabold tracking-[-0.04em] text-balance ecran-court:mt-3 ecran-court:text-[clamp(38px,4vw,52px)]">
                 Notre terrain, c’est{" "}
                 <span className="text-[color:var(--color-home-saf)]">ici.</span>
               </h1>
-              <p className="mt-7 max-w-[56ch] text-[16px] leading-[1.75] text-white/78">
+              <p className="mt-7 max-w-[56ch] text-[16px] leading-[1.75] text-white/78 ecran-court:mt-4 ecran-court:text-[15px]">
                 Depuis notre agence de Tours, nos techniciens parcourent toute l’Indre-et-Loire pour
                 sécuriser ventes, locations et travaux.
               </p>
               <ZoneSearch villes={villes} />
             </div>
 
-            <div className="mt-12 grid gap-5 border-t border-white/25 pt-6 sm:grid-cols-2">
+            {/* Masqué sur écran court : c'est le seul bloc dont l'information se
+                retrouve ailleurs (adresse au footer et sur /contact, délai 48h
+                répété en page). Le sacrifier coûte moins que de tasser le reste. */}
+            <div className="mt-12 grid gap-5 border-t border-white/25 pt-6 sm:grid-cols-2 ecran-court:hidden">
               <div>
                 <p className="text-[11px] font-semibold text-white/72">POINT DE DÉPART</p>
                 <p className="mt-2 font-[family-name:var(--font-sora)] text-[15px] font-bold">
@@ -124,8 +135,10 @@ export function ZonesExperience({ villes }: { villes: ZoneCity[] }) {
             </div>
           </div>
 
-          <div className="relative min-h-[430px] bg-white lg:min-h-[570px]">
-            <GoogleMapEmbed className="min-h-[430px] lg:min-h-[570px]" />
+          {/* Plus de min-h en `lg` : la carte remplit la hauteur que la grille
+              lui donne, laquelle vient désormais de l'écran. */}
+          <div className="relative min-h-[430px] bg-white lg:min-h-0">
+            <GoogleMapEmbed className="min-h-[430px] lg:min-h-0" />
             <div className="pointer-events-none absolute top-5 left-5 z-10 max-w-[250px] bg-[color:var(--color-home-ink)] px-5 py-4 text-white shadow-[0_6px_8px_rgba(15,30,58,.16)]">
               <p className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13px] font-bold">
                 <MapPinIcon className="h-4 w-4 text-[color:var(--color-home-saf)]" aria-hidden />{" "}
@@ -138,7 +151,7 @@ export function ZonesExperience({ villes }: { villes: ZoneCity[] }) {
           </div>
         </div>
 
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 bg-[color:var(--color-home-saf)] px-6 py-4 font-[family-name:var(--font-sora)] text-[12px] font-bold text-[color:var(--color-home-ink)] sm:px-8 lg:px-12 xl:px-16">
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 bg-[color:var(--color-home-saf)] px-6 py-4 font-[family-name:var(--font-sora)] text-[12px] font-bold text-[color:var(--color-home-ink)] sm:px-8 lg:shrink-0 lg:px-12 xl:px-16">
           <NavigationIcon className="h-4 w-4" aria-hidden />
           <span>Tours</span>
           <span aria-hidden>→</span>

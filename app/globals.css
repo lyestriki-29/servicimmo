@@ -4,6 +4,14 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* Écrans COURTS — variante sur la hauteur, pas la largeur (2026-07-17).
+   Les heros débordaient de la ligne de flottaison : il fallait scroller pour
+   en voir le bas. Mesuré au navigateur sur /zones : hero réel 801px, alors
+   qu'un écran 1280x673 n'offre que 555px sous le header (118px). Même en
+   1440x900 il débordait encore de 34px — ce n'est donc pas un cas limite.
+   Seuil 800px : au-delà, le design d'origine tient et ne doit PAS bouger. */
+@custom-variant ecran-court (@media (max-height: 800px));
+
 :root {
   --radius: 0.625rem;
 
@@ -189,6 +197,7 @@
   --color-devis-ink: #1f2a14;
   --color-devis-line: #dfe4c8;
   --color-devis-muted: #606a50;
+
 }
 
 /* ────────────────────────────────────────────────────────────────────────
@@ -234,6 +243,32 @@
   --color-branch-other-bg: #e4e0cc;
   --color-branch-other-fg: #6a6452;
   --color-branch-other-dark: #3a3628;
+}
+
+/* ────────────────────────────────────────────────────────────────────────
+   Mise à l'échelle des heros (2026-07-17)
+
+   En `:root` et NON en `@theme inline`, pour la raison écrite juste au-dessus :
+   Tailwind v4 n'émet un token `@theme` que s'il est référencé par un utilitaire
+   scanné. Consommées via `h-[var(--…)]`, ces variables n'y étaient pas détectées
+   et sortaient VIDES — la première version du correctif était donc inerte.
+   Vérifié au navigateur le 2026-07-17.
+   ──────────────────────────────────────────────────────────────────────── */
+:root {
+  /* Hauteur du header sticky, MESURÉE (getBoundingClientRect) et non estimée :
+     bandeau pétrole + barre crème = 118px. Le header étant `sticky top-0`, il
+     occupe sa place en haut : sa hauteur s'ajoute à celle du hero avant la
+     ligne de flottaison. À réajuster ici — et nulle part ailleurs. */
+  --header-h: 118px;
+
+  /* Hauteur d'un hero : EXACTEMENT l'écran moins le header. On ne doit voir que
+     le hero en arrivant sur une page, rien de la section suivante (demande
+     explicite du 2026-07-17 — une version antérieure réservait 48px pour laisser
+     dépasser la suite, c'était l'inverse du besoin).
+     `svh` et non `vh` : sur mobile, `vh` ignore la barre d'URL et déborde.
+     Appliqué à partir de `lg` seulement : en dessous les grilles s'empilent et
+     une hauteur d'écran écraserait le contenu. */
+  --hero-max-h: calc(100svh - var(--header-h));
 }
 
 @layer base {
