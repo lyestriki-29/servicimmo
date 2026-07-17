@@ -12,6 +12,20 @@ ou des accès à provisionner.
 
 ---
 
+## 🔴 Contenu publié non validé par Servicimmo (site vitrine)
+
+0. **Les 20 « déroulés d'intervention » des fiches services** (`deroule:` dans le
+   frontmatter de `content/services/*.md`, affichés par `ServiceDeroule.tsx`)
+   sont des **propositions écrites par l'IA le 2026-07-17**, pas des engagements
+   de Servicimmo. Ils annoncent au visiteur des délais et un contenu de
+   prestation : « créneau confirmé sous 48 h », « 45 min à 2 h selon la
+   surface », « rapport à J+2 », etc. **À faire valider par Etienne / Servicimmo
+   diagnostic par diagnostic avant la mise en prod.** Le DPE reprend la maquette
+   validée visuellement, les 19 autres sont extrapolés du métier.
+   Idem pour les jalons J0/J1/J2 : le rythme réel n'a jamais été confirmé.
+
+---
+
 ## 🔴 Provisionnement et accès externes (ORDRE DE DÉMARRAGE)
 
 1. **Créer les projets Supabase** `servicimmo-dev` + `servicimmo-prod` (supabase.com, région `eu-west-1`). Récupérer `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`.
