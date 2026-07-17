@@ -42,7 +42,12 @@ const INTENTS = [
   },
 ] as const;
 
-export function ContactExperience() {
+/**
+ * `avecCarte={false}` : la direction Fable place déjà une carte de l'agence
+ * au-dessus. Deux Google Maps sur la même page, c'est deux chargements du même
+ * plan — et deux fois la transmission d'IP à Google.
+ */
+export function ContactExperience({ avecCarte = true }: { avecCarte?: boolean } = {}) {
   // On garde le motif entier, pas seulement son id : son libellé et son détail
   // partent avec la demande. `as const` fait de INTENTS un tuple, donc [0] est sûr.
   const [intent, setIntent] = useState<(typeof INTENTS)[number]>(INTENTS[0]);
@@ -136,24 +141,26 @@ export function ContactExperience() {
             })}
           </fieldset>
 
-          <div className="mt-8 overflow-hidden bg-white">
-            <div className="h-[250px]">
-              <GoogleMapEmbed
-                query="58 rue de la Chevalerie, 37100 Tours, France"
-                center={{ lat: 47.3941, lng: 0.6848 }}
-                zoom={15}
-                title="Carte Google Maps de l’agence Servicimmo"
-                className="min-h-[250px]"
-              />
+          {avecCarte && (
+            <div className="mt-8 overflow-hidden bg-white">
+              <div className="h-[250px]">
+                <GoogleMapEmbed
+                  query="58 rue de la Chevalerie, 37100 Tours, France"
+                  center={{ lat: 47.3941, lng: 0.6848 }}
+                  zoom={15}
+                  title="Carte Google Maps de l’agence Servicimmo"
+                  className="min-h-[250px]"
+                />
+              </div>
+              <div className="flex flex-wrap items-center justify-between gap-3 px-5 py-4 text-[12px] text-[color:var(--color-home-muted-2)]">
+                <span className="inline-flex items-center gap-2 font-semibold text-[color:var(--color-home-ink)]">
+                  <MapPinIcon className="h-4 w-4 text-[color:var(--color-home-saf-dark)]" /> 58 rue de
+                  la Chevalerie · Tours
+                </span>
+                <span>Accueil sur rendez-vous</span>
+              </div>
             </div>
-            <div className="flex flex-wrap items-center justify-between gap-3 px-5 py-4 text-[12px] text-[color:var(--color-home-muted-2)]">
-              <span className="inline-flex items-center gap-2 font-semibold text-[color:var(--color-home-ink)]">
-                <MapPinIcon className="h-4 w-4 text-[color:var(--color-home-saf-dark)]" /> 58 rue de
-                la Chevalerie · Tours
-              </span>
-              <span>Accueil sur rendez-vous</span>
-            </div>
-          </div>
+          )}
         </div>
 
         <form className="bg-white p-6 sm:p-8" onSubmit={handleSubmit}>
