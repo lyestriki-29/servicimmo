@@ -12,7 +12,6 @@ import {
 
 import { useQuoteModal } from "@/components/questionnaire/QuoteModalProvider";
 import { LogoServicimmo } from "@/components/marketing/LogoServicimmo";
-import { LienMarqueSoeur } from "@/components/marketing/LienMarqueSoeur";
 
 const NAV_LINKS: { label: string; href: string }[] = [
   { label: "Accueil", href: "/" },
@@ -56,7 +55,9 @@ export function Header() {
             Certifié COFRAC · iCert · Assuré Allianz
           </span>
           <span className="inline-flex items-center gap-3">
-            <LienMarqueSoeur />
+            {/* Lien vers France Carottage retiré temporairement : le site sœur
+                n'est pas fini et ne doit pas être atteignable depuis Servicimmo.
+                Rétablir en réinsérant <LienMarqueSoeur /> ici (composant conservé). */}
             <a
               href="tel:0247470123"
               className="inline-flex items-center gap-[7px] font-bold text-white transition-colors hover:text-[color:var(--color-si-lime)]"

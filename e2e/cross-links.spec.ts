@@ -3,7 +3,10 @@ import { expect, test } from "@playwright/test";
 const HOST_FC = "carottage.localhost";
 
 // Host Servicimmo (par défaut) : le lien pointe vers France Carottage.
-test("header Servicimmo : lien vers France Carottage présent et pointant vers l'URL FC", async ({
+// TEMPORAIRE — le lien a été retiré du header Servicimmo le temps que le site
+// France Carottage soit terminé (cf. Header.tsx). Réactiver ce test en même
+// temps que <LienMarqueSoeur />.
+test.skip("header Servicimmo : lien vers France Carottage présent et pointant vers l'URL FC", async ({
   page,
 }) => {
   await page.goto("/");
