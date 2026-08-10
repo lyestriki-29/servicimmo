@@ -401,7 +401,7 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
               </p>
               {/* C'est CE titre qui dicte la hauteur de la carte, pas l'image :
                   à 38px dans une colonne étroite il casse en 6 lignes (255px
-                  mesurés). D'où la réduction et le `line-clamp` sur écran court. */}
+                  mesurés). D'où sa taille pilotée aussi par la hauteur d'écran. */}
               <h2 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(20px,min(3vw,4.4svh),38px)] leading-[1.12] font-bold text-balance">
                 {featured.titre}
               </h2>
@@ -430,8 +430,13 @@ export function ArticleExpertHero({ article }: { article: Article }) {
     // scroll À L'INTÉRIEUR du hero — le filet `overflow-y-auto` posé pour ça.
     // Le hero fait donc un écran dans la quasi-totalité des cas et s'allonge
     // quand le titre l'exige : on scrolle la page, jamais un bloc.
-    <section className="bg-[color:var(--color-si-creme)] lg:min-h-[var(--hero-max-h)]">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:grid-cols-[minmax(0,1fr)_410px]">
+    // `lg:flex lg:flex-col` sur la section + `lg:flex-1` sur la grille : une
+    // `min-height` ne descend PAS dans un enfant en flux normal, la grille se
+    // contentait donc de sa hauteur de contenu et laissait 472px de crème vide
+    // sous la photo (mesuré en prod à 1920x1080). Même mécanique que le hero
+    // d'accueil : la boîte réclame la place, seule la colonne photo s'étire.
+    <section className="bg-[color:var(--color-si-creme)] lg:flex lg:min-h-[var(--hero-max-h)] lg:flex-col">
+      <div className="mx-auto grid w-full max-w-[var(--container,1280px)] lg:min-h-0 lg:flex-1 lg:grid-cols-[minmax(0,1fr)_410px]">
         <div className="flex min-w-0 flex-col justify-between px-6 py-10 md:px-8 lg:py-[clamp(24px,3.4svh,56px)]">
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <span>
