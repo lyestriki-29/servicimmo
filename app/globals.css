@@ -269,6 +269,26 @@
      Appliqué à partir de `lg` seulement : en dessous les grilles s'empilent et
      une hauteur d'écran écraserait le contenu. */
   --hero-max-h: calc(100svh - var(--header-h));
+
+  /* Largeur du contenu (2026-08-03). Elle était consommée dans ~138 endroits
+     via `max-w-[var(--container,1280px)]` mais n'avait JAMAIS été définie : tout
+     le site tombait donc sur la valeur de repli, 1280px figés. Sur un écran de
+     1750px ou plus, le contenu formait une île étroite au milieu de deux grosses
+     marges — d'où l'impression que « le site est petit sur ce PC ».
+     Pourcentage pur et non paliers : le contenu épouse l'écran quelle que soit
+     sa taille, il n'existe plus AUCUNE largeur où la mise en page saute. Les 6 %
+     restants sont la respiration latérale (3 % de chaque côté) — un contenu
+     réellement bord à bord colle au cadre de la fenêtre et étouffe.
+     Le plafond à 2200px n'existe que pour les très grands écrans (> 2340px de
+     large) : au-delà, continuer à grandir ne gagne rien et allonge les lignes de
+     texte bien au-delà du confort de lecture (~60-75 caractères).
+     Le plancher à 1280px n'est PAS une largeur imposée : en dessous de ~1362px
+     d'écran il rend la borne inopérante, donc le bloc occupe toute la place
+     comme avant — sans quoi 94vw aurait volé 6 % de largeur au mobile.
+     ⚠️ Les blocs de lecture gardent leurs propres largeurs max (ex. le
+     paragraphe du hero à 480px) : élargir le conteneur ne doit jamais élargir
+     une colonne de texte. */
+  --container: max(1280px, min(94vw, 2200px));
 }
 
 @layer base {
