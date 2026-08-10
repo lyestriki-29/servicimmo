@@ -8,6 +8,12 @@ import { Reveal } from "@/components/marketing/Reveal";
 import { useCountUp } from "@/hooks/useCountUp";
 import { useQuoteModal } from "@/components/questionnaire/QuoteModalProvider";
 
+const BADGES = [
+  { Icone: ZapIcon, libelle: "Devis sous 2 h" },
+  { Icone: ClockIcon, libelle: "Intervention sous 48 h" },
+  { Icone: MapPinIcon, libelle: "Indre-et-Loire (37)" },
+] as const;
+
 /* ─── Composant principal Hero (v-hero-3) ─── */
 export function Hero() {
   const { ref: yearsRef, value: yearsValue } = useCountUp(28);
@@ -39,7 +45,7 @@ export function Hero() {
             </span>
 
             {/* Taille pilotée par la plus contraignante des deux dimensions :
-                `min(5.4vw, 7.6svh)`. La largeur seule mentait — ce qui manque sur
+                `min(5.4vw, 9svh)`. La largeur seule mentait — ce qui manque sur
                 un portable 1280x641, c'est de la HAUTEUR, et le titre restait à
                 76px jusqu'à ce qu'un palier `ecran-court` le fasse chuter d'un
                 coup à 46px. Ici il décroît en continu : deux machines voisines ne
@@ -81,17 +87,18 @@ export function Hero() {
               </a>
             </div>
 
-            {/* Meta badges */}
+            {/* Meta badges — une seule chaîne de classes pour les trois : elle
+                était recopiée à l'identique, donc toute retouche demandait trois
+                éditions à garder synchrones. */}
             <div className="flex flex-wrap gap-[22px]">
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
-                <ZapIcon className="h-[14px] w-[14px]" aria-hidden /> Devis sous 2 h
-              </span>
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
-                <ClockIcon className="h-[14px] w-[14px]" aria-hidden /> Intervention sous 48 h
-              </span>
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
-                <MapPinIcon className="h-[14px] w-[14px]" aria-hidden /> Indre-et-Loire (37)
-              </span>
+              {BADGES.map(({ Icone, libelle }) => (
+                <span
+                  key={libelle}
+                  className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]"
+                >
+                  <Icone className="h-[14px] w-[14px]" aria-hidden /> {libelle}
+                </span>
+              ))}
             </div>
           </Reveal>
 

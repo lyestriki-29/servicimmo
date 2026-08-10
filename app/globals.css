@@ -270,7 +270,7 @@
      une hauteur d'écran écraserait le contenu. */
   --hero-max-h: calc(100svh - var(--header-h));
 
-  /* Largeur du contenu (2026-08-03). Elle était consommée dans ~138 endroits
+  /* Largeur du contenu (2026-08-03). Elle était consommée dans 96 endroits
      via `max-w-[var(--container,1280px)]` mais n'avait JAMAIS été définie : tout
      le site tombait donc sur la valeur de repli, 1280px figés. Sur un écran de
      1750px ou plus, le contenu formait une île étroite au milieu de deux grosses
@@ -285,9 +285,11 @@
      Le plancher à 1280px n'est PAS une largeur imposée : en dessous de ~1362px
      d'écran il rend la borne inopérante, donc le bloc occupe toute la place
      comme avant — sans quoi 94vw aurait volé 6 % de largeur au mobile.
-     ⚠️ Les blocs de lecture gardent leurs propres largeurs max (ex. le
-     paragraphe du hero à 480px) : élargir le conteneur ne doit jamais élargir
-     une colonne de texte. */
+     Sur les colonnes de LECTURE, le choix a été tranché dans l'autre sens le
+     même jour : les brides (`max-w-[70ch]`, colonne d'article à 760px) ont été
+     retirées à la demande de Lyes, le texte suit donc la largeur et la taille du
+     corps grandit avec elle (voir `.article-prose`). Compromis assumé : la ligne
+     dépasse les 60-75 caractères du confort de lecture usuel. */
   --container: max(1280px, min(94vw, 2200px));
 }
 
