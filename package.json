@@ -81,7 +81,7 @@
     "vitest": "^3.2.7"
   },
   "pnpm": {
-    "_commentaire_overrides": "Correctifs de sécurité sur des dépendances transitives (2026-08-03). CHAQUE plage est bornée par le haut : une borne ouverte comme '>=3.15.1' laisse pnpm sauter au majeur suivant, ce qui a cassé le build (js-yaml 3 -> 4 supprime safeLoad, dont dépend gray-matter pour lire les frontmatters). Toujours écrire '>=x.y.z <majeur+1'.",
+    "_commentaire_overrides": "Correctifs de sécurité sur des dépendances transitives (2026-08-03). CHAQUE plage est bornée par le haut : une borne ouverte comme '>=3.15.1' laisse pnpm sauter au majeur suivant, ce qui a cassé le build (js-yaml 3 -> 4 supprime safeLoad, dont dépend gray-matter pour lire les frontmatters). Toujours écrire '>=x.y.z <majeur+1'. Ne PAS forcer brace-expansion en 5.x pour minimatch@3 (celui d'ESLint) : son API attend la ligne 1.x, et 5.0.9 casse le lint avec 'TypeError: expand is not a function'. La bonne correction est la 1.1.18 ci-dessous.",
     "overrides": {
       "sharp": ">=0.35.0 <0.36",
       "prismjs": ">=1.30.0 <2",
@@ -93,7 +93,6 @@
       "js-yaml@^4": ">=4.3.1 <5",
       "js-yaml@^3": ">=3.15.1 <4",
       "brace-expansion@^1": ">=1.1.18 <2",
-      "minimatch>brace-expansion": ">=5.0.9 <6",
       "vite": ">=6.4.3 <7",
       "esbuild": ">=0.25.0 <0.26",
       "@babel/core": ">=7.29.6 <8"
