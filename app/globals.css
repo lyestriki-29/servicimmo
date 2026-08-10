@@ -439,7 +439,11 @@
 }
 
 .vr2-track-a {
-  animation: vr2scrollA 38s linear infinite;
+  /* 22s au lieu de 38s (2026-08-03) : le défilement paraissait figé. La durée
+     couvre UN jeu de logos (translation de -50 %, le second jeu étant le
+     duplicata qui assure la boucle sans couture) — la diviser accélère donc
+     proportionnellement. Le survol met toujours la piste en pause. */
+  animation: vr2scrollA 22s linear infinite;
 }
 
 .vr2-marquee:hover .vr2-track {
