@@ -94,7 +94,7 @@ export async function GabaritVille({ ville }: { ville: VilleFC }) {
       <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
         <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
           <SurtitreFC>{ville.codePostal}</SurtitreFC>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[32px] font-extrabold leading-[1.06] tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[42px]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(32px,3.5vw,42px)] font-extrabold leading-[1.06] tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
             Carottage & repérage amiante/HAP à {ville.ville}
           </h1>
         </div>

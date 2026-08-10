@@ -28,7 +28,7 @@ export default async function ZonesIndexPage() {
       <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
         <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-14 md:px-8">
           <SurtitreFC>Zones d’intervention</SurtitreFC>
-          <h1 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[34px] font-extrabold leading-tight tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[44px]">
+          <h1 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[clamp(34px,3.7vw,44px)] font-extrabold leading-tight tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
             Un réseau national, au plus près de vos chantiers.
           </h1>
         </div>

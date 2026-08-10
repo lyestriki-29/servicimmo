@@ -27,7 +27,7 @@ export default function MentionsLegalesFC() {
       <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
         <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
           <SurtitreFC>Légal</SurtitreFC>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[30px] font-extrabold tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[38px]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(30px,3.2vw,38px)] font-extrabold tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
             Mentions légales
           </h1>
         </div>

@@ -36,7 +36,7 @@ export default async function ExpertisePage({ params }: Props) {
       <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
         <div className="mx-auto max-w-3xl px-6 py-12 md:px-8">
           <SurtitreFC>Expertise</SurtitreFC>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[30px] font-extrabold leading-[1.08] tracking-[-0.02em] text-[color:var(--fc-noir)] sm:text-[40px]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(30px,3.4vw,40px)] font-extrabold leading-[1.08] tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
             {expertise.titre}
           </h1>
         </div>
