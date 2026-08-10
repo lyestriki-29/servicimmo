@@ -5,11 +5,7 @@ import { ArrowRightIcon, NewspaperIcon } from "lucide-react";
 
 import { Pagination } from "@/components/marketing/pages/Pagination";
 import { loadArticlesPage } from "@/lib/content/load";
-import {
-  CATEGORIES_ARTICLE,
-  SLUG_PAR_CATEGORIE,
-  type CategorieArticle,
-} from "@/lib/content/schemas";
+import { CATEGORIES_ARTICLE, hrefActualites, type CategorieArticle } from "@/lib/content/schemas";
 
 export async function ListeArticles({
   page,
@@ -20,11 +16,8 @@ export async function ListeArticles({
   excludeSlug?: string;
   categorie?: CategorieArticle | null;
 }) {
-  const { articles, totalPages, total } = await loadArticlesPage(page, undefined, categorie);
+  const { articles, totalPages, total } = await loadArticlesPage(page, categorie);
   const visibles = articles.filter((article) => article.slug !== excludeSlug);
-  // La taxonomie est fixe : elle ne doit pas dependre des 12 articles de la page
-  // courante, sinon les rubriques changent en paginant.
-  const sujetActif = categorie ? SLUG_PAR_CATEGORIE[categorie] : undefined;
   return (
     <section className="bg-[color:var(--color-home-bg)]">
       <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16">
@@ -39,9 +32,9 @@ export async function ListeArticles({
             return (
               <Link
                 key={c ?? "tous"}
-                href={c ? `/actualites?sujet=${SLUG_PAR_CATEGORIE[c]}` : "/actualites"}
+                href={hrefActualites(1, c)}
                 aria-current={actif ? "page" : undefined}
-                className={`inline-flex min-h-11 items-center rounded-full px-4 text-[12.5px] font-semibold transition-colors ${actif ? "bg-[color:var(--color-home-ink)] text-white" : "bg-white text-[color:var(--color-home-ink)] hover:bg-[color:var(--color-home-saf-bg)]"}`}
+                className={`inline-flex min-h-11 items-center rounded-full px-4 text-[12.5px] font-semibold transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[color:var(--color-si-petrole)] ${actif ? "bg-[color:var(--color-home-ink)] text-white" : "bg-white text-[color:var(--color-home-ink)] hover:bg-[color:var(--color-home-saf-bg)]"}`}
               >
                 {c ?? "Tous les sujets"}
               </Link>
@@ -60,7 +53,7 @@ export async function ListeArticles({
                 </Link>
               ))}
             </div>
-            <Pagination actuelle={page} total={totalPages} sujet={sujetActif} />
+            <Pagination actuelle={page} total={totalPages} categorie={categorie} />
           </div>
           <aside className="h-fit bg-[color:var(--color-si-petrole)] p-6 text-white lg:sticky lg:top-[122px]"><NewspaperIcon className="h-7 w-7 text-[color:var(--color-home-saf)]" /><p className="mt-6 text-[12px] font-bold text-[color:var(--color-home-saf)]">ALERTE RÉGLEMENTAIRE</p><h3 className="mt-3 text-balance font-[family-name:var(--font-sora)] text-[24px] leading-tight font-extrabold">Une règle change ? Vérifiez votre situation avant de publier.</h3><p className="mt-4 text-[13.5px] leading-[1.7] text-white/76">DPE, amiante, location ou travaux : notre équipe vous aide à comprendre ce qui s’applique réellement à votre bien.</p><Link href="/contact" className="mt-7 inline-flex min-h-11 items-center gap-2 bg-[color:var(--color-home-saf)] px-4 text-[12.5px] font-bold text-[color:var(--color-home-ink)]">Poser une question <ArrowRightIcon className="h-4 w-4" /></Link></aside>
         </div>

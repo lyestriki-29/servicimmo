@@ -128,10 +128,30 @@ export const SLUG_PAR_CATEGORIE: Record<CategorieArticle, string> = {
   Termites: "termites",
 };
 
-/** Segment d'URL → catégorie. `null` si le paramètre est absent ou inventé. */
-export function categorieDepuisSlug(slug: string | undefined): CategorieArticle | null {
-  if (!slug) return null;
-  const trouvee = CATEGORIES_ARTICLE.find((c) => SLUG_PAR_CATEGORIE[c] === slug);
+/**
+ * Unique fabricant des URLs du fil d'actualités. Le lien était composé à deux
+ * endroits qui ne s'importent pas (les pastilles de `ListeArticles`, les numéros
+ * de `Pagination`) : renommer le paramètre, ou passer un jour aux routes dédiées
+ * `/actualites/sujet/…`, demandait deux éditions parallèles — donc une occasion
+ * d'en oublier une.
+ */
+export function hrefActualites(page: number, categorie?: CategorieArticle | null): string {
+  const base = page <= 1 ? "/actualites" : `/actualites/page/${page}`;
+  return categorie ? `${base}?sujet=${SLUG_PAR_CATEGORIE[categorie]}` : base;
+}
+
+/**
+ * Segment d'URL → catégorie. `null` si le paramètre est absent ou inventé.
+ * Accepte aussi un tableau : Next donne `string[]` quand le paramètre est
+ * répété (`?sujet=a&sujet=b`). On retient le premier plutôt que de tout
+ * refuser — un lien mal recopié affiche alors une rubrique, pas une page vide.
+ */
+export function categorieDepuisSlug(
+  slug: string | string[] | undefined,
+): CategorieArticle | null {
+  const valeur = Array.isArray(slug) ? slug[0] : slug;
+  if (!valeur) return null;
+  const trouvee = CATEGORIES_ARTICLE.find((c) => SLUG_PAR_CATEGORIE[c] === valeur);
   return trouvee ?? null;
 }
 

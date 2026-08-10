@@ -1,20 +1,17 @@
 import Link from "next/link";
 
-/** Le sujet filtré voyage avec la pagination : sans lui, la page 2 repartirait
- *  sur les 125 articles alors qu'on lisait une rubrique. */
-function hrefPage(n: number, sujet?: string): string {
-  const base = n === 1 ? "/actualites" : `/actualites/page/${n}`;
-  return sujet ? `${base}?sujet=${sujet}` : base;
-}
+import { hrefActualites, type CategorieArticle } from "@/lib/content/schemas";
 
+/** La catégorie filtrée voyage avec la pagination : sans elle, la page 2
+ *  repartirait sur les 125 articles alors qu'on lisait une rubrique. */
 export function Pagination({
   actuelle,
   total,
-  sujet,
+  categorie,
 }: {
   actuelle: number;
   total: number;
-  sujet?: string;
+  categorie?: CategorieArticle | null;
 }) {
   if (total <= 1) return null;
   const pages = Array.from({ length: total }, (_, i) => i + 1);
@@ -32,7 +29,7 @@ export function Pagination({
         ) : (
           <Link
             key={n}
-            href={hrefPage(n, sujet)}
+            href={hrefActualites(n, categorie)}
             className="rounded-[6px] border border-[color:var(--color-home-line)] bg-white px-3.5 py-2 text-[14px] font-semibold text-[color:var(--color-home-slate)] hover:text-[color:var(--color-si-petrole)]"
           >
             {n}

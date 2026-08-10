@@ -4,18 +4,19 @@ import { notFound } from "next/navigation";
 import { Ariane } from "@/components/marketing/pages/Ariane";
 import { ListeArticles } from "@/components/marketing/pages/ListeArticles";
 import { NewsLocalHero } from "@/components/marketing/pages/ValidatedPageDesigns";
-import { ARTICLES_PAR_PAGE, loadArticles } from "@/lib/content/load";
+import { loadArticlesPage } from "@/lib/content/load";
 import { categorieDepuisSlug } from "@/lib/content/schemas";
 
 type Props = {
   params: Promise<{ n: string }>;
-  searchParams: Promise<{ sujet?: string }>;
+  searchParams: Promise<{ sujet?: string | string[] }>;
 };
 
-export async function generateStaticParams() {
-  const total = Math.ceil((await loadArticles()).length / ARTICLES_PAR_PAGE);
-  return Array.from({ length: Math.max(0, total - 1) }, (_, i) => ({ n: String(i + 2) }));
-}
+// Plus de `generateStaticParams` : depuis que la page lit `searchParams` (le
+// filtre `?sujet=`), Next la rend à la demande et ne pré-génère plus rien — la
+// fonction était devenue du code mort qui laissait croire le contraire.
+// À restaurer si l'on passe un jour le filtre en routes dédiées
+// (/actualites/sujet/amiante), ce qui rendrait le statique de nouveau possible.
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { n } = await params;
@@ -30,15 +31,11 @@ export default async function ActualitesPageN({ params, searchParams }: Props) {
   const { sujet } = await searchParams;
   const categorie = categorieDepuisSlug(sujet);
   const page = Number(n);
-  const tous = await loadArticles();
-  // Le nombre de pages dépend du sous-ensemble filtré : « Termites » n'a que
-  // 3 articles, sa page 2 n'existe pas et doit répondre 404, alors que la
-  // page 2 du fil complet, elle, existe.
-  const articles = categorie ? tous.filter((a) => a.categorie === categorie) : tous;
-  const total = Math.ceil(articles.length / ARTICLES_PAR_PAGE);
-  if (!Number.isInteger(page) || page < 2 || page > total) notFound();
-  const featured = articles[(page - 1) * ARTICLES_PAR_PAGE];
-  if (!featured) notFound();
+  if (!Number.isInteger(page) || page < 2) notFound();
+  // `totalPages` vient du sous-ensemble filtré : « Termites » n'a que 3 articles,
+  // sa page 2 doit répondre 404 alors que la page 2 du fil complet existe.
+  const { featured, totalPages } = await loadArticlesPage(page, categorie);
+  if (page > totalPages || !featured) notFound();
   return (
     <>
       <NewsLocalHero featured={featured} />
