@@ -23,28 +23,41 @@ export function Hero() {
         className="pointer-events-none absolute top-[-12%] right-[-6%] z-0 h-[62%] w-[46%] rounded-[48%_52%_60%_40%/55%_48%_52%_45%] bg-[color:var(--color-home-saf-bg)] opacity-70 blur-[2px]"
       />
 
-      <div className="relative z-[1] mx-auto max-w-[var(--container,1280px)] px-6 pt-10 pb-16 md:px-8 lg:flex lg:h-full lg:flex-col lg:justify-center lg:py-8 ecran-court:lg:py-5">
-        <div className="grid items-center gap-12 md:grid-cols-[1.05fr_.95fr] ecran-court:lg:gap-6">
+      <div className="relative z-[1] mx-auto max-w-[var(--container,1280px)] px-6 pt-10 pb-16 md:px-8 lg:flex lg:h-full lg:flex-col lg:justify-center lg:py-[clamp(20px,2.6svh,32px)]">
+        {/* `lg:flex-1` : la grille RÉCLAME toute la hauteur restante au lieu de
+            se contenter de celle de son contenu. Sans ça, le hero mesurait bien
+            un écran mais son contenu flottait au milieu, d'où les grands vides
+            en haut et en bas signalés le 2026-08-03.
+            `items-stretch` n'étire que la colonne photo ; le texte reprend la
+            main avec `self-center` pour rester groupé face à elle. */}
+        <div className="grid items-center gap-[clamp(24px,4svh,48px)] md:grid-cols-[1.05fr_.95fr] lg:min-h-0 lg:flex-1 lg:items-stretch">
 
           {/* ── Colonne gauche : copy ── */}
-          <Reveal direction="left">
-            <span className="font-[family-name:var(--font-sora)] text-[13px] font-semibold tracking-[0.04em] text-[color:var(--color-home-saf-dark)]">
+          <Reveal direction="left" className="lg:self-center">
+            <span className="font-[family-name:var(--font-sora)] text-[13px] font-semibold tracking-[0.04em] text-[color:var(--color-home-saf-dark)] lg:text-[14px]">
               Diagnostic immobilier · Tours depuis 1998
             </span>
 
-            {/* 3 lignes forcées par les <br/> : à 76px le titre pèse ~210px à lui
-                seul. Sous 800px de haut il descend à 52px pour tenir. */}
-            <h1 className="mt-4 mb-6 font-[family-name:var(--font-sora)] text-[clamp(40px,5.4vw,76px)] font-extrabold leading-[1.02] tracking-[-0.03em] text-[color:var(--color-home-ink)] ecran-court:mt-2 ecran-court:mb-4 ecran-court:text-[clamp(34px,3.6vw,52px)]">
-              Vos diagnostics<br />
-              obligatoires{" "}
+            {/* Taille pilotée par la plus contraignante des deux dimensions :
+                `min(5.4vw, 7.6svh)`. La largeur seule mentait — ce qui manque sur
+                un portable 1280x641, c'est de la HAUTEUR, et le titre restait à
+                76px jusqu'à ce qu'un palier `ecran-court` le fasse chuter d'un
+                coup à 46px. Ici il décroît en continu : deux machines voisines ne
+                voient plus deux designs différents. Plancher 40px = le mobile,
+                où les deux unités deviennent minuscules.
+                Plus de <br/> forcés : à 76px « obligatoires identifiés » ne tient
+                dans AUCUNE colonne, la coupure tombait en plein milieu du mot
+                surligné. `text-balance` répartit les lignes quelle que soit la
+                taille retenue. */}
+            <h1 className="mt-[clamp(8px,1.6svh,16px)] mb-[clamp(12px,2.4svh,24px)] font-[family-name:var(--font-sora)] text-[clamp(40px,min(5.4vw,9svh),92px)] font-extrabold leading-[1.02] tracking-[-0.03em] text-balance text-[color:var(--color-home-ink)]">
+              Vos diagnostics obligatoires{" "}
               <em className="relative inline-block not-italic text-[color:var(--color-home-saf-dark)] after:absolute after:bottom-[0.08em] after:left-0 after:right-0 after:z-[-1] after:h-[0.34em] after:rounded-[3px] after:bg-[color:var(--color-home-saf)] after:opacity-30 after:content-['']">
                 identifiés
-              </em>
-              <br />
+              </em>{" "}
               en 2&nbsp;minutes
             </h1>
 
-            <p className="mb-7 max-w-[480px] font-[family-name:var(--font-inter)] text-[18.5px] leading-[1.6] text-[color:var(--color-home-muted)] ecran-court:mb-4 ecran-court:text-[16px]">
+            <p className="mb-[clamp(16px,2.8svh,28px)] max-w-[480px] font-[family-name:var(--font-inter)] text-[clamp(16px,2.2svh,20px)] leading-[1.6] text-pretty text-[color:var(--color-home-muted)] lg:max-w-[560px]">
               Vente, location, travaux : on cible précisément les diagnostics réglementaires de votre
               bien, puis on intervient vite. Devis sous 2&nbsp;h, rendez-vous sous 48&nbsp;h.
             </p>
@@ -54,14 +67,14 @@ export function Hero() {
               <button
                 type="button"
                 onClick={() => openModal()}
-                className="inline-flex items-center gap-2 rounded-[10px] border border-[color:var(--color-home-line)] bg-[color:var(--color-si-creme)] px-6 py-3.5 font-[family-name:var(--font-sora)] text-[15px] font-bold text-[color:var(--color-si-petrole)] shadow-[0_2px_10px_rgba(15,30,58,.06)] transition-colors hover:bg-white"
+                className="inline-flex items-center gap-2 rounded-[10px] border border-[color:var(--color-home-line)] bg-[color:var(--color-si-creme)] px-6 py-3.5 font-[family-name:var(--font-sora)] text-[15px] font-bold lg:text-[16px] text-[color:var(--color-si-petrole)] shadow-[0_2px_10px_rgba(15,30,58,.06)] transition-colors hover:bg-white"
               >
                 Commencer mon devis
                 <ArrowRightIcon className="h-4 w-4" aria-hidden />
               </button>
               <a
                 href="tel:0247470123"
-                className="inline-flex items-center gap-2.5 font-[family-name:var(--font-sora)] text-[17px] font-bold text-[color:var(--color-home-ink)] [&_svg]:text-[color:var(--color-home-saf-dark)]"
+                className="inline-flex items-center gap-2.5 font-[family-name:var(--font-sora)] text-[17px] font-bold lg:text-[18px] text-[color:var(--color-home-ink)] [&_svg]:text-[color:var(--color-home-saf-dark)]"
               >
                 <PhoneIcon className="h-4 w-4" aria-hidden />
                 02 47 47 01 23
@@ -70,28 +83,32 @@ export function Hero() {
 
             {/* Meta badges */}
             <div className="flex flex-wrap gap-[22px]">
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] [&_svg]:text-[color:var(--color-home-saf-dark)]">
+              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
                 <ZapIcon className="h-[14px] w-[14px]" aria-hidden /> Devis sous 2 h
               </span>
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] [&_svg]:text-[color:var(--color-home-saf-dark)]">
+              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
                 <ClockIcon className="h-[14px] w-[14px]" aria-hidden /> Intervention sous 48 h
               </span>
-              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] [&_svg]:text-[color:var(--color-home-saf-dark)]">
+              <span className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[13.5px] font-semibold text-[color:var(--color-home-ink)] lg:text-[14.5px] [&_svg]:text-[color:var(--color-home-saf-dark)]">
                 <MapPinIcon className="h-[14px] w-[14px]" aria-hidden /> Indre-et-Loire (37)
               </span>
             </div>
           </Reveal>
 
           {/* ── Colonne droite : visuel ── */}
-          <Reveal direction="right">
-            <div className="relative">
+          <Reveal direction="right" className="lg:h-full">
+            <div className="relative lg:h-full">
+              {/* Hauteur relative à l'écran, plus figée à 560px : le hero mesure
+                  `100svh - 118px`, donc sous ~678px de haut l'image était PLUS
+                  GRANDE que la boîte qui la contient et se faisait couper en bas
+                  (visible sur les captures d'un portable 1280x641). */}
               <Image
                 src="/img/si/hero3.jpg"
                 alt="Bien immobilier diagnostiqué à Tours"
                 width={1600}
                 height={1063}
                 priority
-                className="h-[560px] w-full rounded-[32px] object-cover [clip-path:polygon(14%_0,100%_0,100%_100%,0_100%)] max-[880px]:[clip-path:none] max-[880px]:h-[340px]"
+                className="h-[clamp(300px,54svh,560px)] w-full rounded-[32px] object-cover lg:h-full [clip-path:polygon(14%_0,100%_0,100%_100%,0_100%)] max-[880px]:[clip-path:none] max-[880px]:h-[340px]"
               />
               {/* Encart confiance + count-up */}
               <Reveal direction="zoom" className="absolute bottom-12 -left-6">

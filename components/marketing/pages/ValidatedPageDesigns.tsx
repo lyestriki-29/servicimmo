@@ -610,7 +610,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
           l'ancien voile le titre anis tombait à 2,33:1 — sous le seuil AA de 3:1
           même pour du grand texte. À 50 %, le titre remonte à 3,38:1. */}
       <div className="absolute inset-0 bg-[color:var(--color-home-ink)]/50" />
-      <div className="relative mx-auto flex min-h-[440px] max-w-[var(--container,1280px)] flex-col justify-between px-6 py-10 text-white md:px-8 lg:h-full lg:min-h-0 lg:py-12">
+      <div className="relative mx-auto flex min-h-[440px] max-w-[var(--container,1280px)] flex-col justify-between px-6 py-10 text-white md:px-8 lg:h-full lg:min-h-0 lg:py-[clamp(20px,2.8svh,48px)]">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <p className="inline-flex items-center gap-2 rounded-full bg-white/90 px-4 py-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <MapPinIcon className="h-4 w-4" /> Diagnostic immobilier local
@@ -620,12 +620,15 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
           </p>
         </div>
         <div className="max-w-[960px]">
-          <h1 className="font-[family-name:var(--font-sora)] text-[clamp(42px,6.5vw,84px)] leading-[.98] font-extrabold tracking-[-0.035em] text-balance">
+          {/* `min(vw, svh)` : ce hero n'avait AUCUN garde-fou en hauteur — sur un
+              portable court, 84px de titre poussaient le bloc sous la ligne de
+              flottaison. La hauteur peut désormais commander, en continu. */}
+          <h1 className="font-[family-name:var(--font-sora)] text-[clamp(38px,min(6.5vw,9.5svh),84px)] leading-[.98] font-extrabold tracking-[-0.035em] text-balance">
             Votre diagnostiqueur à{" "}
             <span className="text-[color:var(--color-home-saf)]">{ville.ville}</span>
           </h1>
           <div className="mt-6 flex flex-wrap items-end justify-between gap-6 border-t border-white/35 pt-5">
-            <p className="max-w-[58ch] text-[16px] leading-relaxed text-white/84">
+            <p className="max-w-[58ch] text-[16px] leading-relaxed text-white/84 lg:text-[17px]">
               Des techniciens certifiés qui connaissent le secteur et interviennent sous 48 h pour
               vos ventes, locations et travaux.
             </p>

@@ -50,9 +50,14 @@ export function ZonesFable({ villes }: { villes: ZoneCity[] }) {
 
   return (
     <div className="bg-white">
-      {/* La carte EST la page : plein cadre, panneaux flottants par-dessus */}
-      <section className="relative flex flex-col lg:block lg:h-[760px]">
-        <div className="relative order-2 h-[440px] lg:absolute lg:inset-0 lg:order-none lg:h-auto">
+      {/* La carte EST la page : plein cadre, panneaux flottants par-dessus.
+          Hauteur = l'écran moins le header, comme les autres heros vitrine. Elle
+          était figée à 760px (2026-08-03) : elle débordait sous la ligne de
+          flottaison sur un portable et laissait une bande vide sur un grand
+          écran. La carte étant en `absolute inset-0` et le panneau ancré
+          top/bottom, les deux suivent la nouvelle hauteur sans autre réglage. */}
+      <section className="relative flex flex-col lg:block lg:h-[var(--hero-max-h)]">
+        <div className="relative order-2 h-[clamp(320px,52svh,440px)] lg:absolute lg:inset-0 lg:order-none lg:h-auto">
           <GoogleMapEmbed
             query={
               communeActive
