@@ -447,8 +447,12 @@
 }
 
 /* Corps d'article des pages intérieures (services, villes, actualités) */
+/* Taille du corps proportionnelle à la largeur (2026-08-03). Les colonnes de
+   lecture ne sont plus plafonnées : plus la ligne est longue, plus les lettres
+   doivent être grandes pour que l'œil retrouve le début de la ligne suivante.
+   15,5px reste le plancher (le rendu validé sur écran ≤ 1480px de large). */
 .article-prose {
-  font-size: 15.5px;
+  font-size: clamp(15.5px, 1.05vw, 18px);
   line-height: 1.75;
   color: var(--color-home-slate);
 }

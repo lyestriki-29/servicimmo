@@ -212,7 +212,7 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
   return (
     <section className="bg-white">
       {/* Page CONTENU (une fiche pratique) : en-tête compact, on vient lire. */}
-      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-16 ecran-court:lg:gap-6 ecran-court:lg:py-7">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] gap-8 px-6 py-12 md:px-8 lg:grid-cols-[240px_minmax(0,1fr)_300px] lg:py-[clamp(28px,5svh,64px)]">
         <aside className="order-2 border-t border-[color:var(--color-home-line)] pt-6 lg:order-1 lg:border-t-0 lg:border-r lg:pt-0 lg:pr-8">
           <KickerMono>Fiche pratique</KickerMono>
           <div className="mt-8 space-y-7">
@@ -230,7 +230,7 @@ export function ServiceAtlasHero({ service }: { service: Service }) {
         </aside>
         <div className="order-1 lg:order-2">
           <KickerMono>Diagnostic réglementaire</KickerMono>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(38px,5vw,66px)] leading-[1.01] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.6vw,46px)]">
+          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(30px,min(5vw,7svh),66px)] leading-[1.01] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
             <TitreAccentue titre={service.titre} accent={service.titreAccent} />
           </h1>
           <p className="mt-6 max-w-[60ch] text-[17px] leading-[1.7] text-[color:var(--color-home-muted-2)]">
@@ -296,8 +296,14 @@ export function ServiceMissionContent({ service }: { service: Service }) {
                 Ce qu’il faut savoir avant l’intervention
               </h2>
             </div>
+            {/* Bride de 70 caractères retirée le 2026-08-03 à la demande de
+                Lyes : depuis l'élargissement du conteneur, elle laissait ~750px
+                de vide entre la fin des lignes et l'encart de droite. Les
+                paragraphes occupent désormais toute leur colonne, comme les
+                intertitres. Contrepartie assumée : la ligne s'allonge bien
+                au-delà du confort de lecture usuel (60-75 caractères). */}
             <div
-              className="article-prose mt-7 border-y border-[color:var(--color-home-line)] py-2 [&_h2]:mt-9 [&_h2]:text-[23px] [&_h2]:font-extrabold [&_h2]:tracking-[-0.02em] [&_p]:max-w-[70ch]"
+              className="article-prose mt-7 border-y border-[color:var(--color-home-line)] py-2 [&_h2]:mt-9 [&_h2]:text-[23px] [&_h2]:font-extrabold [&_h2]:tracking-[-0.02em]"
               dangerouslySetInnerHTML={{ __html: service.html }}
             />
             <div className="mt-10">
@@ -309,7 +315,7 @@ export function ServiceMissionContent({ service }: { service: Service }) {
                   <summary className="cursor-pointer list-none font-[family-name:var(--font-sora)] text-[14px] font-bold text-[color:var(--color-home-ink)]">
                     Quels documents préparer ?
                   </summary>
-                  <p className="mt-3 max-w-[68ch] text-[13.5px] leading-relaxed text-[color:var(--color-home-muted-2)]">
+                  <p className="mt-3 text-[13.5px] leading-relaxed text-[color:var(--color-home-muted-2)]">
                     Les anciens diagnostics, factures de travaux et références des équipements
                     peuvent aider le technicien à préparer un rapport plus précis.
                   </p>
@@ -318,7 +324,7 @@ export function ServiceMissionContent({ service }: { service: Service }) {
                   <summary className="cursor-pointer list-none font-[family-name:var(--font-sora)] text-[14px] font-bold text-[color:var(--color-home-ink)]">
                     Quand recevrai-je le rapport ?
                   </summary>
-                  <p className="mt-3 max-w-[68ch] text-[13.5px] leading-relaxed text-[color:var(--color-home-muted-2)]">
+                  <p className="mt-3 text-[13.5px] leading-relaxed text-[color:var(--color-home-muted-2)]">
                     Le délai est confirmé lors de la prise de rendez-vous. L’équipe reste disponible
                     après l’envoi pour répondre à vos questions.
                   </p>
@@ -363,8 +369,8 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
           message. Il ne remplit donc PAS l'écran — on doit voir que la liste
           commence, sinon il faudrait scroller pour atteindre le 1er article,
           soit la frustration qu'on corrige, déplacée d'un cran. */}
-      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-16 ecran-court:lg:py-6">
-        <div className="border-y border-[color:var(--color-home-line)] py-5 ecran-court:py-3">
+      <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8 lg:py-[clamp(28px,5svh,64px)]">
+        <div className="border-y border-[color:var(--color-home-line)] py-[clamp(12px,2svh,20px)]">
           <div className="flex flex-wrap items-baseline justify-between gap-3">
             <p className="text-[12px] font-bold text-[color:var(--color-si-petrole)]">
               Veille réglementaire
@@ -373,21 +379,21 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
               Une veille locale depuis 2017
             </p>
           </div>
-          <h1 className="mt-5 max-w-[1000px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.4vw,70px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)] ecran-court:mt-3 ecran-court:text-[clamp(30px,3.4vw,42px)]">
+          <h1 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(30px,min(5.4vw,7.5svh),70px)] leading-[1.02] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
             Ce qui change pour{" "}
             <span className="text-[color:var(--color-home-saf-dark)]">votre bien immobilier</span>
           </h1>
         </div>
-        <article className="mt-8 grid overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] text-white lg:grid-cols-[1.2fr_.8fr] ecran-court:mt-5">
+        <article className="mt-[clamp(20px,3.4svh,32px)] grid overflow-hidden rounded-[16px] bg-[color:var(--color-home-ink)] text-white lg:grid-cols-[1.2fr_.8fr]">
           <Image
             src="/img/si/blog1.jpg"
             alt="Thermostat programmable d’un logement, réglé sur 19 °C"
             width={800}
             height={600}
-            className="h-[280px] w-full object-cover lg:h-[360px] ecran-court:lg:h-[210px]"
+            className="h-[280px] w-full object-cover lg:h-[clamp(210px,38svh,360px)]"
             priority
           />
-          <div className="flex flex-col justify-between p-6 sm:p-8 ecran-court:lg:p-5">
+          <div className="flex flex-col justify-between p-6 sm:p-[clamp(20px,3.4svh,32px)]">
             <div>
               <p className="flex items-center gap-2 text-[12px] font-semibold text-[color:var(--color-home-saf)]">
                 <CalendarDaysIcon className="h-4 w-4" />{" "}
@@ -396,16 +402,16 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
               {/* C'est CE titre qui dicte la hauteur de la carte, pas l'image :
                   à 38px dans une colonne étroite il casse en 6 lignes (255px
                   mesurés). D'où la réduction et le `line-clamp` sur écran court. */}
-              <h2 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(24px,3vw,38px)] leading-[1.12] font-bold text-balance ecran-court:mt-3 ecran-court:line-clamp-3 ecran-court:text-[clamp(20px,2vw,24px)]">
+              <h2 className="mt-5 font-[family-name:var(--font-sora)] text-[clamp(20px,min(3vw,4.4svh),38px)] leading-[1.12] font-bold text-balance">
                 {featured.titre}
               </h2>
-              <p className="mt-4 text-[14px] leading-relaxed text-white/74 ecran-court:mt-3 ecran-court:line-clamp-2">
+              <p className="mt-4 text-[14px] leading-relaxed text-pretty text-white/74">
                 {featured.extrait}
               </p>
             </div>
             <Link
               href={`/actualites/${featured.slug}`}
-              className="mt-8 inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-[color:var(--color-home-saf)] ecran-court:mt-4"
+              className="mt-[clamp(16px,3svh,32px)] inline-flex min-h-11 items-center gap-2 text-[13px] font-bold text-[color:var(--color-home-saf)]"
             >
               Lire le décryptage <ArrowRightIcon className="h-4 w-4" />
             </Link>
@@ -419,12 +425,14 @@ export function NewsLocalHero({ featured }: { featured: Article }) {
 export function ArticleExpertHero({ article }: { article: Article }) {
   const minutes = Math.max(3, Math.ceil(stripHtml(article.html).split(/\s+/).length / 220));
   return (
-    <section className="bg-[color:var(--color-si-creme)] lg:h-[var(--hero-max-h)]">
-      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:h-full lg:grid-cols-[minmax(0,1fr)_410px]">
-        {/* `overflow-y-auto` = filet, pas béquille : la hauteur étant fixe, un
-            titre d'article exceptionnellement long scrolle ici au lieu d'être
-            rogné. En temps normal le contenu tient — d'où le py resserré. */}
-        <div className="flex min-w-0 flex-col justify-between overflow-y-auto px-6 py-10 md:px-8 lg:py-14 ecran-court:lg:py-6">
+    // Hauteur = un MINIMUM, plus un maximum (2026-08-03). Elle était figée, si
+    // bien qu'un titre de 145 caractères débordait et déclenchait une barre de
+    // scroll À L'INTÉRIEUR du hero — le filet `overflow-y-auto` posé pour ça.
+    // Le hero fait donc un écran dans la quasi-totalité des cas et s'allonge
+    // quand le titre l'exige : on scrolle la page, jamais un bloc.
+    <section className="bg-[color:var(--color-si-creme)] lg:min-h-[var(--hero-max-h)]">
+      <div className="mx-auto grid max-w-[var(--container,1280px)] lg:grid-cols-[minmax(0,1fr)_410px]">
+        <div className="flex min-w-0 flex-col justify-between px-6 py-10 md:px-8 lg:py-[clamp(24px,3.4svh,56px)]">
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[12px] font-bold text-[color:var(--color-si-petrole)]">
             <span>
               {article.categorie ?? "Décryptage"} ·{" "}
@@ -438,10 +446,13 @@ export function ArticleExpertHero({ article }: { article: Article }) {
             <p className="mb-5 inline-flex bg-[color:var(--color-home-ink)] px-4 py-2 font-[family-name:var(--font-sora)] text-[11px] font-extrabold tracking-[.08em] text-white">
               NOTE D’EXPERTISE · RÉGLEMENTATION
             </p>
-            <h1 className="max-w-[880px] font-[family-name:var(--font-sora)] text-[clamp(38px,5.2vw,70px)] leading-[.98] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
+            {/* Plus de `max-w-[880px]` : ce plafond datait du conteneur à 1280px.
+                Dans une colonne devenue ~1420px, il cassait le titre en 6 lignes
+                en laissant 540px vides à sa droite. */}
+            <h1 className="font-[family-name:var(--font-sora)] text-[clamp(34px,min(5.2vw,8svh),70px)] leading-[.98] font-extrabold tracking-[-0.035em] text-balance text-[color:var(--color-home-ink)]">
               {article.titre}
             </h1>
-            <p className="mt-7 max-w-[62ch] text-[16px] leading-[1.7] text-[color:var(--color-home-muted-2)]">
+            <p className="mt-7 text-[16px] leading-[1.7] text-pretty text-[color:var(--color-home-muted-2)] lg:text-[17px]">
               {article.extrait}
             </p>
           </div>
@@ -497,13 +508,17 @@ export function ArticleExpertContent({
             </p>
           </aside>
         )}
-        <div className="grid gap-12 lg:grid-cols-[minmax(0,760px)_280px] lg:justify-between">
+        {/* Colonne de lecture en `1fr` et non plafonnée à 760px : depuis
+            l'élargissement du conteneur, ce plafond laissait une bande vide
+            entre la fin des lignes et le sommaire. Le corps grandit avec la
+            colonne (voir `.article-prose` dans globals.css). */}
+        <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_280px]">
           <article>
             <p className="border-y border-[color:var(--color-home-line)] py-6 text-[18px] leading-[1.75] font-medium text-[color:var(--color-home-ink)]">
               {article.extrait}
             </p>
             <div
-              className="article-prose mt-8 [&_h2]:scroll-mt-32 [&_h2]:text-[clamp(22px,2.6vw,30px)] [&_h2]:leading-tight [&_h2]:font-extrabold [&_h2]:tracking-[-0.02em] [&_h2]:text-balance [&_h2]:text-[color:var(--color-home-ink)] [&_h3]:mt-7 [&_p]:max-w-[72ch]"
+              className="article-prose mt-8 [&_h2]:scroll-mt-32 [&_h2]:text-[clamp(22px,2.6vw,30px)] [&_h2]:leading-tight [&_h2]:font-extrabold [&_h2]:tracking-[-0.02em] [&_h2]:text-balance [&_h2]:text-[color:var(--color-home-ink)] [&_h3]:mt-7"
               dangerouslySetInnerHTML={{ __html: prepared.html }}
             />
             <footer className="mt-9 grid gap-5 border-y border-[color:var(--color-home-line)] py-7 sm:grid-cols-[1fr_auto] sm:items-center">
@@ -619,7 +634,7 @@ export function CityLocalHero({ ville }: { ville: Ville }) {
             {distance === null ? "Notre agence est ici" : `À ${distance} km de notre agence de Tours`}
           </p>
         </div>
-        <div className="max-w-[960px]">
+        <div>
           {/* `min(vw, svh)` : ce hero n'avait AUCUN garde-fou en hauteur — sur un
               portable court, 84px de titre poussaient le bloc sous la ligne de
               flottaison. La hauteur peut désormais commander, en continu. */}
@@ -817,7 +832,7 @@ export function LegalHero({
         </div>
         <div className="mt-9 grid gap-10 lg:grid-cols-[1fr_420px] lg:items-end">
           <div>
-            <h1 className="max-w-[850px] font-[family-name:var(--font-sora)] text-[clamp(42px,5.8vw,76px)] leading-[.98] font-extrabold tracking-[-0.04em] text-balance">
+            <h1 className="font-[family-name:var(--font-sora)] text-[clamp(38px,min(5.8vw,8.5svh),76px)] leading-[.98] font-extrabold tracking-[-0.04em] text-balance">
               {title}
             </h1>
             <p className="mt-6 max-w-[62ch] text-[16px] leading-[1.7] text-white/74">
