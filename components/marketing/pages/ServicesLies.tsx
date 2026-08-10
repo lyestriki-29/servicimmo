@@ -19,9 +19,9 @@ export async function ServicesLies({ slugActuel }: { slugActuel: string }) {
             <Link
               key={s.slug}
               href={`/services/${s.slug}`}
-              className="flex min-h-20 items-start gap-3 bg-white p-4 transition-colors hover:bg-[color:var(--color-home-saf-bg)]"
+              className="flex min-h-20 items-center justify-center gap-3 bg-white p-4 text-center transition-colors hover:bg-[color:var(--color-home-saf-bg)]"
             >
-              <Icone className="mt-[2px] h-5 w-5 shrink-0 text-[color:var(--color-si-petrole)]" aria-hidden />
+              <Icone className="h-5 w-5 shrink-0 text-[color:var(--color-si-petrole)]" aria-hidden />
               <span className="font-[family-name:var(--font-sora)] text-[14.5px] font-semibold text-[color:var(--color-home-ink)]">
                 {s.titre}
               </span>
