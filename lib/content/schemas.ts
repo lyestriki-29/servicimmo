@@ -111,6 +111,30 @@ export const CATEGORIES_ARTICLE = [
 
 export type CategorieArticle = (typeof CATEGORIES_ARTICLE)[number];
 
+/**
+ * Correspondance libellé ↔ segment d'URL du filtre (`/actualites?sujet=…`).
+ * Écrite à la main plutôt que dérivée par une fonction de slug : les libellés
+ * portent accents, esperluettes et espaces, et une URL doit rester stable même
+ * si l'on reformule un libellé un jour. Table figée = liens qui ne cassent pas.
+ */
+export const SLUG_PAR_CATEGORIE: Record<CategorieArticle, string> = {
+  "DPE & énergie": "dpe-energie",
+  Amiante: "amiante",
+  "Location & vente": "location-vente",
+  "Risques naturels": "risques-naturels",
+  "Électricité & gaz": "electricite-gaz",
+  "Profession & marché": "profession-marche",
+  Plomb: "plomb",
+  Termites: "termites",
+};
+
+/** Segment d'URL → catégorie. `null` si le paramètre est absent ou inventé. */
+export function categorieDepuisSlug(slug: string | undefined): CategorieArticle | null {
+  if (!slug) return null;
+  const trouvee = CATEGORIES_ARTICLE.find((c) => SLUG_PAR_CATEGORIE[c] === slug);
+  return trouvee ?? null;
+}
+
 export const ArticleFrontmatterSchema = z
   .object({
     slug,

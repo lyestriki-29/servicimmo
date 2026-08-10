@@ -5,8 +5,12 @@ import { Ariane } from "@/components/marketing/pages/Ariane";
 import { ListeArticles } from "@/components/marketing/pages/ListeArticles";
 import { NewsLocalHero } from "@/components/marketing/pages/ValidatedPageDesigns";
 import { ARTICLES_PAR_PAGE, loadArticles } from "@/lib/content/load";
+import { categorieDepuisSlug } from "@/lib/content/schemas";
 
-type Props = { params: Promise<{ n: string }> };
+type Props = {
+  params: Promise<{ n: string }>;
+  searchParams: Promise<{ sujet?: string }>;
+};
 
 export async function generateStaticParams() {
   const total = Math.ceil((await loadArticles()).length / ARTICLES_PAR_PAGE);
@@ -21,10 +25,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default async function ActualitesPageN({ params }: Props) {
+export default async function ActualitesPageN({ params, searchParams }: Props) {
   const { n } = await params;
+  const { sujet } = await searchParams;
+  const categorie = categorieDepuisSlug(sujet);
   const page = Number(n);
-  const articles = await loadArticles();
+  const tous = await loadArticles();
+  // Le nombre de pages dépend du sous-ensemble filtré : « Termites » n'a que
+  // 3 articles, sa page 2 n'existe pas et doit répondre 404, alors que la
+  // page 2 du fil complet, elle, existe.
+  const articles = categorie ? tous.filter((a) => a.categorie === categorie) : tous;
   const total = Math.ceil(articles.length / ARTICLES_PAR_PAGE);
   if (!Number.isInteger(page) || page < 2 || page > total) notFound();
   const featured = articles[(page - 1) * ARTICLES_PAR_PAGE];
@@ -33,7 +43,7 @@ export default async function ActualitesPageN({ params }: Props) {
     <>
       <NewsLocalHero featured={featured} />
       <Ariane segments={[{ label: "Actualités", href: "/actualites" }]} />
-      <ListeArticles page={page} excludeSlug={featured.slug} />
+      <ListeArticles page={page} excludeSlug={featured.slug} categorie={categorie} />
     </>
   );
 }

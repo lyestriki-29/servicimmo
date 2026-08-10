@@ -11,6 +11,7 @@ import {
   ServiceFrontmatterSchema,
   VilleFrontmatterSchema,
   type Article,
+  type CategorieArticle,
   type Service,
   type Ville,
 } from "@/lib/content/schemas";
@@ -73,12 +74,26 @@ export async function getArticle(slug: string, baseDir?: string): Promise<Articl
 
 export const ARTICLES_PAR_PAGE = 12;
 
+/**
+ * Une page d'articles, éventuellement restreinte à une catégorie.
+ *
+ * Le filtre s'applique AVANT la pagination : sans quoi il ne trierait que les
+ * 12 articles de la page courante et annoncerait « Amiante » sur un corpus de
+ * 125 — le piège déjà corrigé sur l'affichage des rubriques le 2026-07-17.
+ * `totalPages` suit donc le sous-ensemble filtré.
+ */
 export async function loadArticlesPage(
   page: number,
   baseDir?: string,
-): Promise<{ articles: Article[]; totalPages: number }> {
+  categorie?: CategorieArticle | null,
+): Promise<{ articles: Article[]; totalPages: number; total: number }> {
   const tous = await loadArticles(baseDir);
-  const totalPages = Math.max(1, Math.ceil(tous.length / ARTICLES_PAR_PAGE));
+  const retenus = categorie ? tous.filter((a) => a.categorie === categorie) : tous;
+  const totalPages = Math.max(1, Math.ceil(retenus.length / ARTICLES_PAR_PAGE));
   const debut = (page - 1) * ARTICLES_PAR_PAGE;
-  return { articles: tous.slice(debut, debut + ARTICLES_PAR_PAGE), totalPages };
+  return {
+    articles: retenus.slice(debut, debut + ARTICLES_PAR_PAGE),
+    totalPages,
+    total: retenus.length,
+  };
 }

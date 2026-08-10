@@ -5,6 +5,7 @@ import { describe, expect, it } from "vitest";
 
 import { getService, loadArticles, loadArticlesPage, loadServices } from "../load";
 import { renderMarkdown } from "../markdown";
+import { CATEGORIES_ARTICLE, SLUG_PAR_CATEGORIE, categorieDepuisSlug } from "../schemas";
 
 const FIXTURES = path.join(path.dirname(fileURLToPath(import.meta.url)), "fixtures");
 
@@ -25,9 +26,39 @@ describe("lib/content", () => {
   });
 
   it("pagine les articles", async () => {
-    const { articles, totalPages } = await loadArticlesPage(1, FIXTURES);
+    const { articles, totalPages, total } = await loadArticlesPage(1, FIXTURES);
     expect(totalPages).toBe(1);
     expect(articles).toHaveLength(2);
+    expect(total).toBe(2);
+  });
+
+  it("filtre par catégorie AVANT de paginer", async () => {
+    const { articles, total } = await loadArticlesPage(1, FIXTURES, "DPE & énergie");
+    expect(articles.map((a) => a.slug)).toEqual(["a2"]);
+    // `total` doit décrire le sous-ensemble filtré, pas le corpus entier :
+    // c'est lui qui dit combien de pages existent pour cette rubrique.
+    expect(total).toBe(1);
+  });
+
+  it("sans catégorie, ne filtre rien", async () => {
+    const { total } = await loadArticlesPage(1, FIXTURES, null);
+    expect(total).toBe(2);
+  });
+
+  it("traduit les segments d'URL du filtre, et rejette les inventés", () => {
+    expect(categorieDepuisSlug("dpe-energie")).toBe("DPE & énergie");
+    expect(categorieDepuisSlug("electricite-gaz")).toBe("Électricité & gaz");
+    expect(categorieDepuisSlug("rubrique-fantome")).toBeNull();
+    expect(categorieDepuisSlug(undefined)).toBeNull();
+  });
+
+  it("donne un slug d'URL à chaque catégorie, sans doublon", () => {
+    const slugs = CATEGORIES_ARTICLE.map((c) => SLUG_PAR_CATEGORIE[c]);
+    expect(slugs.filter(Boolean)).toHaveLength(CATEGORIES_ARTICLE.length);
+    expect(new Set(slugs).size).toBe(CATEGORIES_ARTICLE.length);
+    // Un slug accentué ou espacé casserait le lien : on le vérifie ici plutôt
+    // que de le découvrir sur une URL partagée.
+    for (const s of slugs) expect(s).toMatch(/^[a-z0-9-]+$/);
   });
 
   it("rend le markdown en HTML", () => {
