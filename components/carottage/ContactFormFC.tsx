@@ -1,6 +1,6 @@
 "use client";
 
-import { useActionState, useEffect, useRef } from "react";
+import { useActionState, useState } from "react";
 
 import { soumettreContact } from "@/app/carottage/contact/actions";
 import type { ContactState } from "@/app/carottage/contact/schema";
@@ -13,14 +13,18 @@ export function ContactFormFC() {
   const [state, formAction, pending] = useActionState<ContactState, FormData>(soumettreContact, {
     status: "idle",
   });
-  // Horodatage anti-bot posé à l'hydratation via le DOM : le rendu reste pur.
-  const renderedAtRef = useRef<HTMLInputElement>(null);
-
-  useEffect(() => {
-    if (renderedAtRef.current) renderedAtRef.current.value = String(Date.now());
-  }, []);
+  // Horodatage anti-bot calculé UNE FOIS via l'initialiseur paresseux de
+  // useState — pas dans un champ du DOM : React 19 réinitialise le <form>
+  // après chaque action, ce qui remettrait un champ caché à zéro et ferait
+  // jeter en silence la soumission suivante. La valeur qui compte est celle de
+  // l'hydratation côté client (React rejoue l'initialiseur à ce moment-là),
+  // pas celle du rendu serveur, jamais utilisée pour le calcul du délai.
+  const [montage] = useState(() => Date.now());
 
   const err = (champ: string) => (state.status === "error" ? state.fieldErrors?.[champ] : undefined);
+  // Idem : sans réinjection, une simple faute de frappe sur l'email effacerait
+  // tout le message déjà rédigé (React 19 vide le formulaire après chaque action).
+  const val = (champ: string) => (state.status === "error" ? (state.valeurs?.[champ] ?? "") : "");
 
   if (state.status === "success") {
     return (
@@ -36,7 +40,13 @@ export function ContactFormFC() {
   }
 
   return (
-    <form action={formAction} className="grid gap-4">
+    <form
+      action={(formData) => {
+        formData.set("renderedAt", String(montage));
+        formAction(formData);
+      }}
+      className="grid gap-4"
+    >
       {/* Honeypot (masqué visuellement + a11y) */}
       <input
         type="text"
@@ -46,13 +56,19 @@ export function ContactFormFC() {
         aria-hidden
         className="absolute left-[-9999px] h-0 w-0 opacity-0"
       />
-      <input ref={renderedAtRef} type="hidden" name="renderedAt" defaultValue="0" />
 
       <div>
         <label className="sr-only" htmlFor="contact-nom">
           Votre nom
         </label>
-        <input id="contact-nom" name="nom" type="text" placeholder="Votre nom" className={CHAMP} />
+        <input
+          id="contact-nom"
+          name="nom"
+          type="text"
+          placeholder="Votre nom"
+          defaultValue={val("nom")}
+          className={CHAMP}
+        />
         {err("nom") && <p className="mt-1.5 text-[12.5px] text-[#e9a4a6]">{err("nom")}</p>}
       </div>
 
@@ -65,6 +81,7 @@ export function ContactFormFC() {
           name="email"
           type="email"
           placeholder="Votre email"
+          defaultValue={val("email")}
           className={CHAMP}
         />
         {err("email") && <p className="mt-1.5 text-[12.5px] text-[#e9a4a6]">{err("email")}</p>}
@@ -74,7 +91,14 @@ export function ContactFormFC() {
         <label className="sr-only" htmlFor="contact-sujet">
           Sujet
         </label>
-        <input id="contact-sujet" name="sujet" type="text" placeholder="Sujet" className={CHAMP} />
+        <input
+          id="contact-sujet"
+          name="sujet"
+          type="text"
+          placeholder="Sujet"
+          defaultValue={val("sujet")}
+          className={CHAMP}
+        />
         {err("sujet") && <p className="mt-1.5 text-[12.5px] text-[#e9a4a6]">{err("sujet")}</p>}
       </div>
 
@@ -87,6 +111,7 @@ export function ContactFormFC() {
           name="message"
           rows={6}
           placeholder="Votre message"
+          defaultValue={val("message")}
           className={`${CHAMP} resize-y`}
         />
         {err("message") && <p className="mt-1.5 text-[12.5px] text-[#e9a4a6]">{err("message")}</p>}

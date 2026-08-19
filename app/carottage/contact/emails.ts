@@ -19,7 +19,8 @@ export function emailContactInterne(d: ContactInput): { subject: string; html: s
     )
     .join("");
   return {
-    subject: `Nouveau message — ${d.sujet}`,
+    // Sauts de ligne retirés : un objet multiligne est tronqué ou rejeté par le relais.
+    subject: `Nouveau message — ${d.sujet.replace(/[\r\n]+/g, " ")}`,
     html: cadre(
       `<h2 style="margin:0 0 16px;font-size:18px;">Nouveau message de contact</h2><table style="font-size:14px;border-collapse:collapse;">${lignes}</table>`,
     ),

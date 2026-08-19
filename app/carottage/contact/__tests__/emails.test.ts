@@ -22,8 +22,12 @@ describe("emails contact — échappement HTML des saisies", () => {
     expect(emailContactInterne(message).html).toContain("Ligne 1<br/>Ligne 2");
   });
 
-  it("le sujet saisi apparaît échappé dans l'objet de l'email interne", () => {
-    expect(emailContactInterne(message).subject).toContain("Devis");
+  it("un saut de ligne dans le sujet ne casse pas l'objet de l'email (repli d'en-tête)", () => {
+    const sujetMultiligne: ContactInput = { ...message, sujet: "Devis voirie\nOrléans mars 2027" };
+    const { subject } = emailContactInterne(sujetMultiligne);
+    expect(subject).not.toContain("\n");
+    expect(subject).not.toContain("\r");
+    expect(subject).toContain("Devis voirie Orléans mars 2027");
   });
 
   it("l'accusé de réception échappe le nom et le sujet", () => {

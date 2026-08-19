@@ -5,26 +5,42 @@ import { getCarottageEmailInternal, sendTransactionalEmail } from "@/lib/brevo/c
 import { emailContactAccuseReception, emailContactInterne } from "./emails";
 import { ContactSchema, DELAI_MIN_MS, type ContactState } from "./schema";
 
+/** `FormData.get` rend `File | string | null` : un champ non textuel ne doit pas jeter. */
+function texte(formData: FormData, champ: string): string {
+  const valeur = formData.get(champ);
+  return typeof valeur === "string" ? valeur.trim() : "";
+}
+
+/**
+ * Le délai n'est un signal de bot que s'il est mesurable ET plausible. Un
+ * horodatage absent (JS désactivé, soumission avant hydratation) ou négatif
+ * (horloge du visiteur en avance sur le serveur) ne prouve rien : refuser dans
+ * ces cas ferait perdre des messages légitimes sans que personne ne le sache.
+ */
+function soumissionTropRapide(formData: FormData): boolean {
+  const rendu = Number(formData.get("renderedAt") ?? 0);
+  if (!Number.isFinite(rendu) || rendu <= 0) return false;
+  const ecoule = Date.now() - rendu;
+  return ecoule >= 0 && ecoule < DELAI_MIN_MS;
+}
+
 export async function soumettreContact(
   _prev: ContactState,
   formData: FormData,
 ): Promise<ContactState> {
-  // Anti-spam 1 : honeypot (champ caché "site" ; un humain le laisse vide).
-  if ((formData.get("site") as string)?.trim()) {
-    return { status: "success" }; // faux succès : on ne prévient pas le bot.
-  }
-  // Anti-spam 2 : délai minimal de soumission.
-  const rendu = Number(formData.get("renderedAt") ?? 0);
-  if (!rendu || Date.now() - rendu < DELAI_MIN_MS) {
-    return { status: "success" };
-  }
+  // Honeypot : champ caché "site" qu'un humain laisse vide. Faux succès pour ne
+  // pas renseigner le bot sur ce qui l'a bloqué.
+  if (texte(formData, "site")) return { status: "success" };
+  if (soumissionTropRapide(formData)) return { status: "success" };
 
-  const parsed = ContactSchema.safeParse({
-    nom: (formData.get("nom") as string)?.trim(),
-    email: (formData.get("email") as string)?.trim(),
-    sujet: (formData.get("sujet") as string)?.trim(),
-    message: (formData.get("message") as string)?.trim(),
-  });
+  const valeurs = {
+    nom: texte(formData, "nom"),
+    email: texte(formData, "email"),
+    sujet: texte(formData, "sujet"),
+    message: texte(formData, "message"),
+  };
+
+  const parsed = ContactSchema.safeParse(valeurs);
 
   if (!parsed.success) {
     const fieldErrors: Record<string, string> = {};
@@ -32,7 +48,7 @@ export async function soumettreContact(
       const champ = issue.path[0];
       if (typeof champ === "string" && !fieldErrors[champ]) fieldErrors[champ] = issue.message;
     }
-    return { status: "error", error: "Vérifiez les champs signalés.", fieldErrors };
+    return { status: "error", error: "Vérifiez les champs signalés.", fieldErrors, valeurs };
   }
 
   const d = parsed.data;
@@ -44,11 +60,22 @@ export async function soumettreContact(
     replyTo: d.email,
   });
   if (!notif.ok) {
-    return { status: "error", error: "L'envoi a échoué, réessayez ou appelez-nous." };
+    // Sans trace, une panne Brevo fait disparaître les demandes en silence.
+    console.error("[contact FC] notification interne non envoyée :", notif.error);
+    return {
+      status: "error",
+      error: "L'envoi a échoué, réessayez ou appelez-nous.",
+      valeurs,
+    };
   }
   // Accusé de réception (non bloquant : le message interne est déjà parti).
   const ar = emailContactAccuseReception(d);
-  await sendTransactionalEmail({ to: d.email, subject: ar.subject, htmlContent: ar.html });
+  const accuse = await sendTransactionalEmail({
+    to: d.email,
+    subject: ar.subject,
+    htmlContent: ar.html,
+  });
+  if (!accuse.ok) console.error("[contact FC] accusé de réception non envoyé :", accuse.error);
 
   return { status: "success" };
 }
