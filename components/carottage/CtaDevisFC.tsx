@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { ArrowRightIcon } from "lucide-react";
 
-import { Reveal } from "@/components/marketing/Reveal";
 import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 
 type Props = { titre?: string; sousTitre?: string };
@@ -9,6 +8,11 @@ type Props = { titre?: string; sousTitre?: string };
 /**
  * CTA devis FC — bandeau noir à filet rouge (la bande réseau qui le précède
  * sur la home est rouge : le noir garde le rythme noir/blanc/rouge).
+ *
+ * Composant partagé par ~256 pages (home, 191 villes, 58 départements, 7
+ * expertises) : reste volontairement sans animation au scroll pour ne pas
+ * embarquer framer-motion partout. L'appelant qui veut l'animer (la home)
+ * l'enveloppe lui-même dans <Reveal>.
  */
 export function CtaDevisFC({
   titre = "Un chantier à repérer ?",
@@ -17,13 +21,13 @@ export function CtaDevisFC({
   return (
     <section className="border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-charbon)]">
       <div className="mx-auto flex max-w-[var(--container,1280px)] flex-col items-start gap-6 px-6 py-12 md:flex-row md:items-center md:justify-between md:px-8">
-        <Reveal>
+        <div>
           <h2 className="font-[family-name:var(--font-sora)] text-[26px] font-extrabold leading-tight text-white sm:text-[32px]">
             {titre}
           </h2>
           <p className="mt-2 text-[15px] text-white/70">{sousTitre}</p>
-        </Reveal>
-        <Reveal className="flex flex-wrap gap-3" delay={0.1}>
+        </div>
+        <div className="flex flex-wrap gap-3">
           <Link
             href="/devis"
             className="inline-flex items-center gap-2 rounded-[4px] bg-[color:var(--fc-rouge)] px-7 py-4 font-[family-name:var(--font-sora)] text-[14px] font-bold uppercase tracking-wide text-white transition-colors hover:bg-[color:var(--fc-rouge-fonce)]"
@@ -37,7 +41,7 @@ export function CtaDevisFC({
           >
             {francecarottageConfig.contact.telephone}
           </a>
-        </Reveal>
+        </div>
       </div>
     </section>
   );

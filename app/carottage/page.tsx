@@ -9,6 +9,7 @@ import { PedagogieFC } from "@/components/carottage/home/PedagogieFC";
 import { ProcessFC } from "@/components/carottage/home/ProcessFC";
 import { ReferencesFC } from "@/components/carottage/home/ReferencesFC";
 import { ReseauNationalFC } from "@/components/carottage/home/ReseauNationalFC";
+import { Reveal } from "@/components/marketing/Reveal";
 
 export const metadata: Metadata = {
   title: "France Carottage — Carottage routier & repérage amiante/HAP sur enrobés",
@@ -28,7 +29,11 @@ export default function CarottageHomePage() {
       <ProcessFC />
       <ExpertisesTeaserFC />
       <ReseauNationalFC />
-      <CtaDevisFC />
+      {/* CtaDevisFC reste sans animation intégrée (composant partagé par ~256
+          pages) : l'animation reste locale à la home, qui l'enveloppe ici. */}
+      <Reveal>
+        <CtaDevisFC />
+      </Reveal>
     </>
   );
 }

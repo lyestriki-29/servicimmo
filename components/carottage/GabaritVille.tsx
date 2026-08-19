@@ -78,7 +78,7 @@ export async function GabaritVille({ ville }: { ville: VilleFC }) {
               Département {departement.code}
             </span>
             <span className="mt-1 block font-[family-name:var(--font-sora)] text-[17px] font-bold text-[color:var(--fc-noir)]">
-              Voir toute notre couverture du {departement.nom}
+              Voir toute notre couverture — {departement.nom}
             </span>
           </span>
           <ArrowRightIcon
