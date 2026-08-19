@@ -14,7 +14,6 @@ export function CarteAtlas(props: {
   zones: ZoneAtlas[];
   slugActif: string | null;
   onSurvol: (slug: string | null) => void;
-  onChoix: (slug: string) => void;
 }) {
   return <CarteAtlasInterne {...props} />;
 }
