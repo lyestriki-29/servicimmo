@@ -21,22 +21,18 @@ export const francecarottageConfig = {
   },
   zoneIntervention: "France entière",
   certifications: ["Repérage amiante avant travaux", "HAP / enrobés routiers"],
-  /** Contacts régionaux du réseau, repris du site actuel — à confirmer avec Etienne avant prod. */
+  /**
+   * Contacts régionaux du réseau. Les 2 antennes "Auvergne-Rhône-Alpes" et "Pays de
+   * la Loire" (numéros tiers repris du site actuel, jamais validés par Etienne) ont
+   * été retirées le 2026-08-19 : le questionnaire de cadrage confirme qu'à ce jour
+   * France Carottage n'opère qu'en Centre-Val de Loire, depuis Tours — ces numéros
+   * risquaient de rediriger un visiteur vers un contact obsolète ou non affilié.
+   */
   antennes: [
     {
-      zone: "Siège — Centre · Île-de-France · Nord & Ouest",
+      zone: "Siège — Tours",
       telephone: "02 47 47 01 23",
       telephoneHref: "tel:+33247470123",
-    },
-    {
-      zone: "Auvergne-Rhône-Alpes",
-      telephone: "04 76 61 96 67",
-      telephoneHref: "tel:+33476619667",
-    },
-    {
-      zone: "Pays de la Loire",
-      telephone: "02 51 94 10 10",
-      telephoneHref: "tel:+33251941010",
     },
   ],
 } as const;
