@@ -1,8 +1,9 @@
 import Link from "next/link";
 
 import { ArianeFC } from "@/components/carottage/ArianeFC";
+import { ChevauchementFC } from "@/components/carottage/ChevauchementFC";
 import { CtaDevisFC } from "@/components/carottage/CtaDevisFC";
-import { SurtitreFC } from "@/components/carottage/SurtitreFC";
+import { HeroInterieurFC } from "@/components/carottage/HeroInterieurFC";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { carottageUrl } from "@/lib/clients/francecarottage/urls";
 import { loadVillesFC } from "@/lib/content/load-carottage";
@@ -16,14 +17,24 @@ export async function GabaritDepartement({ departement }: { departement: Departe
 
   return (
     <>
-      <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
-        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
-          <SurtitreFC>Département {departement.code}</SurtitreFC>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(32px,3.5vw,42px)] font-extrabold leading-[1.06] tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
-            Carottage & repérage amiante/HAP dans le {departement.nom}
-          </h1>
+      <HeroInterieurFC
+        surtitre={departement.code === "00" ? "Zone d'intervention" : `Département ${departement.code}`}
+        titre={<>Carottage &amp; repérage amiante/HAP dans le {departement.nom}</>}
+      />
+      <ChevauchementFC>
+        <div className="grid gap-3 sm:grid-cols-2">
+          <div className="border-t-2 border-[color:var(--fc-gris-clair)] p-4">
+            <span className="font-[family-name:var(--font-sora)] text-[13.5px] font-bold text-[color:var(--fc-noir)]">
+              {villes.length > 0 ? `${villes.length} villes couvertes` : "Zone en couverture"}
+            </span>
+          </div>
+          <div className="border-t-2 border-[color:var(--fc-gris-clair)] p-4">
+            <span className="font-[family-name:var(--font-sora)] text-[13.5px] font-bold text-[color:var(--fc-noir)]">
+              Labo accrédité · devis sous 24 h
+            </span>
+          </div>
         </div>
-      </section>
+      </ChevauchementFC>
       <ArianeFC
         segments={[
           { label: "Zones d'intervention", href: "/zones" },

@@ -3,8 +3,9 @@ import Link from "next/link";
 import { ArrowRightIcon, Building2Icon, RouteIcon, WavesIcon } from "lucide-react";
 
 import { ArianeFC } from "@/components/carottage/ArianeFC";
+import { ChevauchementFC } from "@/components/carottage/ChevauchementFC";
 import { CtaDevisFC } from "@/components/carottage/CtaDevisFC";
-import { SurtitreFC } from "@/components/carottage/SurtitreFC";
+import { HeroInterieurFC } from "@/components/carottage/HeroInterieurFC";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { ordreSections, variantePour, villesVoisines, type SectionKey } from "@/lib/carottage/ville-gabarit";
 import { carottageUrl } from "@/lib/clients/francecarottage/urls";
@@ -91,14 +92,30 @@ export async function GabaritVille({ ville }: { ville: VilleFC }) {
 
   return (
     <>
-      <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
-        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
-          <SurtitreFC>{ville.codePostal}</SurtitreFC>
-          <h1 className="mt-4 font-[family-name:var(--font-sora)] text-[clamp(32px,3.5vw,42px)] font-extrabold leading-[1.06] tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
-            Carottage & repérage amiante/HAP à {ville.ville}
-          </h1>
+      <HeroInterieurFC
+        surtitre={ville.codePostal}
+        titre={<>Carottage &amp; repérage amiante/HAP à {ville.ville}</>}
+      />
+      <ChevauchementFC>
+        <div className="grid gap-3 sm:grid-cols-2">
+          {departement && (
+            <Link
+              href={`/zones/${departement.slug}`}
+              className="flex items-center justify-between gap-3 border-t-2 border-[color:var(--fc-gris-clair)] p-4 transition-colors hover:border-[color:var(--fc-rouge)]"
+            >
+              <span className="font-[family-name:var(--font-sora)] text-[13.5px] font-bold text-[color:var(--fc-noir)]">
+                Département {departement.code} · {departement.nom}
+              </span>
+              <ArrowRightIcon className="h-4 w-4 shrink-0 text-[color:var(--fc-rouge)]" aria-hidden />
+            </Link>
+          )}
+          <div className="border-t-2 border-[color:var(--fc-gris-clair)] p-4">
+            <span className="font-[family-name:var(--font-sora)] text-[13.5px] font-bold text-[color:var(--fc-noir)]">
+              Labo accrédité · devis sous 24 h
+            </span>
+          </div>
         </div>
-      </section>
+      </ChevauchementFC>
       <ArianeFC
         segments={[
           { label: "Zones d'intervention", href: "/zones" },
