@@ -13,6 +13,7 @@ import {
   type LucideIcon,
 } from "lucide-react";
 
+import { ArianeFC } from "@/components/carottage/ArianeFC";
 import { ReferencesFC } from "@/components/carottage/home/ReferencesFC";
 import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 import type { ExpertiseFC } from "@/lib/content/schemas-carottage";
@@ -33,9 +34,14 @@ const ICONES: Record<string, LucideIcon> = {
  * rondes, bandeau références, section 50/50 texte + image chantier.
  */
 export function GabaritExpertises({ expertises }: { expertises: ExpertiseFC[] }) {
-  // Une dernière carte orpheline (7 fiches sur 3 colonnes) est recentrée plutôt
-  // que laissée seule à gauche.
-  const orphelineCentree = expertises.length % 3 === 1;
+  // Grille 2 colonnes dès `sm`, 3 colonnes dès `lg` : une dernière carte seule
+  // dans sa rangée n'existe qu'à `n % 2 === 1` sur l'une et `n % 3 === 1` sur
+  // l'autre — les deux tests sont indépendants et doivent rester séparés,
+  // sinon on centre une carte à un palier où elle ne l'est pas (7 fiches : les
+  // deux coïncident par coïncidence, ce que n'importe quel autre total révèle).
+  const total = expertises.length;
+  const orphelineSm = total % 2 === 1;
+  const orphelineLg = total % 3 === 1;
 
   return (
     <div
@@ -53,33 +59,33 @@ export function GabaritExpertises({ expertises }: { expertises: ExpertiseFC[] })
           Repérage amiante et HAP sur enrobés, diagnostics avant travaux ou déconstruction : le
           fond technique derrière chaque intervention, expliqué fiche par fiche.
         </p>
-        <nav aria-label="Fil d'Ariane" className="mt-5">
-          <ol className="flex flex-wrap items-center justify-center gap-2 text-[13px] text-white/60">
-            <li>
-              <Link href="/" className="hover:text-white">
-                Accueil
-              </Link>
-            </li>
-            <li aria-hidden className="text-white/25">/</li>
-            <li aria-current="page" className="font-semibold text-[#e9a4a6]">
-              Expertises
-            </li>
-          </ol>
-        </nav>
       </section>
+      <ArianeFC segments={[{ label: "Expertises", href: "/expertises" }]} ton="clair" centre />
 
       <section className="mx-auto max-w-[var(--container,1280px)] px-6 pb-16 md:px-8">
         <div className="grid gap-x-10 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
           {expertises.map((e, i) => {
             const Icone = ICONES[e.slug] ?? MicroscopeIcon;
-            const derniereOrpheline = orphelineCentree && i === expertises.length - 1;
+            const derniere = i === total - 1;
+            const centrerSm = derniere && orphelineSm;
+            const centrerLg = derniere && orphelineLg;
+            // Chaque palier reçoit ses propres classes de centrage — y compris
+            // un reset explicite quand l'autre palier, lui, n'est pas orphelin —
+            // pour ne jamais laisser un centrage de `sm` fuiter jusqu'à `lg`.
+            const centrage = [
+              centrerSm
+                ? "sm:col-span-2 sm:mx-auto sm:max-w-md sm:text-center"
+                : "sm:col-span-1",
+              centrerLg
+                ? "lg:col-span-1 lg:col-start-2 lg:mx-auto lg:max-w-md lg:text-center"
+                : "lg:col-span-1 lg:col-start-auto lg:mx-0 lg:max-w-none lg:text-left",
+            ].join(" ");
             return (
-              <article
-                key={e.slug}
-                className={`group ${derniereOrpheline ? "sm:col-span-2 sm:mx-auto sm:max-w-md sm:text-center lg:col-span-1 lg:col-start-2" : ""}`}
-              >
+              <article key={e.slug} className={`group ${centrage}`}>
                 <div
-                  className={`grid h-16 w-16 place-items-center rounded-full bg-[color:var(--fc-rouge)] shadow-[0_10px_26px_rgba(179,32,36,0.35)] transition-transform duration-300 group-hover:scale-105 ${derniereOrpheline ? "sm:mx-auto" : ""}`}
+                  className={`grid h-16 w-16 place-items-center rounded-full bg-[color:var(--fc-rouge)] shadow-[0_10px_26px_rgba(179,32,36,0.35)] transition-transform duration-300 group-hover:scale-105 ${
+                    centrerSm || centrerLg ? "sm:mx-auto" : ""
+                  }`}
                 >
                   <Icone className="h-7 w-7 text-white" aria-hidden />
                 </div>
@@ -87,7 +93,9 @@ export function GabaritExpertises({ expertises }: { expertises: ExpertiseFC[] })
                   {e.titre}
                 </h2>
                 <p
-                  className={`mt-2.5 max-w-[46ch] text-[13.5px] leading-relaxed text-white/55 ${derniereOrpheline ? "sm:mx-auto" : ""}`}
+                  className={`mt-2.5 max-w-[46ch] text-[13.5px] leading-relaxed text-white/55 ${
+                    centrerSm || centrerLg ? "sm:mx-auto" : ""
+                  }`}
                 >
                   {e.metaDescription}
                 </p>
@@ -156,6 +164,7 @@ export function GabaritExpertises({ expertises }: { expertises: ExpertiseFC[] })
               alt="Carottage d'enrobés sur un chantier de voirie"
               width={960}
               height={640}
+              sizes="(min-width: 1024px) 50vw, 100vw"
               className="h-full w-full object-cover"
             />
             <div

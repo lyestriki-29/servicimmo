@@ -4,7 +4,9 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import { LayoutGridIcon, MapPinIcon, SearchIcon } from "lucide-react";
 
+import { ArianeFC } from "@/components/carottage/ArianeFC";
 import { CarteAtlas } from "@/components/carottage/CarteAtlas";
+import { francecarottageConfig } from "@/lib/clients/francecarottage/config";
 
 /** Zone allégée et sérialisable vers le client (le `html` des fiches reste au serveur). */
 export type ZoneAtlas = {
@@ -52,16 +54,17 @@ export function AtlasZones({ zones }: { zones: ZoneAtlas[] }) {
   const [vueMobile, setVueMobile] = useState<"liste" | "carte">("liste");
   const [slugActif, setSlugActif] = useState<string | null>(null);
 
-  const visibles = useMemo(() => {
+  // plaçables dérive de visibles : les deux dans le même memo pour que le survol
+  // d'une ligne (qui ne change ni la recherche ni le filtre) ne recalcule rien.
+  const { visibles, plaçables } = useMemo(() => {
     const q = normaliser(recherche.trim());
-    return zones.filter((z) => {
+    const v = zones.filter((z) => {
       if (filtre !== "tout" && z.type !== filtre) return false;
       if (!q) return true;
       return normaliser(z.nom).includes(q) || z.code.includes(q);
     });
+    return { visibles: v, plaçables: v.filter((z) => z.lat !== 0 || z.lng !== 0) };
   }, [zones, recherche, filtre]);
-
-  const plaçables = visibles.filter((z) => z.lat !== 0 || z.lng !== 0);
 
   return (
     // Hauteur FIXE (et non min-h) : sans plafond, la liste des 58 zones impose sa
@@ -83,19 +86,9 @@ export function AtlasZones({ zones }: { zones: ZoneAtlas[] }) {
           {zones.length} zones couvertes en carottage d’enrobés et repérage amiante/HAP.
           Parcourez la liste ou la carte pour trouver la vôtre.
         </p>
-        <nav aria-label="Fil d'Ariane" className="mt-3">
-          <ol className="flex flex-wrap items-center justify-center gap-2 text-[13px] text-white/55">
-            <li>
-              <Link href="/" className="hover:text-white">
-                Accueil
-              </Link>
-            </li>
-            <li aria-hidden className="text-white/25">/</li>
-            <li aria-current="page" className="font-semibold text-[#e9a4a6]">
-              Zones d’intervention
-            </li>
-          </ol>
-        </nav>
+        <div className="mt-3">
+          <ArianeFC segments={[{ label: "Zones d'intervention", href: "/zones" }]} ton="clair" centre />
+        </div>
       </section>
 
       {/* Barre d'outils — bascule, filtre, recherche */}
@@ -198,18 +191,37 @@ export function AtlasZones({ zones }: { zones: ZoneAtlas[] }) {
                   </Link>
                 </li>
               ))}
+              {/* Toutes les autres pages FC ferment sur un CTA devis ; l'atlas
+                  est une vue plein écran sans bas de page — celui-ci vit donc
+                  en dernière ligne de la liste plutôt que d'être perdu. */}
+              <li>
+                <div className="flex flex-col gap-3 border-t-[3px] border-[color:var(--fc-rouge)] bg-[color:var(--fc-noir)] px-7 py-8 sm:flex-row sm:items-center sm:justify-between">
+                  <p className="font-[family-name:var(--font-sora)] text-[15px] font-bold text-white">
+                    Votre zone n’apparaît pas ou un doute sur la couverture ?
+                  </p>
+                  <div className="flex flex-wrap gap-3">
+                    <Link
+                      href="/devis"
+                      className="inline-flex items-center rounded-[4px] bg-[color:var(--fc-rouge)] px-5 py-2.5 font-[family-name:var(--font-sora)] text-[13px] font-bold uppercase tracking-wide text-white transition-colors hover:bg-[color:var(--fc-rouge-fonce)]"
+                    >
+                      Demander un devis
+                    </Link>
+                    <a
+                      href={francecarottageConfig.contact.telephoneHref}
+                      className="inline-flex items-center rounded-[4px] border border-white/30 px-5 py-2.5 font-[family-name:var(--font-sora)] text-[13px] font-bold text-white transition-colors hover:border-white/60"
+                    >
+                      {francecarottageConfig.contact.telephone}
+                    </a>
+                  </div>
+                </div>
+              </li>
             </ul>
           )}
         </div>
 
         {/* h-full explicite : Leaflet a besoin d'une hauteur résolue dès l'init. */}
         <div className={`h-full min-h-0 ${vueMobile === "carte" ? "" : "hidden lg:block"}`}>
-          <CarteAtlas
-            zones={plaçables}
-            slugActif={slugActif}
-            onSurvol={setSlugActif}
-            onChoix={setSlugActif}
-          />
+          <CarteAtlas zones={plaçables} slugActif={slugActif} onSurvol={setSlugActif} />
         </div>
       </div>
     </div>

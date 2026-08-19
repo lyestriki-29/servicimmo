@@ -1,6 +1,6 @@
-import Link from "next/link";
-import { MailIcon, MapPinIcon, PhoneIcon } from "lucide-react";
+import { ClockIcon, MailIcon, MapPinIcon, PhoneIcon } from "lucide-react";
 
+import { ArianeFC } from "@/components/carottage/ArianeFC";
 import { ContactFormFC } from "@/components/carottage/ContactFormFC";
 import { GoogleMapEmbed } from "@/components/marketing/pages/GoogleMapEmbed";
 import { francecarottageConfig as c } from "@/lib/clients/francecarottage/config";
@@ -19,10 +19,22 @@ const INFOS = [
     href: c.contact.telephoneHref,
   },
   {
+    icone: ClockIcon,
+    libelle: "Horaires :",
+    valeur: "Du lundi au vendredi",
+    href: undefined,
+  },
+  {
     icone: MailIcon,
     libelle: "Email :",
     valeur: c.contact.email,
     href: `mailto:${c.contact.email}`,
+  },
+  {
+    icone: ClockIcon,
+    libelle: "Intervention :",
+    valeur: "Sous 24-48 h",
+    href: undefined,
   },
 ] as const;
 
@@ -49,22 +61,8 @@ export function GabaritContact() {
           Décrivez votre besoin — repérage amiante/HAP, carottage d’enrobés, voirie ou bâtiment —
           et l’équipe vous répond sous 24 h ouvrées.
         </p>
-        <nav aria-label="Fil d'Ariane" className="mt-5">
-          <ol className="flex flex-wrap items-center justify-center gap-2 text-[12.5px] text-white/50">
-            <li>
-              <Link href="/" className="hover:text-white">
-                Accueil
-              </Link>
-            </li>
-            <li aria-hidden className="text-white/25">
-              /
-            </li>
-            <li aria-current="page" className="font-semibold text-[#e9a4a6]">
-              Contact
-            </li>
-          </ol>
-        </nav>
       </section>
+      <ArianeFC segments={[{ label: "Contact", href: "/contact" }]} ton="clair" centre />
 
       <section className="mx-auto max-w-[var(--container,1280px)] px-6 pb-12 pt-10 md:px-8">
         <div className="rounded-[4px] bg-[color:var(--fc-noir-profond)] px-7 py-10 shadow-[0_28px_60px_rgba(0,0,0,0.5)] ring-1 ring-white/10 md:px-12 md:py-14">
