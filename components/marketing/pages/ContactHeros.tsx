@@ -35,9 +35,8 @@ export function ContactHeroVoileLeger() {
         aria-hidden
         className="absolute inset-0 bg-gradient-to-r from-[color:var(--color-home-ink)]/95 via-[color:var(--color-home-ink)]/60 to-[color:var(--color-home-ink)]/10"
       />
-      {/* Paliers `ecran-court` remplacés par des tailles continues (2026-08-03) :
-          le hero changeait brutalement de gabarit à 800px de hauteur d'écran, si
-          bien que deux ordinateurs voisins n'affichaient pas le même design. */}
+      {/* Tailles continues en `svh` : le gabarit suit la hauteur d'écran sans
+          seuil, deux ordinateurs voisins affichent le même design. */}
       <div className="relative mx-auto max-w-[var(--container,1280px)] px-6 pt-16 pb-16 md:px-8 lg:py-[clamp(48px,9svh,96px)]">
         <div className="max-w-[600px] lg:max-w-[680px]">
           <KickerMono clair>Parlons de votre projet</KickerMono>

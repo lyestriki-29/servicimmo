@@ -46,11 +46,10 @@ export function Hero() {
 
             {/* Taille pilotée par la plus contraignante des deux dimensions :
                 `min(5.4vw, 9svh)`. La largeur seule mentait — ce qui manque sur
-                un portable 1280x641, c'est de la HAUTEUR, et le titre restait à
-                76px jusqu'à ce qu'un palier `ecran-court` le fasse chuter d'un
-                coup à 46px. Ici il décroît en continu : deux machines voisines ne
-                voient plus deux designs différents. Plancher 40px = le mobile,
-                où les deux unités deviennent minuscules.
+                un portable 1280x641, c'est de la HAUTEUR. Le titre décroît en
+                continu : deux machines voisines ne voient plus deux designs
+                différents. Plancher 40px = le mobile, où les deux unités
+                deviennent minuscules.
                 Plus de <br/> forcés : à 76px « obligatoires identifiés » ne tient
                 dans AUCUNE colonne, la coupure tombait en plein milieu du mot
                 surligné. `text-balance` répartit les lignes quelle que soit la

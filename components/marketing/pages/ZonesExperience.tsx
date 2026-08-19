@@ -95,30 +95,31 @@ export function ZonesExperience({ villes }: { villes: ZoneCity[] }) {
           carte) et les enfermer dans une hauteur d'écran les écraserait. */}
       <section className="overflow-hidden bg-[color:var(--color-si-petrole)] text-white lg:flex lg:h-[var(--hero-max-h)] lg:flex-col">
         <div className="grid lg:min-h-0 lg:flex-1 lg:grid-cols-[.78fr_1.22fr]">
-          {/* Les variantes `ecran-court:` compactent le hero sous 800px de haut,
-              où il débordait de la ligne de flottaison. Au-dessus, rien ne change. */}
-          <div className="flex flex-col justify-between px-6 py-12 sm:px-8 lg:min-h-0 lg:px-12 lg:py-14 ecran-court:lg:py-7 xl:px-16">
+          {/* Tailles continues plutôt qu'un palier à 800px de hauteur : la hauteur
+              d'écran commande via `svh`, sans saut de gabarit entre deux machines. */}
+          <div className="flex flex-col justify-between px-6 py-12 sm:px-8 lg:min-h-0 lg:px-12 lg:py-[clamp(28px,4.5svh,56px)] xl:px-16">
             <div>
               <p className="inline-flex items-center gap-2 font-[family-name:var(--font-sora)] text-[12px] font-bold text-[color:var(--color-home-saf)]">
                 <LocateFixedIcon className="h-4 w-4" aria-hidden /> Servicimmo · Tours
               </p>
               {/* Le titre casse en 3 lignes (colonne étroite) : à 82px il pesait
-                  217px à lui seul, le poste le plus lourd du hero. */}
-              <h1 className="mt-6 max-w-[680px] font-[family-name:var(--font-sora)] text-[clamp(44px,6vw,82px)] leading-[.94] font-extrabold tracking-[-0.04em] text-balance ecran-court:mt-3 ecran-court:text-[clamp(38px,4vw,52px)]">
+                  217px à lui seul, le poste le plus lourd du hero. D'où le
+                  `min(vw, svh)` — sur un écran bas, c'est la hauteur qui commande. */}
+              <h1 className="mt-[clamp(12px,2.4svh,24px)] max-w-[680px] font-[family-name:var(--font-sora)] text-[clamp(38px,min(6vw,9svh),82px)] leading-[.94] font-extrabold tracking-[-0.04em] text-balance">
                 Notre terrain, c’est{" "}
                 <span className="text-[color:var(--color-home-saf)]">ici.</span>
               </h1>
-              <p className="mt-7 max-w-[56ch] text-[16px] leading-[1.75] text-white/78 ecran-court:mt-4 ecran-court:text-[15px]">
+              <p className="mt-[clamp(16px,2.8svh,28px)] max-w-[56ch] text-[clamp(15px,1.9svh,16px)] leading-[1.75] text-white/78">
                 Depuis notre agence de Tours, nos techniciens parcourent toute l’Indre-et-Loire pour
                 sécuriser ventes, locations et travaux.
               </p>
               <ZoneSearch villes={villes} />
             </div>
 
-            {/* Masqué sur écran court : c'est le seul bloc dont l'information se
-                retrouve ailleurs (adresse au footer et sur /contact, délai 48h
-                répété en page). Le sacrifier coûte moins que de tasser le reste. */}
-            <div className="mt-12 grid gap-5 border-t border-white/25 pt-6 sm:grid-cols-2 ecran-court:hidden">
+            {/* Ce bloc était masqué d'un coup sous 800px de haut. Il se compresse
+                désormais avec l'écran comme le reste du hero : plus de disparition
+                brutale au franchissement d'un seuil. */}
+            <div className="mt-[clamp(20px,3.6svh,48px)] grid gap-[clamp(12px,2svh,20px)] border-t border-white/25 pt-[clamp(14px,2.4svh,24px)] sm:grid-cols-2">
               <div>
                 <p className="text-[11px] font-semibold text-white/72">POINT DE DÉPART</p>
                 <p className="mt-2 font-[family-name:var(--font-sora)] text-[15px] font-bold">

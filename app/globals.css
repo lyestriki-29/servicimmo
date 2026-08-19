@@ -4,14 +4,6 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* Écrans COURTS — variante sur la hauteur, pas la largeur (2026-07-17).
-   Les heros débordaient de la ligne de flottaison : il fallait scroller pour
-   en voir le bas. Mesuré au navigateur sur /zones : hero réel 801px, alors
-   qu'un écran 1280x673 n'offre que 555px sous le header (118px). Même en
-   1440x900 il débordait encore de 34px — ce n'est donc pas un cas limite.
-   Seuil 800px : au-delà, le design d'origine tient et ne doit PAS bouger. */
-@custom-variant ecran-court (@media (max-height: 800px));
-
 :root {
   --radius: 0.625rem;
 
