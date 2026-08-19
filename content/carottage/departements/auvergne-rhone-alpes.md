@@ -1,6 +1,6 @@
 ---
 slug: auvergne-rhone-alpes
-nom: Repérage amiante et HAP enrobés routiers Auvergne-Rhone-Alpes
+nom: Auvergne-Rhône-Alpes
 code: '00'
 villesPrincipales:
   - Lyon

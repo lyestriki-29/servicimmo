@@ -9,7 +9,8 @@ import { loadDepartementsFC, loadExpertises } from "@/lib/content/load-carottage
 /** Footer FC — fond noir, maillage départements majeurs + expertises, rappel marque sœur. */
 export async function FooterFC() {
   const [departements, expertises] = await Promise.all([loadDepartementsFC(), loadExpertises()]);
-  const deptsMajeurs = departements.slice(0, 8);
+  // code "00" = région/zone locale (pas un vrai département) : exclu du maillage "Départements".
+  const deptsMajeurs = departements.filter((d) => d.code !== "00").slice(0, 8);
   const expertisesTop = expertises.slice(0, 6);
 
   return (

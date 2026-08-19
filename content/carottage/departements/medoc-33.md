@@ -1,6 +1,6 @@
 ---
 slug: medoc-33
-nom: Repérage amiante et HAP enrobés routiers Médoc
+nom: Médoc
 code: '00'
 villesPrincipales:
   - Lesparre-Médoc

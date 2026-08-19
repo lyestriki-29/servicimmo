@@ -1,6 +1,6 @@
 ---
 slug: hauts-de-france
-nom: Repérage amiante et HAP enrobés routiers Hauts-de-France
+nom: Hauts-de-France
 code: '00'
 villesPrincipales:
   - Lille

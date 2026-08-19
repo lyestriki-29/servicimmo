@@ -1,6 +1,6 @@
 ---
 slug: ile-de-france
-nom: Repérage amiante et HAP enrobés routiers Ile-de-France
+nom: Île-de-France
 code: '00'
 villesPrincipales:
   - Versailles

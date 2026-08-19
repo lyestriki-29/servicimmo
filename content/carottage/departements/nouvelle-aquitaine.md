@@ -1,6 +1,6 @@
 ---
 slug: nouvelle-aquitaine
-nom: Repérage amiante et HAP enrobés routiers Nouvelle-Aquitaine
+nom: Nouvelle-Aquitaine
 code: '00'
 villesPrincipales:
   - Bordeaux

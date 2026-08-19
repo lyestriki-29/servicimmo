@@ -1,6 +1,6 @@
 ---
 slug: pays-de-la-loire
-nom: Repérage amiante et HAP enrobés routiers Pays de la Loire
+nom: Pays de la Loire
 code: '00'
 villesPrincipales:
   - Nantes

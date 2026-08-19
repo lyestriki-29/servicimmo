@@ -1,6 +1,6 @@
 ---
 slug: bretagne
-nom: Repérage amiante et HAP enrobés routiers Bretagne
+nom: Bretagne
 code: '00'
 villesPrincipales:
   - Rennes

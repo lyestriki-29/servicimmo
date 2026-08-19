@@ -1,6 +1,6 @@
 ---
 slug: normandie
-nom: Repérage amiante et HAP enrobés routiers Normandie
+nom: Normandie
 code: '00'
 villesPrincipales:
   - Rouen

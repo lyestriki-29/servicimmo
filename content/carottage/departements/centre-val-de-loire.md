@@ -1,6 +1,6 @@
 ---
 slug: centre-val-de-loire
-nom: Repérage amiante et HAP enrobés routiers Centre Val de Loire
+nom: Centre-Val de Loire
 code: '00'
 villesPrincipales:
   - Orléans
