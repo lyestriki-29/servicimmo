@@ -2,6 +2,7 @@
 slug: saint-lo
 nom: Saint-Lô
 code: '00'
+type: secteur
 villesPrincipales:
   - Saint-Lô
   - Granville

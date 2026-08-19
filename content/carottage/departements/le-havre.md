@@ -2,6 +2,7 @@
 slug: le-havre
 nom: Le Havre
 code: '00'
+type: secteur
 villesPrincipales:
   - Montivilliers
   - Harfleur

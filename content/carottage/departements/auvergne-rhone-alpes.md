@@ -2,6 +2,7 @@
 slug: auvergne-rhone-alpes
 nom: Auvergne-Rhône-Alpes
 code: '00'
+type: region
 villesPrincipales:
   - Lyon
   - Clermont-Ferrand

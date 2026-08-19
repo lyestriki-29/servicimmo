@@ -2,6 +2,7 @@
 slug: hauts-de-france
 nom: Hauts-de-France
 code: '00'
+type: region
 villesPrincipales:
   - Lille
   - Amiens

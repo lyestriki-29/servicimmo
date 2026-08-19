@@ -2,6 +2,7 @@
 slug: le-mans
 nom: Le Mans
 code: '00'
+type: secteur
 villesPrincipales:
   - Coulaines
   - Allonnes

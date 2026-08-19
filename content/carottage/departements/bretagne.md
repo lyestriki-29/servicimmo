@@ -2,6 +2,7 @@
 slug: bretagne
 nom: Bretagne
 code: '00'
+type: region
 villesPrincipales:
   - Rennes
   - Brest

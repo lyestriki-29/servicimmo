@@ -11,21 +11,29 @@ import type { DepartementFC } from "@/lib/content/schemas-carottage";
 
 /** Gabarit page département — prose + villes couvertes du département + CTA. */
 export async function GabaritDepartement({ departement }: { departement: DepartementFC }) {
-  const villes = (await loadVillesFC())
-    .filter((v) => v.departement.toLowerCase() === departement.code.toLowerCase())
-    .slice(0, 24);
+  const toutesLesVilles = (await loadVillesFC()).filter(
+    (v) => v.departement.toLowerCase() === departement.code.toLowerCase(),
+  );
+  // Le compteur porte sur la couverture réelle, la liste affichée est plafonnée.
+  const nbVilles = toutesLesVilles.length;
+  const villes = toutesLesVilles.slice(0, 24);
 
   return (
     <>
+      {/* Pas d'article devant le nom : « dans le Gironde », « dans le Île-de-France »
+          — aucun article unique ne convient aux 58 zones (masculin, féminin, pluriel,
+          élision). Le tiret est correct partout. */}
       <HeroInterieurFC
-        surtitre={departement.code === "00" ? "Zone d'intervention" : `Département ${departement.code}`}
-        titre={<>Carottage &amp; repérage amiante/HAP dans le {departement.nom}</>}
+        surtitre={departement.type === "departement" ? `Département ${departement.code}` : "Zone d'intervention"}
+        titre={<>Carottage &amp; repérage amiante/HAP — {departement.nom}</>}
       />
       <ChevauchementFC>
         <div className="grid gap-3 sm:grid-cols-2">
           <div className="border-t-2 border-[color:var(--fc-gris-clair)] p-4">
             <span className="font-[family-name:var(--font-sora)] text-[13.5px] font-bold text-[color:var(--fc-noir)]">
-              {villes.length > 0 ? `${villes.length} villes couvertes` : "Zone en couverture"}
+              {nbVilles > 0
+                ? `${nbVilles} ville${nbVilles > 1 ? "s" : ""} couverte${nbVilles > 1 ? "s" : ""}`
+                : "Zone en couverture"}
             </span>
           </div>
           <div className="border-t-2 border-[color:var(--fc-gris-clair)] p-4">
@@ -48,7 +56,7 @@ export async function GabaritDepartement({ departement }: { departement: Departe
       {villes.length > 0 && (
         <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
           <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--fc-noir)]">
-            Nos villes couvertes dans le {departement.nom}
+            Nos villes couvertes — {departement.nom}
           </h2>
           <ul className="mt-5 grid gap-x-6 gap-y-2 sm:grid-cols-2 lg:grid-cols-3">
             {villes.map((v) => (
@@ -64,12 +72,12 @@ export async function GabaritDepartement({ departement }: { departement: Departe
           </ul>
         </section>
       )}
-      <CtaDevisFC titre={`Un chantier dans le ${departement.nom} ?`} />
+      <CtaDevisFC titre={`${departement.nom} — un chantier à repérer ?`} />
       <JsonLd
         data={{
           "@context": "https://schema.org",
           "@type": "Service",
-          name: `Carottage et repérage amiante/HAP dans le ${departement.nom}`,
+          name: `Carottage et repérage amiante/HAP — ${departement.nom}`,
           description: departement.metaDescription,
           provider: { "@type": "LocalBusiness", name: "France Carottage", telephone: "+33247470123" },
           areaServed: { "@type": "AdministrativeArea", name: departement.nom },

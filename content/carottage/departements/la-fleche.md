@@ -2,6 +2,7 @@
 slug: la-fleche
 nom: La Flèche
 code: '00'
+type: secteur
 villesPrincipales:
   - Sablé-sur-Sarthe
   - Le Lude

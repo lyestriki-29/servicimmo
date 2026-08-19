@@ -2,6 +2,7 @@
 slug: pays-de-la-loire
 nom: Pays de la Loire
 code: '00'
+type: region
 villesPrincipales:
   - Nantes
   - Angers

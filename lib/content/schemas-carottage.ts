@@ -19,11 +19,18 @@ export const VilleCarottageFrontmatterSchema = z
   })
   .superRefine(contraintesContenuModernise);
 
+/**
+ * `code: "00"` marque une entrée sans vrai code INSEE (région ou secteur local
+ * sans code postal exploitable au scraping). `type` distingue les deux : sans
+ * lui, cette distinction ne vivait que dans une liste de slugs recopiée à la
+ * main dans chaque composant qui en avait besoin.
+ */
 export const DepartementFrontmatterSchema = z
   .object({
     slug,
     nom: z.string().min(1),
     code: codeDepartement,
+    type: z.enum(["departement", "region", "secteur"]).default("departement"),
     villesPrincipales: z.array(z.string().min(1)).default([]),
     ...meta,
   })

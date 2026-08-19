@@ -2,6 +2,7 @@
 slug: ile-de-france
 nom: Île-de-France
 code: '00'
+type: region
 villesPrincipales:
   - Versailles
   - Créteil

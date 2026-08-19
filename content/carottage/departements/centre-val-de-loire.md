@@ -2,6 +2,7 @@
 slug: centre-val-de-loire
 nom: Centre-Val de Loire
 code: '00'
+type: region
 villesPrincipales:
   - Orléans
   - Tours

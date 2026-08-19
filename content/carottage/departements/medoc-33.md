@@ -2,6 +2,7 @@
 slug: medoc-33
 nom: Médoc
 code: '00'
+type: secteur
 villesPrincipales:
   - Lesparre-Médoc
   - Pauillac

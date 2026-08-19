@@ -2,6 +2,7 @@
 slug: normandie
 nom: Normandie
 code: '00'
+type: region
 villesPrincipales:
   - Rouen
   - Caen

@@ -2,6 +2,7 @@
 slug: nouvelle-aquitaine
 nom: Nouvelle-Aquitaine
 code: '00'
+type: region
 villesPrincipales:
   - Bordeaux
   - Limoges

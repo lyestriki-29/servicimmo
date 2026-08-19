@@ -2,6 +2,7 @@
 slug: la-rochelle
 nom: La Rochelle
 code: '00'
+type: secteur
 villesPrincipales:
   - Aytré
   - Périgny
