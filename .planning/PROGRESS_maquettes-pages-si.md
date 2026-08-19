@@ -108,7 +108,8 @@
 3. **Sortir « Nos références clients » des actualités** (`content/articles/references-clients.md`) : page
    commerciale, pas de la veille. 3 autres contenus datés 2017-01-01 sont des pages piliers, pas des actus.
 3. Contenu : citation d'article placeholder ; jalons J0-J2 du DPE à confirmer ; libellé « 18 communes » (→ 19 avec Tours).
-4. Nettoyage : `VilleMapSection.tsx` orphelin (jamais tranché) ; `.design-sync/` à gitignorer ; sortie du `/preview/*` avant prod.
+4. Nettoyage : `.design-sync/` à gitignorer ; sortie du `/preview/*` avant prod ;
+   `CarteFrance.tsx` + `CarteFranceInterne.tsx` orphelins depuis l'atlas FC (2026-08-19).
 5. **Pour Etienne** : SIRET complet (14 chiffres — les sites publient le SIREN mal étiqueté), médiateur de la
    consommation, ville du greffe, n° RCP + couverture géo, code APE. Et **valider les durées de conservation**
    que j'ai proposées sans pouvoir les vérifier (3 ans prospect / 10 ans comptable ; le délai des rapports
