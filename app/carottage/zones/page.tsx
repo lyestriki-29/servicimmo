@@ -1,13 +1,8 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { MapPinIcon } from "lucide-react";
 
-import { ArianeFC } from "@/components/carottage/ArianeFC";
-import { CarteFrance, type PointDepartement } from "@/components/carottage/CarteFrance";
-import { CtaDevisFC } from "@/components/carottage/CtaDevisFC";
-import { SurtitreFC } from "@/components/carottage/SurtitreFC";
+import { AtlasZones, type ZoneAtlas } from "@/components/carottage/AtlasZones";
 import { getDepartement } from "@/lib/clients/francecarottage/departements";
-import { loadDepartementsFC } from "@/lib/content/load-carottage";
+import { loadDepartementsFC, loadVillesFC } from "@/lib/content/load-carottage";
 
 export const metadata: Metadata = {
   title: "Zones d'intervention — carottage partout en France",
@@ -16,46 +11,36 @@ export const metadata: Metadata = {
   alternates: { canonical: "/zones" },
 };
 
+/** Slugs des 8 entrées qui sont des régions (le reste des `code: "00"` = secteurs locaux). */
+const SLUGS_REGIONS = new Set([
+  "auvergne-rhone-alpes",
+  "bretagne",
+  "centre-val-de-loire",
+  "hauts-de-france",
+  "ile-de-france",
+  "normandie",
+  "nouvelle-aquitaine",
+  "pays-de-la-loire",
+]);
+
 export default async function ZonesIndexPage() {
-  const departements = await loadDepartementsFC();
-  const points: PointDepartement[] = departements.flatMap((d) => {
+  const [departements, villes] = await Promise.all([loadDepartementsFC(), loadVillesFC()]);
+
+  const zones: ZoneAtlas[] = departements.map((d) => {
+    // Les entrées `code: "00"` (régions, secteurs locaux) n'ont pas de centroïde
+    // en base : lat/lng à 0 les garde dans la liste sans les placer sur la carte.
     const centre = getDepartement(d.code);
-    return centre ? [{ slug: d.slug, nom: d.nom, lat: centre.lat, lng: centre.lng }] : [];
+    return {
+      slug: d.slug,
+      nom: d.nom,
+      code: d.code,
+      description: d.metaDescription,
+      lat: centre?.lat ?? 0,
+      lng: centre?.lng ?? 0,
+      type: d.code !== "00" ? "departement" : SLUGS_REGIONS.has(d.slug) ? "region" : "secteur",
+      villes: villes.filter((v) => v.departement.toLowerCase() === d.code.toLowerCase()).length,
+    };
   });
 
-  return (
-    <>
-      <section className="border-b border-[color:var(--fc-gris-clair)] bg-white">
-        <div className="mx-auto max-w-[var(--container,1280px)] px-6 py-14 md:px-8">
-          <SurtitreFC>Zones d’intervention</SurtitreFC>
-          <h1 className="mt-4 max-w-2xl font-[family-name:var(--font-sora)] text-[clamp(34px,3.7vw,44px)] font-extrabold leading-tight tracking-[-0.02em] text-balance text-[color:var(--fc-noir)]">
-            Un réseau national, au plus près de vos chantiers.
-          </h1>
-        </div>
-      </section>
-      <ArianeFC segments={[{ label: "Zones d'intervention", href: "/zones" }]} />
-      <section className="mx-auto max-w-[var(--container,1280px)] px-6 pb-4 md:px-8">
-        <CarteFrance points={points} />
-      </section>
-      <section className="mx-auto max-w-[var(--container,1280px)] px-6 py-12 md:px-8">
-        <h2 className="font-[family-name:var(--font-sora)] text-[20px] font-bold text-[color:var(--fc-noir)]">
-          Tous nos départements
-        </h2>
-        <ul className="mt-5 grid gap-x-6 gap-y-2 sm:grid-cols-2 lg:grid-cols-3">
-          {departements.map((d) => (
-            <li key={d.slug}>
-              <Link
-                href={`/zones/${d.slug}`}
-                className="inline-flex items-center gap-2 py-1 text-[14.5px] text-[color:var(--fc-gris)] hover:text-[color:var(--fc-rouge)]"
-              >
-                <MapPinIcon className="h-4 w-4 text-[color:var(--fc-rouge)]" aria-hidden />
-                {d.nom} ({d.code})
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </section>
-      <CtaDevisFC />
-    </>
-  );
+  return <AtlasZones zones={zones} />;
 }
